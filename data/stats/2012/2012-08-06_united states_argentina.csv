@@ -1,0 +1,26 @@
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,Result
+0,Chris Paul,25.0,6,7,5,6,0,0,1,4,7,3,0,0,0,17,united states,2012-08-06,argentina,2012080624,Group A,W
+1,Kevin Durant,22.0,9,12,8,10,2,4,1,4,4,3,0,3,3,28,united states,2012-08-06,argentina,2012080624,Group A,W
+2,LeBron James,21.0,7,12,1,3,3,3,3,3,5,1,0,1,4,18,united states,2012-08-06,argentina,2012080624,Group A,W
+3,Kobe Bryant,21.0,3,10,1,4,4,4,0,0,1,0,0,2,2,11,united states,2012-08-06,argentina,2012080624,Group A,W
+4,Andre Iguodala,20.0,6,9,1,3,0,0,5,9,2,1,0,1,1,13,united states,2012-08-06,argentina,2012080624,Group A,W
+5,Russell Westbrook,19.0,1,8,0,3,2,2,0,3,4,0,0,0,3,4,united states,2012-08-06,argentina,2012080624,Group A,W
+6,Kevin Love,15.0,5,7,1,3,2,4,4,9,0,0,0,0,2,13,united states,2012-08-06,argentina,2012080624,Group A,W
+7,Deron Williams,15.0,2,7,1,2,0,0,0,2,5,1,0,1,3,5,united states,2012-08-06,argentina,2012080624,Group A,W
+8,Carmelo Anthony,12.0,1,6,1,3,2,2,2,5,1,0,0,0,2,5,united states,2012-08-06,argentina,2012080624,Group A,W
+9,Tyson Chandler,12.0,1,2,0,0,1,1,3,5,0,2,1,0,4,3,united states,2012-08-06,argentina,2012080624,Group A,W
+10,James Harden,9.0,3,5,1,2,0,0,0,0,0,0,0,0,2,7,united states,2012-08-06,argentina,2012080624,Group A,W
+11,Anthony Davis,8.0,1,3,0,0,0,0,0,2,0,0,1,0,0,2,united states,2012-08-06,argentina,2012080624,Group A,W
+12,Totals,,45,88,20,39,16,20,19,46,29,11,2,8,26,126,united states,2012-08-06,argentina,2012080624,Group A,W
+0,Facu Campazzo,37.0,3,4,2,3,0,0,2,4,7,0,0,2,0,8,argentina,2012-08-06,united states,2012080624,Group A,L
+1,Carlos Delfino,29.0,5,12,2,7,1,4,0,1,1,0,0,0,2,13,argentina,2012-08-06,united states,2012080624,Group A,L
+2,Manu Ginobili,25.0,4,7,1,3,7,7,0,5,6,0,0,5,2,16,argentina,2012-08-06,united states,2012080624,Group A,L
+3,Andres Nocioni,21.0,5,10,2,4,0,0,0,2,2,0,2,3,4,12,argentina,2012-08-06,united states,2012080624,Group A,L
+4,Hernan Jasen,21.0,3,7,0,2,2,4,1,2,2,1,0,2,2,8,argentina,2012-08-06,united states,2012080624,Group A,L
+5,Leo Gutierrez,19.0,3,7,3,7,2,2,0,1,1,0,0,2,2,11,argentina,2012-08-06,united states,2012080624,Group A,L
+6,Luis Scola,18.0,4,8,0,0,3,4,1,3,2,1,0,1,3,11,argentina,2012-08-06,united states,2012080624,Group A,L
+7,Juan Gutierrez,12.0,3,6,0,0,6,7,0,4,0,0,0,0,2,12,argentina,2012-08-06,united states,2012080624,Group A,L
+8,Marcos Mata,8.0,2,2,0,0,0,0,1,2,0,0,0,0,0,4,argentina,2012-08-06,united states,2012080624,Group A,L
+9,Federico Kammerichs,6.0,1,1,0,0,0,0,2,3,0,0,0,1,1,2,argentina,2012-08-06,united states,2012080624,Group A,L
+10,Martin Leiva,4.0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,argentina,2012-08-06,united states,2012080624,Group A,L
+11,Totals,,33,65,10,26,21,28,7,28,22,2,2,16,18,97,argentina,2012-08-06,united states,2012080624,Group A,L

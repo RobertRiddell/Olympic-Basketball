@@ -1,0 +1,26 @@
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,Result
+0,LeBron James,29.0,8,12,0,2,2,2,3,7,7,0,1,2,0,18,united states,2012-08-10,argentina,2012081034,Semi-Finals,W
+1,Kevin Durant,27.0,7,14,5,10,0,0,0,4,0,1,2,1,1,19,united states,2012-08-10,argentina,2012081034,Semi-Finals,W
+2,Chris Paul,26.0,3,4,2,3,2,2,1,4,7,1,0,0,2,10,united states,2012-08-10,argentina,2012081034,Semi-Finals,W
+3,Carmelo Anthony,22.0,7,14,4,8,0,0,1,6,3,0,0,3,3,18,united states,2012-08-10,argentina,2012081034,Semi-Finals,W
+4,Deron Williams,20.0,2,9,2,7,0,0,1,2,6,0,0,0,2,6,united states,2012-08-10,argentina,2012081034,Semi-Finals,W
+5,Kobe Bryant,19.0,5,10,3,6,0,0,1,4,1,2,0,1,3,13,united states,2012-08-10,argentina,2012081034,Semi-Finals,W
+6,Kevin Love,16.0,4,7,0,2,1,2,4,9,0,0,1,0,2,9,united states,2012-08-10,argentina,2012081034,Semi-Finals,W
+7,Tyson Chandler,12.0,2,2,0,0,0,1,2,3,0,0,0,2,3,4,united states,2012-08-10,argentina,2012081034,Semi-Finals,W
+8,Andre Iguodala,11.0,1,2,0,0,0,0,0,0,1,0,0,0,2,2,united states,2012-08-10,argentina,2012081034,Semi-Finals,W
+9,Russell Westbrook,9.0,3,4,1,1,0,0,0,0,0,0,0,1,0,7,united states,2012-08-10,argentina,2012081034,Semi-Finals,W
+10,James Harden,5.0,1,3,1,3,0,0,0,0,0,1,1,0,0,3,united states,2012-08-10,argentina,2012081034,Semi-Finals,W
+11,Anthony Davis,4.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,united states,2012-08-10,argentina,2012081034,Semi-Finals,W
+12,Totals,,43,81,18,42,5,7,13,40,25,5,5,10,18,109,united states,2012-08-10,argentina,2012081034,Semi-Finals,W
+0,Carlos Delfino,33.0,5,12,3,7,2,2,0,5,3,0,0,0,1,15,argentina,2012-08-10,united states,2012081034,Semi-Finals,L
+1,Luis Scola,29.0,7,15,0,0,1,1,1,1,2,0,0,1,3,15,argentina,2012-08-10,united states,2012081034,Semi-Finals,L
+2,Manu Ginobili,28.0,7,15,3,7,1,1,1,2,3,1,1,3,3,18,argentina,2012-08-10,united states,2012081034,Semi-Finals,L
+3,Andres Nocioni,24.0,3,6,1,2,0,0,1,3,1,0,0,1,3,7,argentina,2012-08-10,united states,2012081034,Semi-Finals,L
+4,Pablo Prigioni,20.0,0,0,0,0,0,0,0,1,6,1,0,2,3,0,argentina,2012-08-10,united states,2012081034,Semi-Finals,L
+5,Facu Campazzo,20.0,2,6,1,3,2,3,0,2,4,0,0,0,0,7,argentina,2012-08-10,united states,2012081034,Semi-Finals,L
+6,Leo Gutierrez,12.0,3,5,3,5,0,0,0,0,0,0,0,2,2,9,argentina,2012-08-10,united states,2012081034,Semi-Finals,L
+7,Juan Gutierrez,11.0,1,3,0,0,4,4,0,1,0,0,0,0,2,6,argentina,2012-08-10,united states,2012081034,Semi-Finals,L
+8,Federico Kammerichs,9.0,2,4,0,0,0,0,2,4,0,0,0,0,0,4,argentina,2012-08-10,united states,2012081034,Semi-Finals,L
+9,Hernan Jasen,8.0,1,2,0,1,0,0,1,3,1,0,0,0,0,2,argentina,2012-08-10,united states,2012081034,Semi-Finals,L
+10,Marcos Mata,5.0,0,2,0,1,0,0,0,1,1,0,0,0,0,0,argentina,2012-08-10,united states,2012081034,Semi-Finals,L
+11,Totals,,31,70,11,26,10,11,6,23,21,2,1,9,17,83,argentina,2012-08-10,united states,2012081034,Semi-Finals,L

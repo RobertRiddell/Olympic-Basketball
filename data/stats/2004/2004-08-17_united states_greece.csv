@@ -1,0 +1,25 @@
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,Result
+0,Allen Iverson,30.0,4.0,14.0,3.0,7.0,6.0,9.0,3.0,3,1,1,0,2,0.0,17,united states,2004-08-17,greece,200408179,Group B,W
+1,Lamar Odom,28.0,2.0,6.0,0.0,2.0,3.0,3.0,1.0,8,1,1,3,2,3.0,7,united states,2004-08-17,greece,200408179,Group B,W
+2,Tim Duncan,27.0,6.0,7.0,0.0,0.0,2.0,3.0,3.0,9,1,1,1,2,5.0,14,united states,2004-08-17,greece,200408179,Group B,W
+3,Stephon Marbury,26.0,3.0,7.0,1.0,4.0,1.0,2.0,0.0,1,6,2,0,2,0.0,8,united states,2004-08-17,greece,200408179,Group B,W
+4,Richard Jefferson,21.0,0.0,7.0,0.0,4.0,0.0,0.0,2.0,2,1,0,0,2,1.0,0,united states,2004-08-17,greece,200408179,Group B,W
+5,Carlos Boozer,16.0,2.0,3.0,0.0,0.0,2.0,6.0,2.0,5,0,0,0,2,4.0,6,united states,2004-08-17,greece,200408179,Group B,W
+6,Shawn Marion,15.0,3.0,5.0,0.0,1.0,2.0,3.0,2.0,5,1,2,0,0,2.0,8,united states,2004-08-17,greece,200408179,Group B,W
+7,Dwyane Wade,13.0,2.0,5.0,0.0,0.0,2.0,4.0,0.0,1,3,1,0,4,2.0,6,united states,2004-08-17,greece,200408179,Group B,W
+8,LeBron James,11.0,5.0,6.0,0.0,1.0,0.0,0.0,0.0,1,0,1,0,1,1.0,10,united states,2004-08-17,greece,200408179,Group B,W
+9,Amare Stoudemire,8.0,0.0,3.0,0.0,1.0,1.0,2.0,2.0,4,0,2,0,1,2.0,1,united states,2004-08-17,greece,200408179,Group B,W
+10,Carmelo Anthony,5.0,0.0,4.0,0.0,1.0,0.0,0.0,1.0,3,0,0,0,1,2.0,0,united states,2004-08-17,greece,200408179,Group B,W
+11,Totals,,27.0,67.0,4.0,21.0,19.0,32.0,16.0,42,14,11,4,19,22.0,77,united states,2004-08-17,greece,200408179,Group B,W
+0,Theodoros Papaloukas,38.0,3.0,10.0,0.0,4.0,2.0,2.0,0.0,3,6,3,0,4,2.0,8,greece,2004-08-17,united states,200408179,Group B,L
+1,Antonis Fotsis,35.0,8.0,15.0,3.0,8.0,3.0,4.0,1.0,5,2,1,1,4,5.0,22,greece,2004-08-17,united states,200408179,Group B,L
+2,Lazaros Papadopoulos,32.0,6.0,12.0,0.0,0.0,2.0,2.0,2.0,7,2,0,1,2,3.0,14,greece,2004-08-17,united states,200408179,Group B,L
+3,Nikos Zisis,31.0,1.0,5.0,0.0,2.0,1.0,2.0,1.0,3,2,3,0,3,1.0,3,greece,2004-08-17,united states,200408179,Group B,L
+4,Michalis Kakiouzis,19.0,3.0,4.0,3.0,3.0,0.0,2.0,0.0,4,0,1,0,2,3.0,9,greece,2004-08-17,united states,200408179,Group B,L
+5,Kostas Tsartsaris,15.0,2.0,4.0,0.0,0.0,0.0,1.0,0.0,2,2,2,0,2,4.0,4,greece,2004-08-17,united states,200408179,Group B,L
+6,Dimos Dikoudis,13.0,2.0,5.0,0.0,0.0,1.0,2.0,0.0,1,1,0,0,0,0.0,5,greece,2004-08-17,united states,200408179,Group B,L
+7,Nikos Hatzivrettas,9.0,2.0,2.0,2.0,2.0,0.0,0.0,0.0,1,0,1,0,1,3.0,6,greece,2004-08-17,united states,200408179,Group B,L
+8,Fragiskos Alvertis,6.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,3.0,0,greece,2004-08-17,united states,200408179,Group B,L
+9,Vassilis Spanoulis,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,2,0.0,0,greece,2004-08-17,united states,200408179,Group B,L
+10,Dimitrios Papanikolaou,,,,,,,,,2,0,0,0,0,,0,greece,2004-08-17,united states,200408179,Group B,L
+11,Totals,,,,,,,,,28,15,11,2,21,,71,greece,2004-08-17,united states,200408179,Group B,L

@@ -12,7 +12,7 @@ def olympic_fixtures(year):
     # code from https://towardsdatascience.com/web-scraping-html-tables-with-python-c9baba21059
     doc = lh.fromstring(res.content)
     tr_elements = doc.xpath('//tr')
-
+    
     col=[]
     i=0
 
@@ -20,12 +20,12 @@ def olympic_fixtures(year):
         i+=1
         name=t.text_content()
         col.append((name,[]))
-
+      
     for j in range(1,len(tr_elements)):
         #T is our j'th row
         T=tr_elements[j]
         
-        #If row is not of size 10, the //tr data is not from our table 
+        #If row is not of size 9, the //tr data is not from our table 
         
         if len(T)!=9:
             break
@@ -57,4 +57,4 @@ def olympic_fixtures(year):
 years = ['2000','2004','2008','2012','2016']
 
 for i in(years):
-    olympic_fixtures(i)
+   olympic_fixtures(i)

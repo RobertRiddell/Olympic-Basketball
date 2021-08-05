@@ -1,0 +1,27 @@
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,Result
+0,Kevin Durant,25.0,5,5,2,2,4,6,0,2,5,0,1,1,1,16,united states,2016-08-08,venezuela,201608088,Group A,W
+1,Carmelo Anthony,24.0,5,11,2,4,2,2,1,3,1,1,0,2,1,14,united states,2016-08-08,venezuela,201608088,Group A,W
+2,Kyrie Irving,20.0,3,7,1,3,0,0,0,0,3,0,0,1,1,7,united states,2016-08-08,venezuela,201608088,Group A,W
+3,Jimmy Butler,20.0,4,7,1,2,8,8,0,1,0,1,0,0,2,17,united states,2016-08-08,venezuela,201608088,Group A,W
+4,Paul George,20.0,6,7,3,4,5,6,0,4,1,1,0,0,2,20,united states,2016-08-08,venezuela,201608088,Group A,W
+5,DeAndre Jordan,19.0,6,7,0,0,2,4,3,9,0,0,0,1,2,14,united states,2016-08-08,venezuela,201608088,Group A,W
+6,Kyle Lowry,17.0,1,4,0,2,3,4,2,5,9,0,0,1,3,5,united states,2016-08-08,venezuela,201608088,Group A,W
+7,DeMar DeRozan,16.0,3,5,0,0,2,2,1,3,1,1,0,2,2,8,united states,2016-08-08,venezuela,201608088,Group A,W
+8,Klay Thompson,15.0,0,5,0,4,0,0,0,2,1,0,0,1,2,0,united states,2016-08-08,venezuela,201608088,Group A,W
+9,Draymond Green,9.0,1,2,0,1,0,0,1,4,1,1,0,1,2,2,united states,2016-08-08,venezuela,201608088,Group A,W
+10,DeMarcus Cousins,9.0,2,4,0,0,2,2,4,5,1,1,0,1,5,6,united states,2016-08-08,venezuela,201608088,Group A,W
+11,Harrison Barnes,7.0,0,2,0,0,4,4,0,2,1,0,0,0,0,4,united states,2016-08-08,venezuela,201608088,Group A,W
+12,Totals,,36,66,9,22,32,38,12,40,24,6,1,11,23,113,united states,2016-08-08,venezuela,201608088,Group A,W
+0,John Cox,31.0,6,20,2,5,5,7,1,2,1,1,0,2,2,19,venezuela,2016-08-08,united states,201608088,Group A,L
+1,Gregory Vargas,30.0,4,9,0,2,2,2,0,0,5,4,0,1,3,10,venezuela,2016-08-08,united states,201608088,Group A,L
+2,Greg Echenique,26.0,6,7,0,0,6,8,4,7,2,0,1,3,2,18,venezuela,2016-08-08,united states,201608088,Group A,L
+3,Dwight Lewis,20.0,0,4,0,2,0,0,0,2,2,1,0,0,3,0,venezuela,2016-08-08,united states,201608088,Group A,L
+4,David Cubillan,18.0,3,6,2,3,2,2,0,2,3,1,0,1,4,10,venezuela,2016-08-08,united states,201608088,Group A,L
+5,Miguel Ruiz,18.0,1,2,0,0,0,0,2,2,0,0,0,1,4,2,venezuela,2016-08-08,united states,201608088,Group A,L
+6,Nestor Colmenares,15.0,0,2,0,0,1,2,1,1,1,0,0,1,4,1,venezuela,2016-08-08,united states,201608088,Group A,L
+7,Anthony Perez,12.0,2,6,1,2,0,0,0,3,0,1,1,1,3,5,venezuela,2016-08-08,united states,201608088,Group A,L
+8,Heissler Guillent,11.0,0,3,0,2,4,4,0,0,0,0,0,1,1,4,venezuela,2016-08-08,united states,201608088,Group A,L
+9,Windi Graterol,9.0,0,2,0,1,0,0,1,2,0,0,0,2,0,0,venezuela,2016-08-08,united states,201608088,Group A,L
+10,Jose Vargas,8.0,0,3,0,1,0,0,1,2,1,0,0,1,1,0,venezuela,2016-08-08,united states,201608088,Group A,L
+11,Miguel Marriaga,1.0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,venezuela,2016-08-08,united states,201608088,Group A,L
+12,Totals,,22,64,5,18,20,25,10,24,15,8,2,14,29,69,venezuela,2016-08-08,united states,201608088,Group A,L

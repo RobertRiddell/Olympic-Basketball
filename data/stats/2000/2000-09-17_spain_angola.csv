@@ -1,0 +1,25 @@
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,Result
+0,Alfonso Reyes,32.0,4,10,0,0,4,6,2,15,3,0,0,1,3,12,spain,2000-09-17,angola,200009170,Group B,W
+1,Roberto Duenas,29.0,6,14,0,0,1,4,6,7,1,0,0,1,2,13,spain,2000-09-17,angola,200009170,Group B,W
+2,Ignacio Rodriguez,28.0,2,6,2,5,0,0,0,3,3,1,1,0,4,6,spain,2000-09-17,angola,200009170,Group B,W
+3,Rodrigo De La Fuente,26.0,1,5,1,2,2,2,3,9,0,0,0,5,1,5,spain,2000-09-17,angola,200009170,Group B,W
+4,Alberto Herreros,20.0,2,6,2,5,0,0,1,1,0,0,0,3,1,6,spain,2000-09-17,angola,200009170,Group B,W
+5,Carlos Jimenez,14.0,3,6,0,1,0,0,1,3,0,0,0,1,1,6,spain,2000-09-17,angola,200009170,Group B,W
+6,Alberto Angulo,12.0,0,2,0,1,0,0,0,1,1,0,0,2,0,0,spain,2000-09-17,angola,200009170,Group B,W
+7,Raul Lopez,12.0,0,2,0,2,0,0,0,0,2,0,0,1,0,0,spain,2000-09-17,angola,200009170,Group B,W
+8,Ignacio De Miguel,9.0,1,1,0,0,1,2,1,1,0,1,0,1,4,3,spain,2000-09-17,angola,200009170,Group B,W
+9,Juan Carlos Navarro,8.0,3,3,0,0,1,2,1,1,1,2,1,1,0,7,spain,2000-09-17,angola,200009170,Group B,W
+10,Jorge Garbajosa,6.0,0,3,0,1,2,2,0,2,0,0,0,0,2,2,spain,2000-09-17,angola,200009170,Group B,W
+11,Johnny Rogers,4.0,2,2,0,0,0,0,0,1,0,0,0,1,0,4,spain,2000-09-17,angola,200009170,Group B,W
+12,Totals,,24,60,5,17,11,18,15,44,11,4,2,17,18,64,spain,2000-09-17,angola,200009170,Group B,W
+0,David Dias,36.0,1,8,0,2,4,6,3,7,0,3,0,3,4,6,angola,2000-09-17,spain,200009170,Group B,L
+1,Angelo Victoriano,31.0,4,14,0,4,0,0,2,3,1,0,0,2,4,8,angola,2000-09-17,spain,200009170,Group B,L
+2,Edmar Victoriano,30.0,4,12,0,2,1,5,3,7,1,3,0,3,2,9,angola,2000-09-17,spain,200009170,Group B,L
+3,Miguel Lutonda,29.0,2,7,0,3,0,0,0,5,2,0,0,4,3,4,angola,2000-09-17,spain,200009170,Group B,L
+4,Victor de Carvalho,27.0,1,3,0,2,0,0,1,3,0,1,1,1,2,2,angola,2000-09-17,spain,200009170,Group B,L
+5,Carlos Almeida,15.0,0,2,0,1,0,0,0,0,0,0,0,0,1,0,angola,2000-09-17,spain,200009170,Group B,L
+6,Victor Muzadi,14.0,5,9,0,1,3,6,2,3,0,0,0,0,2,13,angola,2000-09-17,spain,200009170,Group B,L
+7,Garcia Domingos,10.0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,angola,2000-09-17,spain,200009170,Group B,L
+8,Herlander Coimbra,5.0,1,3,1,3,0,0,0,0,0,0,0,1,0,3,angola,2000-09-17,spain,200009170,Group B,L
+9,Anibal Moreira,5.0,0,0,0,0,0,0,1,2,1,0,0,0,1,0,angola,2000-09-17,spain,200009170,Group B,L
+10,Totals,,18,58,1,18,8,17,12,30,5,7,2,16,19,45,angola,2000-09-17,spain,200009170,Group B,L

@@ -1,0 +1,24 @@
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,Result
+0,Andrea Meneghin,31.0,5,11,1,6,0,0,1,2,2,2,0,0,3,11,italy,2000-09-25,china,2000092527,Group A,L
+1,Gregor Fucka,29.0,5,11,0,0,2,2,2,5,2,2,0,3,1,12,italy,2000-09-25,china,2000092527,Group A,L
+2,Carlton Myers,25.0,3,7,2,5,0,0,0,2,2,0,0,2,0,8,italy,2000-09-25,china,2000092527,Group A,L
+3,Denis Marconato,22.0,4,6,0,0,0,0,1,3,0,1,1,1,3,8,italy,2000-09-25,china,2000092527,Group A,L
+4,Alessandro Abbio,21.0,6,8,2,3,1,2,0,1,3,1,0,1,0,15,italy,2000-09-25,china,2000092527,Group A,L
+5,Giacomo Galanda,17.0,6,8,1,1,0,0,2,5,2,0,0,2,3,13,italy,2000-09-25,china,2000092527,Group A,L
+6,Gianluca Basile,16.0,1,1,0,0,0,0,0,0,3,0,0,0,0,2,italy,2000-09-25,china,2000092527,Group A,L
+7,German Scarone,13.0,1,5,1,3,0,0,0,1,2,1,1,0,1,3,italy,2000-09-25,china,2000092527,Group A,L
+8,Marcelo Damiao,11.0,1,2,0,1,0,0,2,2,0,0,0,2,2,2,italy,2000-09-25,china,2000092527,Group A,L
+9,Agostino Li Vecchi,9.0,0,2,0,1,0,0,1,2,1,0,0,0,0,0,italy,2000-09-25,china,2000092527,Group A,L
+10,Michele Mian,6.0,1,1,0,0,0,2,0,1,1,1,0,0,0,2,italy,2000-09-25,china,2000092527,Group A,L
+11,Totals,,33,62,7,20,3,6,9,24,18,8,2,11,13,76,italy,2000-09-25,china,2000092527,Group A,L
+0,Li Nan,32.0,9,12,6,7,1,2,1,3,3,0,0,3,2,25,china,2000-09-25,italy,2000092527,Group A,L
+1,Wang Zhizhi,32.0,6,8,2,2,0,0,0,3,1,0,0,2,0,14,china,2000-09-25,italy,2000092527,Group A,L
+2,Guo Shiqiang,30.0,5,6,2,2,2,2,0,2,7,0,0,2,4,14,china,2000-09-25,italy,2000092527,Group A,L
+3,Yao Ming,30.0,3,6,0,0,0,2,1,6,3,1,0,2,3,6,china,2000-09-25,italy,2000092527,Group A,L
+4,Hu Weidong,20.0,3,5,2,4,0,0,0,2,2,1,1,2,1,8,china,2000-09-25,italy,2000092527,Group A,L
+5,Bateer Mengke,18.0,6,6,0,0,1,1,0,2,1,1,0,3,0,13,china,2000-09-25,italy,2000092527,Group A,L
+6,Zhang Jinsong,13.0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,china,2000-09-25,italy,2000092527,Group A,L
+7,Li Xiaoyong,10.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,china,2000-09-25,italy,2000092527,Group A,L
+8,Sun Jun,8.0,0,3,0,1,0,0,1,1,1,0,0,0,0,0,china,2000-09-25,italy,2000092527,Group A,L
+9,Zheng Wu,7.0,2,4,1,3,0,0,1,1,0,0,0,0,1,5,china,2000-09-25,italy,2000092527,Group A,L
+10,Totals,,34,51,13,19,4,7,4,20,19,4,1,15,12,85,china,2000-09-25,italy,2000092527,Group A,L
