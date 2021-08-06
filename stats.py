@@ -9,7 +9,7 @@ from bs4 import Comment
 import os
 
 def olympic_boxscores(year):
-    dat = pd.read_csv(f'data/fixtures/{year}-olympic-fixtures.csv')
+    dat = pd.read_csv(f'data/olympics/fixtures/{year}-olympic-fixtures.csv')
     dat.rename(columns={list(dat)[4]:'tournament_stage'}, inplace=True)
     game_number = 1
     for i in range(len(dat)):
@@ -68,7 +68,7 @@ def olympic_boxscores(year):
         
         
         complete = pd.concat(both)
-        path = os.path.join('data/stats/',year)
+        path = os.path.join('data/olympics/stats/',year)
         if os.path.isdir(path):
             complete.to_csv(f'{path}/{dt}_{home_team}_{opp}.csv')
         else:
