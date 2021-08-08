@@ -54,18 +54,19 @@ def olympic_boxscores(competition, year):
         
         complete = pd.concat(both)
         complete['game_number'] = f'{year}{i}'
+        print(competition, year)
+        
         path = f'data/{competition}/stats/{year}'
+        
         if os.path.isdir(path):
             complete.to_csv(f'{path}/{dt}_{home_team}_{opp}.csv')
         else:
             os.mkdir(path)
             complete.to_csv(f'{path}/{dt}_{home_team}_{opp}.csv')
 
-#years = ['2000','2004','2008','2012','2016']
-years = ['2010','2014','2019']
-# fiba-world-cup
-# mens-olympics
-for y in years:
-    olympic_boxscores("fiba-world-cup",y)
+dict = {"fiba-world-cup": ['2010','2014','2019'], "mens-olympics": ['2000','2004','2008','2012','2016']}
 
+for key in dict.keys():
+   for item in range(len(dict[key])):
+        olympic_boxscores(key, (dict[key][item]))
 
