@@ -34,7 +34,7 @@ all_data[is.na(all_data)] <- 0
 
 
 game_total <- all_data %>% 
-  group_by(year, id, country, date, tournament_stage) %>% 
+  group_by(year, id, country, date, tournament_stage,game_number, competition) %>% 
   summarise(across(.cols = mp:pts, sum)) %>% 
   ungroup()
 
@@ -63,17 +63,6 @@ for (i in seq(1,length(game_total$id),2)){
     game_total[i+1,"mov"] = game_total$pts[i+1] - game_total$pts[i]
   }
 }
-
-game_total %>% 
-  group_by(tournament_stage, results) %>% 
-  count()
-
-game_total %>% 
-  filter(results == "L") %>% 
-  group_by(country) %>% 
-  summarise(mean_mov = mean(mov),
-            c = n()) %>% 
-  arrange(mean_mov)
 
 game_total <- game_total %>% 
   mutate(fg_p = fg/fga,

@@ -27,19 +27,17 @@ gg_box_year <- function(y){
   geom_line()
 }
 
+gg_point_pts <- function(y){
+  ggplot(game_total, aes(pts, .data[[y]], colour = results)) +
+  geom_point()
+}
+
 gg_box_t_stage <- function(y){
   ggplot(game_total, aes(factor(tournament_stage, levels = c("Group B", "Group A", "Quarter-Finals", 
                                                              "Semi-Finals", "Final Round" )), .data[[y]])) +
   geom_boxplot()
 }
 
-game_total %>% 
-  group_by(year) %>% 
-  summarise(m = mean(pts),
-            sd_1 = sd(ast)) %>% 
-  ggplot(aes(year, m)) + 
-    geom_line() +
-  geom_smooth()
 
 ggplot(game_total, aes(pts, ast, colour = tournament_stage )) +
   geom_point() + 
@@ -59,11 +57,19 @@ for (i in cols){
   print(gg_box_year(i))
 }
 
+for (i in cols){
+  print(gg_point_pts(i))
+}
+
 game_total %>% 
   select(c(mp:tov_p, -results)) %>% 
   correlate() %>% 
   focus(pts) %>% 
   arrange(-pts)
+
+game_total %>% 
+  group_by(game_number) %>% 
+  count()
 
 ```
 
