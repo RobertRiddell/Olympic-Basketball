@@ -1,23 +1,8 @@
----
-title: "Untitled"
-author: "RRiddell"
-date: "06/08/2021"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 library(tidyverse)
 library(lubridate)
 
-library(corrr)
-
-```
-
-```{r}
 comps <- dir("data")
 all_data <- c()
-
 for (c in comps){
   years <- dir(paste0("data/",c,"/stats/"))
   for (i in years){
@@ -28,7 +13,7 @@ for (c in comps){
         data <- data %>% rename(Player = Starter)
       }
       all_data <- rbind(all_data, data)
-  }
+    }
   }
 }
 
@@ -36,21 +21,17 @@ all_data <- all_data %>%
   mutate(Year = year(Date)) 
 
 all_data <- all_data %>% 
-  filter(!Player == "Totals")
+  filter(!Player == "Totals", !Player == "Reserves")
 
 all_data <- janitor::clean_names(all_data)
 
-all_data %>% 
-  group_by(game_number) %>% 
-  count() %>% 
-  pull(game_number) %>% 
-  length()
- 
-```
-
-```{r}
 all_data$country[all_data$country == "great-britain"] <- "great britain"
 all_data$country[all_data$country == "united-states"] <- "united states"
+all_data <- all_data %>% 
+  mutate(across(mp:pts, as.numeric))
+
+all_data[is.na(all_data)] <- 0
+
 
 game_total <- all_data %>% 
   group_by(year, id, country, date, tournament_stage) %>% 
@@ -68,7 +49,7 @@ for (i in seq(1,length(game_total$id),2)){
     game_total[i+1,"results"] = "L"
     game_total[i,"mov"] = game_total$pts[i] - game_total$pts[i+1]
     game_total[i+1,"mov"] = game_total$pts[i] - game_total$pts[i+1]
-    }
+  }
   else if (game_total$pts[i] < game_total$pts[i+1]){
     game_total[i,"results"] = "L"
     game_total[i+1,"results"] = "W"
@@ -103,101 +84,7 @@ game_total <- game_total %>%
          efg_p = (fg +0.5 *x3p)/fga,
          tov_p = 100 * tov/(fga + 0.44 * fta + tov))
 
-```
 
 
-```{r}
-gg_box_year <- function(y){
-  ggplot(game_total, aes(factor(year), .data[[y]])) +
-  geom_boxplot()
-}
-
-gg_box_t_stage <- function(y){
-  ggplot(game_total, aes(factor(tournament_stage, levels = c("Group B", "Group A", "Quarter-Finals", 
-                                                             "Semi-Finals", "Final Round" )), .data[[y]])) +
-  geom_boxplot()
-}
-```
-
-```{r}
-cols <- game_total %>% 
-  select(mp:tov_p) %>% 
-  colnames(.)
-
-for (i in cols){
-  print(gg_box_t_stage(i))
-}
-
-for (i in cols){
-  print(gg_box_year(i))
-}
-
-game_total %>% 
-  na.omit() %>% 
-  select(c(mp:tov_p)) %>% 
-  correlate() %>% 
-  focus(pts) %>% 
-  arrange(-pts)
-
-game_total %>% 
-  group_by(tournament_stage) %>% 
-  count()
-```
-
-
-```{r}
-pts_predict <- game_total %>% 
-  select(mp:tov_p)
-
-fit <- lm(pts ~ ., pts_predict)
-summary(fit)
-std_res <- rstandard(fit)
-points <- 1:length(std_res)
-
-ggplot(NULL, aes(points, std_res)) +
-  geom_point() +
-  ylim(c(-4,4)) +
-  geom_hline(yintercept = c(-3,3) , colour = "red", linetype = "dashed") + 
-  labs(title = "Residual plot",
-       x = "",
-       y = "Residuals",
-       caption = "Figure 3") +
-  theme_bw()
-
-car::durbinWatsonTest(fit)
-res <- residuals(fit)
-variables <- caret::varImp(fit, scale = TRUE) %>% arrange(-Overall) 
-
-```
-
-```{r}
-pts_predict <- game_total %>% 
-  select(mp:tov_p) %>% 
-  mutate(results = if_else(results == "W",1,0))
-
-fit <- lm(results ~ ., pts_predict)
-summary(fit)
-std_res <- rstandard(fit)
-points <- 1:length(std_res)
-
-ggplot(NULL, aes(points, std_res)) +
-  geom_point() +
-  ylim(c(-4,4)) +
-  geom_hline(yintercept = c(-3,3) , colour = "red", linetype = "dashed") + 
-  labs(title = "Residual plot",
-       x = "",
-       y = "Residuals",
-       caption = "Figure 3") +
-  theme_bw()
-
-car::durbinWatsonTest(fit)
-res <- residuals(fit)
-variables <- caret::varImp(fit, scale = TRUE) %>% arrange(-Overall) 
-
-
-```
-
-```{r}
-
-```
-
+write_csv(all_data, "out/all_data.csv")
+write_csv(game_total, "out/game_total.csv")

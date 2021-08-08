@@ -1,0 +1,126 @@
+---
+title: "Untitled"
+author: "RRiddell"
+date: "06/08/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+library(tidyverse)
+library(corrr)
+```
+
+```{r}
+source("funs/data_cleaner.R")
+```
+
+
+```{r}
+all_data <- read_csv("out/all_data.csv")
+game_total <- read_csv("out/game_total.csv")
+```
+
+```{r}
+gg_box_year <- function(y){
+  ggplot(game_total, aes(factor(year), .data[[y]])) +
+  geom_line()
+}
+
+gg_box_t_stage <- function(y){
+  ggplot(game_total, aes(factor(tournament_stage, levels = c("Group B", "Group A", "Quarter-Finals", 
+                                                             "Semi-Finals", "Final Round" )), .data[[y]])) +
+  geom_boxplot()
+}
+
+game_total %>% 
+  group_by(year) %>% 
+  summarise(m = mean(pts),
+            sd_1 = sd(ast)) %>% 
+  ggplot(aes(year, m)) + 
+    geom_line() +
+  geom_smooth()
+
+ggplot(game_total, aes(pts, ast, colour = tournament_stage )) +
+  geom_point() + 
+  geom_jitter()
+```
+
+```{r}
+cols <- game_total %>% 
+  select(mp:tov_p) %>% 
+  colnames(.)
+
+for (i in cols){
+  print(gg_box_t_stage(i))
+}
+
+for (i in cols){
+  print(gg_box_year(i))
+}
+
+game_total %>% 
+  select(c(mp:tov_p, -results)) %>% 
+  correlate() %>% 
+  focus(pts) %>% 
+  arrange(-pts)
+
+```
+
+
+```{r}
+pts_predict <- game_total %>% 
+  select(mp:tov_p)
+
+fit <- lm(pts ~ ., pts_predict)
+summary(fit)
+std_res <- rstandard(fit)
+points <- 1:length(std_res)
+
+ggplot(NULL, aes(points, std_res)) +
+  geom_point() +
+  ylim(c(-4,4)) +
+  geom_hline(yintercept = c(-3,3) , colour = "red", linetype = "dashed") + 
+  labs(title = "Residual plot",
+       x = "",
+       y = "Residuals",
+       caption = "Figure 3") +
+  theme_bw()
+
+car::durbinWatsonTest(fit)
+res <- residuals(fit)
+variables <- caret::varImp(fit, scale = TRUE) %>% arrange(-Overall) 
+
+```
+
+```{r}
+pts_predict <- game_total %>% 
+  select(mp:tov_p) %>% 
+  mutate(results = if_else(results == "W",1,0))
+
+fit <- lm(results ~ ., pts_predict)
+summary(fit)
+std_res <- rstandard(fit)
+points <- 1:length(std_res)
+
+ggplot(NULL, aes(points, std_res)) +
+  geom_point() +
+  ylim(c(-4,4)) +
+  geom_hline(yintercept = c(-3,3) , colour = "red", linetype = "dashed") + 
+  labs(title = "Residual plot",
+       x = "",
+       y = "Residuals",
+       caption = "Figure 3") +
+  theme_bw()
+
+car::durbinWatsonTest(fit)
+res <- residuals(fit)
+variables <- caret::varImp(fit, scale = TRUE) %>% arrange(-Overall) 
+
+
+```
+
+```{r}
+
+```
+
