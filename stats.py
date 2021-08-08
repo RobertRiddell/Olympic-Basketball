@@ -54,7 +54,8 @@ def olympic_boxscores(competition, year):
         
         complete = pd.concat(both)
         complete['game_number'] = f'{year}{i}'
-        print(competition, year)
+        complete['competition'] = competition
+        
         
         path = f'data/{competition}/stats/{year}'
         
