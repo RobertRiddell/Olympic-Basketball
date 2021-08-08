@@ -1,25 +1,25 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Marcus Vinicius,32,4,10,1,5,4,5,0,8,1,0,0,2,2,13,brazil,2014-09-07,argentina,2014090764,Round of 16,201464
-1,Anderson Varejao,32,3,7,0,0,2,3,5,9,4,1,0,1,2,8,brazil,2014-09-07,argentina,2014090764,Round of 16,201464
-2,Leandro Barbosa,26,4,11,0,3,2,2,0,2,0,1,0,2,3,10,brazil,2014-09-07,argentina,2014090764,Round of 16,201464
-3,Tiago Splitter,20,4,5,0,0,2,4,3,8,3,1,0,1,2,10,brazil,2014-09-07,argentina,2014090764,Round of 16,201464
-4,Marcelo Huertas,15,0,4,0,3,0,0,0,1,0,0,0,1,3,0,brazil,2014-09-07,argentina,2014090764,Round of 16,201464
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,brazil,2014-09-07,argentina,2014090764,Round of 16,201464
-6,Raul Neto,24,9,10,1,1,2,2,0,1,2,1,0,0,3,21,brazil,2014-09-07,argentina,2014090764,Round of 16,201464
-7,Nene Hilario,20,3,4,0,0,1,2,0,4,4,1,2,0,3,7,brazil,2014-09-07,argentina,2014090764,Round of 16,201464
-8,Alex Garcia,15,2,3,1,2,0,0,0,1,2,0,0,1,3,5,brazil,2014-09-07,argentina,2014090764,Round of 16,201464
-9,Guilherme Giovannoni,8,2,3,2,3,1,1,0,1,0,0,0,0,1,7,brazil,2014-09-07,argentina,2014090764,Round of 16,201464
-10,Larry Taylor,8,1,3,0,2,2,2,0,1,0,0,0,0,0,4,brazil,2014-09-07,argentina,2014090764,Round of 16,201464
-11,Totals,,32,60,5,19,16,21,8,36,16,5,2,8,22,85,brazil,2014-09-07,argentina,2014090764,Round of 16,201464
-0,Luis Scola,34,2,10,0,0,5,10,1,7,3,0,0,3,4,9,argentina,2014-09-07,brazil,2014090764,Round of 16,201464
-1,Facu Campazzo,29,4,12,2,7,1,2,0,1,1,0,0,0,2,11,argentina,2014-09-07,brazil,2014090764,Round of 16,201464
-2,Pablo Prigioni,28,6,7,3,4,3,4,2,4,3,0,0,3,4,18,argentina,2014-09-07,brazil,2014090764,Round of 16,201464
-3,Andres Nocioni,25,2,8,0,4,0,0,0,4,1,1,0,1,4,4,argentina,2014-09-07,brazil,2014090764,Round of 16,201464
-4,Leo Gutierrez,23,2,7,2,7,0,0,0,3,2,1,0,1,3,6,argentina,2014-09-07,brazil,2014090764,Round of 16,201464
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,argentina,2014-09-07,brazil,2014090764,Round of 16,201464
-6,Walter Herrmann,18,1,3,1,2,2,2,0,1,0,0,0,0,0,5,argentina,2014-09-07,brazil,2014090764,Round of 16,201464
-7,Selem Safar,16,4,6,2,4,0,0,0,0,0,0,0,0,2,10,argentina,2014-09-07,brazil,2014090764,Round of 16,201464
-8,Marcos Mata,14,0,1,0,1,0,0,1,3,0,0,0,1,2,0,argentina,2014-09-07,brazil,2014090764,Round of 16,201464
-9,Nicolas Laprovittola,7,0,1,0,0,0,0,0,1,0,0,0,0,1,0,argentina,2014-09-07,brazil,2014090764,Round of 16,201464
-10,Marcos Delia,6,1,1,0,0,0,0,0,1,0,1,0,0,0,2,argentina,2014-09-07,brazil,2014090764,Round of 16,201464
-11,Totals,,22,56,10,29,11,18,4,25,10,3,0,9,22,65,argentina,2014-09-07,brazil,2014090764,Round of 16,201464
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Marcus Vinicius,32,4,10,1,5,4,5,0,8,1,0,0,2,2,13,brazil,2014-09-07,argentina,2014090764,Round of 16,201464,fiba-world-cup
+1,Anderson Varejao,32,3,7,0,0,2,3,5,9,4,1,0,1,2,8,brazil,2014-09-07,argentina,2014090764,Round of 16,201464,fiba-world-cup
+2,Leandro Barbosa,26,4,11,0,3,2,2,0,2,0,1,0,2,3,10,brazil,2014-09-07,argentina,2014090764,Round of 16,201464,fiba-world-cup
+3,Tiago Splitter,20,4,5,0,0,2,4,3,8,3,1,0,1,2,10,brazil,2014-09-07,argentina,2014090764,Round of 16,201464,fiba-world-cup
+4,Marcelo Huertas,15,0,4,0,3,0,0,0,1,0,0,0,1,3,0,brazil,2014-09-07,argentina,2014090764,Round of 16,201464,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,brazil,2014-09-07,argentina,2014090764,Round of 16,201464,fiba-world-cup
+6,Raul Neto,24,9,10,1,1,2,2,0,1,2,1,0,0,3,21,brazil,2014-09-07,argentina,2014090764,Round of 16,201464,fiba-world-cup
+7,Nene Hilario,20,3,4,0,0,1,2,0,4,4,1,2,0,3,7,brazil,2014-09-07,argentina,2014090764,Round of 16,201464,fiba-world-cup
+8,Alex Garcia,15,2,3,1,2,0,0,0,1,2,0,0,1,3,5,brazil,2014-09-07,argentina,2014090764,Round of 16,201464,fiba-world-cup
+9,Guilherme Giovannoni,8,2,3,2,3,1,1,0,1,0,0,0,0,1,7,brazil,2014-09-07,argentina,2014090764,Round of 16,201464,fiba-world-cup
+10,Larry Taylor,8,1,3,0,2,2,2,0,1,0,0,0,0,0,4,brazil,2014-09-07,argentina,2014090764,Round of 16,201464,fiba-world-cup
+11,Totals,,32,60,5,19,16,21,8,36,16,5,2,8,22,85,brazil,2014-09-07,argentina,2014090764,Round of 16,201464,fiba-world-cup
+0,Luis Scola,34,2,10,0,0,5,10,1,7,3,0,0,3,4,9,argentina,2014-09-07,brazil,2014090764,Round of 16,201464,fiba-world-cup
+1,Facu Campazzo,29,4,12,2,7,1,2,0,1,1,0,0,0,2,11,argentina,2014-09-07,brazil,2014090764,Round of 16,201464,fiba-world-cup
+2,Pablo Prigioni,28,6,7,3,4,3,4,2,4,3,0,0,3,4,18,argentina,2014-09-07,brazil,2014090764,Round of 16,201464,fiba-world-cup
+3,Andres Nocioni,25,2,8,0,4,0,0,0,4,1,1,0,1,4,4,argentina,2014-09-07,brazil,2014090764,Round of 16,201464,fiba-world-cup
+4,Leo Gutierrez,23,2,7,2,7,0,0,0,3,2,1,0,1,3,6,argentina,2014-09-07,brazil,2014090764,Round of 16,201464,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,argentina,2014-09-07,brazil,2014090764,Round of 16,201464,fiba-world-cup
+6,Walter Herrmann,18,1,3,1,2,2,2,0,1,0,0,0,0,0,5,argentina,2014-09-07,brazil,2014090764,Round of 16,201464,fiba-world-cup
+7,Selem Safar,16,4,6,2,4,0,0,0,0,0,0,0,0,2,10,argentina,2014-09-07,brazil,2014090764,Round of 16,201464,fiba-world-cup
+8,Marcos Mata,14,0,1,0,1,0,0,1,3,0,0,0,1,2,0,argentina,2014-09-07,brazil,2014090764,Round of 16,201464,fiba-world-cup
+9,Nicolas Laprovittola,7,0,1,0,0,0,0,0,1,0,0,0,0,1,0,argentina,2014-09-07,brazil,2014090764,Round of 16,201464,fiba-world-cup
+10,Marcos Delia,6,1,1,0,0,0,0,0,1,0,1,0,0,0,2,argentina,2014-09-07,brazil,2014090764,Round of 16,201464,fiba-world-cup
+11,Totals,,22,56,10,29,11,18,4,25,10,3,0,9,22,65,argentina,2014-09-07,brazil,2014090764,Round of 16,201464,fiba-world-cup

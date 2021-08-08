@@ -1,26 +1,26 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Ike Iroegbu,26.0,3,11,0,4,0,0,0,3,6,2,0,0,2,6,nigeria,2019-09-04,korea,2019090435,First Round,201935
-1,Ike Diogu,20.0,6,11,2,5,2,3,1,6,0,0,0,0,1,16,nigeria,2019-09-04,korea,2019090435,First Round,201935
-2,Chimezie Metu,20.0,5,10,3,4,2,2,1,9,2,0,1,1,1,15,nigeria,2019-09-04,korea,2019090435,First Round,201935
-3,Gabe Vincent,19.0,3,8,3,7,0,0,0,2,0,0,0,2,1,9,nigeria,2019-09-04,korea,2019090435,First Round,201935
-4,Stanley Okoye,18.0,3,6,3,4,0,0,0,4,4,2,0,1,2,9,nigeria,2019-09-04,korea,2019090435,First Round,201935
-5,Talib Zanna,18.0,2,5,1,2,2,2,2,6,4,1,1,2,0,7,nigeria,2019-09-04,korea,2019090435,First Round,201935
-6,Michael Eric,18.0,7,8,0,0,3,4,5,9,0,0,0,1,1,17,nigeria,2019-09-04,korea,2019090435,First Round,201935
-7,Al-Farouq Aminu,17.0,4,7,1,2,0,0,0,5,3,1,2,0,0,9,nigeria,2019-09-04,korea,2019090435,First Round,201935
-8,Josh Okogie,15.0,2,5,2,3,0,0,0,3,5,4,1,0,0,6,nigeria,2019-09-04,korea,2019090435,First Round,201935
-9,Ekpe Udoh,15.0,2,4,0,0,0,0,1,3,2,0,1,0,2,4,nigeria,2019-09-04,korea,2019090435,First Round,201935
-10,Ben Uzoh,14.0,5,7,0,0,0,0,0,1,1,0,0,2,2,10,nigeria,2019-09-04,korea,2019090435,First Round,201935
-11,Totals,,42,82,15,31,9,11,10,51,27,10,6,9,12,108,nigeria,2019-09-04,korea,2019090435,First Round,201935
-0,Guna Ra,32.0,8,18,1,4,1,3,3,11,3,0,1,2,1,18,korea,2019-09-04,nigeria,2019090435,First Round,201935
-1,Seounghyun Lee,29.0,5,13,2,6,0,0,0,6,2,0,0,0,4,12,korea,2019-09-04,nigeria,2019090435,First Round,201935
-2,Junghyun Lee,27.0,3,8,3,7,0,0,0,4,4,0,1,3,2,9,korea,2019-09-04,nigeria,2019090435,First Round,201935
-3,Hyogeun Jeong,19.0,2,8,2,5,0,0,0,1,1,0,0,0,0,6,korea,2019-09-04,nigeria,2019090435,First Round,201935
-4,Sunhyung Kim,19.0,1,7,0,2,0,0,2,3,3,2,0,0,0,2,korea,2019-09-04,nigeria,2019090435,First Round,201935
-5,Chan Hee Park,14.0,1,1,0,0,2,6,0,2,4,2,0,2,1,4,korea,2019-09-04,nigeria,2019090435,First Round,201935
-6,Johnkyu Kim,13.0,1,7,0,0,0,0,1,4,0,1,0,3,4,2,korea,2019-09-04,nigeria,2019090435,First Round,201935
-7,Daesung Lee,13.0,2,5,2,4,0,0,0,0,1,0,0,2,1,6,korea,2019-09-04,nigeria,2019090435,First Round,201935
-8,Heejong Yang,12.0,1,3,1,2,0,0,1,3,0,1,0,1,1,3,korea,2019-09-04,nigeria,2019090435,First Round,201935
-9,Sangjae Kang,8.0,1,1,0,0,0,0,0,1,0,0,0,1,0,2,korea,2019-09-04,nigeria,2019090435,First Round,201935
-10,Hoon Heo,7.0,0,2,0,1,2,2,0,0,1,1,0,0,0,2,korea,2019-09-04,nigeria,2019090435,First Round,201935
-11,Junyong Choi,7.0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,korea,2019-09-04,nigeria,2019090435,First Round,201935
-12,Totals,,25,74,11,31,5,11,7,35,20,7,2,15,14,66,korea,2019-09-04,nigeria,2019090435,First Round,201935
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Ike Iroegbu,26.0,3,11,0,4,0,0,0,3,6,2,0,0,2,6,nigeria,2019-09-04,korea,2019090435,First Round,201935,fiba-world-cup
+1,Ike Diogu,20.0,6,11,2,5,2,3,1,6,0,0,0,0,1,16,nigeria,2019-09-04,korea,2019090435,First Round,201935,fiba-world-cup
+2,Chimezie Metu,20.0,5,10,3,4,2,2,1,9,2,0,1,1,1,15,nigeria,2019-09-04,korea,2019090435,First Round,201935,fiba-world-cup
+3,Gabe Vincent,19.0,3,8,3,7,0,0,0,2,0,0,0,2,1,9,nigeria,2019-09-04,korea,2019090435,First Round,201935,fiba-world-cup
+4,Stanley Okoye,18.0,3,6,3,4,0,0,0,4,4,2,0,1,2,9,nigeria,2019-09-04,korea,2019090435,First Round,201935,fiba-world-cup
+5,Talib Zanna,18.0,2,5,1,2,2,2,2,6,4,1,1,2,0,7,nigeria,2019-09-04,korea,2019090435,First Round,201935,fiba-world-cup
+6,Michael Eric,18.0,7,8,0,0,3,4,5,9,0,0,0,1,1,17,nigeria,2019-09-04,korea,2019090435,First Round,201935,fiba-world-cup
+7,Al-Farouq Aminu,17.0,4,7,1,2,0,0,0,5,3,1,2,0,0,9,nigeria,2019-09-04,korea,2019090435,First Round,201935,fiba-world-cup
+8,Josh Okogie,15.0,2,5,2,3,0,0,0,3,5,4,1,0,0,6,nigeria,2019-09-04,korea,2019090435,First Round,201935,fiba-world-cup
+9,Ekpe Udoh,15.0,2,4,0,0,0,0,1,3,2,0,1,0,2,4,nigeria,2019-09-04,korea,2019090435,First Round,201935,fiba-world-cup
+10,Ben Uzoh,14.0,5,7,0,0,0,0,0,1,1,0,0,2,2,10,nigeria,2019-09-04,korea,2019090435,First Round,201935,fiba-world-cup
+11,Totals,,42,82,15,31,9,11,10,51,27,10,6,9,12,108,nigeria,2019-09-04,korea,2019090435,First Round,201935,fiba-world-cup
+0,Guna Ra,32.0,8,18,1,4,1,3,3,11,3,0,1,2,1,18,korea,2019-09-04,nigeria,2019090435,First Round,201935,fiba-world-cup
+1,Seounghyun Lee,29.0,5,13,2,6,0,0,0,6,2,0,0,0,4,12,korea,2019-09-04,nigeria,2019090435,First Round,201935,fiba-world-cup
+2,Junghyun Lee,27.0,3,8,3,7,0,0,0,4,4,0,1,3,2,9,korea,2019-09-04,nigeria,2019090435,First Round,201935,fiba-world-cup
+3,Hyogeun Jeong,19.0,2,8,2,5,0,0,0,1,1,0,0,0,0,6,korea,2019-09-04,nigeria,2019090435,First Round,201935,fiba-world-cup
+4,Sunhyung Kim,19.0,1,7,0,2,0,0,2,3,3,2,0,0,0,2,korea,2019-09-04,nigeria,2019090435,First Round,201935,fiba-world-cup
+5,Chan Hee Park,14.0,1,1,0,0,2,6,0,2,4,2,0,2,1,4,korea,2019-09-04,nigeria,2019090435,First Round,201935,fiba-world-cup
+6,Johnkyu Kim,13.0,1,7,0,0,0,0,1,4,0,1,0,3,4,2,korea,2019-09-04,nigeria,2019090435,First Round,201935,fiba-world-cup
+7,Daesung Lee,13.0,2,5,2,4,0,0,0,0,1,0,0,2,1,6,korea,2019-09-04,nigeria,2019090435,First Round,201935,fiba-world-cup
+8,Heejong Yang,12.0,1,3,1,2,0,0,1,3,0,1,0,1,1,3,korea,2019-09-04,nigeria,2019090435,First Round,201935,fiba-world-cup
+9,Sangjae Kang,8.0,1,1,0,0,0,0,0,1,0,0,0,1,0,2,korea,2019-09-04,nigeria,2019090435,First Round,201935,fiba-world-cup
+10,Hoon Heo,7.0,0,2,0,1,2,2,0,0,1,1,0,0,0,2,korea,2019-09-04,nigeria,2019090435,First Round,201935,fiba-world-cup
+11,Junyong Choi,7.0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,korea,2019-09-04,nigeria,2019090435,First Round,201935,fiba-world-cup
+12,Totals,,25,74,11,31,5,11,7,35,20,7,2,15,14,66,korea,2019-09-04,nigeria,2019090435,First Round,201935,fiba-world-cup

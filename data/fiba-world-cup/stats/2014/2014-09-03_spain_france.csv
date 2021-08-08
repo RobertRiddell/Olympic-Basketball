@@ -1,29 +1,29 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Marc Gasol,28,6,9,1,2,4,4,0,6,2,3,1,1,3,17,spain,2014-09-03,france,2014090342,Group Play,201442
-1,Juan Carlos Navarro,25,4,10,2,5,4,4,0,2,3,0,0,1,1,14,spain,2014-09-03,france,2014090342,Group Play,201442
-2,Rudy Fernandez,25,2,5,2,4,2,2,2,5,2,2,0,0,2,8,spain,2014-09-03,france,2014090342,Group Play,201442
-3,Pau Gasol,24,5,9,0,1,5,8,1,4,2,1,2,2,1,15,spain,2014-09-03,france,2014090342,Group Play,201442
-4,Ricky Rubio,17,2,4,0,1,0,0,0,4,5,3,0,1,1,4,spain,2014-09-03,france,2014090342,Group Play,201442
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,spain,2014-09-03,france,2014090342,Group Play,201442
-6,Serge Ibaka,22,5,7,0,0,0,0,4,8,0,0,2,0,1,10,spain,2014-09-03,france,2014090342,Group Play,201442
-7,Sergio Llull,21,4,6,1,3,1,2,0,1,4,0,0,0,2,10,spain,2014-09-03,france,2014090342,Group Play,201442
-8,Jose Calderon,21,1,8,0,7,0,0,0,2,1,0,0,0,2,2,spain,2014-09-03,france,2014090342,Group Play,201442
-9,Sergio Rodriguez,7,1,2,0,0,0,0,0,1,0,1,0,1,1,2,spain,2014-09-03,france,2014090342,Group Play,201442
-10,Felipe Reyes,4,1,2,0,0,0,0,0,2,0,0,0,0,1,2,spain,2014-09-03,france,2014090342,Group Play,201442
-11,Victor Claver,3,1,1,0,0,0,0,0,0,0,0,0,1,0,2,spain,2014-09-03,france,2014090342,Group Play,201442
-12,Alex Abrines,3,0,0,0,0,2,2,0,0,0,1,0,0,1,2,spain,2014-09-03,france,2014090342,Group Play,201442
-13,Totals,,32,63,6,23,18,22,7,35,19,11,5,7,16,88,spain,2014-09-03,france,2014090342,Group Play,201442
-0,Nicolas Batum,29,5,15,1,5,0,0,1,2,0,1,0,0,0,11,france,2014-09-03,spain,2014090342,Group Play,201442
-1,Mickael Gelabale,24,2,3,0,1,0,0,0,1,0,0,0,1,2,4,france,2014-09-03,spain,2014090342,Group Play,201442
-2,Thomas Heurtel,23,3,8,0,3,0,0,2,6,2,2,0,2,0,6,france,2014-09-03,spain,2014090342,Group Play,201442
-3,Boris Diaw,23,1,6,1,4,0,0,0,2,3,0,0,3,2,3,france,2014-09-03,spain,2014090342,Group Play,201442
-4,Joffrey Lauvergne,19,3,9,0,2,2,3,2,5,1,1,0,0,3,8,france,2014-09-03,spain,2014090342,Group Play,201442
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,france,2014-09-03,spain,2014090342,Group Play,201442
-6,Florent Pietrus,22,1,2,0,1,1,1,3,8,2,0,0,0,4,3,france,2014-09-03,spain,2014090342,Group Play,201442
-7,Antoine Diot,20,4,8,1,4,2,2,1,3,2,0,0,4,2,11,france,2014-09-03,spain,2014090342,Group Play,201442
-8,Evan Fournier,12,4,7,1,3,0,2,0,0,0,0,0,0,2,9,france,2014-09-03,spain,2014090342,Group Play,201442
-9,Rudy Gobert,11,2,3,0,0,0,0,0,2,0,0,0,1,3,4,france,2014-09-03,spain,2014090342,Group Play,201442
-10,Edwin Jackson,10,2,4,1,1,0,0,0,1,0,0,0,1,2,5,france,2014-09-03,spain,2014090342,Group Play,201442
-11,Charles Kahudi,4,0,3,0,1,0,0,1,1,0,0,0,1,1,0,france,2014-09-03,spain,2014090342,Group Play,201442
-12,Kim Tillie,3,0,1,0,0,0,0,1,1,0,0,0,0,1,0,france,2014-09-03,spain,2014090342,Group Play,201442
-13,Totals,,27,69,5,25,5,8,11,32,10,4,0,13,22,64,france,2014-09-03,spain,2014090342,Group Play,201442
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Marc Gasol,28,6,9,1,2,4,4,0,6,2,3,1,1,3,17,spain,2014-09-03,france,2014090342,Group Play,201442,fiba-world-cup
+1,Juan Carlos Navarro,25,4,10,2,5,4,4,0,2,3,0,0,1,1,14,spain,2014-09-03,france,2014090342,Group Play,201442,fiba-world-cup
+2,Rudy Fernandez,25,2,5,2,4,2,2,2,5,2,2,0,0,2,8,spain,2014-09-03,france,2014090342,Group Play,201442,fiba-world-cup
+3,Pau Gasol,24,5,9,0,1,5,8,1,4,2,1,2,2,1,15,spain,2014-09-03,france,2014090342,Group Play,201442,fiba-world-cup
+4,Ricky Rubio,17,2,4,0,1,0,0,0,4,5,3,0,1,1,4,spain,2014-09-03,france,2014090342,Group Play,201442,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,spain,2014-09-03,france,2014090342,Group Play,201442,fiba-world-cup
+6,Serge Ibaka,22,5,7,0,0,0,0,4,8,0,0,2,0,1,10,spain,2014-09-03,france,2014090342,Group Play,201442,fiba-world-cup
+7,Sergio Llull,21,4,6,1,3,1,2,0,1,4,0,0,0,2,10,spain,2014-09-03,france,2014090342,Group Play,201442,fiba-world-cup
+8,Jose Calderon,21,1,8,0,7,0,0,0,2,1,0,0,0,2,2,spain,2014-09-03,france,2014090342,Group Play,201442,fiba-world-cup
+9,Sergio Rodriguez,7,1,2,0,0,0,0,0,1,0,1,0,1,1,2,spain,2014-09-03,france,2014090342,Group Play,201442,fiba-world-cup
+10,Felipe Reyes,4,1,2,0,0,0,0,0,2,0,0,0,0,1,2,spain,2014-09-03,france,2014090342,Group Play,201442,fiba-world-cup
+11,Victor Claver,3,1,1,0,0,0,0,0,0,0,0,0,1,0,2,spain,2014-09-03,france,2014090342,Group Play,201442,fiba-world-cup
+12,Alex Abrines,3,0,0,0,0,2,2,0,0,0,1,0,0,1,2,spain,2014-09-03,france,2014090342,Group Play,201442,fiba-world-cup
+13,Totals,,32,63,6,23,18,22,7,35,19,11,5,7,16,88,spain,2014-09-03,france,2014090342,Group Play,201442,fiba-world-cup
+0,Nicolas Batum,29,5,15,1,5,0,0,1,2,0,1,0,0,0,11,france,2014-09-03,spain,2014090342,Group Play,201442,fiba-world-cup
+1,Mickael Gelabale,24,2,3,0,1,0,0,0,1,0,0,0,1,2,4,france,2014-09-03,spain,2014090342,Group Play,201442,fiba-world-cup
+2,Thomas Heurtel,23,3,8,0,3,0,0,2,6,2,2,0,2,0,6,france,2014-09-03,spain,2014090342,Group Play,201442,fiba-world-cup
+3,Boris Diaw,23,1,6,1,4,0,0,0,2,3,0,0,3,2,3,france,2014-09-03,spain,2014090342,Group Play,201442,fiba-world-cup
+4,Joffrey Lauvergne,19,3,9,0,2,2,3,2,5,1,1,0,0,3,8,france,2014-09-03,spain,2014090342,Group Play,201442,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,france,2014-09-03,spain,2014090342,Group Play,201442,fiba-world-cup
+6,Florent Pietrus,22,1,2,0,1,1,1,3,8,2,0,0,0,4,3,france,2014-09-03,spain,2014090342,Group Play,201442,fiba-world-cup
+7,Antoine Diot,20,4,8,1,4,2,2,1,3,2,0,0,4,2,11,france,2014-09-03,spain,2014090342,Group Play,201442,fiba-world-cup
+8,Evan Fournier,12,4,7,1,3,0,2,0,0,0,0,0,0,2,9,france,2014-09-03,spain,2014090342,Group Play,201442,fiba-world-cup
+9,Rudy Gobert,11,2,3,0,0,0,0,0,2,0,0,0,1,3,4,france,2014-09-03,spain,2014090342,Group Play,201442,fiba-world-cup
+10,Edwin Jackson,10,2,4,1,1,0,0,0,1,0,0,0,1,2,5,france,2014-09-03,spain,2014090342,Group Play,201442,fiba-world-cup
+11,Charles Kahudi,4,0,3,0,1,0,0,1,1,0,0,0,1,1,0,france,2014-09-03,spain,2014090342,Group Play,201442,fiba-world-cup
+12,Kim Tillie,3,0,1,0,0,0,0,1,1,0,0,0,0,1,0,france,2014-09-03,spain,2014090342,Group Play,201442,fiba-world-cup
+13,Totals,,27,69,5,25,5,8,11,32,10,4,0,13,22,64,france,2014-09-03,spain,2014090342,Group Play,201442,fiba-world-cup

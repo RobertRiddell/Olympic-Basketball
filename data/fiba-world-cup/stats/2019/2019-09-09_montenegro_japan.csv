@@ -1,22 +1,22 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Derek Needham,27.0,2,9,1,8,0,0,0,1,8,1,0,1,1,5,montenegro,2019-09-09,japan,2019090976,Classification,201976
-1,Petar Popovic,27.0,3,11,0,4,0,0,0,1,5,2,0,1,1,6,montenegro,2019-09-09,japan,2019090976,Classification,201976
-2,Milko Bjelica,27.0,5,8,0,3,0,0,1,7,1,3,2,2,3,10,montenegro,2019-09-09,japan,2019090976,Classification,201976
-3,Nikola Vucevic,25.0,8,13,2,2,0,0,1,7,0,0,1,2,1,18,montenegro,2019-09-09,japan,2019090976,Classification,201976
-4,Nikola Ivanovic,22.0,5,8,1,2,1,2,0,1,2,1,1,4,4,12,montenegro,2019-09-09,japan,2019090976,Classification,201976
-5,Dino Radoncic,21.0,4,4,0,0,0,2,3,6,1,0,5,1,3,8,montenegro,2019-09-09,japan,2019090976,Classification,201976
-6,Suad Sehovic,19.0,2,5,2,5,0,0,3,4,0,1,0,0,1,6,montenegro,2019-09-09,japan,2019090976,Classification,201976
-7,Bojan Dubljevic,19.0,3,6,2,4,2,2,0,6,2,1,0,3,2,10,montenegro,2019-09-09,japan,2019090976,Classification,201976
-8,Marko Todorovic,9.0,1,2,0,0,3,3,2,2,0,1,1,0,2,5,montenegro,2019-09-09,japan,2019090976,Classification,201976
-9,Sead Sehovic,4.0,0,2,0,1,0,0,0,1,0,0,0,0,0,0,montenegro,2019-09-09,japan,2019090976,Classification,201976
-10,Totals,,33,68,8,29,6,9,10,36,19,10,10,14,18,80,montenegro,2019-09-09,japan,2019090976,Classification,201976
-0,Yuta Watanabe,37.0,11,19,0,3,12,12,2,9,1,2,1,3,1,34,japan,2019-09-09,montenegro,2019090976,Classification,201976
-1,Seiya Ando,33.0,2,4,0,1,2,3,0,2,2,2,0,0,2,6,japan,2019-09-09,montenegro,2019090976,Classification,201976
-2,Nick Fazekas,30.0,3,8,0,2,4,4,2,8,0,1,0,1,1,10,japan,2019-09-09,montenegro,2019090976,Classification,201976
-3,Yudai Baba,28.0,4,10,0,4,3,4,0,2,5,1,0,2,3,11,japan,2019-09-09,montenegro,2019090976,Classification,201976
-4,Joji Takeuchi,23.0,1,4,0,1,0,0,1,3,0,0,0,2,2,2,japan,2019-09-09,montenegro,2019090976,Classification,201976
-5,Makoto Hiejima,21.0,1,8,0,3,0,0,1,2,2,0,0,3,4,2,japan,2019-09-09,montenegro,2019090976,Classification,201976
-6,Daiki Tanaka,20.0,0,4,0,1,0,0,1,1,1,4,0,3,3,0,japan,2019-09-09,montenegro,2019090976,Classification,201976
-7,Kosuke Takeuchi,6.0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,japan,2019-09-09,montenegro,2019090976,Classification,201976
-8,Shuto Ando,2.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,japan,2019-09-09,montenegro,2019090976,Classification,201976
-9,Totals,,22,58,0,16,21,23,7,28,11,10,1,14,17,65,japan,2019-09-09,montenegro,2019090976,Classification,201976
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Derek Needham,27.0,2,9,1,8,0,0,0,1,8,1,0,1,1,5,montenegro,2019-09-09,japan,2019090976,Classification,201976,fiba-world-cup
+1,Petar Popovic,27.0,3,11,0,4,0,0,0,1,5,2,0,1,1,6,montenegro,2019-09-09,japan,2019090976,Classification,201976,fiba-world-cup
+2,Milko Bjelica,27.0,5,8,0,3,0,0,1,7,1,3,2,2,3,10,montenegro,2019-09-09,japan,2019090976,Classification,201976,fiba-world-cup
+3,Nikola Vucevic,25.0,8,13,2,2,0,0,1,7,0,0,1,2,1,18,montenegro,2019-09-09,japan,2019090976,Classification,201976,fiba-world-cup
+4,Nikola Ivanovic,22.0,5,8,1,2,1,2,0,1,2,1,1,4,4,12,montenegro,2019-09-09,japan,2019090976,Classification,201976,fiba-world-cup
+5,Dino Radoncic,21.0,4,4,0,0,0,2,3,6,1,0,5,1,3,8,montenegro,2019-09-09,japan,2019090976,Classification,201976,fiba-world-cup
+6,Suad Sehovic,19.0,2,5,2,5,0,0,3,4,0,1,0,0,1,6,montenegro,2019-09-09,japan,2019090976,Classification,201976,fiba-world-cup
+7,Bojan Dubljevic,19.0,3,6,2,4,2,2,0,6,2,1,0,3,2,10,montenegro,2019-09-09,japan,2019090976,Classification,201976,fiba-world-cup
+8,Marko Todorovic,9.0,1,2,0,0,3,3,2,2,0,1,1,0,2,5,montenegro,2019-09-09,japan,2019090976,Classification,201976,fiba-world-cup
+9,Sead Sehovic,4.0,0,2,0,1,0,0,0,1,0,0,0,0,0,0,montenegro,2019-09-09,japan,2019090976,Classification,201976,fiba-world-cup
+10,Totals,,33,68,8,29,6,9,10,36,19,10,10,14,18,80,montenegro,2019-09-09,japan,2019090976,Classification,201976,fiba-world-cup
+0,Yuta Watanabe,37.0,11,19,0,3,12,12,2,9,1,2,1,3,1,34,japan,2019-09-09,montenegro,2019090976,Classification,201976,fiba-world-cup
+1,Seiya Ando,33.0,2,4,0,1,2,3,0,2,2,2,0,0,2,6,japan,2019-09-09,montenegro,2019090976,Classification,201976,fiba-world-cup
+2,Nick Fazekas,30.0,3,8,0,2,4,4,2,8,0,1,0,1,1,10,japan,2019-09-09,montenegro,2019090976,Classification,201976,fiba-world-cup
+3,Yudai Baba,28.0,4,10,0,4,3,4,0,2,5,1,0,2,3,11,japan,2019-09-09,montenegro,2019090976,Classification,201976,fiba-world-cup
+4,Joji Takeuchi,23.0,1,4,0,1,0,0,1,3,0,0,0,2,2,2,japan,2019-09-09,montenegro,2019090976,Classification,201976,fiba-world-cup
+5,Makoto Hiejima,21.0,1,8,0,3,0,0,1,2,2,0,0,3,4,2,japan,2019-09-09,montenegro,2019090976,Classification,201976,fiba-world-cup
+6,Daiki Tanaka,20.0,0,4,0,1,0,0,1,1,1,4,0,3,3,0,japan,2019-09-09,montenegro,2019090976,Classification,201976,fiba-world-cup
+7,Kosuke Takeuchi,6.0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,japan,2019-09-09,montenegro,2019090976,Classification,201976,fiba-world-cup
+8,Shuto Ando,2.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,japan,2019-09-09,montenegro,2019090976,Classification,201976,fiba-world-cup
+9,Totals,,22,58,0,16,21,23,7,28,11,10,1,14,17,65,japan,2019-09-09,montenegro,2019090976,Classification,201976,fiba-world-cup

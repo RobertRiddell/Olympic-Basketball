@@ -1,21 +1,21 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Zhou Qi,34.0,5,10,1,3,1,2,0,6,1,1,2,0,2,12,china,2019-08-31,ivory-coast,201908313,First Round,20193
-1,Guo Ailun,33.0,8,16,0,2,1,2,2,3,8,2,0,0,3,17,china,2019-08-31,ivory-coast,201908313,First Round,20193
-2,Zhao Jiwei,30.0,0,3,0,1,2,2,0,2,4,2,0,1,0,2,china,2019-08-31,ivory-coast,201908313,First Round,20193
-3,Yi Jianlian,30.0,7,12,0,1,5,8,2,8,1,1,0,4,2,19,china,2019-08-31,ivory-coast,201908313,First Round,20193
-4,Xiaochuan Di,25.0,5,5,0,0,0,0,3,8,0,2,0,1,2,10,china,2019-08-31,ivory-coast,201908313,First Round,20193
-5,Rui Zhao,18.0,1,2,0,1,1,1,0,0,1,1,0,2,2,3,china,2019-08-31,ivory-coast,201908313,First Round,20193
-6,Wang Zhelin,15.0,3,4,0,0,1,4,0,2,0,1,0,0,4,7,china,2019-08-31,ivory-coast,201908313,First Round,20193
-7,Shuo Fang,13.0,0,3,0,2,0,0,0,0,1,0,0,1,1,0,china,2019-08-31,ivory-coast,201908313,First Round,20193
-8,Abudurexiti Abudushalamu,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,china,2019-08-31,ivory-coast,201908313,First Round,20193
-9,Totals,,29,55,1,10,11,19,7,29,16,10,2,9,16,70,china,2019-08-31,ivory-coast,201908313,First Round,20193
-0,Deon Thompson,37.0,3,12,0,3,1,2,5,8,1,2,0,3,4,7,ivory-coast,2019-08-31,china,201908313,First Round,20193
-1,Souleyman Diabate,30.0,3,10,2,4,0,0,1,1,3,0,0,4,2,8,ivory-coast,2019-08-31,china,201908313,First Round,20193
-2,Guy Edi,28.0,3,8,2,4,2,3,1,3,1,1,0,2,1,10,ivory-coast,2019-08-31,china,201908313,First Round,20193
-3,Mohamed Kone,22.0,3,11,0,2,3,4,4,8,0,0,0,0,3,9,ivory-coast,2019-08-31,china,201908313,First Round,20193
-4,Charles Abouo,20.0,1,6,1,4,3,3,0,1,1,0,0,1,3,6,ivory-coast,2019-08-31,china,201908313,First Round,20193
-5,Tiegbe Bamba,19.0,1,2,1,1,0,0,1,1,1,0,0,1,3,3,ivory-coast,2019-08-31,china,201908313,First Round,20193
-6,Vafessa Fofana,18.0,2,6,1,3,3,4,0,3,2,0,0,5,0,8,ivory-coast,2019-08-31,china,201908313,First Round,20193
-7,Bryan Pamba,17.0,0,6,0,2,0,0,2,5,3,0,0,0,0,0,ivory-coast,2019-08-31,china,201908313,First Round,20193
-8,Frejus Zerbo,9.0,2,2,0,0,0,0,0,3,0,1,0,1,4,4,ivory-coast,2019-08-31,china,201908313,First Round,20193
-9,Totals,,18,63,7,23,12,16,14,33,12,4,0,17,20,55,ivory-coast,2019-08-31,china,201908313,First Round,20193
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Zhou Qi,34.0,5,10,1,3,1,2,0,6,1,1,2,0,2,12,china,2019-08-31,ivory-coast,201908313,First Round,20193,fiba-world-cup
+1,Guo Ailun,33.0,8,16,0,2,1,2,2,3,8,2,0,0,3,17,china,2019-08-31,ivory-coast,201908313,First Round,20193,fiba-world-cup
+2,Zhao Jiwei,30.0,0,3,0,1,2,2,0,2,4,2,0,1,0,2,china,2019-08-31,ivory-coast,201908313,First Round,20193,fiba-world-cup
+3,Yi Jianlian,30.0,7,12,0,1,5,8,2,8,1,1,0,4,2,19,china,2019-08-31,ivory-coast,201908313,First Round,20193,fiba-world-cup
+4,Xiaochuan Di,25.0,5,5,0,0,0,0,3,8,0,2,0,1,2,10,china,2019-08-31,ivory-coast,201908313,First Round,20193,fiba-world-cup
+5,Rui Zhao,18.0,1,2,0,1,1,1,0,0,1,1,0,2,2,3,china,2019-08-31,ivory-coast,201908313,First Round,20193,fiba-world-cup
+6,Wang Zhelin,15.0,3,4,0,0,1,4,0,2,0,1,0,0,4,7,china,2019-08-31,ivory-coast,201908313,First Round,20193,fiba-world-cup
+7,Shuo Fang,13.0,0,3,0,2,0,0,0,0,1,0,0,1,1,0,china,2019-08-31,ivory-coast,201908313,First Round,20193,fiba-world-cup
+8,Abudurexiti Abudushalamu,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,china,2019-08-31,ivory-coast,201908313,First Round,20193,fiba-world-cup
+9,Totals,,29,55,1,10,11,19,7,29,16,10,2,9,16,70,china,2019-08-31,ivory-coast,201908313,First Round,20193,fiba-world-cup
+0,Deon Thompson,37.0,3,12,0,3,1,2,5,8,1,2,0,3,4,7,ivory-coast,2019-08-31,china,201908313,First Round,20193,fiba-world-cup
+1,Souleyman Diabate,30.0,3,10,2,4,0,0,1,1,3,0,0,4,2,8,ivory-coast,2019-08-31,china,201908313,First Round,20193,fiba-world-cup
+2,Guy Edi,28.0,3,8,2,4,2,3,1,3,1,1,0,2,1,10,ivory-coast,2019-08-31,china,201908313,First Round,20193,fiba-world-cup
+3,Mohamed Kone,22.0,3,11,0,2,3,4,4,8,0,0,0,0,3,9,ivory-coast,2019-08-31,china,201908313,First Round,20193,fiba-world-cup
+4,Charles Abouo,20.0,1,6,1,4,3,3,0,1,1,0,0,1,3,6,ivory-coast,2019-08-31,china,201908313,First Round,20193,fiba-world-cup
+5,Tiegbe Bamba,19.0,1,2,1,1,0,0,1,1,1,0,0,1,3,3,ivory-coast,2019-08-31,china,201908313,First Round,20193,fiba-world-cup
+6,Vafessa Fofana,18.0,2,6,1,3,3,4,0,3,2,0,0,5,0,8,ivory-coast,2019-08-31,china,201908313,First Round,20193,fiba-world-cup
+7,Bryan Pamba,17.0,0,6,0,2,0,0,2,5,3,0,0,0,0,0,ivory-coast,2019-08-31,china,201908313,First Round,20193,fiba-world-cup
+8,Frejus Zerbo,9.0,2,2,0,0,0,0,0,3,0,1,0,1,4,4,ivory-coast,2019-08-31,china,201908313,First Round,20193,fiba-world-cup
+9,Totals,,18,63,7,23,12,16,14,33,12,4,0,17,20,55,ivory-coast,2019-08-31,china,201908313,First Round,20193,fiba-world-cup

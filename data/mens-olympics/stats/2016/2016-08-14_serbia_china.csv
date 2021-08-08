@@ -1,25 +1,25 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Bogdan Bogdanovic,23.0,7,13,5,9,0,0,0,5,2,0,0,2,3,19,serbia,2016-08-14,china,2016081424,Group A,201624
-1,Nikola Jokic,20.0,2,7,0,2,4,4,3,7,0,2,1,1,4,8,serbia,2016-08-14,china,2016081424,Group A,201624
-2,Stefan Jovic,20.0,1,2,0,0,0,0,1,2,3,0,0,3,3,2,serbia,2016-08-14,china,2016081424,Group A,201624
-3,Stefan Markovic,18.0,0,1,0,1,0,0,0,0,5,0,0,1,0,0,serbia,2016-08-14,china,2016081424,Group A,201624
-4,Marko Simonovic,18.0,2,2,1,1,3,4,1,2,0,2,1,0,2,8,serbia,2016-08-14,china,2016081424,Group A,201624
-5,Stefan Bircevic,17.0,0,4,0,3,0,0,2,2,0,0,0,1,3,0,serbia,2016-08-14,china,2016081424,Group A,201624
-6,Nikola Kalinic,17.0,6,9,1,1,2,2,3,5,3,3,0,0,1,15,serbia,2016-08-14,china,2016081424,Group A,201624
-7,Nemanja Nedovic,16.0,2,7,2,3,0,0,0,1,2,2,1,1,0,6,serbia,2016-08-14,china,2016081424,Group A,201624
-8,Milos Teodosic,15.0,2,5,1,3,2,2,0,0,5,1,0,1,0,7,serbia,2016-08-14,china,2016081424,Group A,201624
-9,Milan Macvan,13.0,4,6,2,4,1,1,1,4,3,1,0,0,1,11,serbia,2016-08-14,china,2016081424,Group A,201624
-10,Miroslav Raduljica,12.0,3,5,0,0,5,8,0,4,0,0,1,0,1,11,serbia,2016-08-14,china,2016081424,Group A,201624
-11,Vladimir Stimac,10.0,3,3,0,0,1,2,1,5,1,0,0,2,2,7,serbia,2016-08-14,china,2016081424,Group A,201624
-12,Totals,,32,64,12,27,18,23,12,37,24,11,4,12,20,94,serbia,2016-08-14,china,2016081424,Group A,201624
-0,Yi Jianlian,35.0,7,14,0,3,6,8,0,2,2,0,1,4,4,20,china,2016-08-14,serbia,2016081424,Group A,201624
-1,Guo Ailun,35.0,3,10,0,3,2,2,1,1,8,1,0,2,3,8,china,2016-08-14,serbia,2016081424,Group A,201624
-2,Wang Zhelin,22.0,2,5,0,0,0,0,2,8,0,0,0,2,3,4,china,2016-08-14,serbia,2016081424,Group A,201624
-3,Li Gen,21.0,1,7,1,4,0,0,0,1,1,0,0,0,1,3,china,2016-08-14,serbia,2016081424,Group A,201624
-4,Xiaochuan Di,21.0,4,4,3,3,0,0,2,6,0,1,0,1,3,11,china,2016-08-14,serbia,2016081424,Group A,201624
-5,Ding Yanyuhang,21.0,1,4,1,2,0,0,1,2,1,0,0,3,4,3,china,2016-08-14,serbia,2016081424,Group A,201624
-6,Zhou Peng,17.0,2,6,0,1,0,2,0,3,1,1,0,2,2,4,china,2016-08-14,serbia,2016081424,Group A,201624
-7,Zhou Qi,15.0,1,3,0,1,1,1,0,1,1,1,0,2,2,3,china,2016-08-14,serbia,2016081424,Group A,201624
-8,Zou Yuchen,8.0,2,3,0,0,0,0,1,2,0,2,0,1,1,4,china,2016-08-14,serbia,2016081424,Group A,201624
-9,Sui Ran,5.0,0,2,0,2,0,0,0,0,1,0,0,1,2,0,china,2016-08-14,serbia,2016081424,Group A,201624
-10,Totals,,23,58,5,19,9,13,7,26,15,6,1,18,25,60,china,2016-08-14,serbia,2016081424,Group A,201624
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Bogdan Bogdanovic,23.0,7,13,5,9,0,0,0,5,2,0,0,2,3,19,serbia,2016-08-14,china,2016081424,Group A,201624,mens-olympics
+1,Nikola Jokic,20.0,2,7,0,2,4,4,3,7,0,2,1,1,4,8,serbia,2016-08-14,china,2016081424,Group A,201624,mens-olympics
+2,Stefan Jovic,20.0,1,2,0,0,0,0,1,2,3,0,0,3,3,2,serbia,2016-08-14,china,2016081424,Group A,201624,mens-olympics
+3,Stefan Markovic,18.0,0,1,0,1,0,0,0,0,5,0,0,1,0,0,serbia,2016-08-14,china,2016081424,Group A,201624,mens-olympics
+4,Marko Simonovic,18.0,2,2,1,1,3,4,1,2,0,2,1,0,2,8,serbia,2016-08-14,china,2016081424,Group A,201624,mens-olympics
+5,Stefan Bircevic,17.0,0,4,0,3,0,0,2,2,0,0,0,1,3,0,serbia,2016-08-14,china,2016081424,Group A,201624,mens-olympics
+6,Nikola Kalinic,17.0,6,9,1,1,2,2,3,5,3,3,0,0,1,15,serbia,2016-08-14,china,2016081424,Group A,201624,mens-olympics
+7,Nemanja Nedovic,16.0,2,7,2,3,0,0,0,1,2,2,1,1,0,6,serbia,2016-08-14,china,2016081424,Group A,201624,mens-olympics
+8,Milos Teodosic,15.0,2,5,1,3,2,2,0,0,5,1,0,1,0,7,serbia,2016-08-14,china,2016081424,Group A,201624,mens-olympics
+9,Milan Macvan,13.0,4,6,2,4,1,1,1,4,3,1,0,0,1,11,serbia,2016-08-14,china,2016081424,Group A,201624,mens-olympics
+10,Miroslav Raduljica,12.0,3,5,0,0,5,8,0,4,0,0,1,0,1,11,serbia,2016-08-14,china,2016081424,Group A,201624,mens-olympics
+11,Vladimir Stimac,10.0,3,3,0,0,1,2,1,5,1,0,0,2,2,7,serbia,2016-08-14,china,2016081424,Group A,201624,mens-olympics
+12,Totals,,32,64,12,27,18,23,12,37,24,11,4,12,20,94,serbia,2016-08-14,china,2016081424,Group A,201624,mens-olympics
+0,Yi Jianlian,35.0,7,14,0,3,6,8,0,2,2,0,1,4,4,20,china,2016-08-14,serbia,2016081424,Group A,201624,mens-olympics
+1,Guo Ailun,35.0,3,10,0,3,2,2,1,1,8,1,0,2,3,8,china,2016-08-14,serbia,2016081424,Group A,201624,mens-olympics
+2,Wang Zhelin,22.0,2,5,0,0,0,0,2,8,0,0,0,2,3,4,china,2016-08-14,serbia,2016081424,Group A,201624,mens-olympics
+3,Li Gen,21.0,1,7,1,4,0,0,0,1,1,0,0,0,1,3,china,2016-08-14,serbia,2016081424,Group A,201624,mens-olympics
+4,Xiaochuan Di,21.0,4,4,3,3,0,0,2,6,0,1,0,1,3,11,china,2016-08-14,serbia,2016081424,Group A,201624,mens-olympics
+5,Ding Yanyuhang,21.0,1,4,1,2,0,0,1,2,1,0,0,3,4,3,china,2016-08-14,serbia,2016081424,Group A,201624,mens-olympics
+6,Zhou Peng,17.0,2,6,0,1,0,2,0,3,1,1,0,2,2,4,china,2016-08-14,serbia,2016081424,Group A,201624,mens-olympics
+7,Zhou Qi,15.0,1,3,0,1,1,1,0,1,1,1,0,2,2,3,china,2016-08-14,serbia,2016081424,Group A,201624,mens-olympics
+8,Zou Yuchen,8.0,2,3,0,0,0,0,1,2,0,2,0,1,1,4,china,2016-08-14,serbia,2016081424,Group A,201624,mens-olympics
+9,Sui Ran,5.0,0,2,0,2,0,0,0,0,1,0,0,1,2,0,china,2016-08-14,serbia,2016081424,Group A,201624,mens-olympics
+10,Totals,,23,58,5,19,9,13,7,26,15,6,1,18,25,60,china,2016-08-14,serbia,2016081424,Group A,201624,mens-olympics

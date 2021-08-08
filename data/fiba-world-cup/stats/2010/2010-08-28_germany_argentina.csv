@@ -1,27 +1,27 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Demond Greene,29,7,12,3,4,3,3,1,4,1,0,0,1,4,20,germany,2010-08-28,argentina,201008280,Group Play,20100
-1,Steffen Hamann,28,2,5,0,0,2,4,0,2,5,1,0,3,1,6,germany,2010-08-28,argentina,201008280,Group Play,20100
-2,Jan Jagla,25,3,8,2,2,0,0,4,10,4,2,0,1,3,8,germany,2010-08-28,argentina,201008280,Group Play,20100
-3,Robin Benzing,19,2,4,1,2,0,0,0,4,1,0,0,0,3,5,germany,2010-08-28,argentina,201008280,Group Play,20100
-4,Tibor Pleiss,16,5,7,0,0,2,2,0,3,1,0,0,3,4,12,germany,2010-08-28,argentina,201008280,Group Play,20100
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,germany,2010-08-28,argentina,201008280,Group Play,20100
-6,Tim Ohlbrecht,26,1,5,1,5,3,4,1,6,0,1,2,3,4,6,germany,2010-08-28,argentina,201008280,Group Play,20100
-7,Elias Harris,18,2,4,0,1,2,2,0,1,2,0,1,0,0,6,germany,2010-08-28,argentina,201008280,Group Play,20100
-8,Heiko Schaffartzik,15,3,8,2,5,0,0,0,0,2,1,0,3,3,8,germany,2010-08-28,argentina,201008280,Group Play,20100
-9,Chris McNaughton,9,0,0,0,0,0,0,0,3,0,0,0,2,1,0,germany,2010-08-28,argentina,201008280,Group Play,20100
-10,Philipp Schwethelm,7,1,1,1,1,0,0,0,0,1,1,0,0,3,3,germany,2010-08-28,argentina,201008280,Group Play,20100
-11,Lucca Staiger,6,0,1,0,1,0,0,0,0,0,0,0,1,1,0,germany,2010-08-28,argentina,201008280,Group Play,20100
-12,Per Gunther,3,0,1,0,0,0,0,0,1,0,0,0,1,0,0,germany,2010-08-28,argentina,201008280,Group Play,20100
-13,Totals,,26,56,10,21,12,15,6,34,17,6,3,18,27,74,germany,2010-08-28,argentina,201008280,Group Play,20100
-0,Carlos Delfino,38,7,18,3,9,10,13,0,8,2,1,1,0,0,27,argentina,2010-08-28,germany,201008280,Group Play,20100
-1,Luis Scola,35,4,12,0,0,12,14,2,4,0,0,0,6,2,20,argentina,2010-08-28,germany,201008280,Group Play,20100
-2,Pablo Prigioni,31,1,2,1,2,1,2,0,2,5,2,1,3,2,4,argentina,2010-08-28,germany,201008280,Group Play,20100
-3,Fabricio Oberto,25,5,8,0,0,1,1,2,6,3,1,0,0,3,11,argentina,2010-08-28,germany,201008280,Group Play,20100
-4,Hernan Jasen,17,0,1,0,1,0,2,0,4,0,1,0,1,5,0,argentina,2010-08-28,germany,201008280,Group Play,20100
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,argentina,2010-08-28,germany,201008280,Group Play,20100
-6,Paulo Quinteros,18,2,3,1,2,0,0,0,0,0,1,0,0,2,5,argentina,2010-08-28,germany,201008280,Group Play,20100
-7,Leo Gutierrez,14,2,3,2,3,0,0,0,1,0,1,0,1,0,6,argentina,2010-08-28,germany,201008280,Group Play,20100
-8,Luis Eduardo Cequeira,10,0,1,0,1,1,2,0,0,1,1,0,0,1,1,argentina,2010-08-28,germany,201008280,Group Play,20100
-9,Federico Kammerichs,7,1,3,0,0,0,0,0,2,0,0,0,0,1,2,argentina,2010-08-28,germany,201008280,Group Play,20100
-10,Juan Gutierrez,5,1,1,0,0,0,0,0,1,0,0,0,0,2,2,argentina,2010-08-28,germany,201008280,Group Play,20100
-11,Totals,,23,52,7,18,25,34,4,28,11,8,2,11,18,78,argentina,2010-08-28,germany,201008280,Group Play,20100
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Demond Greene,29,7,12,3,4,3,3,1,4,1,0,0,1,4,20,germany,2010-08-28,argentina,201008280,Group Play,20100,fiba-world-cup
+1,Steffen Hamann,28,2,5,0,0,2,4,0,2,5,1,0,3,1,6,germany,2010-08-28,argentina,201008280,Group Play,20100,fiba-world-cup
+2,Jan Jagla,25,3,8,2,2,0,0,4,10,4,2,0,1,3,8,germany,2010-08-28,argentina,201008280,Group Play,20100,fiba-world-cup
+3,Robin Benzing,19,2,4,1,2,0,0,0,4,1,0,0,0,3,5,germany,2010-08-28,argentina,201008280,Group Play,20100,fiba-world-cup
+4,Tibor Pleiss,16,5,7,0,0,2,2,0,3,1,0,0,3,4,12,germany,2010-08-28,argentina,201008280,Group Play,20100,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,germany,2010-08-28,argentina,201008280,Group Play,20100,fiba-world-cup
+6,Tim Ohlbrecht,26,1,5,1,5,3,4,1,6,0,1,2,3,4,6,germany,2010-08-28,argentina,201008280,Group Play,20100,fiba-world-cup
+7,Elias Harris,18,2,4,0,1,2,2,0,1,2,0,1,0,0,6,germany,2010-08-28,argentina,201008280,Group Play,20100,fiba-world-cup
+8,Heiko Schaffartzik,15,3,8,2,5,0,0,0,0,2,1,0,3,3,8,germany,2010-08-28,argentina,201008280,Group Play,20100,fiba-world-cup
+9,Chris McNaughton,9,0,0,0,0,0,0,0,3,0,0,0,2,1,0,germany,2010-08-28,argentina,201008280,Group Play,20100,fiba-world-cup
+10,Philipp Schwethelm,7,1,1,1,1,0,0,0,0,1,1,0,0,3,3,germany,2010-08-28,argentina,201008280,Group Play,20100,fiba-world-cup
+11,Lucca Staiger,6,0,1,0,1,0,0,0,0,0,0,0,1,1,0,germany,2010-08-28,argentina,201008280,Group Play,20100,fiba-world-cup
+12,Per Gunther,3,0,1,0,0,0,0,0,1,0,0,0,1,0,0,germany,2010-08-28,argentina,201008280,Group Play,20100,fiba-world-cup
+13,Totals,,26,56,10,21,12,15,6,34,17,6,3,18,27,74,germany,2010-08-28,argentina,201008280,Group Play,20100,fiba-world-cup
+0,Carlos Delfino,38,7,18,3,9,10,13,0,8,2,1,1,0,0,27,argentina,2010-08-28,germany,201008280,Group Play,20100,fiba-world-cup
+1,Luis Scola,35,4,12,0,0,12,14,2,4,0,0,0,6,2,20,argentina,2010-08-28,germany,201008280,Group Play,20100,fiba-world-cup
+2,Pablo Prigioni,31,1,2,1,2,1,2,0,2,5,2,1,3,2,4,argentina,2010-08-28,germany,201008280,Group Play,20100,fiba-world-cup
+3,Fabricio Oberto,25,5,8,0,0,1,1,2,6,3,1,0,0,3,11,argentina,2010-08-28,germany,201008280,Group Play,20100,fiba-world-cup
+4,Hernan Jasen,17,0,1,0,1,0,2,0,4,0,1,0,1,5,0,argentina,2010-08-28,germany,201008280,Group Play,20100,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,argentina,2010-08-28,germany,201008280,Group Play,20100,fiba-world-cup
+6,Paulo Quinteros,18,2,3,1,2,0,0,0,0,0,1,0,0,2,5,argentina,2010-08-28,germany,201008280,Group Play,20100,fiba-world-cup
+7,Leo Gutierrez,14,2,3,2,3,0,0,0,1,0,1,0,1,0,6,argentina,2010-08-28,germany,201008280,Group Play,20100,fiba-world-cup
+8,Luis Eduardo Cequeira,10,0,1,0,1,1,2,0,0,1,1,0,0,1,1,argentina,2010-08-28,germany,201008280,Group Play,20100,fiba-world-cup
+9,Federico Kammerichs,7,1,3,0,0,0,0,0,2,0,0,0,0,1,2,argentina,2010-08-28,germany,201008280,Group Play,20100,fiba-world-cup
+10,Juan Gutierrez,5,1,1,0,0,0,0,0,1,0,0,0,0,2,2,argentina,2010-08-28,germany,201008280,Group Play,20100,fiba-world-cup
+11,Totals,,23,52,7,18,25,34,4,28,11,8,2,11,18,78,argentina,2010-08-28,germany,201008280,Group Play,20100,fiba-world-cup

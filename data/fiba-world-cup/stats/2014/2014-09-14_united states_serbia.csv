@@ -1,29 +1,29 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Kyrie Irving,25,10,13,6,6,0,0,0,1,4,0,1,2,2,26,united states,2014-09-14,serbia,2014091475,Semifinals,201475
-1,Stephen Curry,23,2,7,2,7,4,4,0,1,0,0,0,1,2,10,united states,2014-09-14,serbia,2014091475,Semifinals,201475
-2,James Harden,21,8,11,3,5,4,4,1,3,2,0,0,0,2,23,united states,2014-09-14,serbia,2014091475,Semifinals,201475
-3,Kenneth Faried,20,4,11,0,1,2,4,3,6,0,0,0,0,3,10,united states,2014-09-14,serbia,2014091475,Semifinals,201475
-4,Anthony Davis,14,2,4,0,0,3,4,1,4,0,1,1,0,3,7,united states,2014-09-14,serbia,2014091475,Semifinals,201475
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,united states,2014-09-14,serbia,2014091475,Semifinals,201475
-6,Klay Thompson,21,5,8,2,5,0,0,0,0,2,0,2,1,3,12,united states,2014-09-14,serbia,2014091475,Semifinals,201475
-7,DeMarcus Cousins,17,3,4,0,0,7,8,1,10,1,1,2,1,3,13,united states,2014-09-14,serbia,2014091475,Semifinals,201475
-8,Derrick Rose,16,0,4,0,2,0,0,0,1,6,1,0,2,0,0,united states,2014-09-14,serbia,2014091475,Semifinals,201475
-9,Rudy Gay,16,5,9,1,3,0,0,3,3,0,0,0,1,4,11,united states,2014-09-14,serbia,2014091475,Semifinals,201475
-10,DeMar DeRozan,14,3,4,1,1,3,3,0,1,1,1,0,0,1,10,united states,2014-09-14,serbia,2014091475,Semifinals,201475
-11,Mason Plumlee,9,0,0,0,0,1,2,0,4,0,0,0,0,1,1,united states,2014-09-14,serbia,2014091475,Semifinals,201475
-12,Andre Drummond,5,3,3,0,0,0,0,1,2,0,0,1,0,1,6,united states,2014-09-14,serbia,2014091475,Semifinals,201475
-13,Totals,,45,78,15,30,24,29,10,36,16,4,7,8,25,129,united states,2014-09-14,serbia,2014091475,Semifinals,201475
-0,Nemanja Bjelica,27,6,11,2,5,4,6,1,3,4,0,1,2,5,18,serbia,2014-09-14,united states,2014091475,Semifinals,201475
-1,Nikola Kalinic,25,8,9,1,2,1,3,2,3,1,0,0,0,3,18,serbia,2014-09-14,united states,2014091475,Semifinals,201475
-2,Milos Teodosic,23,4,7,1,3,1,2,0,0,7,0,0,1,2,10,serbia,2014-09-14,united states,2014091475,Semifinals,201475
-3,Stefan Markovic,23,1,3,0,2,1,2,0,6,3,2,0,0,2,3,serbia,2014-09-14,united states,2014091475,Semifinals,201475
-4,Miroslav Raduljica,14,3,6,0,0,3,3,0,3,0,0,0,3,4,9,serbia,2014-09-14,united states,2014091475,Semifinals,201475
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,serbia,2014-09-14,united states,2014091475,Semifinals,201475
-6,Bogdan Bogdanovic,24,5,17,1,9,4,4,0,2,1,0,0,1,2,15,serbia,2014-09-14,united states,2014091475,Semifinals,201475
-7,Stefan Jovic,14,3,5,0,1,0,0,1,2,3,1,0,2,3,6,serbia,2014-09-14,united states,2014091475,Semifinals,201475
-8,Nenad Krstic,13,2,5,0,0,0,0,1,1,0,0,0,1,1,4,serbia,2014-09-14,united states,2014091475,Semifinals,201475
-9,Vladimir Stimac,12,3,5,0,0,1,1,1,2,0,0,0,0,0,7,serbia,2014-09-14,united states,2014091475,Semifinals,201475
-10,Rasko Katic,8,1,3,0,0,0,0,1,1,1,0,0,0,1,2,serbia,2014-09-14,united states,2014091475,Semifinals,201475
-11,Stefan Bircevic,8,0,1,0,1,0,0,0,0,0,0,0,0,4,0,serbia,2014-09-14,united states,2014091475,Semifinals,201475
-12,Marko Simonovic,8,0,3,0,2,0,0,0,0,0,0,0,0,0,0,serbia,2014-09-14,united states,2014091475,Semifinals,201475
-13,Totals,,36,75,5,25,15,21,7,23,20,3,1,10,27,92,serbia,2014-09-14,united states,2014091475,Semifinals,201475
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Kyrie Irving,25,10,13,6,6,0,0,0,1,4,0,1,2,2,26,united states,2014-09-14,serbia,2014091475,Semifinals,201475,fiba-world-cup
+1,Stephen Curry,23,2,7,2,7,4,4,0,1,0,0,0,1,2,10,united states,2014-09-14,serbia,2014091475,Semifinals,201475,fiba-world-cup
+2,James Harden,21,8,11,3,5,4,4,1,3,2,0,0,0,2,23,united states,2014-09-14,serbia,2014091475,Semifinals,201475,fiba-world-cup
+3,Kenneth Faried,20,4,11,0,1,2,4,3,6,0,0,0,0,3,10,united states,2014-09-14,serbia,2014091475,Semifinals,201475,fiba-world-cup
+4,Anthony Davis,14,2,4,0,0,3,4,1,4,0,1,1,0,3,7,united states,2014-09-14,serbia,2014091475,Semifinals,201475,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,united states,2014-09-14,serbia,2014091475,Semifinals,201475,fiba-world-cup
+6,Klay Thompson,21,5,8,2,5,0,0,0,0,2,0,2,1,3,12,united states,2014-09-14,serbia,2014091475,Semifinals,201475,fiba-world-cup
+7,DeMarcus Cousins,17,3,4,0,0,7,8,1,10,1,1,2,1,3,13,united states,2014-09-14,serbia,2014091475,Semifinals,201475,fiba-world-cup
+8,Derrick Rose,16,0,4,0,2,0,0,0,1,6,1,0,2,0,0,united states,2014-09-14,serbia,2014091475,Semifinals,201475,fiba-world-cup
+9,Rudy Gay,16,5,9,1,3,0,0,3,3,0,0,0,1,4,11,united states,2014-09-14,serbia,2014091475,Semifinals,201475,fiba-world-cup
+10,DeMar DeRozan,14,3,4,1,1,3,3,0,1,1,1,0,0,1,10,united states,2014-09-14,serbia,2014091475,Semifinals,201475,fiba-world-cup
+11,Mason Plumlee,9,0,0,0,0,1,2,0,4,0,0,0,0,1,1,united states,2014-09-14,serbia,2014091475,Semifinals,201475,fiba-world-cup
+12,Andre Drummond,5,3,3,0,0,0,0,1,2,0,0,1,0,1,6,united states,2014-09-14,serbia,2014091475,Semifinals,201475,fiba-world-cup
+13,Totals,,45,78,15,30,24,29,10,36,16,4,7,8,25,129,united states,2014-09-14,serbia,2014091475,Semifinals,201475,fiba-world-cup
+0,Nemanja Bjelica,27,6,11,2,5,4,6,1,3,4,0,1,2,5,18,serbia,2014-09-14,united states,2014091475,Semifinals,201475,fiba-world-cup
+1,Nikola Kalinic,25,8,9,1,2,1,3,2,3,1,0,0,0,3,18,serbia,2014-09-14,united states,2014091475,Semifinals,201475,fiba-world-cup
+2,Milos Teodosic,23,4,7,1,3,1,2,0,0,7,0,0,1,2,10,serbia,2014-09-14,united states,2014091475,Semifinals,201475,fiba-world-cup
+3,Stefan Markovic,23,1,3,0,2,1,2,0,6,3,2,0,0,2,3,serbia,2014-09-14,united states,2014091475,Semifinals,201475,fiba-world-cup
+4,Miroslav Raduljica,14,3,6,0,0,3,3,0,3,0,0,0,3,4,9,serbia,2014-09-14,united states,2014091475,Semifinals,201475,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,serbia,2014-09-14,united states,2014091475,Semifinals,201475,fiba-world-cup
+6,Bogdan Bogdanovic,24,5,17,1,9,4,4,0,2,1,0,0,1,2,15,serbia,2014-09-14,united states,2014091475,Semifinals,201475,fiba-world-cup
+7,Stefan Jovic,14,3,5,0,1,0,0,1,2,3,1,0,2,3,6,serbia,2014-09-14,united states,2014091475,Semifinals,201475,fiba-world-cup
+8,Nenad Krstic,13,2,5,0,0,0,0,1,1,0,0,0,1,1,4,serbia,2014-09-14,united states,2014091475,Semifinals,201475,fiba-world-cup
+9,Vladimir Stimac,12,3,5,0,0,1,1,1,2,0,0,0,0,0,7,serbia,2014-09-14,united states,2014091475,Semifinals,201475,fiba-world-cup
+10,Rasko Katic,8,1,3,0,0,0,0,1,1,1,0,0,0,1,2,serbia,2014-09-14,united states,2014091475,Semifinals,201475,fiba-world-cup
+11,Stefan Bircevic,8,0,1,0,1,0,0,0,0,0,0,0,0,4,0,serbia,2014-09-14,united states,2014091475,Semifinals,201475,fiba-world-cup
+12,Marko Simonovic,8,0,3,0,2,0,0,0,0,0,0,0,0,0,0,serbia,2014-09-14,united states,2014091475,Semifinals,201475,fiba-world-cup
+13,Totals,,36,75,5,25,15,21,7,23,20,3,1,10,27,92,serbia,2014-09-14,united states,2014091475,Semifinals,201475,fiba-world-cup

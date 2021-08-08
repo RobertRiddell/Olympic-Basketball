@@ -1,23 +1,23 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Thomas Abercrombie,34.0,6,12,3,7,3,4,1,6,0,1,0,0,3,18,new zealand,2019-09-05,greece,2019090544,First Round,201944
-1,Corey Webster,31.0,11,18,7,12,2,2,0,3,4,2,0,1,4,31,new zealand,2019-09-05,greece,2019090544,First Round,201944
-2,Tai Webster,28.0,7,13,1,4,2,5,0,2,3,1,0,1,4,17,new zealand,2019-09-05,greece,2019090544,First Round,201944
-3,Rob Loe,27.0,2,4,1,2,0,4,2,6,3,0,0,4,5,5,new zealand,2019-09-05,greece,2019090544,First Round,201944
-4,Shea Ili,21.0,2,4,0,0,5,6,2,4,9,0,1,2,4,9,new zealand,2019-09-05,greece,2019090544,First Round,201944
-5,Finn Delaney,18.0,1,4,0,1,0,0,1,3,0,0,0,1,3,2,new zealand,2019-09-05,greece,2019090544,First Round,201944
-6,Isaac Fotu,16.0,6,6,0,0,3,4,0,3,2,0,0,3,4,15,new zealand,2019-09-05,greece,2019090544,First Round,201944
-7,Tohi Smith-Milner,15.0,0,2,0,1,0,0,0,1,0,1,0,0,4,0,new zealand,2019-09-05,greece,2019090544,First Round,201944
-8,Ethan Rusbatch,6.0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,new zealand,2019-09-05,greece,2019090544,First Round,201944
-9,Alex Pledger,3.0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,new zealand,2019-09-05,greece,2019090544,First Round,201944
-10,Totals,,35,66,12,28,15,25,7,29,21,5,1,12,31,97,new zealand,2019-09-05,greece,2019090544,First Round,201944
-0,Giannis Antetokounmpo,30.0,6,10,1,3,11,15,1,10,6,2,0,2,3,24,greece,2019-09-05,new zealand,2019090544,First Round,201944
-1,Kostas Papanikolaou,30.0,1,8,0,3,5,5,3,6,4,1,0,0,2,7,greece,2019-09-05,new zealand,2019090544,First Round,201944
-2,Nick Calathes,28.0,6,12,2,5,0,2,1,4,5,3,0,2,4,14,greece,2019-09-05,new zealand,2019090544,First Round,201944
-3,Kostas Sloukas,26.0,2,6,1,4,2,2,0,5,7,0,0,1,5,7,greece,2019-09-05,new zealand,2019090544,First Round,201944
-4,Ioannis Papapetrou,23.0,6,8,4,6,0,0,0,1,1,1,0,0,2,16,greece,2019-09-05,new zealand,2019090544,First Round,201944
-5,Giorgos Printezis,23.0,5,9,1,3,2,4,0,3,1,0,0,0,0,13,greece,2019-09-05,new zealand,2019090544,First Round,201944
-6,Thanasis Antetokounmpo,19.0,4,7,1,2,1,2,2,3,2,2,1,1,4,10,greece,2019-09-05,new zealand,2019090544,First Round,201944
-7,Giannoulis Larentzakis,10.0,1,2,1,2,6,7,0,1,0,0,0,0,1,9,greece,2019-09-05,new zealand,2019090544,First Round,201944
-8,Ioannis Bourousis,7.0,1,2,1,2,0,0,0,2,0,0,0,1,1,3,greece,2019-09-05,new zealand,2019090544,First Round,201944
-9,Panagiotis Vasilopoulos,4.0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,greece,2019-09-05,new zealand,2019090544,First Round,201944
-10,Totals,,32,64,12,30,27,37,7,36,26,9,1,8,24,103,greece,2019-09-05,new zealand,2019090544,First Round,201944
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Thomas Abercrombie,34.0,6,12,3,7,3,4,1,6,0,1,0,0,3,18,new zealand,2019-09-05,greece,2019090544,First Round,201944,fiba-world-cup
+1,Corey Webster,31.0,11,18,7,12,2,2,0,3,4,2,0,1,4,31,new zealand,2019-09-05,greece,2019090544,First Round,201944,fiba-world-cup
+2,Tai Webster,28.0,7,13,1,4,2,5,0,2,3,1,0,1,4,17,new zealand,2019-09-05,greece,2019090544,First Round,201944,fiba-world-cup
+3,Rob Loe,27.0,2,4,1,2,0,4,2,6,3,0,0,4,5,5,new zealand,2019-09-05,greece,2019090544,First Round,201944,fiba-world-cup
+4,Shea Ili,21.0,2,4,0,0,5,6,2,4,9,0,1,2,4,9,new zealand,2019-09-05,greece,2019090544,First Round,201944,fiba-world-cup
+5,Finn Delaney,18.0,1,4,0,1,0,0,1,3,0,0,0,1,3,2,new zealand,2019-09-05,greece,2019090544,First Round,201944,fiba-world-cup
+6,Isaac Fotu,16.0,6,6,0,0,3,4,0,3,2,0,0,3,4,15,new zealand,2019-09-05,greece,2019090544,First Round,201944,fiba-world-cup
+7,Tohi Smith-Milner,15.0,0,2,0,1,0,0,0,1,0,1,0,0,4,0,new zealand,2019-09-05,greece,2019090544,First Round,201944,fiba-world-cup
+8,Ethan Rusbatch,6.0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,new zealand,2019-09-05,greece,2019090544,First Round,201944,fiba-world-cup
+9,Alex Pledger,3.0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,new zealand,2019-09-05,greece,2019090544,First Round,201944,fiba-world-cup
+10,Totals,,35,66,12,28,15,25,7,29,21,5,1,12,31,97,new zealand,2019-09-05,greece,2019090544,First Round,201944,fiba-world-cup
+0,Giannis Antetokounmpo,30.0,6,10,1,3,11,15,1,10,6,2,0,2,3,24,greece,2019-09-05,new zealand,2019090544,First Round,201944,fiba-world-cup
+1,Kostas Papanikolaou,30.0,1,8,0,3,5,5,3,6,4,1,0,0,2,7,greece,2019-09-05,new zealand,2019090544,First Round,201944,fiba-world-cup
+2,Nick Calathes,28.0,6,12,2,5,0,2,1,4,5,3,0,2,4,14,greece,2019-09-05,new zealand,2019090544,First Round,201944,fiba-world-cup
+3,Kostas Sloukas,26.0,2,6,1,4,2,2,0,5,7,0,0,1,5,7,greece,2019-09-05,new zealand,2019090544,First Round,201944,fiba-world-cup
+4,Ioannis Papapetrou,23.0,6,8,4,6,0,0,0,1,1,1,0,0,2,16,greece,2019-09-05,new zealand,2019090544,First Round,201944,fiba-world-cup
+5,Giorgos Printezis,23.0,5,9,1,3,2,4,0,3,1,0,0,0,0,13,greece,2019-09-05,new zealand,2019090544,First Round,201944,fiba-world-cup
+6,Thanasis Antetokounmpo,19.0,4,7,1,2,1,2,2,3,2,2,1,1,4,10,greece,2019-09-05,new zealand,2019090544,First Round,201944,fiba-world-cup
+7,Giannoulis Larentzakis,10.0,1,2,1,2,6,7,0,1,0,0,0,0,1,9,greece,2019-09-05,new zealand,2019090544,First Round,201944,fiba-world-cup
+8,Ioannis Bourousis,7.0,1,2,1,2,0,0,0,2,0,0,0,1,1,3,greece,2019-09-05,new zealand,2019090544,First Round,201944,fiba-world-cup
+9,Panagiotis Vasilopoulos,4.0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,greece,2019-09-05,new zealand,2019090544,First Round,201944,fiba-world-cup
+10,Totals,,32,64,12,30,27,37,7,36,26,9,1,8,24,103,greece,2019-09-05,new zealand,2019090544,First Round,201944,fiba-world-cup

@@ -1,29 +1,29 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Kyrie Irving,34,8,15,2,5,0,0,1,1,4,2,0,2,1,18,united states,2014-09-11,lithuania,2014091172,Semifinals,201472
-1,Kenneth Faried,24,3,8,0,0,3,5,3,6,3,1,0,1,2,9,united states,2014-09-11,lithuania,2014091172,Semifinals,201472
-2,James Harden,22,6,11,2,4,2,2,1,2,0,3,0,1,2,16,united states,2014-09-11,lithuania,2014091172,Semifinals,201472
-3,Anthony Davis,19,4,7,0,0,0,0,2,6,1,0,2,2,5,8,united states,2014-09-11,lithuania,2014091172,Semifinals,201472
-4,Stephen Curry,14,4,8,3,6,2,2,0,3,1,0,0,1,4,13,united states,2014-09-11,lithuania,2014091172,Semifinals,201472
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,united states,2014-09-11,lithuania,2014091172,Semifinals,201472
-6,Klay Thompson,26,7,12,2,5,0,0,0,3,3,1,2,1,3,16,united states,2014-09-11,lithuania,2014091172,Semifinals,201472
-7,Derrick Rose,15,1,8,0,4,2,2,0,1,1,1,0,3,0,4,united states,2014-09-11,lithuania,2014091172,Semifinals,201472
-8,DeMarcus Cousins,13,3,5,0,0,1,2,2,6,0,0,0,2,5,7,united states,2014-09-11,lithuania,2014091172,Semifinals,201472
-9,Rudy Gay,13,1,2,0,0,1,1,1,7,0,1,0,1,1,3,united states,2014-09-11,lithuania,2014091172,Semifinals,201472
-10,DeMar DeRozan,8,0,1,0,0,0,0,0,0,1,0,0,0,1,0,united states,2014-09-11,lithuania,2014091172,Semifinals,201472
-11,Mason Plumlee,7,1,2,0,0,0,2,2,4,0,0,0,1,1,2,united states,2014-09-11,lithuania,2014091172,Semifinals,201472
-12,Andre Drummond,3,0,1,0,0,0,4,2,4,0,0,0,0,2,0,united states,2014-09-11,lithuania,2014091172,Semifinals,201472
-13,Totals,,38,80,9,24,11,20,14,43,14,9,4,15,27,96,united states,2014-09-11,lithuania,2014091172,Semifinals,201472
-0,Jonas Valanciunas,28,2,5,0,0,11,13,0,7,0,1,0,0,2,15,lithuania,2014-09-11,united states,2014091172,Semifinals,201472
-1,Adas Juskevicius,26,1,8,0,4,10,10,1,1,2,1,0,3,1,12,lithuania,2014-09-11,united states,2014091172,Semifinals,201472
-2,Renaldas Seibutis,18,0,2,0,0,3,4,2,2,2,1,0,2,3,3,lithuania,2014-09-11,united states,2014091172,Semifinals,201472
-3,Donatas Motiejunas,17,1,5,0,2,0,2,0,3,0,1,2,1,4,2,lithuania,2014-09-11,united states,2014091172,Semifinals,201472
-4,Jonas Maciulis,13,1,6,0,2,0,0,0,2,0,1,0,3,1,2,lithuania,2014-09-11,united states,2014091172,Semifinals,201472
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,lithuania,2014-09-11,united states,2014091172,Semifinals,201472
-6,Mindaugas Kuzminskas,27,6,9,0,1,3,6,3,9,1,0,2,1,0,15,lithuania,2014-09-11,united states,2014091172,Semifinals,201472
-7,Martynas Pocius,25,4,7,1,2,1,2,0,2,1,0,0,1,2,10,lithuania,2014-09-11,united states,2014091172,Semifinals,201472
-8,Darjus Lavrinovic,17,2,7,1,4,4,5,0,2,0,0,2,3,1,9,lithuania,2014-09-11,united states,2014091172,Semifinals,201472
-9,Ksistof Lavrinovic,13,0,3,0,2,0,0,1,3,1,0,0,2,3,0,lithuania,2014-09-11,united states,2014091172,Semifinals,201472
-10,Sarunas Vasiliauskas,8,0,2,0,1,0,0,1,1,2,0,0,3,2,0,lithuania,2014-09-11,united states,2014091172,Semifinals,201472
-11,Paulius Jankunas,6,0,2,0,0,0,0,1,2,1,0,0,1,0,0,lithuania,2014-09-11,united states,2014091172,Semifinals,201472
-12,Simas Jasaitis,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,lithuania,2014-09-11,united states,2014091172,Semifinals,201472
-13,Totals,,17,56,2,18,32,42,9,34,10,5,6,21,19,68,lithuania,2014-09-11,united states,2014091172,Semifinals,201472
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Kyrie Irving,34,8,15,2,5,0,0,1,1,4,2,0,2,1,18,united states,2014-09-11,lithuania,2014091172,Semifinals,201472,fiba-world-cup
+1,Kenneth Faried,24,3,8,0,0,3,5,3,6,3,1,0,1,2,9,united states,2014-09-11,lithuania,2014091172,Semifinals,201472,fiba-world-cup
+2,James Harden,22,6,11,2,4,2,2,1,2,0,3,0,1,2,16,united states,2014-09-11,lithuania,2014091172,Semifinals,201472,fiba-world-cup
+3,Anthony Davis,19,4,7,0,0,0,0,2,6,1,0,2,2,5,8,united states,2014-09-11,lithuania,2014091172,Semifinals,201472,fiba-world-cup
+4,Stephen Curry,14,4,8,3,6,2,2,0,3,1,0,0,1,4,13,united states,2014-09-11,lithuania,2014091172,Semifinals,201472,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,united states,2014-09-11,lithuania,2014091172,Semifinals,201472,fiba-world-cup
+6,Klay Thompson,26,7,12,2,5,0,0,0,3,3,1,2,1,3,16,united states,2014-09-11,lithuania,2014091172,Semifinals,201472,fiba-world-cup
+7,Derrick Rose,15,1,8,0,4,2,2,0,1,1,1,0,3,0,4,united states,2014-09-11,lithuania,2014091172,Semifinals,201472,fiba-world-cup
+8,DeMarcus Cousins,13,3,5,0,0,1,2,2,6,0,0,0,2,5,7,united states,2014-09-11,lithuania,2014091172,Semifinals,201472,fiba-world-cup
+9,Rudy Gay,13,1,2,0,0,1,1,1,7,0,1,0,1,1,3,united states,2014-09-11,lithuania,2014091172,Semifinals,201472,fiba-world-cup
+10,DeMar DeRozan,8,0,1,0,0,0,0,0,0,1,0,0,0,1,0,united states,2014-09-11,lithuania,2014091172,Semifinals,201472,fiba-world-cup
+11,Mason Plumlee,7,1,2,0,0,0,2,2,4,0,0,0,1,1,2,united states,2014-09-11,lithuania,2014091172,Semifinals,201472,fiba-world-cup
+12,Andre Drummond,3,0,1,0,0,0,4,2,4,0,0,0,0,2,0,united states,2014-09-11,lithuania,2014091172,Semifinals,201472,fiba-world-cup
+13,Totals,,38,80,9,24,11,20,14,43,14,9,4,15,27,96,united states,2014-09-11,lithuania,2014091172,Semifinals,201472,fiba-world-cup
+0,Jonas Valanciunas,28,2,5,0,0,11,13,0,7,0,1,0,0,2,15,lithuania,2014-09-11,united states,2014091172,Semifinals,201472,fiba-world-cup
+1,Adas Juskevicius,26,1,8,0,4,10,10,1,1,2,1,0,3,1,12,lithuania,2014-09-11,united states,2014091172,Semifinals,201472,fiba-world-cup
+2,Renaldas Seibutis,18,0,2,0,0,3,4,2,2,2,1,0,2,3,3,lithuania,2014-09-11,united states,2014091172,Semifinals,201472,fiba-world-cup
+3,Donatas Motiejunas,17,1,5,0,2,0,2,0,3,0,1,2,1,4,2,lithuania,2014-09-11,united states,2014091172,Semifinals,201472,fiba-world-cup
+4,Jonas Maciulis,13,1,6,0,2,0,0,0,2,0,1,0,3,1,2,lithuania,2014-09-11,united states,2014091172,Semifinals,201472,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,lithuania,2014-09-11,united states,2014091172,Semifinals,201472,fiba-world-cup
+6,Mindaugas Kuzminskas,27,6,9,0,1,3,6,3,9,1,0,2,1,0,15,lithuania,2014-09-11,united states,2014091172,Semifinals,201472,fiba-world-cup
+7,Martynas Pocius,25,4,7,1,2,1,2,0,2,1,0,0,1,2,10,lithuania,2014-09-11,united states,2014091172,Semifinals,201472,fiba-world-cup
+8,Darjus Lavrinovic,17,2,7,1,4,4,5,0,2,0,0,2,3,1,9,lithuania,2014-09-11,united states,2014091172,Semifinals,201472,fiba-world-cup
+9,Ksistof Lavrinovic,13,0,3,0,2,0,0,1,3,1,0,0,2,3,0,lithuania,2014-09-11,united states,2014091172,Semifinals,201472,fiba-world-cup
+10,Sarunas Vasiliauskas,8,0,2,0,1,0,0,1,1,2,0,0,3,2,0,lithuania,2014-09-11,united states,2014091172,Semifinals,201472,fiba-world-cup
+11,Paulius Jankunas,6,0,2,0,0,0,0,1,2,1,0,0,1,0,0,lithuania,2014-09-11,united states,2014091172,Semifinals,201472,fiba-world-cup
+12,Simas Jasaitis,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,lithuania,2014-09-11,united states,2014091172,Semifinals,201472,fiba-world-cup
+13,Totals,,17,56,2,18,32,42,9,34,10,5,6,21,19,68,lithuania,2014-09-11,united states,2014091172,Semifinals,201472,fiba-world-cup

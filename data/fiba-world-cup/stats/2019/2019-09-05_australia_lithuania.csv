@@ -1,23 +1,23 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Patty Mills,35.0,8,16,3,8,4,4,0,2,2,1,0,2,1,23,australia,2019-09-05,lithuania,2019090545,First Round,201945
-1,Joe Ingles,32.0,0,5,0,2,2,2,0,5,8,1,0,4,2,2,australia,2019-09-05,lithuania,2019090545,First Round,201945
-2,Matthew Dellavedova,31.0,3,8,2,5,2,4,1,4,5,0,0,1,2,10,australia,2019-09-05,lithuania,2019090545,First Round,201945
-3,Aron Baynes,26.0,8,15,3,5,2,3,6,13,2,0,1,2,3,21,australia,2019-09-05,lithuania,2019090545,First Round,201945
-4,Jock Landale,22.0,4,7,2,4,0,0,1,3,0,0,0,1,0,10,australia,2019-09-05,lithuania,2019090545,First Round,201945
-5,Nicholas Kay,16.0,4,6,1,1,2,2,1,3,1,0,0,1,0,11,australia,2019-09-05,lithuania,2019090545,First Round,201945
-6,Andrew Bogut,14.0,2,3,0,0,0,0,0,4,0,0,0,1,5,4,australia,2019-09-05,lithuania,2019090545,First Round,201945
-7,Mitchell Creek,13.0,0,1,0,0,4,4,1,3,2,0,0,0,2,4,australia,2019-09-05,lithuania,2019090545,First Round,201945
-8,Chris Goulding,12.0,1,3,0,1,0,0,0,1,1,0,0,1,3,2,australia,2019-09-05,lithuania,2019090545,First Round,201945
-9,Totals,,30,64,11,26,16,19,10,38,21,2,1,13,18,87,australia,2019-09-05,lithuania,2019090545,First Round,201945
-0,Domantas Sabonis,26.0,4,6,0,0,4,4,3,4,4,0,1,0,3,12,lithuania,2019-09-05,australia,2019090545,First Round,201945
-1,Edgaras Ulanovas,24.0,2,7,0,1,2,2,2,4,2,0,0,0,2,6,lithuania,2019-09-05,australia,2019090545,First Round,201945
-2,Marius Grigonis,24.0,8,15,1,2,2,2,0,3,1,0,0,2,2,19,lithuania,2019-09-05,australia,2019090545,First Round,201945
-3,Jonas Valanciunas,23.0,2,5,0,0,3,4,1,7,0,0,2,1,2,7,lithuania,2019-09-05,australia,2019090545,First Round,201945
-4,Mantas Kalnietis,23.0,4,9,1,3,0,0,1,2,2,1,0,1,3,9,lithuania,2019-09-05,australia,2019090545,First Round,201945
-5,Renaldas Seibutis,17.0,4,7,0,0,0,0,0,1,1,0,0,0,2,8,lithuania,2019-09-05,australia,2019090545,First Round,201945
-6,Lukas Lekavicius,17.0,7,11,0,2,1,1,0,2,3,1,0,0,5,15,lithuania,2019-09-05,australia,2019090545,First Round,201945
-7,Jonas Maciulis,17.0,1,7,1,3,0,0,0,3,0,2,0,0,2,3,lithuania,2019-09-05,australia,2019090545,First Round,201945
-8,Arnas Butkevicius,14.0,0,0,0,0,0,0,0,2,0,0,0,1,1,0,lithuania,2019-09-05,australia,2019090545,First Round,201945
-9,Mindaugas Kuzminskas,10.0,1,2,1,2,0,2,1,1,0,0,0,1,1,3,lithuania,2019-09-05,australia,2019090545,First Round,201945
-10,Paulius Jankunas,4.0,0,3,0,2,0,0,0,1,1,0,0,0,0,0,lithuania,2019-09-05,australia,2019090545,First Round,201945
-11,Totals,,33,72,4,15,12,15,8,30,14,4,3,6,23,82,lithuania,2019-09-05,australia,2019090545,First Round,201945
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Patty Mills,35.0,8,16,3,8,4,4,0,2,2,1,0,2,1,23,australia,2019-09-05,lithuania,2019090545,First Round,201945,fiba-world-cup
+1,Joe Ingles,32.0,0,5,0,2,2,2,0,5,8,1,0,4,2,2,australia,2019-09-05,lithuania,2019090545,First Round,201945,fiba-world-cup
+2,Matthew Dellavedova,31.0,3,8,2,5,2,4,1,4,5,0,0,1,2,10,australia,2019-09-05,lithuania,2019090545,First Round,201945,fiba-world-cup
+3,Aron Baynes,26.0,8,15,3,5,2,3,6,13,2,0,1,2,3,21,australia,2019-09-05,lithuania,2019090545,First Round,201945,fiba-world-cup
+4,Jock Landale,22.0,4,7,2,4,0,0,1,3,0,0,0,1,0,10,australia,2019-09-05,lithuania,2019090545,First Round,201945,fiba-world-cup
+5,Nicholas Kay,16.0,4,6,1,1,2,2,1,3,1,0,0,1,0,11,australia,2019-09-05,lithuania,2019090545,First Round,201945,fiba-world-cup
+6,Andrew Bogut,14.0,2,3,0,0,0,0,0,4,0,0,0,1,5,4,australia,2019-09-05,lithuania,2019090545,First Round,201945,fiba-world-cup
+7,Mitchell Creek,13.0,0,1,0,0,4,4,1,3,2,0,0,0,2,4,australia,2019-09-05,lithuania,2019090545,First Round,201945,fiba-world-cup
+8,Chris Goulding,12.0,1,3,0,1,0,0,0,1,1,0,0,1,3,2,australia,2019-09-05,lithuania,2019090545,First Round,201945,fiba-world-cup
+9,Totals,,30,64,11,26,16,19,10,38,21,2,1,13,18,87,australia,2019-09-05,lithuania,2019090545,First Round,201945,fiba-world-cup
+0,Domantas Sabonis,26.0,4,6,0,0,4,4,3,4,4,0,1,0,3,12,lithuania,2019-09-05,australia,2019090545,First Round,201945,fiba-world-cup
+1,Edgaras Ulanovas,24.0,2,7,0,1,2,2,2,4,2,0,0,0,2,6,lithuania,2019-09-05,australia,2019090545,First Round,201945,fiba-world-cup
+2,Marius Grigonis,24.0,8,15,1,2,2,2,0,3,1,0,0,2,2,19,lithuania,2019-09-05,australia,2019090545,First Round,201945,fiba-world-cup
+3,Jonas Valanciunas,23.0,2,5,0,0,3,4,1,7,0,0,2,1,2,7,lithuania,2019-09-05,australia,2019090545,First Round,201945,fiba-world-cup
+4,Mantas Kalnietis,23.0,4,9,1,3,0,0,1,2,2,1,0,1,3,9,lithuania,2019-09-05,australia,2019090545,First Round,201945,fiba-world-cup
+5,Renaldas Seibutis,17.0,4,7,0,0,0,0,0,1,1,0,0,0,2,8,lithuania,2019-09-05,australia,2019090545,First Round,201945,fiba-world-cup
+6,Lukas Lekavicius,17.0,7,11,0,2,1,1,0,2,3,1,0,0,5,15,lithuania,2019-09-05,australia,2019090545,First Round,201945,fiba-world-cup
+7,Jonas Maciulis,17.0,1,7,1,3,0,0,0,3,0,2,0,0,2,3,lithuania,2019-09-05,australia,2019090545,First Round,201945,fiba-world-cup
+8,Arnas Butkevicius,14.0,0,0,0,0,0,0,0,2,0,0,0,1,1,0,lithuania,2019-09-05,australia,2019090545,First Round,201945,fiba-world-cup
+9,Mindaugas Kuzminskas,10.0,1,2,1,2,0,2,1,1,0,0,0,1,1,3,lithuania,2019-09-05,australia,2019090545,First Round,201945,fiba-world-cup
+10,Paulius Jankunas,4.0,0,3,0,2,0,0,0,1,1,0,0,0,0,0,lithuania,2019-09-05,australia,2019090545,First Round,201945,fiba-world-cup
+11,Totals,,33,72,4,15,12,15,8,30,14,4,3,6,23,82,lithuania,2019-09-05,australia,2019090545,First Round,201945,fiba-world-cup

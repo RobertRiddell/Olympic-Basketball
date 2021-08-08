@@ -1,27 +1,27 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Francisco Cruz,34,9,17,3,6,0,0,1,4,4,0,0,2,4,21,mexico,2014-08-30,lithuania,201408305,Group Play,20145
-1,Jorge Gutierrez,34,6,9,1,2,0,0,0,0,1,2,0,5,2,13,mexico,2014-08-30,lithuania,201408305,Group Play,20145
-2,Hector Hernandez,30,2,7,1,6,0,0,1,4,0,0,1,3,1,5,mexico,2014-08-30,lithuania,201408305,Group Play,20145
-3,Gustavo Ayon,26,6,10,0,0,0,0,2,6,2,1,0,1,4,12,mexico,2014-08-30,lithuania,201408305,Group Play,20145
-4,Marco Ramos,18,2,3,0,0,0,0,1,3,0,0,0,2,1,4,mexico,2014-08-30,lithuania,201408305,Group Play,20145
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,mexico,2014-08-30,lithuania,201408305,Group Play,20145
-6,Paul Stoll,16,3,7,1,5,0,0,1,5,3,2,0,3,1,7,mexico,2014-08-30,lithuania,201408305,Group Play,20145
-7,Adrian Zamora,15,2,2,0,0,0,0,0,0,0,0,0,1,2,4,mexico,2014-08-30,lithuania,201408305,Group Play,20145
-8,Orlando Mendez,10,0,0,0,0,2,2,0,0,0,0,0,0,1,2,mexico,2014-08-30,lithuania,201408305,Group Play,20145
-9,Adam Parada,8,2,3,0,0,0,0,0,0,0,0,0,0,1,4,mexico,2014-08-30,lithuania,201408305,Group Play,20145
-10,Roman Martinez,7,1,3,0,2,0,0,1,1,2,0,0,0,2,2,mexico,2014-08-30,lithuania,201408305,Group Play,20145
-11,David Meza,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,mexico,2014-08-30,lithuania,201408305,Group Play,20145
-12,Totals,,33,61,6,21,2,2,7,23,12,5,1,17,20,74,mexico,2014-08-30,lithuania,201408305,Group Play,20145
-0,Renaldas Seibutis,31,2,5,0,1,0,0,0,2,5,2,0,1,0,4,lithuania,2014-08-30,mexico,201408305,Group Play,20145
-1,Jonas Maciulis,26,7,11,4,4,1,2,1,2,0,1,0,4,3,19,lithuania,2014-08-30,mexico,201408305,Group Play,20145
-2,Jonas Valanciunas,22,8,8,0,0,1,2,3,5,1,0,1,2,2,17,lithuania,2014-08-30,mexico,201408305,Group Play,20145
-3,Donatas Motiejunas,21,7,12,1,3,0,0,1,4,0,0,1,1,0,15,lithuania,2014-08-30,mexico,201408305,Group Play,20145
-4,Sarunas Vasiliauskas,10,1,3,0,2,0,0,0,0,0,0,0,1,2,2,lithuania,2014-08-30,mexico,201408305,Group Play,20145
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,lithuania,2014-08-30,mexico,201408305,Group Play,20145
-6,Paulius Jankunas,24,1,4,0,2,2,2,0,2,1,0,1,0,1,4,lithuania,2014-08-30,mexico,201408305,Group Play,20145
-7,Adas Juskevicius,20,3,4,2,3,0,0,1,2,3,0,0,3,1,8,lithuania,2014-08-30,mexico,201408305,Group Play,20145
-8,Simas Jasaitis,19,3,6,2,3,1,2,0,1,3,0,0,0,1,9,lithuania,2014-08-30,mexico,201408305,Group Play,20145
-9,Darjus Lavrinovic,13,3,3,2,2,1,3,0,2,2,0,0,0,0,9,lithuania,2014-08-30,mexico,201408305,Group Play,20145
-10,Martynas Pocius,11,0,2,0,0,0,0,0,0,2,0,0,0,1,0,lithuania,2014-08-30,mexico,201408305,Group Play,20145
-11,Mindaugas Kuzminskas,3,0,0,0,0,0,0,0,0,0,0,0,2,1,0,lithuania,2014-08-30,mexico,201408305,Group Play,20145
-12,Totals,,35,58,11,20,6,11,6,20,17,3,3,14,12,87,lithuania,2014-08-30,mexico,201408305,Group Play,20145
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Francisco Cruz,34,9,17,3,6,0,0,1,4,4,0,0,2,4,21,mexico,2014-08-30,lithuania,201408305,Group Play,20145,fiba-world-cup
+1,Jorge Gutierrez,34,6,9,1,2,0,0,0,0,1,2,0,5,2,13,mexico,2014-08-30,lithuania,201408305,Group Play,20145,fiba-world-cup
+2,Hector Hernandez,30,2,7,1,6,0,0,1,4,0,0,1,3,1,5,mexico,2014-08-30,lithuania,201408305,Group Play,20145,fiba-world-cup
+3,Gustavo Ayon,26,6,10,0,0,0,0,2,6,2,1,0,1,4,12,mexico,2014-08-30,lithuania,201408305,Group Play,20145,fiba-world-cup
+4,Marco Ramos,18,2,3,0,0,0,0,1,3,0,0,0,2,1,4,mexico,2014-08-30,lithuania,201408305,Group Play,20145,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,mexico,2014-08-30,lithuania,201408305,Group Play,20145,fiba-world-cup
+6,Paul Stoll,16,3,7,1,5,0,0,1,5,3,2,0,3,1,7,mexico,2014-08-30,lithuania,201408305,Group Play,20145,fiba-world-cup
+7,Adrian Zamora,15,2,2,0,0,0,0,0,0,0,0,0,1,2,4,mexico,2014-08-30,lithuania,201408305,Group Play,20145,fiba-world-cup
+8,Orlando Mendez,10,0,0,0,0,2,2,0,0,0,0,0,0,1,2,mexico,2014-08-30,lithuania,201408305,Group Play,20145,fiba-world-cup
+9,Adam Parada,8,2,3,0,0,0,0,0,0,0,0,0,0,1,4,mexico,2014-08-30,lithuania,201408305,Group Play,20145,fiba-world-cup
+10,Roman Martinez,7,1,3,0,2,0,0,1,1,2,0,0,0,2,2,mexico,2014-08-30,lithuania,201408305,Group Play,20145,fiba-world-cup
+11,David Meza,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,mexico,2014-08-30,lithuania,201408305,Group Play,20145,fiba-world-cup
+12,Totals,,33,61,6,21,2,2,7,23,12,5,1,17,20,74,mexico,2014-08-30,lithuania,201408305,Group Play,20145,fiba-world-cup
+0,Renaldas Seibutis,31,2,5,0,1,0,0,0,2,5,2,0,1,0,4,lithuania,2014-08-30,mexico,201408305,Group Play,20145,fiba-world-cup
+1,Jonas Maciulis,26,7,11,4,4,1,2,1,2,0,1,0,4,3,19,lithuania,2014-08-30,mexico,201408305,Group Play,20145,fiba-world-cup
+2,Jonas Valanciunas,22,8,8,0,0,1,2,3,5,1,0,1,2,2,17,lithuania,2014-08-30,mexico,201408305,Group Play,20145,fiba-world-cup
+3,Donatas Motiejunas,21,7,12,1,3,0,0,1,4,0,0,1,1,0,15,lithuania,2014-08-30,mexico,201408305,Group Play,20145,fiba-world-cup
+4,Sarunas Vasiliauskas,10,1,3,0,2,0,0,0,0,0,0,0,1,2,2,lithuania,2014-08-30,mexico,201408305,Group Play,20145,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,lithuania,2014-08-30,mexico,201408305,Group Play,20145,fiba-world-cup
+6,Paulius Jankunas,24,1,4,0,2,2,2,0,2,1,0,1,0,1,4,lithuania,2014-08-30,mexico,201408305,Group Play,20145,fiba-world-cup
+7,Adas Juskevicius,20,3,4,2,3,0,0,1,2,3,0,0,3,1,8,lithuania,2014-08-30,mexico,201408305,Group Play,20145,fiba-world-cup
+8,Simas Jasaitis,19,3,6,2,3,1,2,0,1,3,0,0,0,1,9,lithuania,2014-08-30,mexico,201408305,Group Play,20145,fiba-world-cup
+9,Darjus Lavrinovic,13,3,3,2,2,1,3,0,2,2,0,0,0,0,9,lithuania,2014-08-30,mexico,201408305,Group Play,20145,fiba-world-cup
+10,Martynas Pocius,11,0,2,0,0,0,0,0,0,2,0,0,0,1,0,lithuania,2014-08-30,mexico,201408305,Group Play,20145,fiba-world-cup
+11,Mindaugas Kuzminskas,3,0,0,0,0,0,0,0,0,0,0,0,2,1,0,lithuania,2014-08-30,mexico,201408305,Group Play,20145,fiba-world-cup
+12,Totals,,35,58,11,20,6,11,6,20,17,3,3,14,12,87,lithuania,2014-08-30,mexico,201408305,Group Play,20145,fiba-world-cup

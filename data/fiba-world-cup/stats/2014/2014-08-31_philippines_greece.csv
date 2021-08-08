@@ -1,28 +1,28 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Andray Blatche,33,6,18,0,3,9,11,0,14,1,3,0,3,2,21,philippines,2014-08-31,greece,2014083117,Group Play,201417
-1,Marc Pingris,26,3,5,0,0,1,3,1,6,1,1,0,1,3,7,philippines,2014-08-31,greece,2014083117,Group Play,201417
-2,Gabe Norwood,25,2,5,1,3,0,0,0,2,2,0,0,0,3,5,philippines,2014-08-31,greece,2014083117,Group Play,201417
-3,Jeff Chan,21,1,7,1,5,0,0,0,1,0,0,0,0,2,3,philippines,2014-08-31,greece,2014083117,Group Play,201417
-4,Lewis Tenorio,13,1,2,1,1,0,0,0,2,2,2,0,1,3,3,philippines,2014-08-31,greece,2014083117,Group Play,201417
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,philippines,2014-08-31,greece,2014083117,Group Play,201417
-6,Ranidel De Ocampo,21,2,6,0,2,0,0,0,4,0,0,0,1,3,4,philippines,2014-08-31,greece,2014083117,Group Play,201417
-7,Paul Lee,15,2,7,1,3,0,0,0,1,0,1,0,1,5,5,philippines,2014-08-31,greece,2014083117,Group Play,201417
-8,Jim Alapag,15,1,4,1,3,0,0,0,0,3,0,0,2,1,3,philippines,2014-08-31,greece,2014083117,Group Play,201417
-9,June Mar Fajardo,10,3,5,0,0,4,4,4,7,0,1,2,1,0,10,philippines,2014-08-31,greece,2014083117,Group Play,201417
-10,Jayson Castro William,9,1,6,1,2,2,2,0,0,1,0,0,0,2,5,philippines,2014-08-31,greece,2014083117,Group Play,201417
-11,Gary David,7,1,1,0,0,0,0,0,0,0,0,0,1,1,2,philippines,2014-08-31,greece,2014083117,Group Play,201417
-12,Japeth Aguilar,5,1,2,0,0,0,0,1,2,0,0,0,0,0,2,philippines,2014-08-31,greece,2014083117,Group Play,201417
-13,Totals,,24,68,6,22,16,20,6,39,10,8,2,11,25,70,philippines,2014-08-31,greece,2014083117,Group Play,201417
-0,Ioannis Bourousis,27,5,10,0,1,2,2,3,10,1,3,3,2,3,12,greece,2014-08-31,philippines,2014083117,Group Play,201417
-1,Giorgos Printezis,26,11,19,1,4,2,4,1,8,0,1,1,2,3,25,greece,2014-08-31,philippines,2014083117,Group Play,201417
-2,Nikos Zisis,26,3,6,0,1,2,3,0,2,2,1,0,1,2,8,greece,2014-08-31,philippines,2014083117,Group Play,201417
-3,Nick Calathes,23,3,9,1,2,2,3,0,2,2,0,1,3,2,9,greece,2014-08-31,philippines,2014083117,Group Play,201417
-4,Kostas Papanikolaou,21,2,5,0,2,5,9,1,6,4,0,3,3,3,9,greece,2014-08-31,philippines,2014083117,Group Play,201417
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,greece,2014-08-31,philippines,2014083117,Group Play,201417
-6,Kostas Vasileiadis,22,2,6,2,6,0,0,1,3,1,0,0,0,0,6,greece,2014-08-31,philippines,2014083117,Group Play,201417
-7,Kostas Kaimakoglou,20,1,3,1,2,2,2,2,5,0,0,0,0,1,5,greece,2014-08-31,philippines,2014083117,Group Play,201417
-8,Giannis Antetokounmpo,14,0,3,0,3,3,4,0,6,0,0,0,0,0,3,greece,2014-08-31,philippines,2014083117,Group Play,201417
-9,Kostas Sloukas,9,1,1,0,0,1,1,0,0,2,0,0,0,2,3,greece,2014-08-31,philippines,2014083117,Group Play,201417
-10,Vangelis Mantzaris,7,0,1,0,1,0,0,0,0,2,1,0,0,1,0,greece,2014-08-31,philippines,2014083117,Group Play,201417
-11,Ian Vouyoukas,5,0,2,0,0,2,2,1,1,0,0,0,0,2,2,greece,2014-08-31,philippines,2014083117,Group Play,201417
-12,Totals,,28,65,5,22,21,30,9,43,14,6,8,11,19,82,greece,2014-08-31,philippines,2014083117,Group Play,201417
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Andray Blatche,33,6,18,0,3,9,11,0,14,1,3,0,3,2,21,philippines,2014-08-31,greece,2014083117,Group Play,201417,fiba-world-cup
+1,Marc Pingris,26,3,5,0,0,1,3,1,6,1,1,0,1,3,7,philippines,2014-08-31,greece,2014083117,Group Play,201417,fiba-world-cup
+2,Gabe Norwood,25,2,5,1,3,0,0,0,2,2,0,0,0,3,5,philippines,2014-08-31,greece,2014083117,Group Play,201417,fiba-world-cup
+3,Jeff Chan,21,1,7,1,5,0,0,0,1,0,0,0,0,2,3,philippines,2014-08-31,greece,2014083117,Group Play,201417,fiba-world-cup
+4,Lewis Tenorio,13,1,2,1,1,0,0,0,2,2,2,0,1,3,3,philippines,2014-08-31,greece,2014083117,Group Play,201417,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,philippines,2014-08-31,greece,2014083117,Group Play,201417,fiba-world-cup
+6,Ranidel De Ocampo,21,2,6,0,2,0,0,0,4,0,0,0,1,3,4,philippines,2014-08-31,greece,2014083117,Group Play,201417,fiba-world-cup
+7,Paul Lee,15,2,7,1,3,0,0,0,1,0,1,0,1,5,5,philippines,2014-08-31,greece,2014083117,Group Play,201417,fiba-world-cup
+8,Jim Alapag,15,1,4,1,3,0,0,0,0,3,0,0,2,1,3,philippines,2014-08-31,greece,2014083117,Group Play,201417,fiba-world-cup
+9,June Mar Fajardo,10,3,5,0,0,4,4,4,7,0,1,2,1,0,10,philippines,2014-08-31,greece,2014083117,Group Play,201417,fiba-world-cup
+10,Jayson Castro William,9,1,6,1,2,2,2,0,0,1,0,0,0,2,5,philippines,2014-08-31,greece,2014083117,Group Play,201417,fiba-world-cup
+11,Gary David,7,1,1,0,0,0,0,0,0,0,0,0,1,1,2,philippines,2014-08-31,greece,2014083117,Group Play,201417,fiba-world-cup
+12,Japeth Aguilar,5,1,2,0,0,0,0,1,2,0,0,0,0,0,2,philippines,2014-08-31,greece,2014083117,Group Play,201417,fiba-world-cup
+13,Totals,,24,68,6,22,16,20,6,39,10,8,2,11,25,70,philippines,2014-08-31,greece,2014083117,Group Play,201417,fiba-world-cup
+0,Ioannis Bourousis,27,5,10,0,1,2,2,3,10,1,3,3,2,3,12,greece,2014-08-31,philippines,2014083117,Group Play,201417,fiba-world-cup
+1,Giorgos Printezis,26,11,19,1,4,2,4,1,8,0,1,1,2,3,25,greece,2014-08-31,philippines,2014083117,Group Play,201417,fiba-world-cup
+2,Nikos Zisis,26,3,6,0,1,2,3,0,2,2,1,0,1,2,8,greece,2014-08-31,philippines,2014083117,Group Play,201417,fiba-world-cup
+3,Nick Calathes,23,3,9,1,2,2,3,0,2,2,0,1,3,2,9,greece,2014-08-31,philippines,2014083117,Group Play,201417,fiba-world-cup
+4,Kostas Papanikolaou,21,2,5,0,2,5,9,1,6,4,0,3,3,3,9,greece,2014-08-31,philippines,2014083117,Group Play,201417,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,greece,2014-08-31,philippines,2014083117,Group Play,201417,fiba-world-cup
+6,Kostas Vasileiadis,22,2,6,2,6,0,0,1,3,1,0,0,0,0,6,greece,2014-08-31,philippines,2014083117,Group Play,201417,fiba-world-cup
+7,Kostas Kaimakoglou,20,1,3,1,2,2,2,2,5,0,0,0,0,1,5,greece,2014-08-31,philippines,2014083117,Group Play,201417,fiba-world-cup
+8,Giannis Antetokounmpo,14,0,3,0,3,3,4,0,6,0,0,0,0,0,3,greece,2014-08-31,philippines,2014083117,Group Play,201417,fiba-world-cup
+9,Kostas Sloukas,9,1,1,0,0,1,1,0,0,2,0,0,0,2,3,greece,2014-08-31,philippines,2014083117,Group Play,201417,fiba-world-cup
+10,Vangelis Mantzaris,7,0,1,0,1,0,0,0,0,2,1,0,0,1,0,greece,2014-08-31,philippines,2014083117,Group Play,201417,fiba-world-cup
+11,Ian Vouyoukas,5,0,2,0,0,2,2,1,1,0,0,0,0,2,2,greece,2014-08-31,philippines,2014083117,Group Play,201417,fiba-world-cup
+12,Totals,,28,65,5,22,21,30,9,43,14,6,8,11,19,82,greece,2014-08-31,philippines,2014083117,Group Play,201417,fiba-world-cup

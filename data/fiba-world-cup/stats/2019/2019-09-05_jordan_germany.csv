@@ -1,27 +1,27 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Ahmet Duverioglu,35.0,6,12,0,0,5,7,2,8,1,2,0,0,1,17,jordan,2019-09-05,germany,2019090543,First Round,201943
-1,Dar Tucker,32.0,4,13,2,6,4,4,1,4,0,0,0,4,2,14,jordan,2019-09-05,germany,2019090543,First Round,201943
-2,Ahmed Hamarsha,24.0,1,4,1,3,0,0,0,1,1,2,0,0,1,3,jordan,2019-09-05,germany,2019090543,First Round,201943
-3,Fadi Ibrahim,21.0,4,8,3,4,0,0,0,2,1,1,1,2,1,11,jordan,2019-09-05,germany,2019090543,First Round,201943
-4,Zaid Abbas,20.0,2,6,0,2,0,2,3,4,3,1,0,2,3,4,jordan,2019-09-05,germany,2019090543,First Round,201943
-5,Mahmoud Abdeen,19.0,1,4,0,2,0,0,0,1,3,1,0,2,0,2,jordan,2019-09-05,germany,2019090543,First Round,201943
-6,Mousa Al-Awadi,17.0,1,3,1,2,0,0,1,4,2,1,0,1,1,3,jordan,2019-09-05,germany,2019090543,First Round,201943
-7,Mohammad Shaher,13.0,1,6,0,0,2,3,1,1,1,1,0,1,1,4,jordan,2019-09-05,germany,2019090543,First Round,201943
-8,Jordan Dasuqi,7.0,0,1,0,1,0,0,0,1,0,0,0,1,1,0,jordan,2019-09-05,germany,2019090543,First Round,201943
-9,Yousef Abuwazaneh,4.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,jordan,2019-09-05,germany,2019090543,First Round,201943
-10,Amin Abu Hawwas,4.0,1,2,0,0,0,0,0,0,0,0,0,0,0,2,jordan,2019-09-05,germany,2019090543,First Round,201943
-11,Ahmed Obeid,4.0,1,1,0,0,0,0,0,0,0,0,0,0,1,2,jordan,2019-09-05,germany,2019090543,First Round,201943
-12,Totals,,22,60,7,20,11,16,8,26,12,9,1,14,12,62,jordan,2019-09-05,germany,2019090543,First Round,201943
-0,Dennis Schroder,24.0,4,6,2,2,0,0,0,0,11,1,0,2,0,10,germany,2019-09-05,jordan,2019090543,First Round,201943
-1,Ismet Akpinar,24.0,3,7,1,2,0,0,1,4,0,1,0,1,1,7,germany,2019-09-05,jordan,2019090543,First Round,201943
-2,Paul Zipser,23.0,5,8,2,3,0,0,0,3,2,2,0,0,1,12,germany,2019-09-05,jordan,2019090543,First Round,201943
-3,Maxi Kleber,22.0,7,11,3,6,1,1,1,3,1,1,1,1,1,18,germany,2019-09-05,jordan,2019090543,First Round,201943
-4,Maodo Lo,22.0,3,5,1,3,0,0,0,2,6,2,0,1,3,7,germany,2019-09-05,jordan,2019090543,First Round,201943
-5,Johannes Voigtmann,19.0,3,4,2,3,0,0,0,3,3,0,2,3,3,8,germany,2019-09-05,jordan,2019090543,First Round,201943
-6,Danilo Barthel,18.0,6,9,1,3,0,0,0,5,0,1,2,1,2,13,germany,2019-09-05,jordan,2019090543,First Round,201943
-7,Robin Benzing,17.0,1,6,1,5,0,0,2,5,3,0,1,1,2,3,germany,2019-09-05,jordan,2019090543,First Round,201943
-8,Daniel Theis,13.0,3,3,1,1,0,0,1,4,1,0,0,0,3,7,germany,2019-09-05,jordan,2019090543,First Round,201943
-9,Johannes Thiemann,8.0,2,3,0,0,1,1,1,3,0,0,0,2,1,5,germany,2019-09-05,jordan,2019090543,First Round,201943
-10,Andreas Obst,5.0,2,3,2,3,0,0,0,0,1,0,0,0,0,6,germany,2019-09-05,jordan,2019090543,First Round,201943
-11,Niels Giffey,5.0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,germany,2019-09-05,jordan,2019090543,First Round,201943
-12,Totals,,39,66,16,31,2,2,6,32,29,8,6,13,18,96,germany,2019-09-05,jordan,2019090543,First Round,201943
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Ahmet Duverioglu,35.0,6,12,0,0,5,7,2,8,1,2,0,0,1,17,jordan,2019-09-05,germany,2019090543,First Round,201943,fiba-world-cup
+1,Dar Tucker,32.0,4,13,2,6,4,4,1,4,0,0,0,4,2,14,jordan,2019-09-05,germany,2019090543,First Round,201943,fiba-world-cup
+2,Ahmed Hamarsha,24.0,1,4,1,3,0,0,0,1,1,2,0,0,1,3,jordan,2019-09-05,germany,2019090543,First Round,201943,fiba-world-cup
+3,Fadi Ibrahim,21.0,4,8,3,4,0,0,0,2,1,1,1,2,1,11,jordan,2019-09-05,germany,2019090543,First Round,201943,fiba-world-cup
+4,Zaid Abbas,20.0,2,6,0,2,0,2,3,4,3,1,0,2,3,4,jordan,2019-09-05,germany,2019090543,First Round,201943,fiba-world-cup
+5,Mahmoud Abdeen,19.0,1,4,0,2,0,0,0,1,3,1,0,2,0,2,jordan,2019-09-05,germany,2019090543,First Round,201943,fiba-world-cup
+6,Mousa Al-Awadi,17.0,1,3,1,2,0,0,1,4,2,1,0,1,1,3,jordan,2019-09-05,germany,2019090543,First Round,201943,fiba-world-cup
+7,Mohammad Shaher,13.0,1,6,0,0,2,3,1,1,1,1,0,1,1,4,jordan,2019-09-05,germany,2019090543,First Round,201943,fiba-world-cup
+8,Jordan Dasuqi,7.0,0,1,0,1,0,0,0,1,0,0,0,1,1,0,jordan,2019-09-05,germany,2019090543,First Round,201943,fiba-world-cup
+9,Yousef Abuwazaneh,4.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,jordan,2019-09-05,germany,2019090543,First Round,201943,fiba-world-cup
+10,Amin Abu Hawwas,4.0,1,2,0,0,0,0,0,0,0,0,0,0,0,2,jordan,2019-09-05,germany,2019090543,First Round,201943,fiba-world-cup
+11,Ahmed Obeid,4.0,1,1,0,0,0,0,0,0,0,0,0,0,1,2,jordan,2019-09-05,germany,2019090543,First Round,201943,fiba-world-cup
+12,Totals,,22,60,7,20,11,16,8,26,12,9,1,14,12,62,jordan,2019-09-05,germany,2019090543,First Round,201943,fiba-world-cup
+0,Dennis Schroder,24.0,4,6,2,2,0,0,0,0,11,1,0,2,0,10,germany,2019-09-05,jordan,2019090543,First Round,201943,fiba-world-cup
+1,Ismet Akpinar,24.0,3,7,1,2,0,0,1,4,0,1,0,1,1,7,germany,2019-09-05,jordan,2019090543,First Round,201943,fiba-world-cup
+2,Paul Zipser,23.0,5,8,2,3,0,0,0,3,2,2,0,0,1,12,germany,2019-09-05,jordan,2019090543,First Round,201943,fiba-world-cup
+3,Maxi Kleber,22.0,7,11,3,6,1,1,1,3,1,1,1,1,1,18,germany,2019-09-05,jordan,2019090543,First Round,201943,fiba-world-cup
+4,Maodo Lo,22.0,3,5,1,3,0,0,0,2,6,2,0,1,3,7,germany,2019-09-05,jordan,2019090543,First Round,201943,fiba-world-cup
+5,Johannes Voigtmann,19.0,3,4,2,3,0,0,0,3,3,0,2,3,3,8,germany,2019-09-05,jordan,2019090543,First Round,201943,fiba-world-cup
+6,Danilo Barthel,18.0,6,9,1,3,0,0,0,5,0,1,2,1,2,13,germany,2019-09-05,jordan,2019090543,First Round,201943,fiba-world-cup
+7,Robin Benzing,17.0,1,6,1,5,0,0,2,5,3,0,1,1,2,3,germany,2019-09-05,jordan,2019090543,First Round,201943,fiba-world-cup
+8,Daniel Theis,13.0,3,3,1,1,0,0,1,4,1,0,0,0,3,7,germany,2019-09-05,jordan,2019090543,First Round,201943,fiba-world-cup
+9,Johannes Thiemann,8.0,2,3,0,0,1,1,1,3,0,0,0,2,1,5,germany,2019-09-05,jordan,2019090543,First Round,201943,fiba-world-cup
+10,Andreas Obst,5.0,2,3,2,3,0,0,0,0,1,0,0,0,0,6,germany,2019-09-05,jordan,2019090543,First Round,201943,fiba-world-cup
+11,Niels Giffey,5.0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,germany,2019-09-05,jordan,2019090543,First Round,201943,fiba-world-cup
+12,Totals,,39,66,16,31,2,2,6,32,29,8,6,13,18,96,germany,2019-09-05,jordan,2019090543,First Round,201943,fiba-world-cup

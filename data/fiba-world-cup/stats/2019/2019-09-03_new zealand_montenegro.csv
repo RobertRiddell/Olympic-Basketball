@@ -1,25 +1,25 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Tai Webster,28.0,4,12,0,5,3,3,0,4,5,1,0,5,3,11,new zealand,2019-09-03,montenegro,2019090330,First Round,201930
-1,Corey Webster,27.0,7,12,6,8,5,6,1,6,7,1,0,3,2,25,new zealand,2019-09-03,montenegro,2019090330,First Round,201930
-2,Rob Loe,27.0,3,6,2,4,2,2,2,4,1,0,0,4,4,10,new zealand,2019-09-03,montenegro,2019090330,First Round,201930
-3,Thomas Abercrombie,27.0,1,5,1,2,1,2,1,5,0,1,0,0,2,4,new zealand,2019-09-03,montenegro,2019090330,First Round,201930
-4,Isaac Fotu,25.0,7,10,0,1,6,10,1,7,2,0,0,1,3,20,new zealand,2019-09-03,montenegro,2019090330,First Round,201930
-5,Shea Ili,21.0,2,6,0,0,6,6,0,3,6,2,0,2,4,10,new zealand,2019-09-03,montenegro,2019090330,First Round,201930
-6,Tohi Smith-Milner,15.0,2,5,1,3,0,0,2,2,1,3,1,0,0,5,new zealand,2019-09-03,montenegro,2019090330,First Round,201930
-7,Jordan Ngatai,13.0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,new zealand,2019-09-03,montenegro,2019090330,First Round,201930
-8,Finn Delaney,6.0,0,2,0,1,2,2,1,1,0,0,0,1,2,2,new zealand,2019-09-03,montenegro,2019090330,First Round,201930
-9,Ethan Rusbatch,6.0,2,2,1,1,1,2,1,2,0,0,0,0,3,6,new zealand,2019-09-03,montenegro,2019090330,First Round,201930
-10,Alex Pledger,5.0,0,1,0,0,0,0,1,2,0,0,0,0,0,0,new zealand,2019-09-03,montenegro,2019090330,First Round,201930
-11,Totals,,28,62,11,25,26,33,10,36,22,8,1,16,24,93,new zealand,2019-09-03,montenegro,2019090330,First Round,201930
-0,Nikola Ivanovic,34.0,6,14,2,10,4,4,1,2,7,3,0,1,4,18,montenegro,2019-09-03,new zealand,2019090330,First Round,201930
-1,Bojan Dubljevic,34.0,3,9,1,7,6,8,5,12,4,4,0,5,3,13,montenegro,2019-09-03,new zealand,2019090330,First Round,201930
-2,Suad Sehovic,31.0,1,4,1,4,3,3,0,2,1,0,0,1,2,6,montenegro,2019-09-03,new zealand,2019090330,First Round,201930
-3,Petar Popovic,30.0,6,15,1,4,0,0,1,4,1,1,0,2,4,13,montenegro,2019-09-03,new zealand,2019090330,First Round,201930
-4,Nikola Vucevic,27.0,5,11,1,2,4,5,0,9,0,0,1,1,2,15,montenegro,2019-09-03,new zealand,2019090330,First Round,201930
-5,Milko Bjelica,16.0,3,8,1,4,2,2,0,1,0,0,1,0,4,9,montenegro,2019-09-03,new zealand,2019090330,First Round,201930
-6,Derek Needham,13.0,2,6,2,5,0,0,0,1,2,1,0,2,4,6,montenegro,2019-09-03,new zealand,2019090330,First Round,201930
-7,Dino Radoncic,7.0,1,2,1,1,0,0,3,4,0,0,0,2,1,3,montenegro,2019-09-03,new zealand,2019090330,First Round,201930
-8,Marko Todorovic,4.0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,montenegro,2019-09-03,new zealand,2019090330,First Round,201930
-9,Aleksa Popovic,3.0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,montenegro,2019-09-03,new zealand,2019090330,First Round,201930
-10,Sead Sehovic,3.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,montenegro,2019-09-03,new zealand,2019090330,First Round,201930
-11,Totals,,27,70,10,38,19,22,10,35,17,11,2,14,27,83,montenegro,2019-09-03,new zealand,2019090330,First Round,201930
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Tai Webster,28.0,4,12,0,5,3,3,0,4,5,1,0,5,3,11,new zealand,2019-09-03,montenegro,2019090330,First Round,201930,fiba-world-cup
+1,Corey Webster,27.0,7,12,6,8,5,6,1,6,7,1,0,3,2,25,new zealand,2019-09-03,montenegro,2019090330,First Round,201930,fiba-world-cup
+2,Rob Loe,27.0,3,6,2,4,2,2,2,4,1,0,0,4,4,10,new zealand,2019-09-03,montenegro,2019090330,First Round,201930,fiba-world-cup
+3,Thomas Abercrombie,27.0,1,5,1,2,1,2,1,5,0,1,0,0,2,4,new zealand,2019-09-03,montenegro,2019090330,First Round,201930,fiba-world-cup
+4,Isaac Fotu,25.0,7,10,0,1,6,10,1,7,2,0,0,1,3,20,new zealand,2019-09-03,montenegro,2019090330,First Round,201930,fiba-world-cup
+5,Shea Ili,21.0,2,6,0,0,6,6,0,3,6,2,0,2,4,10,new zealand,2019-09-03,montenegro,2019090330,First Round,201930,fiba-world-cup
+6,Tohi Smith-Milner,15.0,2,5,1,3,0,0,2,2,1,3,1,0,0,5,new zealand,2019-09-03,montenegro,2019090330,First Round,201930,fiba-world-cup
+7,Jordan Ngatai,13.0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,new zealand,2019-09-03,montenegro,2019090330,First Round,201930,fiba-world-cup
+8,Finn Delaney,6.0,0,2,0,1,2,2,1,1,0,0,0,1,2,2,new zealand,2019-09-03,montenegro,2019090330,First Round,201930,fiba-world-cup
+9,Ethan Rusbatch,6.0,2,2,1,1,1,2,1,2,0,0,0,0,3,6,new zealand,2019-09-03,montenegro,2019090330,First Round,201930,fiba-world-cup
+10,Alex Pledger,5.0,0,1,0,0,0,0,1,2,0,0,0,0,0,0,new zealand,2019-09-03,montenegro,2019090330,First Round,201930,fiba-world-cup
+11,Totals,,28,62,11,25,26,33,10,36,22,8,1,16,24,93,new zealand,2019-09-03,montenegro,2019090330,First Round,201930,fiba-world-cup
+0,Nikola Ivanovic,34.0,6,14,2,10,4,4,1,2,7,3,0,1,4,18,montenegro,2019-09-03,new zealand,2019090330,First Round,201930,fiba-world-cup
+1,Bojan Dubljevic,34.0,3,9,1,7,6,8,5,12,4,4,0,5,3,13,montenegro,2019-09-03,new zealand,2019090330,First Round,201930,fiba-world-cup
+2,Suad Sehovic,31.0,1,4,1,4,3,3,0,2,1,0,0,1,2,6,montenegro,2019-09-03,new zealand,2019090330,First Round,201930,fiba-world-cup
+3,Petar Popovic,30.0,6,15,1,4,0,0,1,4,1,1,0,2,4,13,montenegro,2019-09-03,new zealand,2019090330,First Round,201930,fiba-world-cup
+4,Nikola Vucevic,27.0,5,11,1,2,4,5,0,9,0,0,1,1,2,15,montenegro,2019-09-03,new zealand,2019090330,First Round,201930,fiba-world-cup
+5,Milko Bjelica,16.0,3,8,1,4,2,2,0,1,0,0,1,0,4,9,montenegro,2019-09-03,new zealand,2019090330,First Round,201930,fiba-world-cup
+6,Derek Needham,13.0,2,6,2,5,0,0,0,1,2,1,0,2,4,6,montenegro,2019-09-03,new zealand,2019090330,First Round,201930,fiba-world-cup
+7,Dino Radoncic,7.0,1,2,1,1,0,0,3,4,0,0,0,2,1,3,montenegro,2019-09-03,new zealand,2019090330,First Round,201930,fiba-world-cup
+8,Marko Todorovic,4.0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,montenegro,2019-09-03,new zealand,2019090330,First Round,201930,fiba-world-cup
+9,Aleksa Popovic,3.0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,montenegro,2019-09-03,new zealand,2019090330,First Round,201930,fiba-world-cup
+10,Sead Sehovic,3.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,montenegro,2019-09-03,new zealand,2019090330,First Round,201930,fiba-world-cup
+11,Totals,,27,70,10,38,19,22,10,35,17,11,2,14,27,83,montenegro,2019-09-03,new zealand,2019090330,First Round,201930,fiba-world-cup

@@ -1,25 +1,25 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Sergei Monia,38,6,13,4,8,0,0,0,7,4,0,1,1,1,16,russia,2010-08-28,puerto-rico,201008287,Group Play,20107
-1,Sergey Bykov,30,1,3,0,1,1,2,1,2,3,1,0,1,4,3,russia,2010-08-28,puerto-rico,201008287,Group Play,20107
-2,Anton Ponkrashov,29,0,5,0,5,10,10,0,2,11,1,1,2,1,10,russia,2010-08-28,puerto-rico,201008287,Group Play,20107
-3,Vitaly Fridzon,25,3,11,1,5,2,2,2,6,2,0,0,0,3,9,russia,2010-08-28,puerto-rico,201008287,Group Play,20107
-4,Sasha Kaun,19,3,5,0,0,7,12,2,8,0,0,0,1,4,13,russia,2010-08-28,puerto-rico,201008287,Group Play,20107
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,russia,2010-08-28,puerto-rico,201008287,Group Play,20107
-6,Andrey Vorontsevich,24,3,9,0,2,2,2,3,9,1,0,0,0,1,8,russia,2010-08-28,puerto-rico,201008287,Group Play,20107
-7,Timofey Mozgov,20,5,8,0,0,3,4,0,2,0,0,1,3,3,13,russia,2010-08-28,puerto-rico,201008287,Group Play,20107
-8,Evgeny Voronov,11,1,3,1,1,0,0,1,1,0,0,0,0,1,3,russia,2010-08-28,puerto-rico,201008287,Group Play,20107
-9,Evgeny Kolesnikov,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,russia,2010-08-28,puerto-rico,201008287,Group Play,20107
-10,Dimitriy Khvostov,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,russia,2010-08-28,puerto-rico,201008287,Group Play,20107
-11,Totals,,22,57,6,22,25,32,9,37,21,2,3,8,19,75,russia,2010-08-28,puerto-rico,201008287,Group Play,20107
-0,J.J. Barea,33,9,17,2,7,5,6,0,4,4,0,0,2,2,25,puerto-rico,2010-08-28,russia,201008287,Group Play,20107
-1,Peter John Ramos,29,7,14,0,0,1,1,2,9,0,0,1,0,4,15,puerto-rico,2010-08-28,russia,201008287,Group Play,20107
-2,Carlos Arroyo,28,2,7,0,2,0,0,1,2,1,0,0,2,2,4,puerto-rico,2010-08-28,russia,201008287,Group Play,20107
-3,Carmelo Lee,24,0,3,0,2,0,0,3,3,0,0,0,0,3,0,puerto-rico,2010-08-28,russia,201008287,Group Play,20107
-4,Nathan Peavy,20,2,6,0,1,3,4,0,3,0,1,0,3,3,7,puerto-rico,2010-08-28,russia,201008287,Group Play,20107
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,puerto-rico,2010-08-28,russia,201008287,Group Play,20107
-6,Angel Daniel Vassallo,25,3,10,2,7,5,6,0,2,4,1,0,1,4,13,puerto-rico,2010-08-28,russia,201008287,Group Play,20107
-7,Renaldo Balkman,20,0,1,0,0,0,2,0,3,1,0,0,0,4,0,puerto-rico,2010-08-28,russia,201008287,Group Play,20107
-8,Daniel Santiago,11,0,0,0,0,0,0,0,3,0,1,1,3,2,0,puerto-rico,2010-08-28,russia,201008287,Group Play,20107
-9,Guillermo Diaz,10,1,4,0,2,0,0,0,2,0,1,1,0,1,2,puerto-rico,2010-08-28,russia,201008287,Group Play,20107
-10,David Huertas,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,puerto-rico,2010-08-28,russia,201008287,Group Play,20107
-11,Totals,,24,62,4,21,14,19,6,31,10,4,3,11,26,66,puerto-rico,2010-08-28,russia,201008287,Group Play,20107
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Sergei Monia,38,6,13,4,8,0,0,0,7,4,0,1,1,1,16,russia,2010-08-28,puerto-rico,201008287,Group Play,20107,fiba-world-cup
+1,Sergey Bykov,30,1,3,0,1,1,2,1,2,3,1,0,1,4,3,russia,2010-08-28,puerto-rico,201008287,Group Play,20107,fiba-world-cup
+2,Anton Ponkrashov,29,0,5,0,5,10,10,0,2,11,1,1,2,1,10,russia,2010-08-28,puerto-rico,201008287,Group Play,20107,fiba-world-cup
+3,Vitaly Fridzon,25,3,11,1,5,2,2,2,6,2,0,0,0,3,9,russia,2010-08-28,puerto-rico,201008287,Group Play,20107,fiba-world-cup
+4,Sasha Kaun,19,3,5,0,0,7,12,2,8,0,0,0,1,4,13,russia,2010-08-28,puerto-rico,201008287,Group Play,20107,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,russia,2010-08-28,puerto-rico,201008287,Group Play,20107,fiba-world-cup
+6,Andrey Vorontsevich,24,3,9,0,2,2,2,3,9,1,0,0,0,1,8,russia,2010-08-28,puerto-rico,201008287,Group Play,20107,fiba-world-cup
+7,Timofey Mozgov,20,5,8,0,0,3,4,0,2,0,0,1,3,3,13,russia,2010-08-28,puerto-rico,201008287,Group Play,20107,fiba-world-cup
+8,Evgeny Voronov,11,1,3,1,1,0,0,1,1,0,0,0,0,1,3,russia,2010-08-28,puerto-rico,201008287,Group Play,20107,fiba-world-cup
+9,Evgeny Kolesnikov,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,russia,2010-08-28,puerto-rico,201008287,Group Play,20107,fiba-world-cup
+10,Dimitriy Khvostov,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,russia,2010-08-28,puerto-rico,201008287,Group Play,20107,fiba-world-cup
+11,Totals,,22,57,6,22,25,32,9,37,21,2,3,8,19,75,russia,2010-08-28,puerto-rico,201008287,Group Play,20107,fiba-world-cup
+0,J.J. Barea,33,9,17,2,7,5,6,0,4,4,0,0,2,2,25,puerto-rico,2010-08-28,russia,201008287,Group Play,20107,fiba-world-cup
+1,Peter John Ramos,29,7,14,0,0,1,1,2,9,0,0,1,0,4,15,puerto-rico,2010-08-28,russia,201008287,Group Play,20107,fiba-world-cup
+2,Carlos Arroyo,28,2,7,0,2,0,0,1,2,1,0,0,2,2,4,puerto-rico,2010-08-28,russia,201008287,Group Play,20107,fiba-world-cup
+3,Carmelo Lee,24,0,3,0,2,0,0,3,3,0,0,0,0,3,0,puerto-rico,2010-08-28,russia,201008287,Group Play,20107,fiba-world-cup
+4,Nathan Peavy,20,2,6,0,1,3,4,0,3,0,1,0,3,3,7,puerto-rico,2010-08-28,russia,201008287,Group Play,20107,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,puerto-rico,2010-08-28,russia,201008287,Group Play,20107,fiba-world-cup
+6,Angel Daniel Vassallo,25,3,10,2,7,5,6,0,2,4,1,0,1,4,13,puerto-rico,2010-08-28,russia,201008287,Group Play,20107,fiba-world-cup
+7,Renaldo Balkman,20,0,1,0,0,0,2,0,3,1,0,0,0,4,0,puerto-rico,2010-08-28,russia,201008287,Group Play,20107,fiba-world-cup
+8,Daniel Santiago,11,0,0,0,0,0,0,0,3,0,1,1,3,2,0,puerto-rico,2010-08-28,russia,201008287,Group Play,20107,fiba-world-cup
+9,Guillermo Diaz,10,1,4,0,2,0,0,0,2,0,1,1,0,1,2,puerto-rico,2010-08-28,russia,201008287,Group Play,20107,fiba-world-cup
+10,David Huertas,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,puerto-rico,2010-08-28,russia,201008287,Group Play,20107,fiba-world-cup
+11,Totals,,24,62,4,21,14,19,6,31,10,4,3,11,26,66,puerto-rico,2010-08-28,russia,201008287,Group Play,20107,fiba-world-cup

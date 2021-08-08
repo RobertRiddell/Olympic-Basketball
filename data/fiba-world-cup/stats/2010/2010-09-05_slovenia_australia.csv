@@ -1,28 +1,28 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Jaka Lakovic,28,6,12,5,11,2,4,1,1,1,1,0,1,2,19,slovenia,2010-09-05,australia,2010090562,Round of 16,201062
-1,Goran Dragic,28,3,7,2,4,2,2,1,4,8,2,0,2,2,10,slovenia,2010-09-05,australia,2010090562,Round of 16,201062
-2,Bostjan Nachbar,21,3,7,1,3,0,0,0,3,1,2,1,1,4,7,slovenia,2010-09-05,australia,2010090562,Round of 16,201062
-3,Miha Zupan,20,2,5,2,4,2,2,1,4,1,1,0,0,4,8,slovenia,2010-09-05,australia,2010090562,Round of 16,201062
-4,Primoz Brezec,18,5,7,0,0,2,3,1,4,0,1,0,1,1,12,slovenia,2010-09-05,australia,2010090562,Round of 16,201062
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,slovenia,2010-09-05,australia,2010090562,Round of 16,201062
-6,Sani Becirovic,21,2,7,2,4,2,2,1,4,3,1,0,1,1,8,slovenia,2010-09-05,australia,2010090562,Round of 16,201062
-7,Samo Udrih,16,1,4,1,2,0,0,0,0,2,0,0,4,1,3,slovenia,2010-09-05,australia,2010090562,Round of 16,201062
-8,Uros Slokar,13,3,3,2,2,0,0,1,2,0,0,0,1,3,8,slovenia,2010-09-05,australia,2010090562,Round of 16,201062
-9,Gasper Vidmar,12,1,2,0,0,0,0,0,4,0,0,1,2,2,2,slovenia,2010-09-05,australia,2010090562,Round of 16,201062
-10,Hasan Rizvic,11,2,2,0,0,0,0,1,5,1,0,2,1,1,4,slovenia,2010-09-05,australia,2010090562,Round of 16,201062
-11,Goran Jagodnik,8,2,3,1,2,0,0,1,2,1,0,0,0,1,5,slovenia,2010-09-05,australia,2010090562,Round of 16,201062
-12,Jaka Klobucar,5,0,1,0,1,1,2,0,1,0,0,0,0,2,1,slovenia,2010-09-05,australia,2010090562,Round of 16,201062
-13,Totals,,30,60,16,33,11,15,8,34,18,8,4,14,24,87,slovenia,2010-09-05,australia,2010090562,Round of 16,201062
-0,Joe Ingles,34,4,9,0,2,5,6,1,2,1,2,0,3,1,13,australia,2010-09-05,slovenia,2010090562,Round of 16,201062
-1,Patty Mills,31,6,16,1,7,0,0,1,1,3,0,0,2,3,13,australia,2010-09-05,slovenia,2010090562,Round of 16,201062
-2,Matt Nielsen,29,3,11,0,3,6,7,4,8,0,2,1,1,4,12,australia,2010-09-05,slovenia,2010090562,Round of 16,201062
-3,David Andersen,21,2,7,1,3,3,4,0,5,0,1,0,0,5,8,australia,2010-09-05,slovenia,2010090562,Round of 16,201062
-4,Adam Gibson,17,0,1,0,1,0,0,0,2,0,0,0,1,1,0,australia,2010-09-05,slovenia,2010090562,Round of 16,201062
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,australia,2010-09-05,slovenia,2010090562,Round of 16,201062
-6,Brad Newley,22,1,4,0,1,1,2,2,5,0,0,2,1,2,3,australia,2010-09-05,slovenia,2010090562,Round of 16,201062
-7,Mark Worthington,18,0,3,0,2,2,2,0,0,0,0,0,1,2,2,australia,2010-09-05,slovenia,2010090562,Round of 16,201062
-8,David Barlow,13,1,2,0,0,0,0,0,0,1,0,0,0,2,2,australia,2010-09-05,slovenia,2010090562,Round of 16,201062
-9,Aleks Maric,10,0,4,0,0,1,2,3,4,0,0,1,2,1,1,australia,2010-09-05,slovenia,2010090562,Round of 16,201062
-10,Damian Martin,3,0,0,0,0,2,2,0,0,0,0,0,1,0,2,australia,2010-09-05,slovenia,2010090562,Round of 16,201062
-11,Aron Baynes,2,1,1,0,0,0,0,0,0,0,1,0,0,0,2,australia,2010-09-05,slovenia,2010090562,Round of 16,201062
-12,Totals,,18,58,2,19,20,25,11,27,5,6,4,12,21,58,australia,2010-09-05,slovenia,2010090562,Round of 16,201062
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Jaka Lakovic,28,6,12,5,11,2,4,1,1,1,1,0,1,2,19,slovenia,2010-09-05,australia,2010090562,Round of 16,201062,fiba-world-cup
+1,Goran Dragic,28,3,7,2,4,2,2,1,4,8,2,0,2,2,10,slovenia,2010-09-05,australia,2010090562,Round of 16,201062,fiba-world-cup
+2,Bostjan Nachbar,21,3,7,1,3,0,0,0,3,1,2,1,1,4,7,slovenia,2010-09-05,australia,2010090562,Round of 16,201062,fiba-world-cup
+3,Miha Zupan,20,2,5,2,4,2,2,1,4,1,1,0,0,4,8,slovenia,2010-09-05,australia,2010090562,Round of 16,201062,fiba-world-cup
+4,Primoz Brezec,18,5,7,0,0,2,3,1,4,0,1,0,1,1,12,slovenia,2010-09-05,australia,2010090562,Round of 16,201062,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,slovenia,2010-09-05,australia,2010090562,Round of 16,201062,fiba-world-cup
+6,Sani Becirovic,21,2,7,2,4,2,2,1,4,3,1,0,1,1,8,slovenia,2010-09-05,australia,2010090562,Round of 16,201062,fiba-world-cup
+7,Samo Udrih,16,1,4,1,2,0,0,0,0,2,0,0,4,1,3,slovenia,2010-09-05,australia,2010090562,Round of 16,201062,fiba-world-cup
+8,Uros Slokar,13,3,3,2,2,0,0,1,2,0,0,0,1,3,8,slovenia,2010-09-05,australia,2010090562,Round of 16,201062,fiba-world-cup
+9,Gasper Vidmar,12,1,2,0,0,0,0,0,4,0,0,1,2,2,2,slovenia,2010-09-05,australia,2010090562,Round of 16,201062,fiba-world-cup
+10,Hasan Rizvic,11,2,2,0,0,0,0,1,5,1,0,2,1,1,4,slovenia,2010-09-05,australia,2010090562,Round of 16,201062,fiba-world-cup
+11,Goran Jagodnik,8,2,3,1,2,0,0,1,2,1,0,0,0,1,5,slovenia,2010-09-05,australia,2010090562,Round of 16,201062,fiba-world-cup
+12,Jaka Klobucar,5,0,1,0,1,1,2,0,1,0,0,0,0,2,1,slovenia,2010-09-05,australia,2010090562,Round of 16,201062,fiba-world-cup
+13,Totals,,30,60,16,33,11,15,8,34,18,8,4,14,24,87,slovenia,2010-09-05,australia,2010090562,Round of 16,201062,fiba-world-cup
+0,Joe Ingles,34,4,9,0,2,5,6,1,2,1,2,0,3,1,13,australia,2010-09-05,slovenia,2010090562,Round of 16,201062,fiba-world-cup
+1,Patty Mills,31,6,16,1,7,0,0,1,1,3,0,0,2,3,13,australia,2010-09-05,slovenia,2010090562,Round of 16,201062,fiba-world-cup
+2,Matt Nielsen,29,3,11,0,3,6,7,4,8,0,2,1,1,4,12,australia,2010-09-05,slovenia,2010090562,Round of 16,201062,fiba-world-cup
+3,David Andersen,21,2,7,1,3,3,4,0,5,0,1,0,0,5,8,australia,2010-09-05,slovenia,2010090562,Round of 16,201062,fiba-world-cup
+4,Adam Gibson,17,0,1,0,1,0,0,0,2,0,0,0,1,1,0,australia,2010-09-05,slovenia,2010090562,Round of 16,201062,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,australia,2010-09-05,slovenia,2010090562,Round of 16,201062,fiba-world-cup
+6,Brad Newley,22,1,4,0,1,1,2,2,5,0,0,2,1,2,3,australia,2010-09-05,slovenia,2010090562,Round of 16,201062,fiba-world-cup
+7,Mark Worthington,18,0,3,0,2,2,2,0,0,0,0,0,1,2,2,australia,2010-09-05,slovenia,2010090562,Round of 16,201062,fiba-world-cup
+8,David Barlow,13,1,2,0,0,0,0,0,0,1,0,0,0,2,2,australia,2010-09-05,slovenia,2010090562,Round of 16,201062,fiba-world-cup
+9,Aleks Maric,10,0,4,0,0,1,2,3,4,0,0,1,2,1,1,australia,2010-09-05,slovenia,2010090562,Round of 16,201062,fiba-world-cup
+10,Damian Martin,3,0,0,0,0,2,2,0,0,0,0,0,1,0,2,australia,2010-09-05,slovenia,2010090562,Round of 16,201062,fiba-world-cup
+11,Aron Baynes,2,1,1,0,0,0,0,0,0,0,1,0,0,0,2,australia,2010-09-05,slovenia,2010090562,Round of 16,201062,fiba-world-cup
+12,Totals,,18,58,2,19,20,25,11,27,5,6,4,12,21,58,australia,2010-09-05,slovenia,2010090562,Round of 16,201062,fiba-world-cup

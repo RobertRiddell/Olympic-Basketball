@@ -1,26 +1,26 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Petteri Koponen,35,8,14,3,6,4,4,0,3,9,2,0,2,2,23,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430
-1,Sasu Salin,27,1,7,1,7,0,0,0,1,0,1,0,0,1,3,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430
-2,Gerald Lee,21,3,7,0,0,2,2,4,6,1,0,0,1,2,8,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430
-3,Shawn Huff,21,3,10,1,4,0,0,2,4,0,2,0,0,5,7,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430
-4,Erik Murphy,20,1,7,1,3,0,0,0,1,0,0,0,3,4,3,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430
-6,Tuukka Kotti,24,1,5,0,0,0,0,1,3,0,2,1,0,0,2,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430
-7,Mikko Koivisto,21,3,6,2,5,0,0,0,3,1,0,0,0,5,8,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430
-8,Teemu Rannikko,16,2,6,2,5,1,2,0,0,3,2,0,1,3,7,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430
-9,Kimmo Muurinen,11,2,6,0,0,0,0,0,1,0,0,0,1,3,4,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430
-10,Hanno Mottola,4,1,2,1,2,0,0,0,0,0,0,0,1,1,3,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430
-11,Totals,,25,70,11,32,7,8,7,22,14,9,1,9,26,68,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430
-0,James Feldeine,35,4,9,0,2,2,2,0,4,6,2,0,2,0,10,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430
-1,Eulis Baez,33,4,10,2,4,2,6,2,9,2,1,0,4,2,12,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430
-2,Francisco Garcia,32,6,9,4,5,0,0,1,4,2,0,1,7,0,16,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430
-3,Eloy Vargas,26,7,10,0,0,4,5,5,13,0,1,4,3,2,18,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430
-4,Edgar Sosa,16,1,4,0,2,0,0,0,1,4,0,0,1,2,2,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430
-6,Jack Martinez,16,1,4,0,0,0,0,0,5,1,0,0,4,1,2,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430
-7,Ronald Ramon,14,0,2,0,1,1,2,0,1,1,0,0,0,2,1,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430
-8,Juan Coronado,11,0,0,0,0,1,4,3,3,0,0,0,0,3,1,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430
-9,Manuel Fortuna,6,2,2,1,1,2,2,0,0,0,0,0,0,4,7,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430
-10,Victor Liz,6,0,2,0,1,3,4,1,2,0,0,0,1,1,3,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430
-11,Orlando Sanchez,5,1,2,0,1,0,0,0,1,1,1,0,0,0,2,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430
-12,Totals,,26,54,7,17,15,25,12,43,17,5,5,22,17,74,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Petteri Koponen,35,8,14,3,6,4,4,0,3,9,2,0,2,2,23,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430,fiba-world-cup
+1,Sasu Salin,27,1,7,1,7,0,0,0,1,0,1,0,0,1,3,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430,fiba-world-cup
+2,Gerald Lee,21,3,7,0,0,2,2,4,6,1,0,0,1,2,8,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430,fiba-world-cup
+3,Shawn Huff,21,3,10,1,4,0,0,2,4,0,2,0,0,5,7,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430,fiba-world-cup
+4,Erik Murphy,20,1,7,1,3,0,0,0,1,0,0,0,3,4,3,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430,fiba-world-cup
+6,Tuukka Kotti,24,1,5,0,0,0,0,1,3,0,2,1,0,0,2,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430,fiba-world-cup
+7,Mikko Koivisto,21,3,6,2,5,0,0,0,3,1,0,0,0,5,8,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430,fiba-world-cup
+8,Teemu Rannikko,16,2,6,2,5,1,2,0,0,3,2,0,1,3,7,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430,fiba-world-cup
+9,Kimmo Muurinen,11,2,6,0,0,0,0,0,1,0,0,0,1,3,4,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430,fiba-world-cup
+10,Hanno Mottola,4,1,2,1,2,0,0,0,0,0,0,0,1,1,3,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430,fiba-world-cup
+11,Totals,,25,70,11,32,7,8,7,22,14,9,1,9,26,68,finland,2014-09-02,dominican-republic,2014090230,Group Play,201430,fiba-world-cup
+0,James Feldeine,35,4,9,0,2,2,2,0,4,6,2,0,2,0,10,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430,fiba-world-cup
+1,Eulis Baez,33,4,10,2,4,2,6,2,9,2,1,0,4,2,12,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430,fiba-world-cup
+2,Francisco Garcia,32,6,9,4,5,0,0,1,4,2,0,1,7,0,16,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430,fiba-world-cup
+3,Eloy Vargas,26,7,10,0,0,4,5,5,13,0,1,4,3,2,18,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430,fiba-world-cup
+4,Edgar Sosa,16,1,4,0,2,0,0,0,1,4,0,0,1,2,2,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430,fiba-world-cup
+6,Jack Martinez,16,1,4,0,0,0,0,0,5,1,0,0,4,1,2,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430,fiba-world-cup
+7,Ronald Ramon,14,0,2,0,1,1,2,0,1,1,0,0,0,2,1,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430,fiba-world-cup
+8,Juan Coronado,11,0,0,0,0,1,4,3,3,0,0,0,0,3,1,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430,fiba-world-cup
+9,Manuel Fortuna,6,2,2,1,1,2,2,0,0,0,0,0,0,4,7,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430,fiba-world-cup
+10,Victor Liz,6,0,2,0,1,3,4,1,2,0,0,0,1,1,3,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430,fiba-world-cup
+11,Orlando Sanchez,5,1,2,0,1,0,0,0,1,1,1,0,0,0,2,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430,fiba-world-cup
+12,Totals,,26,54,7,17,15,25,12,43,17,5,5,22,17,74,dominican-republic,2014-09-02,finland,2014090230,Group Play,201430,fiba-world-cup

@@ -1,29 +1,29 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Kyrie Irving,20,4,7,1,1,0,0,0,2,4,2,0,1,0,9,united states,2014-08-30,finland,201408303,Group Play,20143
-1,Stephen Curry,18,1,6,0,5,2,2,0,3,5,1,0,1,2,4,united states,2014-08-30,finland,201408303,Group Play,20143
-2,James Harden,17,3,5,0,1,3,3,0,3,3,4,1,3,0,9,united states,2014-08-30,finland,201408303,Group Play,20143
-3,Kenneth Faried,15,3,3,0,0,0,0,3,6,0,0,0,1,1,6,united states,2014-08-30,finland,201408303,Group Play,20143
-4,Anthony Davis,14,6,8,0,0,5,5,1,4,1,0,0,0,3,17,united states,2014-08-30,finland,201408303,Group Play,20143
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,united states,2014-08-30,finland,201408303,Group Play,20143
-6,Derrick Rose,23,3,8,1,2,5,5,2,2,3,1,2,5,2,12,united states,2014-08-30,finland,201408303,Group Play,20143
-7,Klay Thompson,22,7,10,4,7,0,0,0,1,0,1,0,2,2,18,united states,2014-08-30,finland,201408303,Group Play,20143
-8,Rudy Gay,17,5,9,0,0,0,1,0,5,0,2,1,2,3,10,united states,2014-08-30,finland,201408303,Group Play,20143
-9,DeMar DeRozan,17,1,5,0,2,3,4,0,0,4,3,0,1,2,5,united states,2014-08-30,finland,201408303,Group Play,20143
-10,DeMarcus Cousins,16,3,4,0,0,3,4,2,10,0,0,0,2,3,9,united states,2014-08-30,finland,201408303,Group Play,20143
-11,Mason Plumlee,12,3,4,0,0,0,0,0,1,0,3,0,1,1,6,united states,2014-08-30,finland,201408303,Group Play,20143
-12,Andre Drummond,10,4,4,0,0,1,1,2,4,0,1,0,0,0,9,united states,2014-08-30,finland,201408303,Group Play,20143
-13,Totals,,43,73,6,18,22,25,10,41,20,18,4,19,19,114,united states,2014-08-30,finland,201408303,Group Play,20143
-0,Petteri Koponen,27,5,10,2,4,0,0,1,3,4,2,0,4,1,12,finland,2014-08-30,united states,201408303,Group Play,20143
-1,Erik Murphy,27,3,9,0,3,4,4,2,7,0,0,0,2,1,10,finland,2014-08-30,united states,201408303,Group Play,20143
-2,Shawn Huff,21,3,4,2,3,4,4,1,3,0,1,0,1,2,12,finland,2014-08-30,united states,201408303,Group Play,20143
-3,Sasu Salin,18,0,8,0,2,0,0,0,0,0,2,0,2,1,0,finland,2014-08-30,united states,201408303,Group Play,20143
-4,Gerald Lee,7,2,5,0,0,0,0,1,1,0,0,0,6,5,4,finland,2014-08-30,united states,201408303,Group Play,20143
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,finland,2014-08-30,united states,201408303,Group Play,20143
-6,Tuukka Kotti,21,3,6,0,0,0,2,4,5,0,3,1,4,3,6,finland,2014-08-30,united states,201408303,Group Play,20143
-7,Teemu Rannikko,17,0,3,0,2,5,5,0,2,1,0,0,2,3,5,finland,2014-08-30,united states,201408303,Group Play,20143
-8,Mikko Koivisto,17,0,4,0,2,0,0,0,0,0,1,0,0,1,0,finland,2014-08-30,united states,201408303,Group Play,20143
-9,Kimmo Muurinen,13,0,5,0,0,2,2,1,2,0,1,0,4,3,2,finland,2014-08-30,united states,201408303,Group Play,20143
-10,Matti Nuutinen,11,1,3,0,1,0,0,1,1,0,0,0,2,0,2,finland,2014-08-30,united states,201408303,Group Play,20143
-11,Hanno Mottola,11,1,6,0,3,0,0,0,2,0,0,0,0,1,2,finland,2014-08-30,united states,201408303,Group Play,20143
-12,Antero Lehto,10,0,2,0,1,0,0,0,0,0,0,0,4,3,0,finland,2014-08-30,united states,201408303,Group Play,20143
-13,Totals,,18,65,4,21,15,17,11,26,5,10,1,31,24,55,finland,2014-08-30,united states,201408303,Group Play,20143
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Kyrie Irving,20,4,7,1,1,0,0,0,2,4,2,0,1,0,9,united states,2014-08-30,finland,201408303,Group Play,20143,fiba-world-cup
+1,Stephen Curry,18,1,6,0,5,2,2,0,3,5,1,0,1,2,4,united states,2014-08-30,finland,201408303,Group Play,20143,fiba-world-cup
+2,James Harden,17,3,5,0,1,3,3,0,3,3,4,1,3,0,9,united states,2014-08-30,finland,201408303,Group Play,20143,fiba-world-cup
+3,Kenneth Faried,15,3,3,0,0,0,0,3,6,0,0,0,1,1,6,united states,2014-08-30,finland,201408303,Group Play,20143,fiba-world-cup
+4,Anthony Davis,14,6,8,0,0,5,5,1,4,1,0,0,0,3,17,united states,2014-08-30,finland,201408303,Group Play,20143,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,united states,2014-08-30,finland,201408303,Group Play,20143,fiba-world-cup
+6,Derrick Rose,23,3,8,1,2,5,5,2,2,3,1,2,5,2,12,united states,2014-08-30,finland,201408303,Group Play,20143,fiba-world-cup
+7,Klay Thompson,22,7,10,4,7,0,0,0,1,0,1,0,2,2,18,united states,2014-08-30,finland,201408303,Group Play,20143,fiba-world-cup
+8,Rudy Gay,17,5,9,0,0,0,1,0,5,0,2,1,2,3,10,united states,2014-08-30,finland,201408303,Group Play,20143,fiba-world-cup
+9,DeMar DeRozan,17,1,5,0,2,3,4,0,0,4,3,0,1,2,5,united states,2014-08-30,finland,201408303,Group Play,20143,fiba-world-cup
+10,DeMarcus Cousins,16,3,4,0,0,3,4,2,10,0,0,0,2,3,9,united states,2014-08-30,finland,201408303,Group Play,20143,fiba-world-cup
+11,Mason Plumlee,12,3,4,0,0,0,0,0,1,0,3,0,1,1,6,united states,2014-08-30,finland,201408303,Group Play,20143,fiba-world-cup
+12,Andre Drummond,10,4,4,0,0,1,1,2,4,0,1,0,0,0,9,united states,2014-08-30,finland,201408303,Group Play,20143,fiba-world-cup
+13,Totals,,43,73,6,18,22,25,10,41,20,18,4,19,19,114,united states,2014-08-30,finland,201408303,Group Play,20143,fiba-world-cup
+0,Petteri Koponen,27,5,10,2,4,0,0,1,3,4,2,0,4,1,12,finland,2014-08-30,united states,201408303,Group Play,20143,fiba-world-cup
+1,Erik Murphy,27,3,9,0,3,4,4,2,7,0,0,0,2,1,10,finland,2014-08-30,united states,201408303,Group Play,20143,fiba-world-cup
+2,Shawn Huff,21,3,4,2,3,4,4,1,3,0,1,0,1,2,12,finland,2014-08-30,united states,201408303,Group Play,20143,fiba-world-cup
+3,Sasu Salin,18,0,8,0,2,0,0,0,0,0,2,0,2,1,0,finland,2014-08-30,united states,201408303,Group Play,20143,fiba-world-cup
+4,Gerald Lee,7,2,5,0,0,0,0,1,1,0,0,0,6,5,4,finland,2014-08-30,united states,201408303,Group Play,20143,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,finland,2014-08-30,united states,201408303,Group Play,20143,fiba-world-cup
+6,Tuukka Kotti,21,3,6,0,0,0,2,4,5,0,3,1,4,3,6,finland,2014-08-30,united states,201408303,Group Play,20143,fiba-world-cup
+7,Teemu Rannikko,17,0,3,0,2,5,5,0,2,1,0,0,2,3,5,finland,2014-08-30,united states,201408303,Group Play,20143,fiba-world-cup
+8,Mikko Koivisto,17,0,4,0,2,0,0,0,0,0,1,0,0,1,0,finland,2014-08-30,united states,201408303,Group Play,20143,fiba-world-cup
+9,Kimmo Muurinen,13,0,5,0,0,2,2,1,2,0,1,0,4,3,2,finland,2014-08-30,united states,201408303,Group Play,20143,fiba-world-cup
+10,Matti Nuutinen,11,1,3,0,1,0,0,1,1,0,0,0,2,0,2,finland,2014-08-30,united states,201408303,Group Play,20143,fiba-world-cup
+11,Hanno Mottola,11,1,6,0,3,0,0,0,2,0,0,0,0,1,2,finland,2014-08-30,united states,201408303,Group Play,20143,fiba-world-cup
+12,Antero Lehto,10,0,2,0,1,0,0,0,0,0,0,0,4,3,0,finland,2014-08-30,united states,201408303,Group Play,20143,fiba-world-cup
+13,Totals,,18,65,4,21,15,17,11,26,5,10,1,31,24,55,finland,2014-08-30,united states,201408303,Group Play,20143,fiba-world-cup

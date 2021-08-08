@@ -1,27 +1,27 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Ahmed Hamarsha,23.0,2,6,1,5,0,0,1,4,2,0,0,1,1,5,jordan,2019-09-07,canada,2019090758,Classification,201958
-1,Ahmet Duverioglu,22.0,3,7,0,0,2,2,3,5,2,0,0,5,1,8,jordan,2019-09-07,canada,2019090758,Classification,201958
-2,Dar Tucker,22.0,4,9,0,2,5,5,0,2,0,0,0,2,0,13,jordan,2019-09-07,canada,2019090758,Classification,201958
-3,Yousef Abuwazaneh,22.0,1,6,0,0,0,2,4,6,0,0,0,1,4,2,jordan,2019-09-07,canada,2019090758,Classification,201958
-4,Fadi Ibrahim,21.0,2,6,0,2,0,0,0,3,3,0,0,3,0,4,jordan,2019-09-07,canada,2019090758,Classification,201958
-5,Mahmoud Abdeen,19.0,3,8,2,6,0,0,0,2,4,1,0,3,1,8,jordan,2019-09-07,canada,2019090758,Classification,201958
-6,Zaid Abbas,18.0,3,5,1,3,0,0,0,2,0,0,0,1,2,7,jordan,2019-09-07,canada,2019090758,Classification,201958
-7,Jordan Dasuqi,17.0,2,2,1,1,0,0,0,1,1,1,0,0,1,5,jordan,2019-09-07,canada,2019090758,Classification,201958
-8,Amin Abu Hawwas,12.0,4,6,1,3,2,2,0,1,0,1,1,1,1,11,jordan,2019-09-07,canada,2019090758,Classification,201958
-9,Mohammad Shaher,11.0,2,8,0,0,2,2,2,3,1,1,0,1,4,6,jordan,2019-09-07,canada,2019090758,Classification,201958
-10,Ahmed Obeid,7.0,0,2,0,0,0,0,1,2,0,0,0,1,0,0,jordan,2019-09-07,canada,2019090758,Classification,201958
-11,Mousa Al-Awadi,6.0,1,2,0,0,0,0,0,0,0,0,0,0,2,2,jordan,2019-09-07,canada,2019090758,Classification,201958
-12,Totals,,27,67,6,22,11,13,11,31,13,4,1,19,17,71,jordan,2019-09-07,canada,2019090758,Classification,201958
-0,Kyle Wiltjer,22.0,11,14,7,9,0,0,0,2,2,0,0,0,1,29,canada,2019-09-07,jordan,2019090758,Classification,201958
-1,Cory Joseph,19.0,4,8,3,5,0,0,1,5,8,2,0,1,2,11,canada,2019-09-07,jordan,2019090758,Classification,201958
-2,Khem Birch,18.0,3,4,0,0,1,1,3,7,3,2,1,0,1,7,canada,2019-09-07,jordan,2019090758,Classification,201958
-3,Melvin Ejim,18.0,4,5,1,1,4,4,1,2,3,2,1,0,1,13,canada,2019-09-07,jordan,2019090758,Classification,201958
-4,Owen Klassen,18.0,3,4,0,1,1,2,2,7,2,0,1,2,4,7,canada,2019-09-07,jordan,2019090758,Classification,201958
-5,Kevin Pangos,18.0,4,6,2,4,0,0,0,0,4,0,0,0,1,10,canada,2019-09-07,jordan,2019090758,Classification,201958
-6,Andrew Nembhard,17.0,1,3,1,3,0,0,0,0,5,0,0,1,0,3,canada,2019-09-07,jordan,2019090758,Classification,201958
-7,Conor Morgan,17.0,4,8,2,4,4,4,1,3,0,1,1,1,3,14,canada,2019-09-07,jordan,2019090758,Classification,201958
-8,Kaza Kajami-Keane,15.0,2,7,1,3,4,6,1,2,3,1,0,1,1,9,canada,2019-09-07,jordan,2019090758,Classification,201958
-9,Brady Heslip,14.0,3,6,3,6,0,0,0,1,1,0,0,0,2,9,canada,2019-09-07,jordan,2019090758,Classification,201958
-10,Philip Scrubb,13.0,3,4,3,4,0,0,3,3,3,2,0,0,0,9,canada,2019-09-07,jordan,2019090758,Classification,201958
-11,Thomas Scrubb,11.0,2,6,1,4,0,0,1,3,3,0,0,0,1,5,canada,2019-09-07,jordan,2019090758,Classification,201958
-12,Totals,,44,75,24,44,14,17,13,35,37,10,4,6,17,126,canada,2019-09-07,jordan,2019090758,Classification,201958
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Ahmed Hamarsha,23.0,2,6,1,5,0,0,1,4,2,0,0,1,1,5,jordan,2019-09-07,canada,2019090758,Classification,201958,fiba-world-cup
+1,Ahmet Duverioglu,22.0,3,7,0,0,2,2,3,5,2,0,0,5,1,8,jordan,2019-09-07,canada,2019090758,Classification,201958,fiba-world-cup
+2,Dar Tucker,22.0,4,9,0,2,5,5,0,2,0,0,0,2,0,13,jordan,2019-09-07,canada,2019090758,Classification,201958,fiba-world-cup
+3,Yousef Abuwazaneh,22.0,1,6,0,0,0,2,4,6,0,0,0,1,4,2,jordan,2019-09-07,canada,2019090758,Classification,201958,fiba-world-cup
+4,Fadi Ibrahim,21.0,2,6,0,2,0,0,0,3,3,0,0,3,0,4,jordan,2019-09-07,canada,2019090758,Classification,201958,fiba-world-cup
+5,Mahmoud Abdeen,19.0,3,8,2,6,0,0,0,2,4,1,0,3,1,8,jordan,2019-09-07,canada,2019090758,Classification,201958,fiba-world-cup
+6,Zaid Abbas,18.0,3,5,1,3,0,0,0,2,0,0,0,1,2,7,jordan,2019-09-07,canada,2019090758,Classification,201958,fiba-world-cup
+7,Jordan Dasuqi,17.0,2,2,1,1,0,0,0,1,1,1,0,0,1,5,jordan,2019-09-07,canada,2019090758,Classification,201958,fiba-world-cup
+8,Amin Abu Hawwas,12.0,4,6,1,3,2,2,0,1,0,1,1,1,1,11,jordan,2019-09-07,canada,2019090758,Classification,201958,fiba-world-cup
+9,Mohammad Shaher,11.0,2,8,0,0,2,2,2,3,1,1,0,1,4,6,jordan,2019-09-07,canada,2019090758,Classification,201958,fiba-world-cup
+10,Ahmed Obeid,7.0,0,2,0,0,0,0,1,2,0,0,0,1,0,0,jordan,2019-09-07,canada,2019090758,Classification,201958,fiba-world-cup
+11,Mousa Al-Awadi,6.0,1,2,0,0,0,0,0,0,0,0,0,0,2,2,jordan,2019-09-07,canada,2019090758,Classification,201958,fiba-world-cup
+12,Totals,,27,67,6,22,11,13,11,31,13,4,1,19,17,71,jordan,2019-09-07,canada,2019090758,Classification,201958,fiba-world-cup
+0,Kyle Wiltjer,22.0,11,14,7,9,0,0,0,2,2,0,0,0,1,29,canada,2019-09-07,jordan,2019090758,Classification,201958,fiba-world-cup
+1,Cory Joseph,19.0,4,8,3,5,0,0,1,5,8,2,0,1,2,11,canada,2019-09-07,jordan,2019090758,Classification,201958,fiba-world-cup
+2,Khem Birch,18.0,3,4,0,0,1,1,3,7,3,2,1,0,1,7,canada,2019-09-07,jordan,2019090758,Classification,201958,fiba-world-cup
+3,Melvin Ejim,18.0,4,5,1,1,4,4,1,2,3,2,1,0,1,13,canada,2019-09-07,jordan,2019090758,Classification,201958,fiba-world-cup
+4,Owen Klassen,18.0,3,4,0,1,1,2,2,7,2,0,1,2,4,7,canada,2019-09-07,jordan,2019090758,Classification,201958,fiba-world-cup
+5,Kevin Pangos,18.0,4,6,2,4,0,0,0,0,4,0,0,0,1,10,canada,2019-09-07,jordan,2019090758,Classification,201958,fiba-world-cup
+6,Andrew Nembhard,17.0,1,3,1,3,0,0,0,0,5,0,0,1,0,3,canada,2019-09-07,jordan,2019090758,Classification,201958,fiba-world-cup
+7,Conor Morgan,17.0,4,8,2,4,4,4,1,3,0,1,1,1,3,14,canada,2019-09-07,jordan,2019090758,Classification,201958,fiba-world-cup
+8,Kaza Kajami-Keane,15.0,2,7,1,3,4,6,1,2,3,1,0,1,1,9,canada,2019-09-07,jordan,2019090758,Classification,201958,fiba-world-cup
+9,Brady Heslip,14.0,3,6,3,6,0,0,0,1,1,0,0,0,2,9,canada,2019-09-07,jordan,2019090758,Classification,201958,fiba-world-cup
+10,Philip Scrubb,13.0,3,4,3,4,0,0,3,3,3,2,0,0,0,9,canada,2019-09-07,jordan,2019090758,Classification,201958,fiba-world-cup
+11,Thomas Scrubb,11.0,2,6,1,4,0,0,1,3,3,0,0,0,1,5,canada,2019-09-07,jordan,2019090758,Classification,201958,fiba-world-cup
+12,Totals,,44,75,24,44,14,17,13,35,37,10,4,6,17,126,canada,2019-09-07,jordan,2019090758,Classification,201958,fiba-world-cup

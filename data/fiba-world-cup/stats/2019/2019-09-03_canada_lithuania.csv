@@ -1,26 +1,26 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Cory Joseph,34.0,6,16,1,3,2,3,1,4,3,0,0,4,2,15,canada,2019-09-03,lithuania,2019090329,First Round,201929
-1,Kyle Wiltjer,32.0,7,11,3,3,7,7,1,3,0,1,0,1,2,24,canada,2019-09-03,lithuania,2019090329,First Round,201929
-2,Khem Birch,28.0,4,8,0,0,4,8,2,4,1,1,0,2,4,12,canada,2019-09-03,lithuania,2019090329,First Round,201929
-3,Kevin Pangos,27.0,1,6,0,1,1,2,0,1,8,1,0,2,2,3,canada,2019-09-03,lithuania,2019090329,First Round,201929
-4,Philip Scrubb,24.0,1,3,0,2,2,2,0,4,2,0,0,1,1,4,canada,2019-09-03,lithuania,2019090329,First Round,201929
-5,Melvin Ejim,17.0,0,1,0,1,0,0,0,2,0,0,0,2,5,0,canada,2019-09-03,lithuania,2019090329,First Round,201929
-6,Brady Heslip,11.0,2,4,1,3,0,0,0,0,0,0,0,0,2,5,canada,2019-09-03,lithuania,2019090329,First Round,201929
-7,Owen Klassen,9.0,0,0,0,0,2,2,1,1,0,0,0,0,2,2,canada,2019-09-03,lithuania,2019090329,First Round,201929
-8,Thomas Scrubb,8.0,1,3,0,0,0,0,1,1,0,0,0,1,2,2,canada,2019-09-03,lithuania,2019090329,First Round,201929
-9,Conor Morgan,7.0,1,3,0,0,0,0,1,3,0,1,0,1,2,2,canada,2019-09-03,lithuania,2019090329,First Round,201929
-10,Andrew Nembhard,2.0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,canada,2019-09-03,lithuania,2019090329,First Round,201929
-11,Totals,,23,56,5,13,18,24,7,23,14,4,0,15,25,69,canada,2019-09-03,lithuania,2019090329,First Round,201929
-0,Edgaras Ulanovas,28.0,7,11,0,3,1,2,2,6,0,0,0,0,2,15,lithuania,2019-09-03,canada,2019090329,First Round,201929
-1,Marius Grigonis,27.0,3,9,2,4,0,0,1,2,2,2,0,1,1,8,lithuania,2019-09-03,canada,2019090329,First Round,201929
-2,Mantas Kalnietis,25.0,5,9,1,3,0,0,0,4,6,1,0,0,0,11,lithuania,2019-09-03,canada,2019090329,First Round,201929
-3,Domantas Sabonis,23.0,3,8,0,1,4,6,5,8,4,0,0,0,5,10,lithuania,2019-09-03,canada,2019090329,First Round,201929
-4,Jonas Valanciunas,18.0,5,6,0,0,3,3,3,8,2,1,0,2,3,13,lithuania,2019-09-03,canada,2019090329,First Round,201929
-5,Mindaugas Kuzminskas,16.0,4,6,1,1,0,1,4,4,0,0,0,2,3,9,lithuania,2019-09-03,canada,2019090329,First Round,201929
-6,Lukas Lekavicius,15.0,4,10,0,3,3,4,0,1,2,2,0,2,1,11,lithuania,2019-09-03,canada,2019090329,First Round,201929
-7,Renaldas Seibutis,14.0,1,3,0,1,0,0,0,1,0,0,0,0,2,2,lithuania,2019-09-03,canada,2019090329,First Round,201929
-8,Jonas Maciulis,13.0,2,4,1,3,2,2,0,1,0,1,0,2,5,7,lithuania,2019-09-03,canada,2019090329,First Round,201929
-9,Arnas Butkevicius,13.0,1,3,0,1,1,2,3,5,1,0,0,1,4,3,lithuania,2019-09-03,canada,2019090329,First Round,201929
-10,Paulius Jankunas,8.0,1,2,0,0,1,2,0,2,1,0,0,1,1,3,lithuania,2019-09-03,canada,2019090329,First Round,201929
-11,Rokas Giedraitis,1.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,lithuania,2019-09-03,canada,2019090329,First Round,201929
-12,Totals,,36,71,5,20,15,22,18,42,19,7,0,11,27,92,lithuania,2019-09-03,canada,2019090329,First Round,201929
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Cory Joseph,34.0,6,16,1,3,2,3,1,4,3,0,0,4,2,15,canada,2019-09-03,lithuania,2019090329,First Round,201929,fiba-world-cup
+1,Kyle Wiltjer,32.0,7,11,3,3,7,7,1,3,0,1,0,1,2,24,canada,2019-09-03,lithuania,2019090329,First Round,201929,fiba-world-cup
+2,Khem Birch,28.0,4,8,0,0,4,8,2,4,1,1,0,2,4,12,canada,2019-09-03,lithuania,2019090329,First Round,201929,fiba-world-cup
+3,Kevin Pangos,27.0,1,6,0,1,1,2,0,1,8,1,0,2,2,3,canada,2019-09-03,lithuania,2019090329,First Round,201929,fiba-world-cup
+4,Philip Scrubb,24.0,1,3,0,2,2,2,0,4,2,0,0,1,1,4,canada,2019-09-03,lithuania,2019090329,First Round,201929,fiba-world-cup
+5,Melvin Ejim,17.0,0,1,0,1,0,0,0,2,0,0,0,2,5,0,canada,2019-09-03,lithuania,2019090329,First Round,201929,fiba-world-cup
+6,Brady Heslip,11.0,2,4,1,3,0,0,0,0,0,0,0,0,2,5,canada,2019-09-03,lithuania,2019090329,First Round,201929,fiba-world-cup
+7,Owen Klassen,9.0,0,0,0,0,2,2,1,1,0,0,0,0,2,2,canada,2019-09-03,lithuania,2019090329,First Round,201929,fiba-world-cup
+8,Thomas Scrubb,8.0,1,3,0,0,0,0,1,1,0,0,0,1,2,2,canada,2019-09-03,lithuania,2019090329,First Round,201929,fiba-world-cup
+9,Conor Morgan,7.0,1,3,0,0,0,0,1,3,0,1,0,1,2,2,canada,2019-09-03,lithuania,2019090329,First Round,201929,fiba-world-cup
+10,Andrew Nembhard,2.0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,canada,2019-09-03,lithuania,2019090329,First Round,201929,fiba-world-cup
+11,Totals,,23,56,5,13,18,24,7,23,14,4,0,15,25,69,canada,2019-09-03,lithuania,2019090329,First Round,201929,fiba-world-cup
+0,Edgaras Ulanovas,28.0,7,11,0,3,1,2,2,6,0,0,0,0,2,15,lithuania,2019-09-03,canada,2019090329,First Round,201929,fiba-world-cup
+1,Marius Grigonis,27.0,3,9,2,4,0,0,1,2,2,2,0,1,1,8,lithuania,2019-09-03,canada,2019090329,First Round,201929,fiba-world-cup
+2,Mantas Kalnietis,25.0,5,9,1,3,0,0,0,4,6,1,0,0,0,11,lithuania,2019-09-03,canada,2019090329,First Round,201929,fiba-world-cup
+3,Domantas Sabonis,23.0,3,8,0,1,4,6,5,8,4,0,0,0,5,10,lithuania,2019-09-03,canada,2019090329,First Round,201929,fiba-world-cup
+4,Jonas Valanciunas,18.0,5,6,0,0,3,3,3,8,2,1,0,2,3,13,lithuania,2019-09-03,canada,2019090329,First Round,201929,fiba-world-cup
+5,Mindaugas Kuzminskas,16.0,4,6,1,1,0,1,4,4,0,0,0,2,3,9,lithuania,2019-09-03,canada,2019090329,First Round,201929,fiba-world-cup
+6,Lukas Lekavicius,15.0,4,10,0,3,3,4,0,1,2,2,0,2,1,11,lithuania,2019-09-03,canada,2019090329,First Round,201929,fiba-world-cup
+7,Renaldas Seibutis,14.0,1,3,0,1,0,0,0,1,0,0,0,0,2,2,lithuania,2019-09-03,canada,2019090329,First Round,201929,fiba-world-cup
+8,Jonas Maciulis,13.0,2,4,1,3,2,2,0,1,0,1,0,2,5,7,lithuania,2019-09-03,canada,2019090329,First Round,201929,fiba-world-cup
+9,Arnas Butkevicius,13.0,1,3,0,1,1,2,3,5,1,0,0,1,4,3,lithuania,2019-09-03,canada,2019090329,First Round,201929,fiba-world-cup
+10,Paulius Jankunas,8.0,1,2,0,0,1,2,0,2,1,0,0,1,1,3,lithuania,2019-09-03,canada,2019090329,First Round,201929,fiba-world-cup
+11,Rokas Giedraitis,1.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,lithuania,2019-09-03,canada,2019090329,First Round,201929,fiba-world-cup
+12,Totals,,36,71,5,20,15,22,18,42,19,7,0,11,27,92,lithuania,2019-09-03,canada,2019090329,First Round,201929,fiba-world-cup

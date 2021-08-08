@@ -1,24 +1,24 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Gary Browne,33.0,4,14,0,4,2,2,1,4,4,1,0,2,0,10,puerto rico,2019-08-31,iran,201908312,First Round,20192
-1,David Huertas,31.0,13,19,5,7,1,1,0,3,4,1,1,1,1,32,puerto rico,2019-08-31,iran,201908312,First Round,20192
-2,Renaldo Balkman,29.0,2,12,0,2,3,4,3,6,4,1,1,1,2,7,puerto rico,2019-08-31,iran,201908312,First Round,20192
-3,Jorge Diaz,18.0,2,4,0,0,0,0,1,3,1,1,0,1,3,4,puerto rico,2019-08-31,iran,201908312,First Round,20192
-4,Gian Clavell,16.0,0,3,0,3,3,5,1,2,1,0,0,0,2,3,puerto rico,2019-08-31,iran,201908312,First Round,20192
-5,Devon Collier,15.0,2,5,0,1,0,0,0,0,0,1,0,0,2,4,puerto rico,2019-08-31,iran,201908312,First Round,20192
-6,Ramon Clemente,13.0,1,2,1,2,2,2,0,1,0,0,0,1,1,5,puerto rico,2019-08-31,iran,201908312,First Round,20192
-7,Javier Mojica,13.0,3,5,0,1,2,2,2,4,0,2,1,0,1,8,puerto rico,2019-08-31,iran,201908312,First Round,20192
-8,Isaiah Pineiro,12.0,3,7,1,2,1,2,2,4,0,1,0,0,3,8,puerto rico,2019-08-31,iran,201908312,First Round,20192
-9,Alex Franklin,11.0,0,0,0,0,0,0,0,1,2,1,0,0,2,0,puerto rico,2019-08-31,iran,201908312,First Round,20192
-10,Angel Rodriguez,7.0,0,2,0,1,2,2,1,1,2,1,0,1,0,2,puerto rico,2019-08-31,iran,201908312,First Round,20192
-11,Chris Brady,2.0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,puerto rico,2019-08-31,iran,201908312,First Round,20192
-12,Totals,,30,73,7,23,16,20,11,30,18,10,3,7,18,83,puerto rico,2019-08-31,iran,201908312,First Round,20192
-0,Behnam Yakhchali,37.0,8,12,6,9,0,0,0,2,1,3,1,3,1,22,iran,2019-08-31,puerto rico,201908312,First Round,20192
-1,Hamed Haddadi,35.0,8,15,2,2,4,7,5,16,4,0,1,5,2,22,iran,2019-08-31,puerto rico,201908312,First Round,20192
-2,Samad Nik Bahrami,34.0,6,15,2,7,0,0,0,5,1,0,1,2,1,14,iran,2019-08-31,puerto rico,201908312,First Round,20192
-3,Mohammad Jamshidi,28.0,2,6,0,1,3,3,1,3,5,0,0,2,4,7,iran,2019-08-31,puerto rico,201908312,First Round,20192
-4,Sajjad Mashayekhi,21.0,1,4,0,1,1,2,1,2,1,1,0,3,4,3,iran,2019-08-31,puerto rico,201908312,First Round,20192
-5,Mohammad Hassanzadeh,15.0,2,5,0,0,1,1,2,3,1,1,0,1,2,5,iran,2019-08-31,puerto rico,201908312,First Round,20192
-6,Aaron Geramipoor,14.0,2,5,0,0,2,3,4,8,0,0,0,1,3,6,iran,2019-08-31,puerto rico,201908312,First Round,20192
-7,Arman Zangeneh,14.0,1,3,0,1,0,0,0,1,1,0,1,1,4,2,iran,2019-08-31,puerto rico,201908312,First Round,20192
-8,Michael Rostampour,2.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,iran,2019-08-31,puerto rico,201908312,First Round,20192
-9,Totals,,30,65,10,21,11,16,13,40,14,5,4,18,23,81,iran,2019-08-31,puerto rico,201908312,First Round,20192
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Gary Browne,33.0,4,14,0,4,2,2,1,4,4,1,0,2,0,10,puerto rico,2019-08-31,iran,201908312,First Round,20192,fiba-world-cup
+1,David Huertas,31.0,13,19,5,7,1,1,0,3,4,1,1,1,1,32,puerto rico,2019-08-31,iran,201908312,First Round,20192,fiba-world-cup
+2,Renaldo Balkman,29.0,2,12,0,2,3,4,3,6,4,1,1,1,2,7,puerto rico,2019-08-31,iran,201908312,First Round,20192,fiba-world-cup
+3,Jorge Diaz,18.0,2,4,0,0,0,0,1,3,1,1,0,1,3,4,puerto rico,2019-08-31,iran,201908312,First Round,20192,fiba-world-cup
+4,Gian Clavell,16.0,0,3,0,3,3,5,1,2,1,0,0,0,2,3,puerto rico,2019-08-31,iran,201908312,First Round,20192,fiba-world-cup
+5,Devon Collier,15.0,2,5,0,1,0,0,0,0,0,1,0,0,2,4,puerto rico,2019-08-31,iran,201908312,First Round,20192,fiba-world-cup
+6,Ramon Clemente,13.0,1,2,1,2,2,2,0,1,0,0,0,1,1,5,puerto rico,2019-08-31,iran,201908312,First Round,20192,fiba-world-cup
+7,Javier Mojica,13.0,3,5,0,1,2,2,2,4,0,2,1,0,1,8,puerto rico,2019-08-31,iran,201908312,First Round,20192,fiba-world-cup
+8,Isaiah Pineiro,12.0,3,7,1,2,1,2,2,4,0,1,0,0,3,8,puerto rico,2019-08-31,iran,201908312,First Round,20192,fiba-world-cup
+9,Alex Franklin,11.0,0,0,0,0,0,0,0,1,2,1,0,0,2,0,puerto rico,2019-08-31,iran,201908312,First Round,20192,fiba-world-cup
+10,Angel Rodriguez,7.0,0,2,0,1,2,2,1,1,2,1,0,1,0,2,puerto rico,2019-08-31,iran,201908312,First Round,20192,fiba-world-cup
+11,Chris Brady,2.0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,puerto rico,2019-08-31,iran,201908312,First Round,20192,fiba-world-cup
+12,Totals,,30,73,7,23,16,20,11,30,18,10,3,7,18,83,puerto rico,2019-08-31,iran,201908312,First Round,20192,fiba-world-cup
+0,Behnam Yakhchali,37.0,8,12,6,9,0,0,0,2,1,3,1,3,1,22,iran,2019-08-31,puerto rico,201908312,First Round,20192,fiba-world-cup
+1,Hamed Haddadi,35.0,8,15,2,2,4,7,5,16,4,0,1,5,2,22,iran,2019-08-31,puerto rico,201908312,First Round,20192,fiba-world-cup
+2,Samad Nik Bahrami,34.0,6,15,2,7,0,0,0,5,1,0,1,2,1,14,iran,2019-08-31,puerto rico,201908312,First Round,20192,fiba-world-cup
+3,Mohammad Jamshidi,28.0,2,6,0,1,3,3,1,3,5,0,0,2,4,7,iran,2019-08-31,puerto rico,201908312,First Round,20192,fiba-world-cup
+4,Sajjad Mashayekhi,21.0,1,4,0,1,1,2,1,2,1,1,0,3,4,3,iran,2019-08-31,puerto rico,201908312,First Round,20192,fiba-world-cup
+5,Mohammad Hassanzadeh,15.0,2,5,0,0,1,1,2,3,1,1,0,1,2,5,iran,2019-08-31,puerto rico,201908312,First Round,20192,fiba-world-cup
+6,Aaron Geramipoor,14.0,2,5,0,0,2,3,4,8,0,0,0,1,3,6,iran,2019-08-31,puerto rico,201908312,First Round,20192,fiba-world-cup
+7,Arman Zangeneh,14.0,1,3,0,1,0,0,0,1,1,0,1,1,4,2,iran,2019-08-31,puerto rico,201908312,First Round,20192,fiba-world-cup
+8,Michael Rostampour,2.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,iran,2019-08-31,puerto rico,201908312,First Round,20192,fiba-world-cup
+9,Totals,,30,65,10,21,11,16,13,40,14,5,4,18,23,81,iran,2019-08-31,puerto rico,201908312,First Round,20192,fiba-world-cup

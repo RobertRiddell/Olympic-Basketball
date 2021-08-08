@@ -1,27 +1,27 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Gregory Vargas,28.0,4,11,1,3,1,2,0,4,5,0,0,4,3,10,venezuela,2019-09-06,argentina,2019090649,Second Round,201949
-1,Nestor Colmenares,28.0,2,7,0,0,1,1,5,7,4,2,0,3,3,5,venezuela,2019-09-06,argentina,2019090649,Second Round,201949
-2,Heissler Guillent,26.0,4,13,2,5,0,0,0,1,3,2,0,2,1,10,venezuela,2019-09-06,argentina,2019090649,Second Round,201949
-3,Michael Carrera,19.0,7,10,0,2,5,6,2,4,2,0,1,0,2,19,venezuela,2019-09-06,argentina,2019090649,Second Round,201949
-4,Jose Vargas,19.0,0,4,0,2,0,0,0,1,1,1,0,1,3,0,venezuela,2019-09-06,argentina,2019090649,Second Round,201949
-5,Miguel Ruiz,16.0,1,3,0,0,0,0,4,6,0,2,0,0,3,2,venezuela,2019-09-06,argentina,2019090649,Second Round,201949
-6,Luis Bethelmy,14.0,4,6,3,4,0,0,0,3,0,0,0,0,1,11,venezuela,2019-09-06,argentina,2019090649,Second Round,201949
-7,Jhornan Jose Zamora,14.0,1,6,0,4,0,0,0,1,0,0,0,0,1,2,venezuela,2019-09-06,argentina,2019090649,Second Round,201949
-8,Dwight Lewis,12.0,2,3,0,0,2,2,1,2,0,1,0,1,2,6,venezuela,2019-09-06,argentina,2019090649,Second Round,201949
-9,Pedro Chourio,11.0,1,4,0,1,0,0,0,1,0,1,0,0,2,2,venezuela,2019-09-06,argentina,2019090649,Second Round,201949
-10,Anthony Perez,8.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,venezuela,2019-09-06,argentina,2019090649,Second Round,201949
-11,Windi Graterol,6.0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,venezuela,2019-09-06,argentina,2019090649,Second Round,201949
-12,Totals,,26,67,6,21,9,11,12,30,15,9,2,11,24,67,venezuela,2019-09-06,argentina,2019090649,Second Round,201949
-0,Gabriel Deck,30.0,9,12,2,4,5,6,0,4,2,1,0,1,2,25,argentina,2019-09-06,venezuela,2019090649,Second Round,201949
-1,Patricio Garino,29.0,3,7,0,3,4,4,1,3,0,1,0,0,2,10,argentina,2019-09-06,venezuela,2019090649,Second Round,201949
-2,Nicolas Laprovittola,26.0,2,6,1,5,4,4,1,5,7,1,0,2,2,9,argentina,2019-09-06,venezuela,2019090649,Second Round,201949
-3,Marcos Delia,26.0,3,5,0,0,0,0,0,5,1,1,2,1,0,6,argentina,2019-09-06,venezuela,2019090649,Second Round,201949
-4,Facu Campazzo,25.0,3,4,2,3,4,4,0,2,9,1,0,3,2,12,argentina,2019-09-06,venezuela,2019090649,Second Round,201949
-5,Luis Scola,19.0,4,8,0,2,7,8,2,6,1,0,1,1,3,15,argentina,2019-09-06,venezuela,2019090649,Second Round,201949
-6,Luca Vildoza,17.0,1,2,1,2,0,0,0,1,2,3,0,2,2,3,argentina,2019-09-06,venezuela,2019090649,Second Round,201949
-7,Nicolas Brussino,16.0,1,3,0,1,0,0,1,5,2,0,0,0,0,2,argentina,2019-09-06,venezuela,2019090649,Second Round,201949
-8,Tayavek Gallizzi,4.0,0,1,0,0,2,2,1,2,0,0,0,0,1,2,argentina,2019-09-06,venezuela,2019090649,Second Round,201949
-9,Maximo Fjellerup,3.0,0,0,0,0,0,0,0,1,1,1,0,0,2,0,argentina,2019-09-06,venezuela,2019090649,Second Round,201949
-10,Lucio Redivo,3.0,0,2,0,1,0,0,0,0,0,0,0,1,0,0,argentina,2019-09-06,venezuela,2019090649,Second Round,201949
-11,Agustin Caffaro,1.0,1,1,0,0,1,1,0,0,0,0,0,0,0,3,argentina,2019-09-06,venezuela,2019090649,Second Round,201949
-12,Totals,,27,51,6,21,27,29,6,34,25,9,3,11,16,87,argentina,2019-09-06,venezuela,2019090649,Second Round,201949
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Gregory Vargas,28.0,4,11,1,3,1,2,0,4,5,0,0,4,3,10,venezuela,2019-09-06,argentina,2019090649,Second Round,201949,fiba-world-cup
+1,Nestor Colmenares,28.0,2,7,0,0,1,1,5,7,4,2,0,3,3,5,venezuela,2019-09-06,argentina,2019090649,Second Round,201949,fiba-world-cup
+2,Heissler Guillent,26.0,4,13,2,5,0,0,0,1,3,2,0,2,1,10,venezuela,2019-09-06,argentina,2019090649,Second Round,201949,fiba-world-cup
+3,Michael Carrera,19.0,7,10,0,2,5,6,2,4,2,0,1,0,2,19,venezuela,2019-09-06,argentina,2019090649,Second Round,201949,fiba-world-cup
+4,Jose Vargas,19.0,0,4,0,2,0,0,0,1,1,1,0,1,3,0,venezuela,2019-09-06,argentina,2019090649,Second Round,201949,fiba-world-cup
+5,Miguel Ruiz,16.0,1,3,0,0,0,0,4,6,0,2,0,0,3,2,venezuela,2019-09-06,argentina,2019090649,Second Round,201949,fiba-world-cup
+6,Luis Bethelmy,14.0,4,6,3,4,0,0,0,3,0,0,0,0,1,11,venezuela,2019-09-06,argentina,2019090649,Second Round,201949,fiba-world-cup
+7,Jhornan Jose Zamora,14.0,1,6,0,4,0,0,0,1,0,0,0,0,1,2,venezuela,2019-09-06,argentina,2019090649,Second Round,201949,fiba-world-cup
+8,Dwight Lewis,12.0,2,3,0,0,2,2,1,2,0,1,0,1,2,6,venezuela,2019-09-06,argentina,2019090649,Second Round,201949,fiba-world-cup
+9,Pedro Chourio,11.0,1,4,0,1,0,0,0,1,0,1,0,0,2,2,venezuela,2019-09-06,argentina,2019090649,Second Round,201949,fiba-world-cup
+10,Anthony Perez,8.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,venezuela,2019-09-06,argentina,2019090649,Second Round,201949,fiba-world-cup
+11,Windi Graterol,6.0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,venezuela,2019-09-06,argentina,2019090649,Second Round,201949,fiba-world-cup
+12,Totals,,26,67,6,21,9,11,12,30,15,9,2,11,24,67,venezuela,2019-09-06,argentina,2019090649,Second Round,201949,fiba-world-cup
+0,Gabriel Deck,30.0,9,12,2,4,5,6,0,4,2,1,0,1,2,25,argentina,2019-09-06,venezuela,2019090649,Second Round,201949,fiba-world-cup
+1,Patricio Garino,29.0,3,7,0,3,4,4,1,3,0,1,0,0,2,10,argentina,2019-09-06,venezuela,2019090649,Second Round,201949,fiba-world-cup
+2,Nicolas Laprovittola,26.0,2,6,1,5,4,4,1,5,7,1,0,2,2,9,argentina,2019-09-06,venezuela,2019090649,Second Round,201949,fiba-world-cup
+3,Marcos Delia,26.0,3,5,0,0,0,0,0,5,1,1,2,1,0,6,argentina,2019-09-06,venezuela,2019090649,Second Round,201949,fiba-world-cup
+4,Facu Campazzo,25.0,3,4,2,3,4,4,0,2,9,1,0,3,2,12,argentina,2019-09-06,venezuela,2019090649,Second Round,201949,fiba-world-cup
+5,Luis Scola,19.0,4,8,0,2,7,8,2,6,1,0,1,1,3,15,argentina,2019-09-06,venezuela,2019090649,Second Round,201949,fiba-world-cup
+6,Luca Vildoza,17.0,1,2,1,2,0,0,0,1,2,3,0,2,2,3,argentina,2019-09-06,venezuela,2019090649,Second Round,201949,fiba-world-cup
+7,Nicolas Brussino,16.0,1,3,0,1,0,0,1,5,2,0,0,0,0,2,argentina,2019-09-06,venezuela,2019090649,Second Round,201949,fiba-world-cup
+8,Tayavek Gallizzi,4.0,0,1,0,0,2,2,1,2,0,0,0,0,1,2,argentina,2019-09-06,venezuela,2019090649,Second Round,201949,fiba-world-cup
+9,Maximo Fjellerup,3.0,0,0,0,0,0,0,0,1,1,1,0,0,2,0,argentina,2019-09-06,venezuela,2019090649,Second Round,201949,fiba-world-cup
+10,Lucio Redivo,3.0,0,2,0,1,0,0,0,0,0,0,0,1,0,0,argentina,2019-09-06,venezuela,2019090649,Second Round,201949,fiba-world-cup
+11,Agustin Caffaro,1.0,1,1,0,0,1,1,0,0,0,0,0,0,0,3,argentina,2019-09-06,venezuela,2019090649,Second Round,201949,fiba-world-cup
+12,Totals,,27,51,6,21,27,29,6,34,25,9,3,11,16,87,argentina,2019-09-06,venezuela,2019090649,Second Round,201949,fiba-world-cup

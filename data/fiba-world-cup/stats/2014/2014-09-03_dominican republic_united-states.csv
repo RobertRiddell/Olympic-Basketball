@@ -1,28 +1,28 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Victor Liz,24,6,11,2,4,1,3,0,3,1,0,0,2,1,15,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447
-1,Edgar Sosa,21,4,9,1,2,0,0,0,1,4,0,0,2,1,9,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447
-2,James Feldeine,20,2,7,1,2,0,0,0,6,4,0,0,0,2,5,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447
-3,Eloy Vargas,13,2,6,0,0,0,0,2,4,0,0,1,2,1,4,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447
-4,Eulis Baez,13,1,3,0,1,0,0,0,1,1,0,0,1,4,2,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447
-6,Jack Martinez,21,4,6,0,1,2,2,1,5,0,0,0,4,1,10,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447
-7,Juan Coronado,19,0,5,0,3,0,0,0,2,3,1,0,4,2,0,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447
-8,Manuel Fortuna,18,2,8,2,2,0,0,1,3,2,2,0,6,3,6,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447
-9,Orlando Sanchez,18,2,3,0,0,0,0,1,2,0,0,0,2,4,4,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447
-10,Edward Santana,17,3,8,0,0,5,5,1,2,1,1,0,1,2,11,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447
-11,Ronald Ramon,16,2,5,1,3,0,0,0,0,0,1,0,2,2,5,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447
-12,Totals,,28,71,7,18,8,10,6,29,16,5,1,26,23,71,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447
-0,Kyrie Irving,27,3,7,0,2,0,0,0,2,2,0,0,2,3,6,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447
-1,Stephen Curry,21,3,7,2,4,0,0,0,6,7,0,0,1,2,8,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447
-2,Anthony Davis,20,5,10,0,0,0,0,3,7,0,0,5,1,0,10,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447
-3,James Harden,18,3,6,1,4,3,5,0,3,3,2,1,1,2,10,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447
-4,Kenneth Faried,17,8,11,0,0,0,0,3,6,0,0,0,1,3,16,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447
-6,Klay Thompson,22,3,7,2,5,0,0,0,1,3,3,0,1,2,8,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447
-7,DeMar DeRozan,18,5,8,1,3,0,0,0,2,2,3,0,5,1,11,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447
-8,Rudy Gay,17,3,5,0,1,3,5,1,4,5,2,2,1,2,9,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447
-9,Derrick Rose,13,2,5,0,2,2,2,0,1,3,1,0,1,0,6,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447
-10,DeMarcus Cousins,12,5,5,0,0,3,5,3,5,2,6,0,1,2,13,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447
-11,Andre Drummond,8,2,4,0,0,0,0,0,3,0,0,0,0,0,4,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447
-12,Mason Plumlee,7,2,3,0,0,1,2,0,1,1,0,0,1,1,5,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447
-13,Totals,,44,78,6,21,12,19,10,41,28,17,8,16,18,106,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Victor Liz,24,6,11,2,4,1,3,0,3,1,0,0,2,1,15,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447,fiba-world-cup
+1,Edgar Sosa,21,4,9,1,2,0,0,0,1,4,0,0,2,1,9,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447,fiba-world-cup
+2,James Feldeine,20,2,7,1,2,0,0,0,6,4,0,0,0,2,5,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447,fiba-world-cup
+3,Eloy Vargas,13,2,6,0,0,0,0,2,4,0,0,1,2,1,4,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447,fiba-world-cup
+4,Eulis Baez,13,1,3,0,1,0,0,0,1,1,0,0,1,4,2,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447,fiba-world-cup
+6,Jack Martinez,21,4,6,0,1,2,2,1,5,0,0,0,4,1,10,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447,fiba-world-cup
+7,Juan Coronado,19,0,5,0,3,0,0,0,2,3,1,0,4,2,0,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447,fiba-world-cup
+8,Manuel Fortuna,18,2,8,2,2,0,0,1,3,2,2,0,6,3,6,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447,fiba-world-cup
+9,Orlando Sanchez,18,2,3,0,0,0,0,1,2,0,0,0,2,4,4,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447,fiba-world-cup
+10,Edward Santana,17,3,8,0,0,5,5,1,2,1,1,0,1,2,11,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447,fiba-world-cup
+11,Ronald Ramon,16,2,5,1,3,0,0,0,0,0,1,0,2,2,5,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447,fiba-world-cup
+12,Totals,,28,71,7,18,8,10,6,29,16,5,1,26,23,71,dominican republic,2014-09-03,united-states,2014090347,Group Play,201447,fiba-world-cup
+0,Kyrie Irving,27,3,7,0,2,0,0,0,2,2,0,0,2,3,6,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447,fiba-world-cup
+1,Stephen Curry,21,3,7,2,4,0,0,0,6,7,0,0,1,2,8,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447,fiba-world-cup
+2,Anthony Davis,20,5,10,0,0,0,0,3,7,0,0,5,1,0,10,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447,fiba-world-cup
+3,James Harden,18,3,6,1,4,3,5,0,3,3,2,1,1,2,10,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447,fiba-world-cup
+4,Kenneth Faried,17,8,11,0,0,0,0,3,6,0,0,0,1,3,16,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447,fiba-world-cup
+6,Klay Thompson,22,3,7,2,5,0,0,0,1,3,3,0,1,2,8,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447,fiba-world-cup
+7,DeMar DeRozan,18,5,8,1,3,0,0,0,2,2,3,0,5,1,11,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447,fiba-world-cup
+8,Rudy Gay,17,3,5,0,1,3,5,1,4,5,2,2,1,2,9,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447,fiba-world-cup
+9,Derrick Rose,13,2,5,0,2,2,2,0,1,3,1,0,1,0,6,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447,fiba-world-cup
+10,DeMarcus Cousins,12,5,5,0,0,3,5,3,5,2,6,0,1,2,13,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447,fiba-world-cup
+11,Andre Drummond,8,2,4,0,0,0,0,0,3,0,0,0,0,0,4,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447,fiba-world-cup
+12,Mason Plumlee,7,2,3,0,0,1,2,0,1,1,0,0,1,1,5,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447,fiba-world-cup
+13,Totals,,44,78,6,21,12,19,10,41,28,17,8,16,18,106,united-states,2014-09-03,dominican republic,2014090347,Group Play,201447,fiba-world-cup

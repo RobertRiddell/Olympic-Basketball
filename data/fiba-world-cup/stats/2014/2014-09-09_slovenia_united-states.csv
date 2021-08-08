@@ -1,29 +1,29 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Goran Dragic,29,6,15,1,5,0,0,1,4,4,0,0,4,4,13,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469
-1,Zoran Dragic,28,4,12,2,6,1,2,0,5,0,0,2,2,2,11,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469
-2,Domen Lorbek,24,5,8,1,4,1,3,0,6,2,0,0,3,2,12,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469
-3,Miha Zupan,16,1,5,0,2,0,2,1,1,1,0,0,2,4,2,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469
-4,Uros Slokar,14,3,5,1,1,0,0,1,2,1,0,0,3,3,7,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469
-6,Jure Balazic,31,3,8,1,5,2,4,1,6,1,0,2,2,2,9,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469
-7,Alen Omic,18,2,3,0,0,0,0,1,3,0,0,0,1,3,4,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469
-8,Klemen Prepelic,13,2,2,1,1,4,4,1,1,1,0,0,2,2,9,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469
-9,Jaka Klobucar,12,1,4,1,2,0,0,0,1,2,1,0,2,1,3,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469
-10,Edo Muric,10,2,3,0,0,2,2,0,0,0,0,1,1,2,6,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469
-11,Aleksej Nikolic,4,0,1,0,1,0,0,0,0,0,0,0,0,1,0,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469
-12,Jaka Blazic,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469
-13,Totals,,29,66,8,27,10,17,6,29,12,1,5,24,26,76,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469
-0,James Harden,26,4,14,2,2,4,5,1,5,3,1,0,2,2,14,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469
-1,Kyrie Irving,22,5,9,1,1,1,1,2,4,3,4,0,0,1,12,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469
-2,Anthony Davis,21,5,11,0,0,3,4,6,11,1,0,3,2,2,13,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469
-3,Kenneth Faried,20,5,9,0,0,4,5,4,10,1,0,0,0,1,14,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469
-4,Stephen Curry,17,2,9,0,3,2,2,0,1,2,1,0,0,3,6,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469
-6,Klay Thompson,28,7,12,4,8,2,4,1,3,2,2,1,0,3,20,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469
-7,Derrick Rose,18,6,10,0,2,0,0,3,3,5,1,0,2,1,12,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469
-8,Rudy Gay,14,2,3,2,3,1,2,0,4,2,0,0,1,2,7,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469
-9,DeMarcus Cousins,13,4,5,0,0,1,3,3,5,1,3,1,2,5,9,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469
-10,DeMar DeRozan,9,3,3,0,0,0,0,0,2,0,0,0,1,2,6,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469
-11,Mason Plumlee,6,2,3,0,0,0,1,1,2,1,0,0,1,0,4,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469
-12,Andre Drummond,6,1,4,0,0,0,0,1,1,0,0,2,0,0,2,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469
-13,Totals,,46,92,9,19,18,27,22,51,21,12,7,11,22,119,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Goran Dragic,29,6,15,1,5,0,0,1,4,4,0,0,4,4,13,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469,fiba-world-cup
+1,Zoran Dragic,28,4,12,2,6,1,2,0,5,0,0,2,2,2,11,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469,fiba-world-cup
+2,Domen Lorbek,24,5,8,1,4,1,3,0,6,2,0,0,3,2,12,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469,fiba-world-cup
+3,Miha Zupan,16,1,5,0,2,0,2,1,1,1,0,0,2,4,2,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469,fiba-world-cup
+4,Uros Slokar,14,3,5,1,1,0,0,1,2,1,0,0,3,3,7,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469,fiba-world-cup
+6,Jure Balazic,31,3,8,1,5,2,4,1,6,1,0,2,2,2,9,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469,fiba-world-cup
+7,Alen Omic,18,2,3,0,0,0,0,1,3,0,0,0,1,3,4,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469,fiba-world-cup
+8,Klemen Prepelic,13,2,2,1,1,4,4,1,1,1,0,0,2,2,9,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469,fiba-world-cup
+9,Jaka Klobucar,12,1,4,1,2,0,0,0,1,2,1,0,2,1,3,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469,fiba-world-cup
+10,Edo Muric,10,2,3,0,0,2,2,0,0,0,0,1,1,2,6,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469,fiba-world-cup
+11,Aleksej Nikolic,4,0,1,0,1,0,0,0,0,0,0,0,0,1,0,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469,fiba-world-cup
+12,Jaka Blazic,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469,fiba-world-cup
+13,Totals,,29,66,8,27,10,17,6,29,12,1,5,24,26,76,slovenia,2014-09-09,united-states,2014090969,Quarterfinals,201469,fiba-world-cup
+0,James Harden,26,4,14,2,2,4,5,1,5,3,1,0,2,2,14,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469,fiba-world-cup
+1,Kyrie Irving,22,5,9,1,1,1,1,2,4,3,4,0,0,1,12,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469,fiba-world-cup
+2,Anthony Davis,21,5,11,0,0,3,4,6,11,1,0,3,2,2,13,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469,fiba-world-cup
+3,Kenneth Faried,20,5,9,0,0,4,5,4,10,1,0,0,0,1,14,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469,fiba-world-cup
+4,Stephen Curry,17,2,9,0,3,2,2,0,1,2,1,0,0,3,6,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469,fiba-world-cup
+6,Klay Thompson,28,7,12,4,8,2,4,1,3,2,2,1,0,3,20,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469,fiba-world-cup
+7,Derrick Rose,18,6,10,0,2,0,0,3,3,5,1,0,2,1,12,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469,fiba-world-cup
+8,Rudy Gay,14,2,3,2,3,1,2,0,4,2,0,0,1,2,7,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469,fiba-world-cup
+9,DeMarcus Cousins,13,4,5,0,0,1,3,3,5,1,3,1,2,5,9,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469,fiba-world-cup
+10,DeMar DeRozan,9,3,3,0,0,0,0,0,2,0,0,0,1,2,6,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469,fiba-world-cup
+11,Mason Plumlee,6,2,3,0,0,0,1,1,2,1,0,0,1,0,4,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469,fiba-world-cup
+12,Andre Drummond,6,1,4,0,0,0,0,1,1,0,0,2,0,0,2,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469,fiba-world-cup
+13,Totals,,46,92,9,19,18,27,22,51,21,12,7,11,22,119,united-states,2014-09-09,slovenia,2014090969,Quarterfinals,201469,fiba-world-cup

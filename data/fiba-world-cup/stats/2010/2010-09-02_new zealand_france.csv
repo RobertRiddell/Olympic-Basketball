@@ -1,25 +1,25 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Kirk Penney,33,6,15,4,9,9,12,0,2,3,1,0,3,1,25,new zealand,2010-09-02,france,2010090252,Group Play,201052
-1,Mika Vukona,33,6,7,2,2,1,1,2,6,5,1,0,3,4,15,new zealand,2010-09-02,france,2010090252,Group Play,201052
-2,Lindsay Tait,32,3,6,2,4,0,0,0,3,3,0,0,1,2,8,new zealand,2010-09-02,france,2010090252,Group Play,201052
-3,Pero Cameron,21,3,6,2,5,0,0,0,2,6,0,0,1,4,8,new zealand,2010-09-02,france,2010090252,Group Play,201052
-4,Thomas Abercrombie,21,2,8,2,4,1,2,0,3,0,2,1,0,3,7,new zealand,2010-09-02,france,2010090252,Group Play,201052
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,new zealand,2010-09-02,france,2010090252,Group Play,201052
-6,Phill Jones,19,2,8,0,3,1,1,0,2,0,1,0,1,5,5,new zealand,2010-09-02,france,2010090252,Group Play,201052
-7,Craig Bradshaw,18,1,3,0,1,2,4,1,2,0,0,0,1,1,4,new zealand,2010-09-02,france,2010090252,Group Play,201052
-8,Casey Frank,16,3,5,1,2,0,0,1,5,0,0,0,1,4,7,new zealand,2010-09-02,france,2010090252,Group Play,201052
-9,Michael Fitchett,8,1,2,1,2,0,0,0,0,0,0,0,0,1,3,new zealand,2010-09-02,france,2010090252,Group Play,201052
-10,Totals,,27,60,14,32,14,20,4,25,17,5,1,11,25,82,new zealand,2010-09-02,france,2010090252,Group Play,201052
-0,Nando De Colo,31,3,8,2,5,2,2,0,4,4,1,0,1,5,10,france,2010-09-02,new zealand,2010090252,Group Play,201052
-1,Nicolas Batum,29,2,8,0,3,2,3,0,5,3,0,1,4,4,6,france,2010-09-02,new zealand,2010090252,Group Play,201052
-2,Boris Diaw,27,3,11,0,2,3,4,2,6,0,0,1,2,2,9,france,2010-09-02,new zealand,2010090252,Group Play,201052
-3,Florent Pietrus,27,1,4,0,0,6,6,6,8,1,1,0,0,1,8,france,2010-09-02,new zealand,2010090252,Group Play,201052
-4,Ian Mahinmi,4,0,1,0,0,0,0,0,2,0,0,0,2,0,0,france,2010-09-02,new zealand,2010090252,Group Play,201052
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,france,2010-09-02,new zealand,2010090252,Group Play,201052
-6,Mickael Gelabale,28,5,7,2,2,0,0,1,5,3,0,1,0,3,12,france,2010-09-02,new zealand,2010090252,Group Play,201052
-7,Yannick Bokolo,23,4,9,2,5,3,4,0,1,0,0,1,2,3,13,france,2010-09-02,new zealand,2010090252,Group Play,201052
-8,Alain Koffi,19,2,3,0,0,5,8,0,2,0,0,0,1,2,9,france,2010-09-02,new zealand,2010090252,Group Play,201052
-9,Ali Traore,6,1,2,0,0,1,2,0,0,0,0,0,2,0,3,france,2010-09-02,new zealand,2010090252,Group Play,201052
-10,Edwin Jackson,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,france,2010-09-02,new zealand,2010090252,Group Play,201052
-11,Andrew Albicy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,france,2010-09-02,new zealand,2010090252,Group Play,201052
-12,Totals,,21,53,6,17,22,29,9,33,11,2,4,14,20,70,france,2010-09-02,new zealand,2010090252,Group Play,201052
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Kirk Penney,33,6,15,4,9,9,12,0,2,3,1,0,3,1,25,new zealand,2010-09-02,france,2010090252,Group Play,201052,fiba-world-cup
+1,Mika Vukona,33,6,7,2,2,1,1,2,6,5,1,0,3,4,15,new zealand,2010-09-02,france,2010090252,Group Play,201052,fiba-world-cup
+2,Lindsay Tait,32,3,6,2,4,0,0,0,3,3,0,0,1,2,8,new zealand,2010-09-02,france,2010090252,Group Play,201052,fiba-world-cup
+3,Pero Cameron,21,3,6,2,5,0,0,0,2,6,0,0,1,4,8,new zealand,2010-09-02,france,2010090252,Group Play,201052,fiba-world-cup
+4,Thomas Abercrombie,21,2,8,2,4,1,2,0,3,0,2,1,0,3,7,new zealand,2010-09-02,france,2010090252,Group Play,201052,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,new zealand,2010-09-02,france,2010090252,Group Play,201052,fiba-world-cup
+6,Phill Jones,19,2,8,0,3,1,1,0,2,0,1,0,1,5,5,new zealand,2010-09-02,france,2010090252,Group Play,201052,fiba-world-cup
+7,Craig Bradshaw,18,1,3,0,1,2,4,1,2,0,0,0,1,1,4,new zealand,2010-09-02,france,2010090252,Group Play,201052,fiba-world-cup
+8,Casey Frank,16,3,5,1,2,0,0,1,5,0,0,0,1,4,7,new zealand,2010-09-02,france,2010090252,Group Play,201052,fiba-world-cup
+9,Michael Fitchett,8,1,2,1,2,0,0,0,0,0,0,0,0,1,3,new zealand,2010-09-02,france,2010090252,Group Play,201052,fiba-world-cup
+10,Totals,,27,60,14,32,14,20,4,25,17,5,1,11,25,82,new zealand,2010-09-02,france,2010090252,Group Play,201052,fiba-world-cup
+0,Nando De Colo,31,3,8,2,5,2,2,0,4,4,1,0,1,5,10,france,2010-09-02,new zealand,2010090252,Group Play,201052,fiba-world-cup
+1,Nicolas Batum,29,2,8,0,3,2,3,0,5,3,0,1,4,4,6,france,2010-09-02,new zealand,2010090252,Group Play,201052,fiba-world-cup
+2,Boris Diaw,27,3,11,0,2,3,4,2,6,0,0,1,2,2,9,france,2010-09-02,new zealand,2010090252,Group Play,201052,fiba-world-cup
+3,Florent Pietrus,27,1,4,0,0,6,6,6,8,1,1,0,0,1,8,france,2010-09-02,new zealand,2010090252,Group Play,201052,fiba-world-cup
+4,Ian Mahinmi,4,0,1,0,0,0,0,0,2,0,0,0,2,0,0,france,2010-09-02,new zealand,2010090252,Group Play,201052,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,france,2010-09-02,new zealand,2010090252,Group Play,201052,fiba-world-cup
+6,Mickael Gelabale,28,5,7,2,2,0,0,1,5,3,0,1,0,3,12,france,2010-09-02,new zealand,2010090252,Group Play,201052,fiba-world-cup
+7,Yannick Bokolo,23,4,9,2,5,3,4,0,1,0,0,1,2,3,13,france,2010-09-02,new zealand,2010090252,Group Play,201052,fiba-world-cup
+8,Alain Koffi,19,2,3,0,0,5,8,0,2,0,0,0,1,2,9,france,2010-09-02,new zealand,2010090252,Group Play,201052,fiba-world-cup
+9,Ali Traore,6,1,2,0,0,1,2,0,0,0,0,0,2,0,3,france,2010-09-02,new zealand,2010090252,Group Play,201052,fiba-world-cup
+10,Edwin Jackson,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,france,2010-09-02,new zealand,2010090252,Group Play,201052,fiba-world-cup
+11,Andrew Albicy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,france,2010-09-02,new zealand,2010090252,Group Play,201052,fiba-world-cup
+12,Totals,,21,53,6,17,22,29,9,33,11,2,4,14,20,70,france,2010-09-02,new zealand,2010090252,Group Play,201052,fiba-world-cup

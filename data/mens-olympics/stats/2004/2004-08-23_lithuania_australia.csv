@@ -1,26 +1,26 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Robertas Javtokas,25.0,10,14,0,0,3,4,5,9,2,0,1,1,4,23,lithuania,2004-08-23,australia,2004082326,Group B,200426
-1,Sarunas Jasikevicius,25.0,4,7,2,5,1,2,0,0,4,0,0,3,0,11,lithuania,2004-08-23,australia,2004082326,Group B,200426
-2,Ramunas Siskauskas,24.0,2,6,0,3,1,2,0,3,0,0,0,1,2,5,lithuania,2004-08-23,australia,2004082326,Group B,200426
-3,Saulius Stombergas,21.0,4,6,2,4,2,2,0,4,0,1,0,1,0,12,lithuania,2004-08-23,australia,2004082326,Group B,200426
-4,Darius Songaila,19.0,3,6,0,0,4,4,0,2,2,1,1,1,0,10,lithuania,2004-08-23,australia,2004082326,Group B,200426
-5,Ksistof Lavrinovic,18.0,5,9,4,7,4,4,0,5,0,1,0,0,1,18,lithuania,2004-08-23,australia,2004082326,Group B,200426
-6,Dainius Salenga,17.0,2,5,0,1,0,0,1,2,0,1,1,0,1,4,lithuania,2004-08-23,australia,2004082326,Group B,200426
-7,Mindaugas Zukauskas,16.0,3,5,2,4,0,0,1,1,1,0,0,0,2,8,lithuania,2004-08-23,australia,2004082326,Group B,200426
-8,Arvydas Macijauskas,16.0,1,6,0,4,0,0,2,2,1,1,0,1,0,2,lithuania,2004-08-23,australia,2004082326,Group B,200426
-9,Vidas Ginevicius,10.0,2,2,0,0,1,1,0,1,3,2,0,1,0,5,lithuania,2004-08-23,australia,2004082326,Group B,200426
-10,Eurelijus Zukauskas,5.0,0,1,0,0,0,2,0,0,0,0,0,0,4,0,lithuania,2004-08-23,australia,2004082326,Group B,200426
-11,Donatas Slanina,3.0,1,1,0,0,0,0,0,2,0,1,0,0,0,2,lithuania,2004-08-23,australia,2004082326,Group B,200426
-12,Totals,,37,68,10,28,16,21,9,31,13,8,3,9,14,100,lithuania,2004-08-23,australia,2004082326,Group B,200426
-0,Andrew Bogut,35.0,8,14,1,3,4,8,5,9,1,1,0,2,4,21,australia,2004-08-23,lithuania,2004082326,Group B,200426
-1,Glen Saville,30.0,8,10,3,4,2,3,1,3,0,1,0,1,4,21,australia,2004-08-23,lithuania,2004082326,Group B,200426
-2,Matt Nielsen,26.0,4,11,1,3,0,0,3,5,2,0,0,1,3,9,australia,2004-08-23,lithuania,2004082326,Group B,200426
-3,Jason Smith,25.0,3,7,3,6,0,0,0,1,2,1,0,1,1,9,australia,2004-08-23,lithuania,2004082326,Group B,200426
-4,Shane Heal,24.0,4,9,1,3,2,2,0,1,3,0,0,3,2,11,australia,2004-08-23,lithuania,2004082326,Group B,200426
-5,Brett Maher,15.0,3,6,2,4,0,0,0,2,0,0,0,0,0,8,australia,2004-08-23,lithuania,2004082326,Group B,200426
-6,David Andersen,12.0,0,4,0,0,0,0,0,2,0,0,0,1,2,0,australia,2004-08-23,lithuania,2004082326,Group B,200426
-7,Martin Cattalini,10.0,0,3,0,0,0,0,2,4,0,1,0,0,1,0,australia,2004-08-23,lithuania,2004082326,Group B,200426
-8,C.J. Bruton,9.0,0,1,0,1,2,2,0,0,0,0,0,1,1,2,australia,2004-08-23,lithuania,2004082326,Group B,200426
-9,Tony Ronaldson,7.0,1,2,0,1,0,0,0,0,0,0,0,0,1,2,australia,2004-08-23,lithuania,2004082326,Group B,200426
-10,John Rillie,6.0,1,4,0,3,0,0,1,2,0,0,0,0,0,2,australia,2004-08-23,lithuania,2004082326,Group B,200426
-11,Totals,,32,71,11,28,10,15,12,29,8,4,0,10,19,85,australia,2004-08-23,lithuania,2004082326,Group B,200426
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Robertas Javtokas,25.0,10,14,0,0,3,4,5,9,2,0,1,1,4,23,lithuania,2004-08-23,australia,2004082326,Group B,200426,mens-olympics
+1,Sarunas Jasikevicius,25.0,4,7,2,5,1,2,0,0,4,0,0,3,0,11,lithuania,2004-08-23,australia,2004082326,Group B,200426,mens-olympics
+2,Ramunas Siskauskas,24.0,2,6,0,3,1,2,0,3,0,0,0,1,2,5,lithuania,2004-08-23,australia,2004082326,Group B,200426,mens-olympics
+3,Saulius Stombergas,21.0,4,6,2,4,2,2,0,4,0,1,0,1,0,12,lithuania,2004-08-23,australia,2004082326,Group B,200426,mens-olympics
+4,Darius Songaila,19.0,3,6,0,0,4,4,0,2,2,1,1,1,0,10,lithuania,2004-08-23,australia,2004082326,Group B,200426,mens-olympics
+5,Ksistof Lavrinovic,18.0,5,9,4,7,4,4,0,5,0,1,0,0,1,18,lithuania,2004-08-23,australia,2004082326,Group B,200426,mens-olympics
+6,Dainius Salenga,17.0,2,5,0,1,0,0,1,2,0,1,1,0,1,4,lithuania,2004-08-23,australia,2004082326,Group B,200426,mens-olympics
+7,Mindaugas Zukauskas,16.0,3,5,2,4,0,0,1,1,1,0,0,0,2,8,lithuania,2004-08-23,australia,2004082326,Group B,200426,mens-olympics
+8,Arvydas Macijauskas,16.0,1,6,0,4,0,0,2,2,1,1,0,1,0,2,lithuania,2004-08-23,australia,2004082326,Group B,200426,mens-olympics
+9,Vidas Ginevicius,10.0,2,2,0,0,1,1,0,1,3,2,0,1,0,5,lithuania,2004-08-23,australia,2004082326,Group B,200426,mens-olympics
+10,Eurelijus Zukauskas,5.0,0,1,0,0,0,2,0,0,0,0,0,0,4,0,lithuania,2004-08-23,australia,2004082326,Group B,200426,mens-olympics
+11,Donatas Slanina,3.0,1,1,0,0,0,0,0,2,0,1,0,0,0,2,lithuania,2004-08-23,australia,2004082326,Group B,200426,mens-olympics
+12,Totals,,37,68,10,28,16,21,9,31,13,8,3,9,14,100,lithuania,2004-08-23,australia,2004082326,Group B,200426,mens-olympics
+0,Andrew Bogut,35.0,8,14,1,3,4,8,5,9,1,1,0,2,4,21,australia,2004-08-23,lithuania,2004082326,Group B,200426,mens-olympics
+1,Glen Saville,30.0,8,10,3,4,2,3,1,3,0,1,0,1,4,21,australia,2004-08-23,lithuania,2004082326,Group B,200426,mens-olympics
+2,Matt Nielsen,26.0,4,11,1,3,0,0,3,5,2,0,0,1,3,9,australia,2004-08-23,lithuania,2004082326,Group B,200426,mens-olympics
+3,Jason Smith,25.0,3,7,3,6,0,0,0,1,2,1,0,1,1,9,australia,2004-08-23,lithuania,2004082326,Group B,200426,mens-olympics
+4,Shane Heal,24.0,4,9,1,3,2,2,0,1,3,0,0,3,2,11,australia,2004-08-23,lithuania,2004082326,Group B,200426,mens-olympics
+5,Brett Maher,15.0,3,6,2,4,0,0,0,2,0,0,0,0,0,8,australia,2004-08-23,lithuania,2004082326,Group B,200426,mens-olympics
+6,David Andersen,12.0,0,4,0,0,0,0,0,2,0,0,0,1,2,0,australia,2004-08-23,lithuania,2004082326,Group B,200426,mens-olympics
+7,Martin Cattalini,10.0,0,3,0,0,0,0,2,4,0,1,0,0,1,0,australia,2004-08-23,lithuania,2004082326,Group B,200426,mens-olympics
+8,C.J. Bruton,9.0,0,1,0,1,2,2,0,0,0,0,0,1,1,2,australia,2004-08-23,lithuania,2004082326,Group B,200426,mens-olympics
+9,Tony Ronaldson,7.0,1,2,0,1,0,0,0,0,0,0,0,0,1,2,australia,2004-08-23,lithuania,2004082326,Group B,200426,mens-olympics
+10,John Rillie,6.0,1,4,0,3,0,0,1,2,0,0,0,0,0,2,australia,2004-08-23,lithuania,2004082326,Group B,200426,mens-olympics
+11,Totals,,32,71,11,28,10,15,12,29,8,4,0,10,19,85,australia,2004-08-23,lithuania,2004082326,Group B,200426,mens-olympics

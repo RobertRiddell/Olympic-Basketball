@@ -1,28 +1,28 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Nicolas Batum,35,4,10,2,7,3,4,1,5,1,0,1,4,3,13,france,2014-08-30,brazil,201408301,Group Play,20141
-1,Boris Diaw,30,6,13,0,3,3,3,0,6,5,1,1,3,2,15,france,2014-08-30,brazil,201408301,Group Play,20141
-2,Mickael Gelabale,28,3,5,1,1,2,2,1,4,1,0,0,2,3,9,france,2014-08-30,brazil,201408301,Group Play,20141
-3,Thomas Heurtel,21,3,8,2,3,0,0,0,1,1,2,0,2,4,8,france,2014-08-30,brazil,201408301,Group Play,20141
-4,Joffrey Lauvergne,11,1,4,0,1,1,2,0,2,0,0,0,1,3,3,france,2014-08-30,brazil,201408301,Group Play,20141
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,france,2014-08-30,brazil,201408301,Group Play,20141
-6,Florent Pietrus,20,0,0,0,0,2,2,2,4,1,0,0,1,3,2,france,2014-08-30,brazil,201408301,Group Play,20141
-7,Antoine Diot,19,2,5,1,3,2,2,0,3,0,2,0,1,0,7,france,2014-08-30,brazil,201408301,Group Play,20141
-8,Rudy Gobert,19,3,5,0,0,0,1,0,3,0,0,2,0,4,6,france,2014-08-30,brazil,201408301,Group Play,20141
-9,Evan Fournier,8,0,1,0,1,0,0,0,0,0,0,0,2,1,0,france,2014-08-30,brazil,201408301,Group Play,20141
-10,Charles Kahudi,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,france,2014-08-30,brazil,201408301,Group Play,20141
-11,Edwin Jackson,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,france,2014-08-30,brazil,201408301,Group Play,20141
-12,Totals,,22,52,6,19,13,16,4,30,9,5,4,16,23,63,france,2014-08-30,brazil,201408301,Group Play,20141
-0,Marcus Vinicius,27,4,9,1,2,1,2,0,6,1,0,0,1,1,10,brazil,2014-08-30,france,201408301,Group Play,20141
-1,Tiago Splitter,27,2,5,0,0,2,4,1,3,1,1,1,2,4,6,brazil,2014-08-30,france,201408301,Group Play,20141
-2,Alex Garcia,25,3,9,0,4,0,0,0,2,0,1,0,0,2,6,brazil,2014-08-30,france,201408301,Group Play,20141
-3,Nene Hilario,25,2,6,0,0,1,4,4,8,2,1,0,4,3,5,brazil,2014-08-30,france,201408301,Group Play,20141
-4,Marcelo Huertas,22,5,8,2,3,4,6,0,2,5,1,0,1,2,16,brazil,2014-08-30,france,201408301,Group Play,20141
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,brazil,2014-08-30,france,201408301,Group Play,20141
-6,Leandro Barbosa,22,2,9,2,5,2,2,1,2,0,1,0,1,2,8,brazil,2014-08-30,france,201408301,Group Play,20141
-7,Anderson Varejao,21,2,8,0,0,4,6,5,9,0,1,1,1,3,8,brazil,2014-08-30,france,201408301,Group Play,20141
-8,Raul Neto,17,3,4,0,1,0,0,1,3,0,1,0,0,1,6,brazil,2014-08-30,france,201408301,Group Play,20141
-9,Rafael Hettsheimeir,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,brazil,2014-08-30,france,201408301,Group Play,20141
-10,Larry Taylor,4,0,2,0,1,0,0,0,0,0,0,0,0,0,0,brazil,2014-08-30,france,201408301,Group Play,20141
-11,Marcelinho Machado,3,0,1,0,0,0,0,0,0,0,1,0,0,1,0,brazil,2014-08-30,france,201408301,Group Play,20141
-12,Guilherme Giovannoni,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,brazil,2014-08-30,france,201408301,Group Play,20141
-13,Totals,,23,61,5,16,14,24,12,35,9,8,2,10,21,65,brazil,2014-08-30,france,201408301,Group Play,20141
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Nicolas Batum,35,4,10,2,7,3,4,1,5,1,0,1,4,3,13,france,2014-08-30,brazil,201408301,Group Play,20141,fiba-world-cup
+1,Boris Diaw,30,6,13,0,3,3,3,0,6,5,1,1,3,2,15,france,2014-08-30,brazil,201408301,Group Play,20141,fiba-world-cup
+2,Mickael Gelabale,28,3,5,1,1,2,2,1,4,1,0,0,2,3,9,france,2014-08-30,brazil,201408301,Group Play,20141,fiba-world-cup
+3,Thomas Heurtel,21,3,8,2,3,0,0,0,1,1,2,0,2,4,8,france,2014-08-30,brazil,201408301,Group Play,20141,fiba-world-cup
+4,Joffrey Lauvergne,11,1,4,0,1,1,2,0,2,0,0,0,1,3,3,france,2014-08-30,brazil,201408301,Group Play,20141,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,france,2014-08-30,brazil,201408301,Group Play,20141,fiba-world-cup
+6,Florent Pietrus,20,0,0,0,0,2,2,2,4,1,0,0,1,3,2,france,2014-08-30,brazil,201408301,Group Play,20141,fiba-world-cup
+7,Antoine Diot,19,2,5,1,3,2,2,0,3,0,2,0,1,0,7,france,2014-08-30,brazil,201408301,Group Play,20141,fiba-world-cup
+8,Rudy Gobert,19,3,5,0,0,0,1,0,3,0,0,2,0,4,6,france,2014-08-30,brazil,201408301,Group Play,20141,fiba-world-cup
+9,Evan Fournier,8,0,1,0,1,0,0,0,0,0,0,0,2,1,0,france,2014-08-30,brazil,201408301,Group Play,20141,fiba-world-cup
+10,Charles Kahudi,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,france,2014-08-30,brazil,201408301,Group Play,20141,fiba-world-cup
+11,Edwin Jackson,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,france,2014-08-30,brazil,201408301,Group Play,20141,fiba-world-cup
+12,Totals,,22,52,6,19,13,16,4,30,9,5,4,16,23,63,france,2014-08-30,brazil,201408301,Group Play,20141,fiba-world-cup
+0,Marcus Vinicius,27,4,9,1,2,1,2,0,6,1,0,0,1,1,10,brazil,2014-08-30,france,201408301,Group Play,20141,fiba-world-cup
+1,Tiago Splitter,27,2,5,0,0,2,4,1,3,1,1,1,2,4,6,brazil,2014-08-30,france,201408301,Group Play,20141,fiba-world-cup
+2,Alex Garcia,25,3,9,0,4,0,0,0,2,0,1,0,0,2,6,brazil,2014-08-30,france,201408301,Group Play,20141,fiba-world-cup
+3,Nene Hilario,25,2,6,0,0,1,4,4,8,2,1,0,4,3,5,brazil,2014-08-30,france,201408301,Group Play,20141,fiba-world-cup
+4,Marcelo Huertas,22,5,8,2,3,4,6,0,2,5,1,0,1,2,16,brazil,2014-08-30,france,201408301,Group Play,20141,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,brazil,2014-08-30,france,201408301,Group Play,20141,fiba-world-cup
+6,Leandro Barbosa,22,2,9,2,5,2,2,1,2,0,1,0,1,2,8,brazil,2014-08-30,france,201408301,Group Play,20141,fiba-world-cup
+7,Anderson Varejao,21,2,8,0,0,4,6,5,9,0,1,1,1,3,8,brazil,2014-08-30,france,201408301,Group Play,20141,fiba-world-cup
+8,Raul Neto,17,3,4,0,1,0,0,1,3,0,1,0,0,1,6,brazil,2014-08-30,france,201408301,Group Play,20141,fiba-world-cup
+9,Rafael Hettsheimeir,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,brazil,2014-08-30,france,201408301,Group Play,20141,fiba-world-cup
+10,Larry Taylor,4,0,2,0,1,0,0,0,0,0,0,0,0,0,0,brazil,2014-08-30,france,201408301,Group Play,20141,fiba-world-cup
+11,Marcelinho Machado,3,0,1,0,0,0,0,0,0,0,1,0,0,1,0,brazil,2014-08-30,france,201408301,Group Play,20141,fiba-world-cup
+12,Guilherme Giovannoni,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,brazil,2014-08-30,france,201408301,Group Play,20141,fiba-world-cup
+13,Totals,,23,61,5,16,14,24,12,35,9,8,2,10,21,65,brazil,2014-08-30,france,201408301,Group Play,20141,fiba-world-cup

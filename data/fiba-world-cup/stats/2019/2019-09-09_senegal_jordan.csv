@@ -1,22 +1,22 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Xane D'Almeida,36.0,3,8,0,1,2,2,0,5,7,1,0,6,1,8,senegal,2019-09-09,jordan,2019090977,Classification,201977
-1,Mouhammad Faye,32.0,6,12,3,6,2,5,3,5,3,2,2,2,1,17,senegal,2019-09-09,jordan,2019090977,Classification,201977
-2,Ibrahima Fall Faye,32.0,0,8,0,6,2,4,4,9,3,1,2,2,5,2,senegal,2019-09-09,jordan,2019090977,Classification,201977
-3,Youssou Ndoye,31.0,10,16,0,1,2,2,3,11,0,0,3,2,4,22,senegal,2019-09-09,jordan,2019090977,Classification,201977
-4,Lamine Sambe,23.0,3,8,2,6,0,0,1,2,3,0,0,3,2,8,senegal,2019-09-09,jordan,2019090977,Classification,201977
-5,Makhtar Gueye,16.0,4,9,3,6,0,0,1,2,0,0,0,0,3,11,senegal,2019-09-09,jordan,2019090977,Classification,201977
-6,Pape Diop,15.0,2,5,0,1,1,1,0,1,1,1,0,0,2,5,senegal,2019-09-09,jordan,2019090977,Classification,201977
-7,Maurice Ndour,12.0,2,5,0,1,0,0,0,0,0,1,0,2,2,4,senegal,2019-09-09,jordan,2019090977,Classification,201977
-8,Momar Ndoye,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,senegal,2019-09-09,jordan,2019090977,Classification,201977
-9,Totals,,30,71,8,28,9,14,12,35,17,6,7,17,20,77,senegal,2019-09-09,jordan,2019090977,Classification,201977
-0,Dar Tucker,38.0,11,21,1,4,11,12,1,11,2,3,0,1,0,34,jordan,2019-09-09,senegal,2019090977,Classification,201977
-1,Fadi Ibrahim,35.0,2,9,0,2,4,4,0,3,9,2,0,2,1,8,jordan,2019-09-09,senegal,2019090977,Classification,201977
-2,Mousa Al-Awadi,35.0,7,14,4,9,0,0,1,2,1,1,0,1,2,18,jordan,2019-09-09,senegal,2019090977,Classification,201977
-3,Yousef Abuwazaneh,28.0,2,5,0,0,1,2,2,3,0,3,0,1,3,5,jordan,2019-09-09,senegal,2019090977,Classification,201977
-4,Zaid Abbas,27.0,4,10,0,1,0,0,0,7,1,0,0,3,3,8,jordan,2019-09-09,senegal,2019090977,Classification,201977
-5,Ahmed Hamarsha,22.0,1,3,0,2,1,2,1,2,0,0,1,0,3,3,jordan,2019-09-09,senegal,2019090977,Classification,201977
-6,Mahmoud Abdeen,5.0,1,1,1,1,0,0,0,0,0,0,0,1,2,3,jordan,2019-09-09,senegal,2019090977,Classification,201977
-7,Amin Abu Hawwas,4.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,jordan,2019-09-09,senegal,2019090977,Classification,201977
-8,Mohammad Shaher,4.0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,jordan,2019-09-09,senegal,2019090977,Classification,201977
-9,Jordan Dasuqi,2.0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,jordan,2019-09-09,senegal,2019090977,Classification,201977
-10,Totals,,28,64,6,20,17,20,5,29,13,10,1,11,15,79,jordan,2019-09-09,senegal,2019090977,Classification,201977
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Xane D'Almeida,36.0,3,8,0,1,2,2,0,5,7,1,0,6,1,8,senegal,2019-09-09,jordan,2019090977,Classification,201977,fiba-world-cup
+1,Mouhammad Faye,32.0,6,12,3,6,2,5,3,5,3,2,2,2,1,17,senegal,2019-09-09,jordan,2019090977,Classification,201977,fiba-world-cup
+2,Ibrahima Fall Faye,32.0,0,8,0,6,2,4,4,9,3,1,2,2,5,2,senegal,2019-09-09,jordan,2019090977,Classification,201977,fiba-world-cup
+3,Youssou Ndoye,31.0,10,16,0,1,2,2,3,11,0,0,3,2,4,22,senegal,2019-09-09,jordan,2019090977,Classification,201977,fiba-world-cup
+4,Lamine Sambe,23.0,3,8,2,6,0,0,1,2,3,0,0,3,2,8,senegal,2019-09-09,jordan,2019090977,Classification,201977,fiba-world-cup
+5,Makhtar Gueye,16.0,4,9,3,6,0,0,1,2,0,0,0,0,3,11,senegal,2019-09-09,jordan,2019090977,Classification,201977,fiba-world-cup
+6,Pape Diop,15.0,2,5,0,1,1,1,0,1,1,1,0,0,2,5,senegal,2019-09-09,jordan,2019090977,Classification,201977,fiba-world-cup
+7,Maurice Ndour,12.0,2,5,0,1,0,0,0,0,0,1,0,2,2,4,senegal,2019-09-09,jordan,2019090977,Classification,201977,fiba-world-cup
+8,Momar Ndoye,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,senegal,2019-09-09,jordan,2019090977,Classification,201977,fiba-world-cup
+9,Totals,,30,71,8,28,9,14,12,35,17,6,7,17,20,77,senegal,2019-09-09,jordan,2019090977,Classification,201977,fiba-world-cup
+0,Dar Tucker,38.0,11,21,1,4,11,12,1,11,2,3,0,1,0,34,jordan,2019-09-09,senegal,2019090977,Classification,201977,fiba-world-cup
+1,Fadi Ibrahim,35.0,2,9,0,2,4,4,0,3,9,2,0,2,1,8,jordan,2019-09-09,senegal,2019090977,Classification,201977,fiba-world-cup
+2,Mousa Al-Awadi,35.0,7,14,4,9,0,0,1,2,1,1,0,1,2,18,jordan,2019-09-09,senegal,2019090977,Classification,201977,fiba-world-cup
+3,Yousef Abuwazaneh,28.0,2,5,0,0,1,2,2,3,0,3,0,1,3,5,jordan,2019-09-09,senegal,2019090977,Classification,201977,fiba-world-cup
+4,Zaid Abbas,27.0,4,10,0,1,0,0,0,7,1,0,0,3,3,8,jordan,2019-09-09,senegal,2019090977,Classification,201977,fiba-world-cup
+5,Ahmed Hamarsha,22.0,1,3,0,2,1,2,1,2,0,0,1,0,3,3,jordan,2019-09-09,senegal,2019090977,Classification,201977,fiba-world-cup
+6,Mahmoud Abdeen,5.0,1,1,1,1,0,0,0,0,0,0,0,1,2,3,jordan,2019-09-09,senegal,2019090977,Classification,201977,fiba-world-cup
+7,Amin Abu Hawwas,4.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,jordan,2019-09-09,senegal,2019090977,Classification,201977,fiba-world-cup
+8,Mohammad Shaher,4.0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,jordan,2019-09-09,senegal,2019090977,Classification,201977,fiba-world-cup
+9,Jordan Dasuqi,2.0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,jordan,2019-09-09,senegal,2019090977,Classification,201977,fiba-world-cup
+10,Totals,,28,64,6,20,17,20,5,29,13,10,1,11,15,79,jordan,2019-09-09,senegal,2019090977,Classification,201977,fiba-world-cup

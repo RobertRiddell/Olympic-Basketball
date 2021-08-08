@@ -1,25 +1,25 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Wei Liu,37,4,9,0,1,4,6,0,3,2,1,0,1,0,12,china,2010-08-29,ivory-coast,2010082919,Group Play,201019
-1,Wang Shipeng,35,7,13,5,8,6,7,1,7,1,0,0,4,0,25,china,2010-08-29,ivory-coast,2010082919,Group Play,201019
-2,Yi Jianlian,34,9,19,0,2,8,11,3,9,1,2,1,0,2,26,china,2010-08-29,ivory-coast,2010082919,Group Play,201019
-3,Sun Yue,22,0,7,0,3,1,2,0,5,2,2,0,1,4,1,china,2010-08-29,ivory-coast,2010082919,Group Play,201019
-4,Wang Zhizhi,15,3,7,0,1,2,2,1,3,2,1,0,3,0,8,china,2010-08-29,ivory-coast,2010082919,Group Play,201019
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,china,2010-08-29,ivory-coast,2010082919,Group Play,201019
-6,Ding Jinhui,29,2,5,2,4,1,2,3,7,4,0,0,0,3,7,china,2010-08-29,ivory-coast,2010082919,Group Play,201019
-7,Zhou Peng,23,2,2,0,0,0,0,0,5,2,2,0,1,1,4,china,2010-08-29,ivory-coast,2010082919,Group Play,201019
-8,Yu Shulong,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,china,2010-08-29,ivory-coast,2010082919,Group Play,201019
-9,Wei Su,2,0,0,0,0,0,0,1,1,0,0,1,0,1,0,china,2010-08-29,ivory-coast,2010082919,Group Play,201019
-10,Guo Ailun,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,china,2010-08-29,ivory-coast,2010082919,Group Play,201019
-11,Totals,,27,62,7,19,22,30,9,40,14,8,2,10,14,83,china,2010-08-29,ivory-coast,2010082919,Group Play,201019
-0,Souleyman Diabate,38,8,11,4,5,0,0,3,7,3,3,1,6,3,20,ivory-coast,2010-08-29,china,2010082919,Group Play,201019
-1,Kinidinnin Stephane Konate Sornan,29,5,9,1,3,0,0,1,5,2,3,0,1,3,11,ivory-coast,2010-08-29,china,2010082919,Group Play,201019
-2,Guy Edi,26,3,13,1,7,2,2,1,3,1,1,0,0,3,9,ivory-coast,2010-08-29,china,2010082919,Group Play,201019
-3,Mohamed Kone,22,2,9,1,3,1,3,2,5,0,1,0,0,4,6,ivory-coast,2010-08-29,china,2010082919,Group Play,201019
-4,Herve Lamizana,15,1,4,0,2,1,2,1,1,2,0,1,0,4,3,ivory-coast,2010-08-29,china,2010082919,Group Play,201019
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,ivory-coast,2010-08-29,china,2010082919,Group Play,201019
-6,Brice Kevin Assie,21,2,7,0,3,5,6,2,5,1,0,1,1,2,9,ivory-coast,2010-08-29,china,2010082919,Group Play,201019
-7,Charles Abouo,20,3,11,2,8,0,0,4,7,2,0,0,3,1,8,ivory-coast,2010-08-29,china,2010082919,Group Play,201019
-8,Jonathan Monyongo Kale,19,3,7,1,2,0,1,1,3,2,0,0,1,3,7,ivory-coast,2010-08-29,china,2010082919,Group Play,201019
-9,Ismael N'Diaye,5,0,1,0,0,0,0,2,3,0,0,0,0,0,0,ivory-coast,2010-08-29,china,2010082919,Group Play,201019
-10,Eric Tape,5,0,2,0,1,0,0,1,2,1,0,0,0,1,0,ivory-coast,2010-08-29,china,2010082919,Group Play,201019
-11,Totals,,27,74,10,34,9,14,18,41,14,8,3,12,24,73,ivory-coast,2010-08-29,china,2010082919,Group Play,201019
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Wei Liu,37,4,9,0,1,4,6,0,3,2,1,0,1,0,12,china,2010-08-29,ivory-coast,2010082919,Group Play,201019,fiba-world-cup
+1,Wang Shipeng,35,7,13,5,8,6,7,1,7,1,0,0,4,0,25,china,2010-08-29,ivory-coast,2010082919,Group Play,201019,fiba-world-cup
+2,Yi Jianlian,34,9,19,0,2,8,11,3,9,1,2,1,0,2,26,china,2010-08-29,ivory-coast,2010082919,Group Play,201019,fiba-world-cup
+3,Sun Yue,22,0,7,0,3,1,2,0,5,2,2,0,1,4,1,china,2010-08-29,ivory-coast,2010082919,Group Play,201019,fiba-world-cup
+4,Wang Zhizhi,15,3,7,0,1,2,2,1,3,2,1,0,3,0,8,china,2010-08-29,ivory-coast,2010082919,Group Play,201019,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,china,2010-08-29,ivory-coast,2010082919,Group Play,201019,fiba-world-cup
+6,Ding Jinhui,29,2,5,2,4,1,2,3,7,4,0,0,0,3,7,china,2010-08-29,ivory-coast,2010082919,Group Play,201019,fiba-world-cup
+7,Zhou Peng,23,2,2,0,0,0,0,0,5,2,2,0,1,1,4,china,2010-08-29,ivory-coast,2010082919,Group Play,201019,fiba-world-cup
+8,Yu Shulong,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,china,2010-08-29,ivory-coast,2010082919,Group Play,201019,fiba-world-cup
+9,Wei Su,2,0,0,0,0,0,0,1,1,0,0,1,0,1,0,china,2010-08-29,ivory-coast,2010082919,Group Play,201019,fiba-world-cup
+10,Guo Ailun,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,china,2010-08-29,ivory-coast,2010082919,Group Play,201019,fiba-world-cup
+11,Totals,,27,62,7,19,22,30,9,40,14,8,2,10,14,83,china,2010-08-29,ivory-coast,2010082919,Group Play,201019,fiba-world-cup
+0,Souleyman Diabate,38,8,11,4,5,0,0,3,7,3,3,1,6,3,20,ivory-coast,2010-08-29,china,2010082919,Group Play,201019,fiba-world-cup
+1,Kinidinnin Stephane Konate Sornan,29,5,9,1,3,0,0,1,5,2,3,0,1,3,11,ivory-coast,2010-08-29,china,2010082919,Group Play,201019,fiba-world-cup
+2,Guy Edi,26,3,13,1,7,2,2,1,3,1,1,0,0,3,9,ivory-coast,2010-08-29,china,2010082919,Group Play,201019,fiba-world-cup
+3,Mohamed Kone,22,2,9,1,3,1,3,2,5,0,1,0,0,4,6,ivory-coast,2010-08-29,china,2010082919,Group Play,201019,fiba-world-cup
+4,Herve Lamizana,15,1,4,0,2,1,2,1,1,2,0,1,0,4,3,ivory-coast,2010-08-29,china,2010082919,Group Play,201019,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,ivory-coast,2010-08-29,china,2010082919,Group Play,201019,fiba-world-cup
+6,Brice Kevin Assie,21,2,7,0,3,5,6,2,5,1,0,1,1,2,9,ivory-coast,2010-08-29,china,2010082919,Group Play,201019,fiba-world-cup
+7,Charles Abouo,20,3,11,2,8,0,0,4,7,2,0,0,3,1,8,ivory-coast,2010-08-29,china,2010082919,Group Play,201019,fiba-world-cup
+8,Jonathan Monyongo Kale,19,3,7,1,2,0,1,1,3,2,0,0,1,3,7,ivory-coast,2010-08-29,china,2010082919,Group Play,201019,fiba-world-cup
+9,Ismael N'Diaye,5,0,1,0,0,0,0,2,3,0,0,0,0,0,0,ivory-coast,2010-08-29,china,2010082919,Group Play,201019,fiba-world-cup
+10,Eric Tape,5,0,2,0,1,0,0,1,2,1,0,0,0,1,0,ivory-coast,2010-08-29,china,2010082919,Group Play,201019,fiba-world-cup
+11,Totals,,27,74,10,34,9,14,18,41,14,8,3,12,24,73,ivory-coast,2010-08-29,china,2010082919,Group Play,201019,fiba-world-cup

@@ -1,25 +1,25 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Jan Jagla,36,8,17,7,12,0,2,1,6,3,1,1,4,5,23,germany,2010-09-01,angola,2010090136,Group Play,201036
-1,Steffen Hamann,30,3,4,0,1,1,1,0,4,5,0,0,3,3,7,germany,2010-09-01,angola,2010090136,Group Play,201036
-2,Demond Greene,24,0,7,0,4,1,2,0,2,1,0,0,1,1,1,germany,2010-09-01,angola,2010090136,Group Play,201036
-3,Tibor Pleiss,15,1,3,0,0,0,0,2,4,0,1,1,2,1,2,germany,2010-09-01,angola,2010090136,Group Play,201036
-4,Elias Harris,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,germany,2010-09-01,angola,2010090136,Group Play,201036
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,germany,2010-09-01,angola,2010090136,Group Play,201036
-6,Heiko Schaffartzik,33,5,15,5,12,3,4,1,7,4,0,0,5,3,18,germany,2010-09-01,angola,2010090136,Group Play,201036
-7,Tim Ohlbrecht,27,6,9,1,2,4,5,2,4,1,0,1,1,3,17,germany,2010-09-01,angola,2010090136,Group Play,201036
-8,Philipp Schwethelm,23,4,5,3,4,1,1,1,1,1,2,0,0,2,12,germany,2010-09-01,angola,2010090136,Group Play,201036
-9,Lucca Staiger,15,3,4,2,3,0,0,0,1,0,0,0,0,2,8,germany,2010-09-01,angola,2010090136,Group Play,201036
-10,Robin Benzing,11,0,2,0,2,0,0,0,1,2,0,0,2,2,0,germany,2010-09-01,angola,2010090136,Group Play,201036
-11,Chris McNaughton,6,0,0,0,0,0,0,0,2,0,1,0,2,1,0,germany,2010-09-01,angola,2010090136,Group Play,201036
-12,Totals,,30,66,18,40,10,15,7,33,17,5,3,20,23,88,germany,2010-09-01,angola,2010090136,Group Play,201036
-0,Joaquim Gomes,38,6,13,1,4,3,7,6,14,1,2,1,2,3,16,angola,2010-09-01,germany,2010090136,Group Play,201036
-1,Olimpio Cipriano,34,11,16,4,6,4,5,0,5,0,3,0,4,2,30,angola,2010-09-01,germany,2010090136,Group Play,201036
-2,Carlos Morais,31,4,12,0,4,0,0,0,2,3,2,0,4,5,8,angola,2010-09-01,germany,2010090136,Group Play,201036
-3,Miguel Lutonda,27,3,4,2,2,5,6,0,1,2,1,0,1,2,13,angola,2010-09-01,germany,2010090136,Group Play,201036
-4,Eduardo Mingas,24,5,13,0,5,0,0,3,3,0,0,0,2,1,10,angola,2010-09-01,germany,2010090136,Group Play,201036
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,angola,2010-09-01,germany,2010090136,Group Play,201036
-6,Carlos Almeida,34,1,6,1,5,3,4,1,7,3,1,0,1,1,6,angola,2010-09-01,germany,2010090136,Group Play,201036
-7,Felizardo Ambrosio,29,3,7,2,4,1,4,2,7,1,1,0,0,1,9,angola,2010-09-01,germany,2010090136,Group Play,201036
-8,Leonel Paulo,6,0,2,0,0,0,0,2,2,0,1,0,0,3,0,angola,2010-09-01,germany,2010090136,Group Play,201036
-9,Domingos Bonifacio,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,angola,2010-09-01,germany,2010090136,Group Play,201036
-10,Totals,,33,73,10,30,16,26,14,41,10,11,1,15,18,92,angola,2010-09-01,germany,2010090136,Group Play,201036
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Jan Jagla,36,8,17,7,12,0,2,1,6,3,1,1,4,5,23,germany,2010-09-01,angola,2010090136,Group Play,201036,fiba-world-cup
+1,Steffen Hamann,30,3,4,0,1,1,1,0,4,5,0,0,3,3,7,germany,2010-09-01,angola,2010090136,Group Play,201036,fiba-world-cup
+2,Demond Greene,24,0,7,0,4,1,2,0,2,1,0,0,1,1,1,germany,2010-09-01,angola,2010090136,Group Play,201036,fiba-world-cup
+3,Tibor Pleiss,15,1,3,0,0,0,0,2,4,0,1,1,2,1,2,germany,2010-09-01,angola,2010090136,Group Play,201036,fiba-world-cup
+4,Elias Harris,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,germany,2010-09-01,angola,2010090136,Group Play,201036,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,germany,2010-09-01,angola,2010090136,Group Play,201036,fiba-world-cup
+6,Heiko Schaffartzik,33,5,15,5,12,3,4,1,7,4,0,0,5,3,18,germany,2010-09-01,angola,2010090136,Group Play,201036,fiba-world-cup
+7,Tim Ohlbrecht,27,6,9,1,2,4,5,2,4,1,0,1,1,3,17,germany,2010-09-01,angola,2010090136,Group Play,201036,fiba-world-cup
+8,Philipp Schwethelm,23,4,5,3,4,1,1,1,1,1,2,0,0,2,12,germany,2010-09-01,angola,2010090136,Group Play,201036,fiba-world-cup
+9,Lucca Staiger,15,3,4,2,3,0,0,0,1,0,0,0,0,2,8,germany,2010-09-01,angola,2010090136,Group Play,201036,fiba-world-cup
+10,Robin Benzing,11,0,2,0,2,0,0,0,1,2,0,0,2,2,0,germany,2010-09-01,angola,2010090136,Group Play,201036,fiba-world-cup
+11,Chris McNaughton,6,0,0,0,0,0,0,0,2,0,1,0,2,1,0,germany,2010-09-01,angola,2010090136,Group Play,201036,fiba-world-cup
+12,Totals,,30,66,18,40,10,15,7,33,17,5,3,20,23,88,germany,2010-09-01,angola,2010090136,Group Play,201036,fiba-world-cup
+0,Joaquim Gomes,38,6,13,1,4,3,7,6,14,1,2,1,2,3,16,angola,2010-09-01,germany,2010090136,Group Play,201036,fiba-world-cup
+1,Olimpio Cipriano,34,11,16,4,6,4,5,0,5,0,3,0,4,2,30,angola,2010-09-01,germany,2010090136,Group Play,201036,fiba-world-cup
+2,Carlos Morais,31,4,12,0,4,0,0,0,2,3,2,0,4,5,8,angola,2010-09-01,germany,2010090136,Group Play,201036,fiba-world-cup
+3,Miguel Lutonda,27,3,4,2,2,5,6,0,1,2,1,0,1,2,13,angola,2010-09-01,germany,2010090136,Group Play,201036,fiba-world-cup
+4,Eduardo Mingas,24,5,13,0,5,0,0,3,3,0,0,0,2,1,10,angola,2010-09-01,germany,2010090136,Group Play,201036,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,angola,2010-09-01,germany,2010090136,Group Play,201036,fiba-world-cup
+6,Carlos Almeida,34,1,6,1,5,3,4,1,7,3,1,0,1,1,6,angola,2010-09-01,germany,2010090136,Group Play,201036,fiba-world-cup
+7,Felizardo Ambrosio,29,3,7,2,4,1,4,2,7,1,1,0,0,1,9,angola,2010-09-01,germany,2010090136,Group Play,201036,fiba-world-cup
+8,Leonel Paulo,6,0,2,0,0,0,0,2,2,0,1,0,0,3,0,angola,2010-09-01,germany,2010090136,Group Play,201036,fiba-world-cup
+9,Domingos Bonifacio,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,angola,2010-09-01,germany,2010090136,Group Play,201036,fiba-world-cup
+10,Totals,,33,73,10,30,16,26,14,41,10,11,1,15,18,92,angola,2010-09-01,germany,2010090136,Group Play,201036,fiba-world-cup

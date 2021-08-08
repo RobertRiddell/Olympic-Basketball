@@ -1,26 +1,26 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Guna Ra,35.0,10,21,2,2,9,12,7,15,0,1,2,2,1,31,korea,2019-08-31,argentina,201908311,First Round,20191
-1,Seounghyun Lee,30.0,2,4,0,0,1,2,3,6,1,1,0,3,1,5,korea,2019-08-31,argentina,201908311,First Round,20191
-2,Sunhyung Kim,29.0,2,13,1,4,0,0,0,3,4,0,0,2,1,5,korea,2019-08-31,argentina,201908311,First Round,20191
-3,Junghyun Lee,28.0,4,9,3,8,4,6,0,3,7,0,0,2,4,15,korea,2019-08-31,argentina,201908311,First Round,20191
-4,Junyong Choi,22.0,0,3,0,1,0,0,0,5,0,0,2,1,5,0,korea,2019-08-31,argentina,201908311,First Round,20191
-5,Hyogeun Jeong,18.0,1,4,0,1,0,0,1,5,0,0,0,0,1,2,korea,2019-08-31,argentina,201908311,First Round,20191
-6,Daesung Lee,12.0,2,9,2,5,1,2,2,4,1,2,0,3,4,7,korea,2019-08-31,argentina,201908311,First Round,20191
-7,Johnkyu Kim,10.0,1,4,0,0,0,0,1,1,0,0,0,0,1,2,korea,2019-08-31,argentina,201908311,First Round,20191
-8,Chan Hee Park,8.0,0,2,0,1,0,0,0,1,1,1,0,0,1,0,korea,2019-08-31,argentina,201908311,First Round,20191
-9,Sangjae Kang,6.0,1,1,0,0,0,0,0,2,0,0,0,0,1,2,korea,2019-08-31,argentina,201908311,First Round,20191
-10,Hoon Heo,2.0,0,2,0,1,0,0,1,1,0,0,0,1,0,0,korea,2019-08-31,argentina,201908311,First Round,20191
-11,Totals,,23,72,8,23,15,22,15,46,14,5,4,14,20,69,korea,2019-08-31,argentina,201908311,First Round,20191
-0,Patricio Garino,26.0,2,6,2,3,0,0,0,2,3,2,0,0,0,6,argentina,2019-08-31,korea,201908311,First Round,20191
-1,Facu Campazzo,24.0,3,7,3,4,2,2,1,2,6,1,0,1,1,11,argentina,2019-08-31,korea,201908311,First Round,20191
-2,Marcos Delia,22.0,3,6,0,0,0,2,3,7,0,0,2,0,3,6,argentina,2019-08-31,korea,201908311,First Round,20191
-3,Gabriel Deck,22.0,4,9,0,0,4,5,1,1,1,0,0,1,0,12,argentina,2019-08-31,korea,201908311,First Round,20191
-4,Luis Scola,22.0,5,15,3,4,2,2,2,9,2,0,1,2,3,15,argentina,2019-08-31,korea,201908311,First Round,20191
-5,Luca Vildoza,21.0,4,7,2,4,0,0,0,0,4,1,1,0,4,10,argentina,2019-08-31,korea,201908311,First Round,20191
-6,Nicolas Laprovittola,19.0,6,13,5,11,0,0,0,2,1,0,0,0,2,17,argentina,2019-08-31,korea,201908311,First Round,20191
-7,Nicolas Brussino,12.0,2,3,2,2,0,0,1,6,3,0,0,1,1,6,argentina,2019-08-31,korea,201908311,First Round,20191
-8,Maximo Fjellerup,11.0,1,1,0,0,1,2,0,5,1,1,0,0,0,3,argentina,2019-08-31,korea,201908311,First Round,20191
-9,Tayavek Gallizzi,11.0,1,4,0,0,2,2,1,2,0,3,1,1,5,4,argentina,2019-08-31,korea,201908311,First Round,20191
-10,Lucio Redivo,7.0,0,4,0,3,0,0,0,1,2,0,0,0,0,0,argentina,2019-08-31,korea,201908311,First Round,20191
-11,Agustin Caffaro,4.0,2,2,0,0,1,2,1,3,0,0,1,1,0,5,argentina,2019-08-31,korea,201908311,First Round,20191
-12,Totals,,33,77,17,31,12,17,10,40,23,8,6,7,19,95,argentina,2019-08-31,korea,201908311,First Round,20191
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Guna Ra,35.0,10,21,2,2,9,12,7,15,0,1,2,2,1,31,korea,2019-08-31,argentina,201908311,First Round,20191,fiba-world-cup
+1,Seounghyun Lee,30.0,2,4,0,0,1,2,3,6,1,1,0,3,1,5,korea,2019-08-31,argentina,201908311,First Round,20191,fiba-world-cup
+2,Sunhyung Kim,29.0,2,13,1,4,0,0,0,3,4,0,0,2,1,5,korea,2019-08-31,argentina,201908311,First Round,20191,fiba-world-cup
+3,Junghyun Lee,28.0,4,9,3,8,4,6,0,3,7,0,0,2,4,15,korea,2019-08-31,argentina,201908311,First Round,20191,fiba-world-cup
+4,Junyong Choi,22.0,0,3,0,1,0,0,0,5,0,0,2,1,5,0,korea,2019-08-31,argentina,201908311,First Round,20191,fiba-world-cup
+5,Hyogeun Jeong,18.0,1,4,0,1,0,0,1,5,0,0,0,0,1,2,korea,2019-08-31,argentina,201908311,First Round,20191,fiba-world-cup
+6,Daesung Lee,12.0,2,9,2,5,1,2,2,4,1,2,0,3,4,7,korea,2019-08-31,argentina,201908311,First Round,20191,fiba-world-cup
+7,Johnkyu Kim,10.0,1,4,0,0,0,0,1,1,0,0,0,0,1,2,korea,2019-08-31,argentina,201908311,First Round,20191,fiba-world-cup
+8,Chan Hee Park,8.0,0,2,0,1,0,0,0,1,1,1,0,0,1,0,korea,2019-08-31,argentina,201908311,First Round,20191,fiba-world-cup
+9,Sangjae Kang,6.0,1,1,0,0,0,0,0,2,0,0,0,0,1,2,korea,2019-08-31,argentina,201908311,First Round,20191,fiba-world-cup
+10,Hoon Heo,2.0,0,2,0,1,0,0,1,1,0,0,0,1,0,0,korea,2019-08-31,argentina,201908311,First Round,20191,fiba-world-cup
+11,Totals,,23,72,8,23,15,22,15,46,14,5,4,14,20,69,korea,2019-08-31,argentina,201908311,First Round,20191,fiba-world-cup
+0,Patricio Garino,26.0,2,6,2,3,0,0,0,2,3,2,0,0,0,6,argentina,2019-08-31,korea,201908311,First Round,20191,fiba-world-cup
+1,Facu Campazzo,24.0,3,7,3,4,2,2,1,2,6,1,0,1,1,11,argentina,2019-08-31,korea,201908311,First Round,20191,fiba-world-cup
+2,Marcos Delia,22.0,3,6,0,0,0,2,3,7,0,0,2,0,3,6,argentina,2019-08-31,korea,201908311,First Round,20191,fiba-world-cup
+3,Gabriel Deck,22.0,4,9,0,0,4,5,1,1,1,0,0,1,0,12,argentina,2019-08-31,korea,201908311,First Round,20191,fiba-world-cup
+4,Luis Scola,22.0,5,15,3,4,2,2,2,9,2,0,1,2,3,15,argentina,2019-08-31,korea,201908311,First Round,20191,fiba-world-cup
+5,Luca Vildoza,21.0,4,7,2,4,0,0,0,0,4,1,1,0,4,10,argentina,2019-08-31,korea,201908311,First Round,20191,fiba-world-cup
+6,Nicolas Laprovittola,19.0,6,13,5,11,0,0,0,2,1,0,0,0,2,17,argentina,2019-08-31,korea,201908311,First Round,20191,fiba-world-cup
+7,Nicolas Brussino,12.0,2,3,2,2,0,0,1,6,3,0,0,1,1,6,argentina,2019-08-31,korea,201908311,First Round,20191,fiba-world-cup
+8,Maximo Fjellerup,11.0,1,1,0,0,1,2,0,5,1,1,0,0,0,3,argentina,2019-08-31,korea,201908311,First Round,20191,fiba-world-cup
+9,Tayavek Gallizzi,11.0,1,4,0,0,2,2,1,2,0,3,1,1,5,4,argentina,2019-08-31,korea,201908311,First Round,20191,fiba-world-cup
+10,Lucio Redivo,7.0,0,4,0,3,0,0,0,1,2,0,0,0,0,0,argentina,2019-08-31,korea,201908311,First Round,20191,fiba-world-cup
+11,Agustin Caffaro,4.0,2,2,0,0,1,2,1,3,0,0,1,1,0,5,argentina,2019-08-31,korea,201908311,First Round,20191,fiba-world-cup
+12,Totals,,33,77,17,31,12,17,10,40,23,8,6,7,19,95,argentina,2019-08-31,korea,201908311,First Round,20191,fiba-world-cup

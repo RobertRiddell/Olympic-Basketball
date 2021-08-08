@@ -1,25 +1,25 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Samad Nik Bahrami,38.0,10,23,0,8,5,9,0,5,1,3,1,3,3,25,iran,2008-08-18,croatia,2008081828,Group A,200828
-1,Hamed Haddadi,36.0,8,16,0,1,1,5,6,15,2,0,3,4,2,17,iran,2008-08-18,croatia,2008081828,Group A,200828
-2,Hamed Afagh,30.0,3,10,3,9,0,0,1,2,1,1,0,1,0,9,iran,2008-08-18,croatia,2008081828,Group A,200828
-3,Oshin Sahakian,27.0,1,4,0,0,0,0,0,2,1,0,0,1,3,2,iran,2008-08-18,croatia,2008081828,Group A,200828
-4,Javad Davari,20.0,0,5,0,3,0,0,1,1,1,2,0,0,2,0,iran,2008-08-18,croatia,2008081828,Group A,200828
-5,Amir Amini,14.0,0,1,0,1,0,0,0,4,1,0,0,1,1,0,iran,2008-08-18,croatia,2008081828,Group A,200828
-6,Hamed Sohrabnejad,10.0,2,3,0,1,0,0,2,2,0,0,0,0,0,4,iran,2008-08-18,croatia,2008081828,Group A,200828
-7,Saeid Davarpanah,10.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,iran,2008-08-18,croatia,2008081828,Group A,200828
-8,Mahdi Kamrany,7.0,0,3,0,2,0,0,0,0,1,0,0,0,0,0,iran,2008-08-18,croatia,2008081828,Group A,200828
-9,Iman Zandi,4.0,0,2,0,1,0,0,0,0,0,0,0,1,0,0,iran,2008-08-18,croatia,2008081828,Group A,200828
-10,Moosa Nabipoor,3.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,iran,2008-08-18,croatia,2008081828,Group A,200828
-11,Ali Doraghi,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,iran,2008-08-18,croatia,2008081828,Group A,200828
-12,Totals,,24,67,3,26,6,14,10,31,9,6,4,11,12,57,iran,2008-08-18,croatia,2008081828,Group A,200828
-0,Davor Kus,31.0,1,8,1,3,0,0,0,1,6,0,0,1,2,3,croatia,2008-08-18,iran,2008081828,Group A,200828
-1,Marin Rozic,30.0,6,8,2,3,2,2,1,6,2,1,1,1,2,16,croatia,2008-08-18,iran,2008081828,Group A,200828
-2,Roko Ukic,26.0,2,6,0,2,0,0,1,6,8,2,0,1,1,4,croatia,2008-08-18,iran,2008081828,Group A,200828
-3,Kresimir Loncar,25.0,4,9,0,1,0,0,2,7,0,0,1,1,4,8,croatia,2008-08-18,iran,2008081828,Group A,200828
-4,Marko Tomas,20.0,6,8,4,5,0,0,1,5,1,0,0,2,2,16,croatia,2008-08-18,iran,2008081828,Group A,200828
-5,Damjan Rudez,19.0,5,8,3,3,0,0,1,4,1,0,1,0,2,13,croatia,2008-08-18,iran,2008081828,Group A,200828
-6,Nikola Prkacin,15.0,7,8,0,0,1,1,0,3,0,1,0,1,3,15,croatia,2008-08-18,iran,2008081828,Group A,200828
-7,Marko Banic,15.0,3,6,0,0,0,0,0,0,0,0,0,1,0,6,croatia,2008-08-18,iran,2008081828,Group A,200828
-8,Sandro Nicevic,13.0,4,5,0,0,0,0,0,4,2,0,0,1,5,8,croatia,2008-08-18,iran,2008081828,Group A,200828
-9,Stanko Barac,6.0,1,4,0,0,0,0,2,7,0,0,1,1,0,2,croatia,2008-08-18,iran,2008081828,Group A,200828
-10,Totals,,39,70,10,17,3,3,8,43,20,4,4,10,21,91,croatia,2008-08-18,iran,2008081828,Group A,200828
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Samad Nik Bahrami,38.0,10,23,0,8,5,9,0,5,1,3,1,3,3,25,iran,2008-08-18,croatia,2008081828,Group A,200828,mens-olympics
+1,Hamed Haddadi,36.0,8,16,0,1,1,5,6,15,2,0,3,4,2,17,iran,2008-08-18,croatia,2008081828,Group A,200828,mens-olympics
+2,Hamed Afagh,30.0,3,10,3,9,0,0,1,2,1,1,0,1,0,9,iran,2008-08-18,croatia,2008081828,Group A,200828,mens-olympics
+3,Oshin Sahakian,27.0,1,4,0,0,0,0,0,2,1,0,0,1,3,2,iran,2008-08-18,croatia,2008081828,Group A,200828,mens-olympics
+4,Javad Davari,20.0,0,5,0,3,0,0,1,1,1,2,0,0,2,0,iran,2008-08-18,croatia,2008081828,Group A,200828,mens-olympics
+5,Amir Amini,14.0,0,1,0,1,0,0,0,4,1,0,0,1,1,0,iran,2008-08-18,croatia,2008081828,Group A,200828,mens-olympics
+6,Hamed Sohrabnejad,10.0,2,3,0,1,0,0,2,2,0,0,0,0,0,4,iran,2008-08-18,croatia,2008081828,Group A,200828,mens-olympics
+7,Saeid Davarpanah,10.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,iran,2008-08-18,croatia,2008081828,Group A,200828,mens-olympics
+8,Mahdi Kamrany,7.0,0,3,0,2,0,0,0,0,1,0,0,0,0,0,iran,2008-08-18,croatia,2008081828,Group A,200828,mens-olympics
+9,Iman Zandi,4.0,0,2,0,1,0,0,0,0,0,0,0,1,0,0,iran,2008-08-18,croatia,2008081828,Group A,200828,mens-olympics
+10,Moosa Nabipoor,3.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,iran,2008-08-18,croatia,2008081828,Group A,200828,mens-olympics
+11,Ali Doraghi,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,iran,2008-08-18,croatia,2008081828,Group A,200828,mens-olympics
+12,Totals,,24,67,3,26,6,14,10,31,9,6,4,11,12,57,iran,2008-08-18,croatia,2008081828,Group A,200828,mens-olympics
+0,Davor Kus,31.0,1,8,1,3,0,0,0,1,6,0,0,1,2,3,croatia,2008-08-18,iran,2008081828,Group A,200828,mens-olympics
+1,Marin Rozic,30.0,6,8,2,3,2,2,1,6,2,1,1,1,2,16,croatia,2008-08-18,iran,2008081828,Group A,200828,mens-olympics
+2,Roko Ukic,26.0,2,6,0,2,0,0,1,6,8,2,0,1,1,4,croatia,2008-08-18,iran,2008081828,Group A,200828,mens-olympics
+3,Kresimir Loncar,25.0,4,9,0,1,0,0,2,7,0,0,1,1,4,8,croatia,2008-08-18,iran,2008081828,Group A,200828,mens-olympics
+4,Marko Tomas,20.0,6,8,4,5,0,0,1,5,1,0,0,2,2,16,croatia,2008-08-18,iran,2008081828,Group A,200828,mens-olympics
+5,Damjan Rudez,19.0,5,8,3,3,0,0,1,4,1,0,1,0,2,13,croatia,2008-08-18,iran,2008081828,Group A,200828,mens-olympics
+6,Nikola Prkacin,15.0,7,8,0,0,1,1,0,3,0,1,0,1,3,15,croatia,2008-08-18,iran,2008081828,Group A,200828,mens-olympics
+7,Marko Banic,15.0,3,6,0,0,0,0,0,0,0,0,0,1,0,6,croatia,2008-08-18,iran,2008081828,Group A,200828,mens-olympics
+8,Sandro Nicevic,13.0,4,5,0,0,0,0,0,4,2,0,0,1,5,8,croatia,2008-08-18,iran,2008081828,Group A,200828,mens-olympics
+9,Stanko Barac,6.0,1,4,0,0,0,0,2,7,0,0,1,1,0,2,croatia,2008-08-18,iran,2008081828,Group A,200828,mens-olympics
+10,Totals,,39,70,10,17,3,3,8,43,20,4,4,10,21,91,croatia,2008-08-18,iran,2008081828,Group A,200828,mens-olympics

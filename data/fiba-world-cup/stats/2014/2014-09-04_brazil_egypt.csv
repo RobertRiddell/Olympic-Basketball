@@ -1,29 +1,29 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Anderson Varejao,19,6,8,0,0,3,5,3,10,2,0,0,1,2,15,brazil,2014-09-04,egypt,2014090450,Group Play,201450
-1,Alex Garcia,18,6,7,2,3,1,1,2,3,3,1,1,2,3,15,brazil,2014-09-04,egypt,2014090450,Group Play,201450
-2,Nene Hilario,17,1,3,0,0,5,6,1,2,2,1,0,0,1,7,brazil,2014-09-04,egypt,2014090450,Group Play,201450
-3,Marcelo Huertas,14,5,5,1,1,1,1,0,1,2,1,0,0,0,12,brazil,2014-09-04,egypt,2014090450,Group Play,201450
-4,Marcus Vinicius,10,1,4,0,3,2,2,0,2,1,0,0,0,0,4,brazil,2014-09-04,egypt,2014090450,Group Play,201450
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,brazil,2014-09-04,egypt,2014090450,Group Play,201450
-6,Leandro Barbosa,23,8,9,3,3,3,4,2,2,5,4,0,1,0,22,brazil,2014-09-04,egypt,2014090450,Group Play,201450
-7,Raul Neto,23,7,7,0,0,0,1,0,1,10,1,0,3,1,14,brazil,2014-09-04,egypt,2014090450,Group Play,201450
-8,Marcelinho Machado,20,6,10,3,7,1,2,0,3,5,1,0,0,2,16,brazil,2014-09-04,egypt,2014090450,Group Play,201450
-9,Tiago Splitter,17,4,5,0,0,0,2,1,9,2,0,1,2,0,8,brazil,2014-09-04,egypt,2014090450,Group Play,201450
-10,Rafael Hettsheimeir,15,3,3,1,1,0,0,0,4,1,1,1,0,1,7,brazil,2014-09-04,egypt,2014090450,Group Play,201450
-11,Larry Taylor,12,2,4,0,1,0,0,0,2,2,1,0,1,1,4,brazil,2014-09-04,egypt,2014090450,Group Play,201450
-12,Guilherme Giovannoni,12,1,2,0,1,2,2,0,4,0,0,0,0,2,4,brazil,2014-09-04,egypt,2014090450,Group Play,201450
-13,Totals,,50,67,10,20,18,26,9,43,35,11,3,10,13,128,brazil,2014-09-04,egypt,2014090450,Group Play,201450
-0,Ibrahim Elgammal,32,7,19,2,8,0,0,1,1,5,1,0,4,3,16,egypt,2014-09-04,brazil,2014090450,Group Play,201450
-1,Haytham Kamal,28,3,7,1,3,0,0,1,3,1,0,0,2,3,7,egypt,2014-09-04,brazil,2014090450,Group Play,201450
-2,Youssef Shousha,22,2,4,1,2,0,0,0,1,0,1,1,4,0,5,egypt,2014-09-04,brazil,2014090450,Group Play,201450
-3,Ramy Ibrahim,20,3,7,3,3,0,0,1,1,0,1,0,0,4,9,egypt,2014-09-04,brazil,2014090450,Group Play,201450
-4,Wael Badr,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,egypt,2014-09-04,brazil,2014090450,Group Play,201450
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,egypt,2014-09-04,brazil,2014090450,Group Play,201450
-6,Amr Gendy,24,6,12,2,6,0,4,3,5,1,0,0,0,0,14,egypt,2014-09-04,brazil,2014090450,Group Play,201450
-7,Mouhanad Elsabagh,19,2,6,0,1,0,0,1,1,2,0,0,2,0,4,egypt,2014-09-04,brazil,2014090450,Group Play,201450
-8,Moamen Abouelanin,17,1,3,1,3,0,0,0,0,1,1,0,2,4,3,egypt,2014-09-04,brazil,2014090450,Group Play,201450
-9,Sherif Genedy,17,1,6,0,4,0,0,1,2,0,3,0,2,1,2,egypt,2014-09-04,brazil,2014090450,Group Play,201450
-10,Moustafa Elmekawi,10,1,4,1,2,0,0,2,5,0,0,0,0,4,3,egypt,2014-09-04,brazil,2014090450,Group Play,201450
-11,Ashraf Rabie,6,0,2,0,1,0,0,1,1,1,0,0,0,2,0,egypt,2014-09-04,brazil,2014090450,Group Play,201450
-12,Seif Samir,3,1,3,0,1,0,0,0,1,0,1,0,0,2,2,egypt,2014-09-04,brazil,2014090450,Group Play,201450
-13,Totals,,27,73,11,34,0,4,11,21,11,8,1,16,23,65,egypt,2014-09-04,brazil,2014090450,Group Play,201450
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Anderson Varejao,19,6,8,0,0,3,5,3,10,2,0,0,1,2,15,brazil,2014-09-04,egypt,2014090450,Group Play,201450,fiba-world-cup
+1,Alex Garcia,18,6,7,2,3,1,1,2,3,3,1,1,2,3,15,brazil,2014-09-04,egypt,2014090450,Group Play,201450,fiba-world-cup
+2,Nene Hilario,17,1,3,0,0,5,6,1,2,2,1,0,0,1,7,brazil,2014-09-04,egypt,2014090450,Group Play,201450,fiba-world-cup
+3,Marcelo Huertas,14,5,5,1,1,1,1,0,1,2,1,0,0,0,12,brazil,2014-09-04,egypt,2014090450,Group Play,201450,fiba-world-cup
+4,Marcus Vinicius,10,1,4,0,3,2,2,0,2,1,0,0,0,0,4,brazil,2014-09-04,egypt,2014090450,Group Play,201450,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,brazil,2014-09-04,egypt,2014090450,Group Play,201450,fiba-world-cup
+6,Leandro Barbosa,23,8,9,3,3,3,4,2,2,5,4,0,1,0,22,brazil,2014-09-04,egypt,2014090450,Group Play,201450,fiba-world-cup
+7,Raul Neto,23,7,7,0,0,0,1,0,1,10,1,0,3,1,14,brazil,2014-09-04,egypt,2014090450,Group Play,201450,fiba-world-cup
+8,Marcelinho Machado,20,6,10,3,7,1,2,0,3,5,1,0,0,2,16,brazil,2014-09-04,egypt,2014090450,Group Play,201450,fiba-world-cup
+9,Tiago Splitter,17,4,5,0,0,0,2,1,9,2,0,1,2,0,8,brazil,2014-09-04,egypt,2014090450,Group Play,201450,fiba-world-cup
+10,Rafael Hettsheimeir,15,3,3,1,1,0,0,0,4,1,1,1,0,1,7,brazil,2014-09-04,egypt,2014090450,Group Play,201450,fiba-world-cup
+11,Larry Taylor,12,2,4,0,1,0,0,0,2,2,1,0,1,1,4,brazil,2014-09-04,egypt,2014090450,Group Play,201450,fiba-world-cup
+12,Guilherme Giovannoni,12,1,2,0,1,2,2,0,4,0,0,0,0,2,4,brazil,2014-09-04,egypt,2014090450,Group Play,201450,fiba-world-cup
+13,Totals,,50,67,10,20,18,26,9,43,35,11,3,10,13,128,brazil,2014-09-04,egypt,2014090450,Group Play,201450,fiba-world-cup
+0,Ibrahim Elgammal,32,7,19,2,8,0,0,1,1,5,1,0,4,3,16,egypt,2014-09-04,brazil,2014090450,Group Play,201450,fiba-world-cup
+1,Haytham Kamal,28,3,7,1,3,0,0,1,3,1,0,0,2,3,7,egypt,2014-09-04,brazil,2014090450,Group Play,201450,fiba-world-cup
+2,Youssef Shousha,22,2,4,1,2,0,0,0,1,0,1,1,4,0,5,egypt,2014-09-04,brazil,2014090450,Group Play,201450,fiba-world-cup
+3,Ramy Ibrahim,20,3,7,3,3,0,0,1,1,0,1,0,0,4,9,egypt,2014-09-04,brazil,2014090450,Group Play,201450,fiba-world-cup
+4,Wael Badr,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,egypt,2014-09-04,brazil,2014090450,Group Play,201450,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,egypt,2014-09-04,brazil,2014090450,Group Play,201450,fiba-world-cup
+6,Amr Gendy,24,6,12,2,6,0,4,3,5,1,0,0,0,0,14,egypt,2014-09-04,brazil,2014090450,Group Play,201450,fiba-world-cup
+7,Mouhanad Elsabagh,19,2,6,0,1,0,0,1,1,2,0,0,2,0,4,egypt,2014-09-04,brazil,2014090450,Group Play,201450,fiba-world-cup
+8,Moamen Abouelanin,17,1,3,1,3,0,0,0,0,1,1,0,2,4,3,egypt,2014-09-04,brazil,2014090450,Group Play,201450,fiba-world-cup
+9,Sherif Genedy,17,1,6,0,4,0,0,1,2,0,3,0,2,1,2,egypt,2014-09-04,brazil,2014090450,Group Play,201450,fiba-world-cup
+10,Moustafa Elmekawi,10,1,4,1,2,0,0,2,5,0,0,0,0,4,3,egypt,2014-09-04,brazil,2014090450,Group Play,201450,fiba-world-cup
+11,Ashraf Rabie,6,0,2,0,1,0,0,1,1,1,0,0,0,2,0,egypt,2014-09-04,brazil,2014090450,Group Play,201450,fiba-world-cup
+12,Seif Samir,3,1,3,0,1,0,0,0,1,0,1,0,0,2,2,egypt,2014-09-04,brazil,2014090450,Group Play,201450,fiba-world-cup
+13,Totals,,27,73,11,34,0,4,11,21,11,8,1,16,23,65,egypt,2014-09-04,brazil,2014090450,Group Play,201450,fiba-world-cup

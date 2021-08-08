@@ -1,27 +1,27 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Gorgui Dieng,34,7,12,0,0,4,8,1,13,2,1,2,3,2,18,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421
-1,Mouhammad Faye,33,7,9,4,5,2,2,2,4,0,3,0,4,3,20,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421
-2,Maleye N'Doye,24,3,7,2,5,0,1,1,3,1,1,0,0,4,8,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421
-3,Xane D'Almeida,22,2,5,1,3,4,6,0,3,3,2,0,1,4,9,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421
-4,Pape Badji,4,0,0,0,0,1,4,0,0,0,0,0,0,1,1,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421
-6,Maurice Ndour,30,4,10,0,4,0,0,1,2,0,2,1,2,1,8,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421
-7,Mohamet Diop,22,3,6,0,2,4,4,2,4,3,2,0,2,3,10,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421
-8,Thierno Niang,15,0,2,0,0,0,0,0,1,2,1,0,3,2,0,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421
-9,Hamady N'Diaye,10,3,4,0,0,0,2,1,4,0,0,3,0,0,6,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421
-10,Ibrahima Thomas,3,1,3,0,1,0,0,1,1,0,0,0,0,1,2,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421
-11,Mamadou Ndoye,3,0,0,0,0,0,0,0,1,1,0,0,0,0,0,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421
-12,Totals,,30,58,7,20,15,27,9,36,12,12,6,15,21,82,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421
-0,Renaldo Balkman,35,9,13,0,0,3,5,4,7,1,0,0,4,4,21,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421
-1,Alexander Galindo,25,2,5,2,4,0,0,0,0,2,0,0,1,4,6,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421
-2,Daniel Santiago,22,1,5,0,0,0,2,3,7,1,0,1,3,4,2,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421
-3,Angel Daniel Vassallo,20,2,7,2,6,0,0,0,4,3,0,0,2,0,6,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421
-4,Carlos Arroyo,11,4,6,3,5,0,0,0,1,1,1,0,1,1,11,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421
-6,J.J. Barea,28,4,12,3,5,4,4,1,5,4,1,0,4,1,15,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421
-7,Ricky Sanchez,22,0,3,0,3,2,2,0,3,1,0,0,0,2,2,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421
-8,David Huertas,13,0,3,0,2,0,0,0,1,1,0,0,1,3,0,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421
-9,Carlos Rivera,12,2,4,1,2,1,2,0,1,5,2,0,1,3,6,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421
-10,Alex Franklin,12,1,2,1,2,1,2,0,2,0,0,0,1,1,4,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421
-11,Ramon Clemente,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421
-12,Totals,,26,61,12,29,11,17,8,31,19,4,1,18,23,75,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Gorgui Dieng,34,7,12,0,0,4,8,1,13,2,1,2,3,2,18,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421,fiba-world-cup
+1,Mouhammad Faye,33,7,9,4,5,2,2,2,4,0,3,0,4,3,20,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421,fiba-world-cup
+2,Maleye N'Doye,24,3,7,2,5,0,1,1,3,1,1,0,0,4,8,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421,fiba-world-cup
+3,Xane D'Almeida,22,2,5,1,3,4,6,0,3,3,2,0,1,4,9,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421,fiba-world-cup
+4,Pape Badji,4,0,0,0,0,1,4,0,0,0,0,0,0,1,1,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421,fiba-world-cup
+6,Maurice Ndour,30,4,10,0,4,0,0,1,2,0,2,1,2,1,8,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421,fiba-world-cup
+7,Mohamet Diop,22,3,6,0,2,4,4,2,4,3,2,0,2,3,10,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421,fiba-world-cup
+8,Thierno Niang,15,0,2,0,0,0,0,0,1,2,1,0,3,2,0,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421,fiba-world-cup
+9,Hamady N'Diaye,10,3,4,0,0,0,2,1,4,0,0,3,0,0,6,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421,fiba-world-cup
+10,Ibrahima Thomas,3,1,3,0,1,0,0,1,1,0,0,0,0,1,2,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421,fiba-world-cup
+11,Mamadou Ndoye,3,0,0,0,0,0,0,0,1,1,0,0,0,0,0,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421,fiba-world-cup
+12,Totals,,30,58,7,20,15,27,9,36,12,12,6,15,21,82,senegal,2014-08-31,puerto-rico,2014083121,Group Play,201421,fiba-world-cup
+0,Renaldo Balkman,35,9,13,0,0,3,5,4,7,1,0,0,4,4,21,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421,fiba-world-cup
+1,Alexander Galindo,25,2,5,2,4,0,0,0,0,2,0,0,1,4,6,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421,fiba-world-cup
+2,Daniel Santiago,22,1,5,0,0,0,2,3,7,1,0,1,3,4,2,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421,fiba-world-cup
+3,Angel Daniel Vassallo,20,2,7,2,6,0,0,0,4,3,0,0,2,0,6,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421,fiba-world-cup
+4,Carlos Arroyo,11,4,6,3,5,0,0,0,1,1,1,0,1,1,11,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421,fiba-world-cup
+6,J.J. Barea,28,4,12,3,5,4,4,1,5,4,1,0,4,1,15,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421,fiba-world-cup
+7,Ricky Sanchez,22,0,3,0,3,2,2,0,3,1,0,0,0,2,2,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421,fiba-world-cup
+8,David Huertas,13,0,3,0,2,0,0,0,1,1,0,0,1,3,0,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421,fiba-world-cup
+9,Carlos Rivera,12,2,4,1,2,1,2,0,1,5,2,0,1,3,6,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421,fiba-world-cup
+10,Alex Franklin,12,1,2,1,2,1,2,0,2,0,0,0,1,1,4,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421,fiba-world-cup
+11,Ramon Clemente,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421,fiba-world-cup
+12,Totals,,26,61,12,29,11,17,8,31,19,4,1,18,23,75,puerto-rico,2014-08-31,senegal,2014083121,Group Play,201421,fiba-world-cup

@@ -1,23 +1,23 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Jackson Vroman,33,5,13,1,4,4,10,0,4,2,4,1,3,3,15,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056
-1,Fadi El Khatib,29,2,9,0,2,2,2,0,2,3,1,0,5,2,6,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056
-2,Rony Fahed,28,7,16,5,10,0,0,0,2,4,1,0,2,3,19,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056
-3,Elias Rustom,25,0,1,0,0,2,2,3,6,5,0,0,1,3,2,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056
-4,Ali Kanaan,22,0,1,0,0,0,0,3,4,1,0,0,1,2,0,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056
-6,Ali Mahmoud,25,2,8,1,6,0,0,0,0,2,3,0,0,1,5,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056
-7,Jean Abd El Nour,23,2,6,0,1,4,5,2,6,0,0,0,3,1,8,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056
-8,Ali Fakhreddine,16,5,5,0,0,1,2,3,4,0,0,0,0,1,11,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056
-9,Totals,,23,59,7,23,13,21,11,28,17,9,1,15,16,66,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056
-0,Renaldas Seibutis,29,6,9,2,3,3,5,0,1,3,2,0,1,2,17,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056
-1,Tadas Klimavicius,22,4,5,0,0,1,2,4,7,2,1,1,3,1,9,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056
-2,Mantas Kalnietis,18,3,7,0,3,1,1,1,1,1,1,1,3,2,7,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056
-3,Jonas Maciulis,18,1,7,1,4,0,0,0,2,2,1,1,0,1,3,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056
-4,Linas Kleiza,16,3,6,0,0,4,4,1,5,0,0,0,1,2,10,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056
-6,Martynas Gecevicius,25,6,15,4,11,0,0,1,4,2,0,0,0,0,16,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056
-7,Tomas Delininkaitis,22,4,7,3,4,0,0,0,1,4,0,0,3,1,11,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056
-8,Martynas Andriuskevicius,21,2,3,0,0,0,0,2,7,1,1,1,2,3,4,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056
-9,Paulius Jankunas,21,1,1,0,0,1,2,1,6,1,0,1,1,3,3,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056
-10,Martynas Pocius,9,2,2,0,0,0,0,0,0,2,0,0,2,4,4,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056
-11,Totals,,32,62,10,25,10,14,10,34,18,6,5,16,19,84,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Jackson Vroman,33,5,13,1,4,4,10,0,4,2,4,1,3,3,15,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056,fiba-world-cup
+1,Fadi El Khatib,29,2,9,0,2,2,2,0,2,3,1,0,5,2,6,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056,fiba-world-cup
+2,Rony Fahed,28,7,16,5,10,0,0,0,2,4,1,0,2,3,19,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056,fiba-world-cup
+3,Elias Rustom,25,0,1,0,0,2,2,3,6,5,0,0,1,3,2,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056,fiba-world-cup
+4,Ali Kanaan,22,0,1,0,0,0,0,3,4,1,0,0,1,2,0,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056,fiba-world-cup
+6,Ali Mahmoud,25,2,8,1,6,0,0,0,0,2,3,0,0,1,5,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056,fiba-world-cup
+7,Jean Abd El Nour,23,2,6,0,1,4,5,2,6,0,0,0,3,1,8,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056,fiba-world-cup
+8,Ali Fakhreddine,16,5,5,0,0,1,2,3,4,0,0,0,0,1,11,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056,fiba-world-cup
+9,Totals,,23,59,7,23,13,21,11,28,17,9,1,15,16,66,lebanon,2010-09-02,lithuania,2010090256,Group Play,201056,fiba-world-cup
+0,Renaldas Seibutis,29,6,9,2,3,3,5,0,1,3,2,0,1,2,17,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056,fiba-world-cup
+1,Tadas Klimavicius,22,4,5,0,0,1,2,4,7,2,1,1,3,1,9,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056,fiba-world-cup
+2,Mantas Kalnietis,18,3,7,0,3,1,1,1,1,1,1,1,3,2,7,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056,fiba-world-cup
+3,Jonas Maciulis,18,1,7,1,4,0,0,0,2,2,1,1,0,1,3,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056,fiba-world-cup
+4,Linas Kleiza,16,3,6,0,0,4,4,1,5,0,0,0,1,2,10,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056,fiba-world-cup
+6,Martynas Gecevicius,25,6,15,4,11,0,0,1,4,2,0,0,0,0,16,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056,fiba-world-cup
+7,Tomas Delininkaitis,22,4,7,3,4,0,0,0,1,4,0,0,3,1,11,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056,fiba-world-cup
+8,Martynas Andriuskevicius,21,2,3,0,0,0,0,2,7,1,1,1,2,3,4,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056,fiba-world-cup
+9,Paulius Jankunas,21,1,1,0,0,1,2,1,6,1,0,1,1,3,3,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056,fiba-world-cup
+10,Martynas Pocius,9,2,2,0,0,0,0,0,0,2,0,0,2,4,4,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056,fiba-world-cup
+11,Totals,,32,62,10,25,10,14,10,34,18,6,5,16,19,84,lithuania,2010-09-02,lebanon,2010090256,Group Play,201056,fiba-world-cup

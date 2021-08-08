@@ -1,23 +1,23 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Linas Kleiza,29.0,7,11,1,1,5,6,2,7,1,1,0,0,1,20,lithuania,2012-07-29,argentina,201207290,Group A,20120
-1,Jonas Maciulis,23.0,3,4,1,1,0,0,1,3,0,0,0,1,2,7,lithuania,2012-07-29,argentina,201207290,Group A,20120
-2,Martynas Pocius,21.0,1,4,1,3,2,3,0,2,3,0,0,6,2,5,lithuania,2012-07-29,argentina,201207290,Group A,20120
-3,Paulius Jankunas,20.0,4,6,0,0,6,6,0,3,0,0,2,1,1,14,lithuania,2012-07-29,argentina,201207290,Group A,20120
-4,Simas Jasaitis,20.0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,lithuania,2012-07-29,argentina,201207290,Group A,20120
-5,Sarunas Jasikevicius,19.0,2,9,0,2,2,2,0,0,4,0,0,4,2,6,lithuania,2012-07-29,argentina,201207290,Group A,20120
-6,Mantas Kalnietis,17.0,2,8,0,2,2,2,0,2,5,0,0,3,1,6,lithuania,2012-07-29,argentina,201207290,Group A,20120
-7,Rimantas Kaukenas,17.0,2,7,0,1,0,0,0,0,0,0,0,0,4,4,lithuania,2012-07-29,argentina,201207290,Group A,20120
-8,Darius Songaila,15.0,4,5,0,0,3,3,0,4,2,1,0,0,3,11,lithuania,2012-07-29,argentina,201207290,Group A,20120
-9,Jonas Valanciunas,14.0,3,4,0,0,0,0,2,5,0,0,0,1,3,6,lithuania,2012-07-29,argentina,201207290,Group A,20120
-10,Renaldas Seibutis,7.0,0,2,0,0,0,0,1,2,0,0,0,0,3,0,lithuania,2012-07-29,argentina,201207290,Group A,20120
-11,Totals,,28,60,3,10,20,22,6,33,16,2,2,16,22,79,lithuania,2012-07-29,argentina,201207290,Group A,20120
-0,Luis Scola,35.0,12,19,0,0,8,13,2,5,4,1,3,1,3,32,argentina,2012-07-29,lithuania,201207290,Group A,20120
-1,Manu Ginobili,32.0,7,17,1,7,6,6,2,10,6,4,0,2,3,21,argentina,2012-07-29,lithuania,201207290,Group A,20120
-2,Pablo Prigioni,30.0,3,5,3,4,0,0,0,1,6,2,0,1,3,9,argentina,2012-07-29,lithuania,201207290,Group A,20120
-3,Hernan Jasen,24.0,0,1,0,1,0,0,0,2,0,0,0,2,1,0,argentina,2012-07-29,lithuania,201207290,Group A,20120
-4,Andres Nocioni,23.0,4,8,0,2,2,3,0,4,1,2,0,1,4,10,argentina,2012-07-29,lithuania,201207290,Group A,20120
-5,Carlos Delfino,22.0,7,13,6,9,0,0,0,1,1,1,0,0,0,20,argentina,2012-07-29,lithuania,201207290,Group A,20120
-6,Facu Campazzo,12.0,0,0,0,0,1,2,0,0,2,1,0,0,1,1,argentina,2012-07-29,lithuania,201207290,Group A,20120
-7,Leo Gutierrez,11.0,1,4,1,4,0,0,0,3,1,0,0,0,3,3,argentina,2012-07-29,lithuania,201207290,Group A,20120
-8,Juan Gutierrez,10.0,2,4,0,0,2,2,1,1,0,1,0,0,2,6,argentina,2012-07-29,lithuania,201207290,Group A,20120
-9,Totals,,36,71,11,27,19,26,5,27,21,12,3,7,20,102,argentina,2012-07-29,lithuania,201207290,Group A,20120
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Linas Kleiza,29.0,7,11,1,1,5,6,2,7,1,1,0,0,1,20,lithuania,2012-07-29,argentina,201207290,Group A,20120,mens-olympics
+1,Jonas Maciulis,23.0,3,4,1,1,0,0,1,3,0,0,0,1,2,7,lithuania,2012-07-29,argentina,201207290,Group A,20120,mens-olympics
+2,Martynas Pocius,21.0,1,4,1,3,2,3,0,2,3,0,0,6,2,5,lithuania,2012-07-29,argentina,201207290,Group A,20120,mens-olympics
+3,Paulius Jankunas,20.0,4,6,0,0,6,6,0,3,0,0,2,1,1,14,lithuania,2012-07-29,argentina,201207290,Group A,20120,mens-olympics
+4,Simas Jasaitis,20.0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,lithuania,2012-07-29,argentina,201207290,Group A,20120,mens-olympics
+5,Sarunas Jasikevicius,19.0,2,9,0,2,2,2,0,0,4,0,0,4,2,6,lithuania,2012-07-29,argentina,201207290,Group A,20120,mens-olympics
+6,Mantas Kalnietis,17.0,2,8,0,2,2,2,0,2,5,0,0,3,1,6,lithuania,2012-07-29,argentina,201207290,Group A,20120,mens-olympics
+7,Rimantas Kaukenas,17.0,2,7,0,1,0,0,0,0,0,0,0,0,4,4,lithuania,2012-07-29,argentina,201207290,Group A,20120,mens-olympics
+8,Darius Songaila,15.0,4,5,0,0,3,3,0,4,2,1,0,0,3,11,lithuania,2012-07-29,argentina,201207290,Group A,20120,mens-olympics
+9,Jonas Valanciunas,14.0,3,4,0,0,0,0,2,5,0,0,0,1,3,6,lithuania,2012-07-29,argentina,201207290,Group A,20120,mens-olympics
+10,Renaldas Seibutis,7.0,0,2,0,0,0,0,1,2,0,0,0,0,3,0,lithuania,2012-07-29,argentina,201207290,Group A,20120,mens-olympics
+11,Totals,,28,60,3,10,20,22,6,33,16,2,2,16,22,79,lithuania,2012-07-29,argentina,201207290,Group A,20120,mens-olympics
+0,Luis Scola,35.0,12,19,0,0,8,13,2,5,4,1,3,1,3,32,argentina,2012-07-29,lithuania,201207290,Group A,20120,mens-olympics
+1,Manu Ginobili,32.0,7,17,1,7,6,6,2,10,6,4,0,2,3,21,argentina,2012-07-29,lithuania,201207290,Group A,20120,mens-olympics
+2,Pablo Prigioni,30.0,3,5,3,4,0,0,0,1,6,2,0,1,3,9,argentina,2012-07-29,lithuania,201207290,Group A,20120,mens-olympics
+3,Hernan Jasen,24.0,0,1,0,1,0,0,0,2,0,0,0,2,1,0,argentina,2012-07-29,lithuania,201207290,Group A,20120,mens-olympics
+4,Andres Nocioni,23.0,4,8,0,2,2,3,0,4,1,2,0,1,4,10,argentina,2012-07-29,lithuania,201207290,Group A,20120,mens-olympics
+5,Carlos Delfino,22.0,7,13,6,9,0,0,0,1,1,1,0,0,0,20,argentina,2012-07-29,lithuania,201207290,Group A,20120,mens-olympics
+6,Facu Campazzo,12.0,0,0,0,0,1,2,0,0,2,1,0,0,1,1,argentina,2012-07-29,lithuania,201207290,Group A,20120,mens-olympics
+7,Leo Gutierrez,11.0,1,4,1,4,0,0,0,3,1,0,0,0,3,3,argentina,2012-07-29,lithuania,201207290,Group A,20120,mens-olympics
+8,Juan Gutierrez,10.0,2,4,0,0,2,2,1,1,0,1,0,0,2,6,argentina,2012-07-29,lithuania,201207290,Group A,20120,mens-olympics
+9,Totals,,36,71,11,27,19,26,5,27,21,12,3,7,20,102,argentina,2012-07-29,lithuania,201207290,Group A,20120,mens-olympics

@@ -1,26 +1,26 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Evgeny Pashutin,26.0,2,2,0,0,0,0,1,3,5,0,0,1,0,4,russia,2000-09-25,angola,2000092524,Group B,200024
-1,Andrei Kirilenko,24.0,4,8,0,0,3,4,5,9,1,4,1,4,1,11,russia,2000-09-25,angola,2000092524,Group B,200024
-2,Nikita Morgunov,21.0,4,10,0,2,9,10,1,6,3,0,0,0,1,17,russia,2000-09-25,angola,2000092524,Group B,200024
-3,Alexandr Bashminov,21.0,7,9,0,0,0,0,3,6,0,1,0,1,1,14,russia,2000-09-25,angola,2000092524,Group B,200024
-4,Sergei Chikalkin,21.0,4,8,3,5,1,2,1,5,1,0,1,1,0,12,russia,2000-09-25,angola,2000092524,Group B,200024
-5,Ruslan Avleev,20.0,2,5,0,0,6,6,1,3,0,0,1,3,3,10,russia,2000-09-25,angola,2000092524,Group B,200024
-6,Zakhar Pashutin,20.0,1,6,0,1,0,0,2,3,2,2,0,1,1,2,russia,2000-09-25,angola,2000092524,Group B,200024
-7,Sergey Panov,16.0,1,4,0,0,2,2,1,4,2,1,0,1,1,4,russia,2000-09-25,angola,2000092524,Group B,200024
-8,Sergey Bazarevitch,14.0,2,6,1,2,3,4,1,3,5,0,1,1,3,8,russia,2000-09-25,angola,2000092524,Group B,200024
-9,Eugeny Kisurin,7.0,1,1,0,0,1,4,1,1,2,0,0,1,1,3,russia,2000-09-25,angola,2000092524,Group B,200024
-10,Valentin Kubrakov,6.0,1,2,1,2,0,0,0,0,0,0,0,0,3,3,russia,2000-09-25,angola,2000092524,Group B,200024
-11,Andrei Fetisov,5.0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,russia,2000-09-25,angola,2000092524,Group B,200024
-12,Totals,,29,61,5,12,25,32,17,44,21,8,4,15,16,88,russia,2000-09-25,angola,2000092524,Group B,200024
-0,Angelo Victoriano,30.0,4,13,1,3,0,0,2,2,2,3,0,3,4,9,angola,2000-09-25,russia,2000092524,Group B,200024
-1,David Dias,28.0,6,10,0,1,2,4,5,6,1,0,3,2,2,14,angola,2000-09-25,russia,2000092524,Group B,200024
-2,Miguel Lutonda,26.0,1,9,0,3,0,0,0,2,2,1,0,1,4,2,angola,2000-09-25,russia,2000092524,Group B,200024
-3,Carlos Almeida,24.0,2,4,2,2,5,6,0,1,0,0,0,1,3,11,angola,2000-09-25,russia,2000092524,Group B,200024
-4,Edmar Victoriano,21.0,4,7,0,1,1,1,0,5,3,2,0,2,2,9,angola,2000-09-25,russia,2000092524,Group B,200024
-5,Anibal Moreira,16.0,4,5,2,3,0,0,0,1,0,0,0,1,3,10,angola,2000-09-25,russia,2000092524,Group B,200024
-6,Victor de Carvalho,16.0,1,2,0,1,0,0,0,2,0,0,1,0,1,2,angola,2000-09-25,russia,2000092524,Group B,200024
-7,Belarmino Chipongue,15.0,1,4,1,1,0,0,0,2,0,0,0,0,3,3,angola,2000-09-25,russia,2000092524,Group B,200024
-8,Herlander Coimbra,11.0,1,5,0,3,0,0,0,1,2,1,1,4,1,2,angola,2000-09-25,russia,2000092524,Group B,200024
-9,Victor Muzadi,10.0,1,2,0,0,1,2,2,3,0,0,0,0,1,3,angola,2000-09-25,russia,2000092524,Group B,200024
-10,Garcia Domingos,3.0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,angola,2000-09-25,russia,2000092524,Group B,200024
-11,Totals,,25,62,6,18,9,13,9,25,10,7,6,14,24,65,angola,2000-09-25,russia,2000092524,Group B,200024
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Evgeny Pashutin,26.0,2,2,0,0,0,0,1,3,5,0,0,1,0,4,russia,2000-09-25,angola,2000092524,Group B,200024,mens-olympics
+1,Andrei Kirilenko,24.0,4,8,0,0,3,4,5,9,1,4,1,4,1,11,russia,2000-09-25,angola,2000092524,Group B,200024,mens-olympics
+2,Nikita Morgunov,21.0,4,10,0,2,9,10,1,6,3,0,0,0,1,17,russia,2000-09-25,angola,2000092524,Group B,200024,mens-olympics
+3,Alexandr Bashminov,21.0,7,9,0,0,0,0,3,6,0,1,0,1,1,14,russia,2000-09-25,angola,2000092524,Group B,200024,mens-olympics
+4,Sergei Chikalkin,21.0,4,8,3,5,1,2,1,5,1,0,1,1,0,12,russia,2000-09-25,angola,2000092524,Group B,200024,mens-olympics
+5,Ruslan Avleev,20.0,2,5,0,0,6,6,1,3,0,0,1,3,3,10,russia,2000-09-25,angola,2000092524,Group B,200024,mens-olympics
+6,Zakhar Pashutin,20.0,1,6,0,1,0,0,2,3,2,2,0,1,1,2,russia,2000-09-25,angola,2000092524,Group B,200024,mens-olympics
+7,Sergey Panov,16.0,1,4,0,0,2,2,1,4,2,1,0,1,1,4,russia,2000-09-25,angola,2000092524,Group B,200024,mens-olympics
+8,Sergey Bazarevitch,14.0,2,6,1,2,3,4,1,3,5,0,1,1,3,8,russia,2000-09-25,angola,2000092524,Group B,200024,mens-olympics
+9,Eugeny Kisurin,7.0,1,1,0,0,1,4,1,1,2,0,0,1,1,3,russia,2000-09-25,angola,2000092524,Group B,200024,mens-olympics
+10,Valentin Kubrakov,6.0,1,2,1,2,0,0,0,0,0,0,0,0,3,3,russia,2000-09-25,angola,2000092524,Group B,200024,mens-olympics
+11,Andrei Fetisov,5.0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,russia,2000-09-25,angola,2000092524,Group B,200024,mens-olympics
+12,Totals,,29,61,5,12,25,32,17,44,21,8,4,15,16,88,russia,2000-09-25,angola,2000092524,Group B,200024,mens-olympics
+0,Angelo Victoriano,30.0,4,13,1,3,0,0,2,2,2,3,0,3,4,9,angola,2000-09-25,russia,2000092524,Group B,200024,mens-olympics
+1,David Dias,28.0,6,10,0,1,2,4,5,6,1,0,3,2,2,14,angola,2000-09-25,russia,2000092524,Group B,200024,mens-olympics
+2,Miguel Lutonda,26.0,1,9,0,3,0,0,0,2,2,1,0,1,4,2,angola,2000-09-25,russia,2000092524,Group B,200024,mens-olympics
+3,Carlos Almeida,24.0,2,4,2,2,5,6,0,1,0,0,0,1,3,11,angola,2000-09-25,russia,2000092524,Group B,200024,mens-olympics
+4,Edmar Victoriano,21.0,4,7,0,1,1,1,0,5,3,2,0,2,2,9,angola,2000-09-25,russia,2000092524,Group B,200024,mens-olympics
+5,Anibal Moreira,16.0,4,5,2,3,0,0,0,1,0,0,0,1,3,10,angola,2000-09-25,russia,2000092524,Group B,200024,mens-olympics
+6,Victor de Carvalho,16.0,1,2,0,1,0,0,0,2,0,0,1,0,1,2,angola,2000-09-25,russia,2000092524,Group B,200024,mens-olympics
+7,Belarmino Chipongue,15.0,1,4,1,1,0,0,0,2,0,0,0,0,3,3,angola,2000-09-25,russia,2000092524,Group B,200024,mens-olympics
+8,Herlander Coimbra,11.0,1,5,0,3,0,0,0,1,2,1,1,4,1,2,angola,2000-09-25,russia,2000092524,Group B,200024,mens-olympics
+9,Victor Muzadi,10.0,1,2,0,0,1,2,2,3,0,0,0,0,1,3,angola,2000-09-25,russia,2000092524,Group B,200024,mens-olympics
+10,Garcia Domingos,3.0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,angola,2000-09-25,russia,2000092524,Group B,200024,mens-olympics
+11,Totals,,25,62,6,18,9,13,9,25,10,7,6,14,24,65,angola,2000-09-25,russia,2000092524,Group B,200024,mens-olympics

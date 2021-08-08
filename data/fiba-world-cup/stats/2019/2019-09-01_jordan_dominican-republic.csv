@@ -1,24 +1,24 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Ahmet Duverioglu,38.0,14,18,0,0,6,9,3,9,2,0,1,2,3,34,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910
-1,Dar Tucker,38.0,7,21,1,9,9,12,0,5,4,1,1,3,1,24,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910
-2,Zaid Abbas,28.0,0,4,0,0,0,0,2,5,4,0,0,5,5,0,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910
-3,Fadi Ibrahim,22.0,2,7,0,1,0,0,0,4,0,0,0,3,3,4,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910
-4,Jordan Dasuqi,21.0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910
-5,Mousa Al-Awadi,19.0,0,1,0,1,0,0,0,1,1,1,0,2,1,0,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910
-6,Ahmed Hamarsha,18.0,3,3,2,2,0,0,1,4,0,0,0,0,2,8,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910
-7,Mahmoud Abdeen,14.0,3,4,0,1,0,0,1,2,1,1,0,1,2,6,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910
-8,Yousef Abuwazaneh,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910
-9,Totals,,29,59,3,15,15,21,7,30,12,3,2,16,18,76,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910
-0,Rigoberto Mendoza,27.0,4,8,1,2,0,0,1,4,2,0,0,2,1,9,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910
-1,Gelvis Solano,23.0,3,9,2,7,1,2,0,2,7,1,0,1,1,9,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910
-2,Victor Liz,22.0,4,10,3,5,4,4,0,2,0,1,0,3,1,15,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910
-3,Ronald Roberts,22.0,5,9,0,0,1,1,2,6,1,1,0,0,4,11,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910
-4,Luis Montero,19.0,3,8,2,4,1,2,3,4,1,4,1,1,2,9,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910
-5,Sadiel Rojas,19.0,1,4,1,2,0,0,1,3,2,1,0,2,3,3,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910
-6,Eloy Vargas,18.0,5,8,0,0,2,2,2,6,0,0,1,1,4,12,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910
-7,Eulis Baez,17.0,1,6,0,3,0,0,2,5,1,1,0,1,2,2,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910
-8,Ronald Ramon,16.0,4,6,2,3,0,0,0,0,0,1,0,1,2,10,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910
-9,Juan Jose Garcia,10.0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910
-10,Juan Miguel Suero,4.0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910
-11,Dagoberto Pena,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910
-12,Totals,,30,69,11,26,9,11,11,34,15,10,2,12,22,80,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Ahmet Duverioglu,38.0,14,18,0,0,6,9,3,9,2,0,1,2,3,34,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910,fiba-world-cup
+1,Dar Tucker,38.0,7,21,1,9,9,12,0,5,4,1,1,3,1,24,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910,fiba-world-cup
+2,Zaid Abbas,28.0,0,4,0,0,0,0,2,5,4,0,0,5,5,0,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910,fiba-world-cup
+3,Fadi Ibrahim,22.0,2,7,0,1,0,0,0,4,0,0,0,3,3,4,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910,fiba-world-cup
+4,Jordan Dasuqi,21.0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910,fiba-world-cup
+5,Mousa Al-Awadi,19.0,0,1,0,1,0,0,0,1,1,1,0,2,1,0,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910,fiba-world-cup
+6,Ahmed Hamarsha,18.0,3,3,2,2,0,0,1,4,0,0,0,0,2,8,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910,fiba-world-cup
+7,Mahmoud Abdeen,14.0,3,4,0,1,0,0,1,2,1,1,0,1,2,6,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910,fiba-world-cup
+8,Yousef Abuwazaneh,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910,fiba-world-cup
+9,Totals,,29,59,3,15,15,21,7,30,12,3,2,16,18,76,jordan,2019-09-01,dominican-republic,2019090110,First Round,201910,fiba-world-cup
+0,Rigoberto Mendoza,27.0,4,8,1,2,0,0,1,4,2,0,0,2,1,9,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910,fiba-world-cup
+1,Gelvis Solano,23.0,3,9,2,7,1,2,0,2,7,1,0,1,1,9,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910,fiba-world-cup
+2,Victor Liz,22.0,4,10,3,5,4,4,0,2,0,1,0,3,1,15,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910,fiba-world-cup
+3,Ronald Roberts,22.0,5,9,0,0,1,1,2,6,1,1,0,0,4,11,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910,fiba-world-cup
+4,Luis Montero,19.0,3,8,2,4,1,2,3,4,1,4,1,1,2,9,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910,fiba-world-cup
+5,Sadiel Rojas,19.0,1,4,1,2,0,0,1,3,2,1,0,2,3,3,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910,fiba-world-cup
+6,Eloy Vargas,18.0,5,8,0,0,2,2,2,6,0,0,1,1,4,12,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910,fiba-world-cup
+7,Eulis Baez,17.0,1,6,0,3,0,0,2,5,1,1,0,1,2,2,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910,fiba-world-cup
+8,Ronald Ramon,16.0,4,6,2,3,0,0,0,0,0,1,0,1,2,10,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910,fiba-world-cup
+9,Juan Jose Garcia,10.0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910,fiba-world-cup
+10,Juan Miguel Suero,4.0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910,fiba-world-cup
+11,Dagoberto Pena,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910,fiba-world-cup
+12,Totals,,30,69,11,26,9,11,11,34,15,10,2,12,22,80,dominican-republic,2019-09-01,jordan,2019090110,First Round,201910,fiba-world-cup

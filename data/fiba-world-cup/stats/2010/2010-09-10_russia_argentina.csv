@@ -1,24 +1,24 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Andrey Vorontsevich,35,5,9,0,3,0,0,1,3,2,2,0,3,1,10,russia,2010-09-10,argentina,2010091072,Consolation,201072
-1,Sergei Monia,31,6,8,5,7,0,0,1,4,0,0,1,3,5,17,russia,2010-09-10,argentina,2010091072,Consolation,201072
-2,Timofey Mozgov,28,4,9,0,0,2,2,2,11,0,0,1,2,5,10,russia,2010-09-10,argentina,2010091072,Consolation,201072
-3,Sergey Bykov,21,2,7,0,2,1,1,0,2,1,0,0,0,1,5,russia,2010-09-10,argentina,2010091072,Consolation,201072
-4,Vitaly Fridzon,7,1,4,0,2,0,0,0,0,0,1,0,0,1,2,russia,2010-09-10,argentina,2010091072,Consolation,201072
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,russia,2010-09-10,argentina,2010091072,Consolation,201072
-6,Dimitriy Khvostov,35,3,9,3,8,0,0,0,3,2,1,0,1,4,9,russia,2010-09-10,argentina,2010091072,Consolation,201072
-7,Anton Ponkrashov,21,1,3,0,1,1,1,0,0,4,0,0,1,2,3,russia,2010-09-10,argentina,2010091072,Consolation,201072
-8,Evgeny Voronov,12,1,2,1,1,0,0,0,1,0,0,0,2,0,3,russia,2010-09-10,argentina,2010091072,Consolation,201072
-9,Alexey Zhukanenko,10,1,1,0,0,0,0,0,2,1,0,0,2,0,2,russia,2010-09-10,argentina,2010091072,Consolation,201072
-10,Totals,,24,52,9,24,4,4,4,26,10,4,2,14,19,61,russia,2010-09-10,argentina,2010091072,Consolation,201072
-0,Carlos Delfino,40,8,13,5,7,5,10,0,7,3,3,1,0,1,26,argentina,2010-09-10,russia,2010091072,Consolation,201072
-1,Luis Scola,37,11,19,0,0,5,8,3,6,0,1,0,4,2,27,argentina,2010-09-10,russia,2010091072,Consolation,201072
-2,Fabricio Oberto,30,5,7,0,0,0,0,0,4,3,1,0,0,3,10,argentina,2010-09-10,russia,2010091072,Consolation,201072
-3,Pablo Prigioni,30,2,4,1,2,0,0,0,4,5,1,0,2,4,5,argentina,2010-09-10,russia,2010091072,Consolation,201072
-4,Hernan Jasen,22,1,3,0,2,0,0,1,2,1,0,0,0,0,2,argentina,2010-09-10,russia,2010091072,Consolation,201072
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,argentina,2010-09-10,russia,2010091072,Consolation,201072
-6,Luis Eduardo Cequeira,11,0,0,0,0,0,2,0,1,2,1,0,0,2,0,argentina,2010-09-10,russia,2010091072,Consolation,201072
-7,Paulo Quinteros,11,0,0,0,0,0,0,1,1,0,0,0,0,1,0,argentina,2010-09-10,russia,2010091072,Consolation,201072
-8,Leo Gutierrez,9,1,3,1,3,0,0,0,0,0,0,0,0,0,3,argentina,2010-09-10,russia,2010091072,Consolation,201072
-9,Roman Gonzalez,7,0,3,0,0,0,0,0,0,0,0,0,0,0,0,argentina,2010-09-10,russia,2010091072,Consolation,201072
-10,Federico Kammerichs,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0,argentina,2010-09-10,russia,2010091072,Consolation,201072
-11,Totals,,28,53,7,15,10,20,5,25,14,7,1,6,13,73,argentina,2010-09-10,russia,2010091072,Consolation,201072
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Andrey Vorontsevich,35,5,9,0,3,0,0,1,3,2,2,0,3,1,10,russia,2010-09-10,argentina,2010091072,Consolation,201072,fiba-world-cup
+1,Sergei Monia,31,6,8,5,7,0,0,1,4,0,0,1,3,5,17,russia,2010-09-10,argentina,2010091072,Consolation,201072,fiba-world-cup
+2,Timofey Mozgov,28,4,9,0,0,2,2,2,11,0,0,1,2,5,10,russia,2010-09-10,argentina,2010091072,Consolation,201072,fiba-world-cup
+3,Sergey Bykov,21,2,7,0,2,1,1,0,2,1,0,0,0,1,5,russia,2010-09-10,argentina,2010091072,Consolation,201072,fiba-world-cup
+4,Vitaly Fridzon,7,1,4,0,2,0,0,0,0,0,1,0,0,1,2,russia,2010-09-10,argentina,2010091072,Consolation,201072,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,russia,2010-09-10,argentina,2010091072,Consolation,201072,fiba-world-cup
+6,Dimitriy Khvostov,35,3,9,3,8,0,0,0,3,2,1,0,1,4,9,russia,2010-09-10,argentina,2010091072,Consolation,201072,fiba-world-cup
+7,Anton Ponkrashov,21,1,3,0,1,1,1,0,0,4,0,0,1,2,3,russia,2010-09-10,argentina,2010091072,Consolation,201072,fiba-world-cup
+8,Evgeny Voronov,12,1,2,1,1,0,0,0,1,0,0,0,2,0,3,russia,2010-09-10,argentina,2010091072,Consolation,201072,fiba-world-cup
+9,Alexey Zhukanenko,10,1,1,0,0,0,0,0,2,1,0,0,2,0,2,russia,2010-09-10,argentina,2010091072,Consolation,201072,fiba-world-cup
+10,Totals,,24,52,9,24,4,4,4,26,10,4,2,14,19,61,russia,2010-09-10,argentina,2010091072,Consolation,201072,fiba-world-cup
+0,Carlos Delfino,40,8,13,5,7,5,10,0,7,3,3,1,0,1,26,argentina,2010-09-10,russia,2010091072,Consolation,201072,fiba-world-cup
+1,Luis Scola,37,11,19,0,0,5,8,3,6,0,1,0,4,2,27,argentina,2010-09-10,russia,2010091072,Consolation,201072,fiba-world-cup
+2,Fabricio Oberto,30,5,7,0,0,0,0,0,4,3,1,0,0,3,10,argentina,2010-09-10,russia,2010091072,Consolation,201072,fiba-world-cup
+3,Pablo Prigioni,30,2,4,1,2,0,0,0,4,5,1,0,2,4,5,argentina,2010-09-10,russia,2010091072,Consolation,201072,fiba-world-cup
+4,Hernan Jasen,22,1,3,0,2,0,0,1,2,1,0,0,0,0,2,argentina,2010-09-10,russia,2010091072,Consolation,201072,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,argentina,2010-09-10,russia,2010091072,Consolation,201072,fiba-world-cup
+6,Luis Eduardo Cequeira,11,0,0,0,0,0,2,0,1,2,1,0,0,2,0,argentina,2010-09-10,russia,2010091072,Consolation,201072,fiba-world-cup
+7,Paulo Quinteros,11,0,0,0,0,0,0,1,1,0,0,0,0,1,0,argentina,2010-09-10,russia,2010091072,Consolation,201072,fiba-world-cup
+8,Leo Gutierrez,9,1,3,1,3,0,0,0,0,0,0,0,0,0,3,argentina,2010-09-10,russia,2010091072,Consolation,201072,fiba-world-cup
+9,Roman Gonzalez,7,0,3,0,0,0,0,0,0,0,0,0,0,0,0,argentina,2010-09-10,russia,2010091072,Consolation,201072,fiba-world-cup
+10,Federico Kammerichs,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0,argentina,2010-09-10,russia,2010091072,Consolation,201072,fiba-world-cup
+11,Totals,,28,53,7,15,10,20,5,25,14,7,1,6,13,73,argentina,2010-09-10,russia,2010091072,Consolation,201072,fiba-world-cup

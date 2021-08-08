@@ -1,28 +1,28 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Emir Preldzic,38,2,8,0,4,9,13,1,8,5,3,0,1,1,13,turkey,2014-09-03,finland,2014090341,Group Play,201441
-1,Omer Asik,37,7,12,0,0,8,16,3,8,1,2,1,1,2,22,turkey,2014-09-03,finland,2014090341,Group Play,201441
-2,Ender Arslan,34,3,8,3,7,3,4,0,4,4,1,0,1,1,12,turkey,2014-09-03,finland,2014090341,Group Play,201441
-3,Sinan Guler,27,1,8,1,4,0,0,1,2,5,1,0,1,5,3,turkey,2014-09-03,finland,2014090341,Group Play,201441
-4,Baris Hersek,13,0,3,0,2,1,2,1,3,0,0,0,2,0,1,turkey,2014-09-03,finland,2014090341,Group Play,201441
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,turkey,2014-09-03,finland,2014090341,Group Play,201441
-6,Kerem Gonlum,27,3,4,0,0,4,4,1,8,2,0,0,1,4,10,turkey,2014-09-03,finland,2014090341,Group Play,201441
-7,Kerem Tunceri,17,1,2,0,1,0,0,0,1,3,1,0,0,1,2,turkey,2014-09-03,finland,2014090341,Group Play,201441
-8,Cedi Osman,14,1,3,1,3,4,6,0,1,0,1,0,1,3,7,turkey,2014-09-03,finland,2014090341,Group Play,201441
-9,Furkan Aldemir,6,1,1,0,0,0,0,0,0,0,0,1,0,0,2,turkey,2014-09-03,finland,2014090341,Group Play,201441
-10,Cenk Akyol,6,1,3,1,3,0,0,0,0,1,1,0,1,2,3,turkey,2014-09-03,finland,2014090341,Group Play,201441
-11,Oguz Savas,5,1,2,0,0,0,0,0,0,1,0,0,2,0,2,turkey,2014-09-03,finland,2014090341,Group Play,201441
-12,Baris Ermis,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,turkey,2014-09-03,finland,2014090341,Group Play,201441
-13,Totals,,21,54,6,24,29,45,7,35,23,10,2,11,19,77,turkey,2014-09-03,finland,2014090341,Group Play,201441
-0,Petteri Koponen,38,6,15,3,5,2,4,1,5,5,1,0,2,3,17,finland,2014-09-03,turkey,2014090341,Group Play,201441
-1,Sasu Salin,33,5,11,5,10,0,0,0,2,0,0,1,0,2,15,finland,2014-09-03,turkey,2014090341,Group Play,201441
-2,Erik Murphy,27,2,3,2,2,0,0,0,6,0,0,1,2,4,6,finland,2014-09-03,turkey,2014090341,Group Play,201441
-3,Shawn Huff,12,1,2,0,0,0,0,0,0,0,0,1,2,5,2,finland,2014-09-03,turkey,2014090341,Group Play,201441
-4,Gerald Lee,10,0,3,0,0,0,0,0,1,1,0,0,1,1,0,finland,2014-09-03,turkey,2014090341,Group Play,201441
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,finland,2014-09-03,turkey,2014090341,Group Play,201441
-6,Tuukka Kotti,33,4,7,0,0,1,2,2,3,2,2,0,3,4,9,finland,2014-09-03,turkey,2014090341,Group Play,201441
-7,Mikko Koivisto,28,4,8,3,6,0,0,0,3,3,0,0,0,2,11,finland,2014-09-03,turkey,2014090341,Group Play,201441
-8,Kimmo Muurinen,14,1,2,0,0,0,0,0,3,2,0,0,1,2,2,finland,2014-09-03,turkey,2014090341,Group Play,201441
-9,Matti Nuutinen,14,3,4,2,2,0,0,0,5,0,0,0,1,5,8,finland,2014-09-03,turkey,2014090341,Group Play,201441
-10,Teemu Rannikko,10,0,3,0,3,1,2,0,0,1,0,0,6,3,1,finland,2014-09-03,turkey,2014090341,Group Play,201441
-11,Hanno Mottola,5,0,0,0,0,2,2,0,0,0,0,1,1,0,2,finland,2014-09-03,turkey,2014090341,Group Play,201441
-12,Totals,,26,58,15,28,6,10,3,28,14,3,4,19,31,73,finland,2014-09-03,turkey,2014090341,Group Play,201441
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Emir Preldzic,38,2,8,0,4,9,13,1,8,5,3,0,1,1,13,turkey,2014-09-03,finland,2014090341,Group Play,201441,fiba-world-cup
+1,Omer Asik,37,7,12,0,0,8,16,3,8,1,2,1,1,2,22,turkey,2014-09-03,finland,2014090341,Group Play,201441,fiba-world-cup
+2,Ender Arslan,34,3,8,3,7,3,4,0,4,4,1,0,1,1,12,turkey,2014-09-03,finland,2014090341,Group Play,201441,fiba-world-cup
+3,Sinan Guler,27,1,8,1,4,0,0,1,2,5,1,0,1,5,3,turkey,2014-09-03,finland,2014090341,Group Play,201441,fiba-world-cup
+4,Baris Hersek,13,0,3,0,2,1,2,1,3,0,0,0,2,0,1,turkey,2014-09-03,finland,2014090341,Group Play,201441,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,turkey,2014-09-03,finland,2014090341,Group Play,201441,fiba-world-cup
+6,Kerem Gonlum,27,3,4,0,0,4,4,1,8,2,0,0,1,4,10,turkey,2014-09-03,finland,2014090341,Group Play,201441,fiba-world-cup
+7,Kerem Tunceri,17,1,2,0,1,0,0,0,1,3,1,0,0,1,2,turkey,2014-09-03,finland,2014090341,Group Play,201441,fiba-world-cup
+8,Cedi Osman,14,1,3,1,3,4,6,0,1,0,1,0,1,3,7,turkey,2014-09-03,finland,2014090341,Group Play,201441,fiba-world-cup
+9,Furkan Aldemir,6,1,1,0,0,0,0,0,0,0,0,1,0,0,2,turkey,2014-09-03,finland,2014090341,Group Play,201441,fiba-world-cup
+10,Cenk Akyol,6,1,3,1,3,0,0,0,0,1,1,0,1,2,3,turkey,2014-09-03,finland,2014090341,Group Play,201441,fiba-world-cup
+11,Oguz Savas,5,1,2,0,0,0,0,0,0,1,0,0,2,0,2,turkey,2014-09-03,finland,2014090341,Group Play,201441,fiba-world-cup
+12,Baris Ermis,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,turkey,2014-09-03,finland,2014090341,Group Play,201441,fiba-world-cup
+13,Totals,,21,54,6,24,29,45,7,35,23,10,2,11,19,77,turkey,2014-09-03,finland,2014090341,Group Play,201441,fiba-world-cup
+0,Petteri Koponen,38,6,15,3,5,2,4,1,5,5,1,0,2,3,17,finland,2014-09-03,turkey,2014090341,Group Play,201441,fiba-world-cup
+1,Sasu Salin,33,5,11,5,10,0,0,0,2,0,0,1,0,2,15,finland,2014-09-03,turkey,2014090341,Group Play,201441,fiba-world-cup
+2,Erik Murphy,27,2,3,2,2,0,0,0,6,0,0,1,2,4,6,finland,2014-09-03,turkey,2014090341,Group Play,201441,fiba-world-cup
+3,Shawn Huff,12,1,2,0,0,0,0,0,0,0,0,1,2,5,2,finland,2014-09-03,turkey,2014090341,Group Play,201441,fiba-world-cup
+4,Gerald Lee,10,0,3,0,0,0,0,0,1,1,0,0,1,1,0,finland,2014-09-03,turkey,2014090341,Group Play,201441,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,finland,2014-09-03,turkey,2014090341,Group Play,201441,fiba-world-cup
+6,Tuukka Kotti,33,4,7,0,0,1,2,2,3,2,2,0,3,4,9,finland,2014-09-03,turkey,2014090341,Group Play,201441,fiba-world-cup
+7,Mikko Koivisto,28,4,8,3,6,0,0,0,3,3,0,0,0,2,11,finland,2014-09-03,turkey,2014090341,Group Play,201441,fiba-world-cup
+8,Kimmo Muurinen,14,1,2,0,0,0,0,0,3,2,0,0,1,2,2,finland,2014-09-03,turkey,2014090341,Group Play,201441,fiba-world-cup
+9,Matti Nuutinen,14,3,4,2,2,0,0,0,5,0,0,0,1,5,8,finland,2014-09-03,turkey,2014090341,Group Play,201441,fiba-world-cup
+10,Teemu Rannikko,10,0,3,0,3,1,2,0,0,1,0,0,6,3,1,finland,2014-09-03,turkey,2014090341,Group Play,201441,fiba-world-cup
+11,Hanno Mottola,5,0,0,0,0,2,2,0,0,0,0,1,1,0,2,finland,2014-09-03,turkey,2014090341,Group Play,201441,fiba-world-cup
+12,Totals,,26,58,15,28,6,10,3,28,14,3,4,19,31,73,finland,2014-09-03,turkey,2014090341,Group Play,201441,fiba-world-cup

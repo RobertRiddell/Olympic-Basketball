@@ -1,24 +1,24 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Bogdan Bogdanovic,35.0,9,14,2,5,6,6,3,10,6,0,0,1,2,26,serbia,2019-09-08,spain,2019090869,Second Round,201969
-1,Stefan Jovic,26.0,2,5,0,3,0,0,0,1,3,1,1,4,5,4,serbia,2019-09-08,spain,2019090869,Second Round,201969
-2,Nemanja Bjelica,24.0,0,5,0,4,3,4,1,3,1,1,0,2,3,3,serbia,2019-09-08,spain,2019090869,Second Round,201969
-3,Vladimir Lucic,21.0,1,5,0,2,6,7,1,3,0,2,0,0,3,8,serbia,2019-09-08,spain,2019090869,Second Round,201969
-4,Nikola Milutinov,20.0,3,4,0,0,1,2,1,2,0,0,0,0,2,7,serbia,2019-09-08,spain,2019090869,Second Round,201969
-5,Vasilije Micic,19.0,1,5,0,2,3,3,1,3,1,1,0,2,1,5,serbia,2019-09-08,spain,2019090869,Second Round,201969
-6,Nikola Jokic,17.0,2,4,0,1,2,2,2,5,1,0,0,3,2,6,serbia,2019-09-08,spain,2019090869,Second Round,201969
-7,Miroslav Raduljica,16.0,2,6,0,0,3,3,0,2,3,1,1,0,3,7,serbia,2019-09-08,spain,2019090869,Second Round,201969
-8,Marko Guduric,13.0,0,2,0,1,0,0,1,2,0,1,0,2,1,0,serbia,2019-09-08,spain,2019090869,Second Round,201969
-9,Marko Simonovic,3.0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,serbia,2019-09-08,spain,2019090869,Second Round,201969
-10,Stefan Bircevic,3.0,1,2,1,1,0,0,0,0,0,0,0,1,1,3,serbia,2019-09-08,spain,2019090869,Second Round,201969
-11,Boban Marjanovic,2.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,serbia,2019-09-08,spain,2019090869,Second Round,201969
-12,Totals,,21,52,3,19,24,27,10,31,15,7,2,17,24,69,serbia,2019-09-08,spain,2019090869,Second Round,201969
-0,Marc Gasol,33.0,4,10,0,5,3,6,0,6,6,1,0,2,2,11,spain,2019-09-08,serbia,2019090869,Second Round,201969
-1,Victor Claver,27.0,5,7,1,2,3,3,4,7,2,3,2,2,3,14,spain,2019-09-08,serbia,2019090869,Second Round,201969
-2,Sergio Llull,27.0,3,12,3,9,0,0,0,0,3,0,0,1,2,9,spain,2019-09-08,serbia,2019090869,Second Round,201969
-3,Ricky Rubio,26.0,5,13,2,3,7,7,2,5,4,1,0,1,3,19,spain,2019-09-08,serbia,2019090869,Second Round,201969
-4,Rudy Fernandez,26.0,1,4,1,4,4,4,0,1,2,4,1,2,3,7,spain,2019-09-08,serbia,2019090869,Second Round,201969
-5,Pau Ribas,22.0,1,2,1,2,2,2,0,3,2,1,0,1,1,5,spain,2019-09-08,serbia,2019090869,Second Round,201969
-6,Juan Hernangomez,19.0,1,2,1,2,0,0,2,4,1,0,1,2,4,3,spain,2019-09-08,serbia,2019090869,Second Round,201969
-7,Willy Hernangomez,13.0,3,6,0,1,1,2,3,4,0,1,1,2,4,7,spain,2019-09-08,serbia,2019090869,Second Round,201969
-8,Pierre Oriola,7.0,2,3,0,1,2,2,1,1,1,0,0,0,2,6,spain,2019-09-08,serbia,2019090869,Second Round,201969
-9,Totals,,25,59,9,29,22,26,12,31,21,11,5,13,24,81,spain,2019-09-08,serbia,2019090869,Second Round,201969
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Bogdan Bogdanovic,35.0,9,14,2,5,6,6,3,10,6,0,0,1,2,26,serbia,2019-09-08,spain,2019090869,Second Round,201969,fiba-world-cup
+1,Stefan Jovic,26.0,2,5,0,3,0,0,0,1,3,1,1,4,5,4,serbia,2019-09-08,spain,2019090869,Second Round,201969,fiba-world-cup
+2,Nemanja Bjelica,24.0,0,5,0,4,3,4,1,3,1,1,0,2,3,3,serbia,2019-09-08,spain,2019090869,Second Round,201969,fiba-world-cup
+3,Vladimir Lucic,21.0,1,5,0,2,6,7,1,3,0,2,0,0,3,8,serbia,2019-09-08,spain,2019090869,Second Round,201969,fiba-world-cup
+4,Nikola Milutinov,20.0,3,4,0,0,1,2,1,2,0,0,0,0,2,7,serbia,2019-09-08,spain,2019090869,Second Round,201969,fiba-world-cup
+5,Vasilije Micic,19.0,1,5,0,2,3,3,1,3,1,1,0,2,1,5,serbia,2019-09-08,spain,2019090869,Second Round,201969,fiba-world-cup
+6,Nikola Jokic,17.0,2,4,0,1,2,2,2,5,1,0,0,3,2,6,serbia,2019-09-08,spain,2019090869,Second Round,201969,fiba-world-cup
+7,Miroslav Raduljica,16.0,2,6,0,0,3,3,0,2,3,1,1,0,3,7,serbia,2019-09-08,spain,2019090869,Second Round,201969,fiba-world-cup
+8,Marko Guduric,13.0,0,2,0,1,0,0,1,2,0,1,0,2,1,0,serbia,2019-09-08,spain,2019090869,Second Round,201969,fiba-world-cup
+9,Marko Simonovic,3.0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,serbia,2019-09-08,spain,2019090869,Second Round,201969,fiba-world-cup
+10,Stefan Bircevic,3.0,1,2,1,1,0,0,0,0,0,0,0,1,1,3,serbia,2019-09-08,spain,2019090869,Second Round,201969,fiba-world-cup
+11,Boban Marjanovic,2.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,serbia,2019-09-08,spain,2019090869,Second Round,201969,fiba-world-cup
+12,Totals,,21,52,3,19,24,27,10,31,15,7,2,17,24,69,serbia,2019-09-08,spain,2019090869,Second Round,201969,fiba-world-cup
+0,Marc Gasol,33.0,4,10,0,5,3,6,0,6,6,1,0,2,2,11,spain,2019-09-08,serbia,2019090869,Second Round,201969,fiba-world-cup
+1,Victor Claver,27.0,5,7,1,2,3,3,4,7,2,3,2,2,3,14,spain,2019-09-08,serbia,2019090869,Second Round,201969,fiba-world-cup
+2,Sergio Llull,27.0,3,12,3,9,0,0,0,0,3,0,0,1,2,9,spain,2019-09-08,serbia,2019090869,Second Round,201969,fiba-world-cup
+3,Ricky Rubio,26.0,5,13,2,3,7,7,2,5,4,1,0,1,3,19,spain,2019-09-08,serbia,2019090869,Second Round,201969,fiba-world-cup
+4,Rudy Fernandez,26.0,1,4,1,4,4,4,0,1,2,4,1,2,3,7,spain,2019-09-08,serbia,2019090869,Second Round,201969,fiba-world-cup
+5,Pau Ribas,22.0,1,2,1,2,2,2,0,3,2,1,0,1,1,5,spain,2019-09-08,serbia,2019090869,Second Round,201969,fiba-world-cup
+6,Juan Hernangomez,19.0,1,2,1,2,0,0,2,4,1,0,1,2,4,3,spain,2019-09-08,serbia,2019090869,Second Round,201969,fiba-world-cup
+7,Willy Hernangomez,13.0,3,6,0,1,1,2,3,4,0,1,1,2,4,7,spain,2019-09-08,serbia,2019090869,Second Round,201969,fiba-world-cup
+8,Pierre Oriola,7.0,2,3,0,1,2,2,1,1,1,0,0,0,2,6,spain,2019-09-08,serbia,2019090869,Second Round,201969,fiba-world-cup
+9,Totals,,25,59,9,29,22,26,12,31,21,11,5,13,24,81,spain,2019-09-08,serbia,2019090869,Second Round,201969,fiba-world-cup

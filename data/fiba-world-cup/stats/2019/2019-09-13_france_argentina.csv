@@ -1,26 +1,26 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Nicolas Batum,29.0,1,6,1,6,0,0,1,5,1,0,1,0,3,3,france,2019-09-13,argentina,2019091386,Knockout Stage,201986
-1,Rudy Gobert,29.0,1,3,0,0,1,4,1,11,0,1,1,0,2,3,france,2019-09-13,argentina,2019091386,Knockout Stage,201986
-2,Evan Fournier,27.0,6,17,1,6,3,7,0,2,2,1,0,1,4,16,france,2019-09-13,argentina,2019091386,Knockout Stage,201986
-3,Nando De Colo,27.0,2,5,0,3,7,8,2,3,4,0,0,2,2,11,france,2019-09-13,argentina,2019091386,Knockout Stage,201986
-4,Frank Ntilikina,21.0,7,12,1,5,1,2,0,2,2,0,0,2,3,16,france,2019-09-13,argentina,2019091386,Knockout Stage,201986
-5,Andrew Albicy,19.0,1,6,1,5,0,0,1,2,1,1,0,2,1,3,france,2019-09-13,argentina,2019091386,Knockout Stage,201986
-6,Louis Labeyrie,15.0,3,4,2,3,0,0,1,2,0,0,0,1,2,8,france,2019-09-13,argentina,2019091386,Knockout Stage,201986
-7,Amath M'Baye,13.0,1,3,1,3,1,2,2,3,0,0,0,1,1,4,france,2019-09-13,argentina,2019091386,Knockout Stage,201986
-8,Mathias Lessort,13.0,1,3,0,0,0,2,2,2,0,0,1,1,3,2,france,2019-09-13,argentina,2019091386,Knockout Stage,201986
-9,Vincent Poirier,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,france,2019-09-13,argentina,2019091386,Knockout Stage,201986
-10,Paul Lacombe,2.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,france,2019-09-13,argentina,2019091386,Knockout Stage,201986
-11,Axel Toupane,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,france,2019-09-13,argentina,2019091386,Knockout Stage,201986
-12,Totals,,23,59,7,31,13,25,10,32,11,3,3,10,21,66,france,2019-09-13,argentina,2019091386,Knockout Stage,201986
-0,Facu Campazzo,34.0,4,13,3,9,1,2,2,7,6,1,0,2,2,12,argentina,2019-09-13,france,2019091386,Knockout Stage,201986
-1,Luis Scola,34.0,8,17,3,4,9,10,2,13,2,0,0,1,4,28,argentina,2019-09-13,france,2019091386,Knockout Stage,201986
-2,Gabriel Deck,25.0,6,11,1,3,0,0,2,2,0,0,0,0,0,13,argentina,2019-09-13,france,2019091386,Knockout Stage,201986
-3,Marcos Delia,24.0,3,6,0,0,0,1,1,3,0,0,1,0,4,6,argentina,2019-09-13,france,2019091386,Knockout Stage,201986
-4,Nicolas Laprovittola,24.0,3,8,1,5,0,0,1,3,4,0,0,4,2,7,argentina,2019-09-13,france,2019091386,Knockout Stage,201986
-5,Patricio Garino,20.0,0,3,0,1,0,0,3,3,0,0,0,1,4,0,argentina,2019-09-13,france,2019091386,Knockout Stage,201986
-6,Luca Vildoza,16.0,2,5,1,3,5,5,0,4,3,1,0,0,4,10,argentina,2019-09-13,france,2019091386,Knockout Stage,201986
-7,Tayavek Gallizzi,9.0,0,0,0,0,2,2,1,1,0,0,0,0,3,2,argentina,2019-09-13,france,2019091386,Knockout Stage,201986
-8,Nicolas Brussino,8.0,1,1,0,0,0,0,1,1,0,0,0,0,0,2,argentina,2019-09-13,france,2019091386,Knockout Stage,201986
-9,Maximo Fjellerup,4.0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,argentina,2019-09-13,france,2019091386,Knockout Stage,201986
-10,Agustin Caffaro,1.0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,argentina,2019-09-13,france,2019091386,Knockout Stage,201986
-11,Totals,,27,66,9,25,17,20,13,38,15,2,1,8,24,80,argentina,2019-09-13,france,2019091386,Knockout Stage,201986
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Nicolas Batum,29.0,1,6,1,6,0,0,1,5,1,0,1,0,3,3,france,2019-09-13,argentina,2019091386,Knockout Stage,201986,fiba-world-cup
+1,Rudy Gobert,29.0,1,3,0,0,1,4,1,11,0,1,1,0,2,3,france,2019-09-13,argentina,2019091386,Knockout Stage,201986,fiba-world-cup
+2,Evan Fournier,27.0,6,17,1,6,3,7,0,2,2,1,0,1,4,16,france,2019-09-13,argentina,2019091386,Knockout Stage,201986,fiba-world-cup
+3,Nando De Colo,27.0,2,5,0,3,7,8,2,3,4,0,0,2,2,11,france,2019-09-13,argentina,2019091386,Knockout Stage,201986,fiba-world-cup
+4,Frank Ntilikina,21.0,7,12,1,5,1,2,0,2,2,0,0,2,3,16,france,2019-09-13,argentina,2019091386,Knockout Stage,201986,fiba-world-cup
+5,Andrew Albicy,19.0,1,6,1,5,0,0,1,2,1,1,0,2,1,3,france,2019-09-13,argentina,2019091386,Knockout Stage,201986,fiba-world-cup
+6,Louis Labeyrie,15.0,3,4,2,3,0,0,1,2,0,0,0,1,2,8,france,2019-09-13,argentina,2019091386,Knockout Stage,201986,fiba-world-cup
+7,Amath M'Baye,13.0,1,3,1,3,1,2,2,3,0,0,0,1,1,4,france,2019-09-13,argentina,2019091386,Knockout Stage,201986,fiba-world-cup
+8,Mathias Lessort,13.0,1,3,0,0,0,2,2,2,0,0,1,1,3,2,france,2019-09-13,argentina,2019091386,Knockout Stage,201986,fiba-world-cup
+9,Vincent Poirier,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,france,2019-09-13,argentina,2019091386,Knockout Stage,201986,fiba-world-cup
+10,Paul Lacombe,2.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,france,2019-09-13,argentina,2019091386,Knockout Stage,201986,fiba-world-cup
+11,Axel Toupane,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,france,2019-09-13,argentina,2019091386,Knockout Stage,201986,fiba-world-cup
+12,Totals,,23,59,7,31,13,25,10,32,11,3,3,10,21,66,france,2019-09-13,argentina,2019091386,Knockout Stage,201986,fiba-world-cup
+0,Facu Campazzo,34.0,4,13,3,9,1,2,2,7,6,1,0,2,2,12,argentina,2019-09-13,france,2019091386,Knockout Stage,201986,fiba-world-cup
+1,Luis Scola,34.0,8,17,3,4,9,10,2,13,2,0,0,1,4,28,argentina,2019-09-13,france,2019091386,Knockout Stage,201986,fiba-world-cup
+2,Gabriel Deck,25.0,6,11,1,3,0,0,2,2,0,0,0,0,0,13,argentina,2019-09-13,france,2019091386,Knockout Stage,201986,fiba-world-cup
+3,Marcos Delia,24.0,3,6,0,0,0,1,1,3,0,0,1,0,4,6,argentina,2019-09-13,france,2019091386,Knockout Stage,201986,fiba-world-cup
+4,Nicolas Laprovittola,24.0,3,8,1,5,0,0,1,3,4,0,0,4,2,7,argentina,2019-09-13,france,2019091386,Knockout Stage,201986,fiba-world-cup
+5,Patricio Garino,20.0,0,3,0,1,0,0,3,3,0,0,0,1,4,0,argentina,2019-09-13,france,2019091386,Knockout Stage,201986,fiba-world-cup
+6,Luca Vildoza,16.0,2,5,1,3,5,5,0,4,3,1,0,0,4,10,argentina,2019-09-13,france,2019091386,Knockout Stage,201986,fiba-world-cup
+7,Tayavek Gallizzi,9.0,0,0,0,0,2,2,1,1,0,0,0,0,3,2,argentina,2019-09-13,france,2019091386,Knockout Stage,201986,fiba-world-cup
+8,Nicolas Brussino,8.0,1,1,0,0,0,0,1,1,0,0,0,0,0,2,argentina,2019-09-13,france,2019091386,Knockout Stage,201986,fiba-world-cup
+9,Maximo Fjellerup,4.0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,argentina,2019-09-13,france,2019091386,Knockout Stage,201986,fiba-world-cup
+10,Agustin Caffaro,1.0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,argentina,2019-09-13,france,2019091386,Knockout Stage,201986,fiba-world-cup
+11,Totals,,27,66,9,25,17,20,13,38,15,2,1,8,24,80,argentina,2019-09-13,france,2019091386,Knockout Stage,201986,fiba-world-cup

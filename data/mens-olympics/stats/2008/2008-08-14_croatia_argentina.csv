@@ -1,26 +1,26 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Marko Banic,29.0,3,5,0,0,3,4,4,6,0,1,0,2,2,9,croatia,2008-08-14,argentina,2008081413,Group A,200813
-1,Marko Tomas,28.0,2,8,1,4,4,4,0,3,1,3,0,2,3,9,croatia,2008-08-14,argentina,2008081413,Group A,200813
-2,Davor Kus,23.0,2,7,0,3,1,2,1,3,1,1,0,1,1,5,croatia,2008-08-14,argentina,2008081413,Group A,200813
-3,Roko Ukic,23.0,2,11,0,3,1,2,0,3,2,0,0,0,1,5,croatia,2008-08-14,argentina,2008081413,Group A,200813
-4,Stanko Barac,22.0,2,5,0,0,1,2,3,5,1,0,1,2,2,5,croatia,2008-08-14,argentina,2008081413,Group A,200813
-5,Marin Rozic,18.0,2,5,1,2,1,1,2,4,0,1,0,1,2,6,croatia,2008-08-14,argentina,2008081413,Group A,200813
-6,Zoran Planinic,18.0,1,7,1,2,1,2,1,4,1,0,1,3,3,4,croatia,2008-08-14,argentina,2008081413,Group A,200813
-7,Marko Popovic,13.0,1,1,0,0,0,0,0,2,0,0,0,1,1,2,croatia,2008-08-14,argentina,2008081413,Group A,200813
-8,Nikola Prkacin,10.0,2,2,0,0,0,0,0,1,0,2,0,0,3,4,croatia,2008-08-14,argentina,2008081413,Group A,200813
-9,Kresimir Loncar,9.0,1,5,0,1,0,0,0,1,0,0,0,1,0,2,croatia,2008-08-14,argentina,2008081413,Group A,200813
-10,Sandro Nicevic,7.0,1,1,0,0,0,0,2,2,0,0,0,1,1,2,croatia,2008-08-14,argentina,2008081413,Group A,200813
-11,Totals,,19,57,3,15,12,17,13,34,6,8,2,14,19,53,croatia,2008-08-14,argentina,2008081413,Group A,200813
-0,Pablo Prigioni,32.0,2,3,1,2,2,2,1,1,2,3,0,0,0,7,argentina,2008-08-14,croatia,2008081413,Group A,200813
-1,Andres Nocioni,31.0,7,14,2,4,2,2,0,8,1,2,1,2,2,18,argentina,2008-08-14,croatia,2008081413,Group A,200813
-2,Carlos Delfino,28.0,5,9,4,7,1,2,2,6,2,1,1,1,4,15,argentina,2008-08-14,croatia,2008081413,Group A,200813
-3,Manu Ginobili,28.0,3,8,1,5,7,8,0,2,8,2,0,3,2,14,argentina,2008-08-14,croatia,2008081413,Group A,200813
-4,Luis Scola,23.0,6,8,0,0,0,0,2,3,1,0,0,4,3,12,argentina,2008-08-14,croatia,2008081413,Group A,200813
-5,Fabricio Oberto,20.0,2,4,0,0,0,1,0,3,1,0,0,0,4,4,argentina,2008-08-14,croatia,2008081413,Group A,200813
-6,Antonio Porta,8.0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,argentina,2008-08-14,croatia,2008081413,Group A,200813
-7,Juan Gutierrez,7.0,1,1,0,0,0,0,0,2,0,1,0,0,1,2,argentina,2008-08-14,croatia,2008081413,Group A,200813
-8,Leo Gutierrez,7.0,0,2,0,2,0,0,0,0,0,0,0,0,1,0,argentina,2008-08-14,croatia,2008081413,Group A,200813
-9,Paulo Quinteros,6.0,1,2,1,1,0,0,2,3,0,0,0,0,0,3,argentina,2008-08-14,croatia,2008081413,Group A,200813
-10,Roman Gonzalez,5.0,1,2,0,0,0,0,0,1,0,0,0,0,1,2,argentina,2008-08-14,croatia,2008081413,Group A,200813
-11,Federico Kammerichs,5.0,0,1,0,1,0,0,0,0,0,1,0,1,2,0,argentina,2008-08-14,croatia,2008081413,Group A,200813
-12,Totals,,28,54,9,22,12,15,7,29,18,10,2,13,20,77,argentina,2008-08-14,croatia,2008081413,Group A,200813
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Marko Banic,29.0,3,5,0,0,3,4,4,6,0,1,0,2,2,9,croatia,2008-08-14,argentina,2008081413,Group A,200813,mens-olympics
+1,Marko Tomas,28.0,2,8,1,4,4,4,0,3,1,3,0,2,3,9,croatia,2008-08-14,argentina,2008081413,Group A,200813,mens-olympics
+2,Davor Kus,23.0,2,7,0,3,1,2,1,3,1,1,0,1,1,5,croatia,2008-08-14,argentina,2008081413,Group A,200813,mens-olympics
+3,Roko Ukic,23.0,2,11,0,3,1,2,0,3,2,0,0,0,1,5,croatia,2008-08-14,argentina,2008081413,Group A,200813,mens-olympics
+4,Stanko Barac,22.0,2,5,0,0,1,2,3,5,1,0,1,2,2,5,croatia,2008-08-14,argentina,2008081413,Group A,200813,mens-olympics
+5,Marin Rozic,18.0,2,5,1,2,1,1,2,4,0,1,0,1,2,6,croatia,2008-08-14,argentina,2008081413,Group A,200813,mens-olympics
+6,Zoran Planinic,18.0,1,7,1,2,1,2,1,4,1,0,1,3,3,4,croatia,2008-08-14,argentina,2008081413,Group A,200813,mens-olympics
+7,Marko Popovic,13.0,1,1,0,0,0,0,0,2,0,0,0,1,1,2,croatia,2008-08-14,argentina,2008081413,Group A,200813,mens-olympics
+8,Nikola Prkacin,10.0,2,2,0,0,0,0,0,1,0,2,0,0,3,4,croatia,2008-08-14,argentina,2008081413,Group A,200813,mens-olympics
+9,Kresimir Loncar,9.0,1,5,0,1,0,0,0,1,0,0,0,1,0,2,croatia,2008-08-14,argentina,2008081413,Group A,200813,mens-olympics
+10,Sandro Nicevic,7.0,1,1,0,0,0,0,2,2,0,0,0,1,1,2,croatia,2008-08-14,argentina,2008081413,Group A,200813,mens-olympics
+11,Totals,,19,57,3,15,12,17,13,34,6,8,2,14,19,53,croatia,2008-08-14,argentina,2008081413,Group A,200813,mens-olympics
+0,Pablo Prigioni,32.0,2,3,1,2,2,2,1,1,2,3,0,0,0,7,argentina,2008-08-14,croatia,2008081413,Group A,200813,mens-olympics
+1,Andres Nocioni,31.0,7,14,2,4,2,2,0,8,1,2,1,2,2,18,argentina,2008-08-14,croatia,2008081413,Group A,200813,mens-olympics
+2,Carlos Delfino,28.0,5,9,4,7,1,2,2,6,2,1,1,1,4,15,argentina,2008-08-14,croatia,2008081413,Group A,200813,mens-olympics
+3,Manu Ginobili,28.0,3,8,1,5,7,8,0,2,8,2,0,3,2,14,argentina,2008-08-14,croatia,2008081413,Group A,200813,mens-olympics
+4,Luis Scola,23.0,6,8,0,0,0,0,2,3,1,0,0,4,3,12,argentina,2008-08-14,croatia,2008081413,Group A,200813,mens-olympics
+5,Fabricio Oberto,20.0,2,4,0,0,0,1,0,3,1,0,0,0,4,4,argentina,2008-08-14,croatia,2008081413,Group A,200813,mens-olympics
+6,Antonio Porta,8.0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,argentina,2008-08-14,croatia,2008081413,Group A,200813,mens-olympics
+7,Juan Gutierrez,7.0,1,1,0,0,0,0,0,2,0,1,0,0,1,2,argentina,2008-08-14,croatia,2008081413,Group A,200813,mens-olympics
+8,Leo Gutierrez,7.0,0,2,0,2,0,0,0,0,0,0,0,0,1,0,argentina,2008-08-14,croatia,2008081413,Group A,200813,mens-olympics
+9,Paulo Quinteros,6.0,1,2,1,1,0,0,2,3,0,0,0,0,0,3,argentina,2008-08-14,croatia,2008081413,Group A,200813,mens-olympics
+10,Roman Gonzalez,5.0,1,2,0,0,0,0,0,1,0,0,0,0,1,2,argentina,2008-08-14,croatia,2008081413,Group A,200813,mens-olympics
+11,Federico Kammerichs,5.0,0,1,0,1,0,0,0,0,0,1,0,1,2,0,argentina,2008-08-14,croatia,2008081413,Group A,200813,mens-olympics
+12,Totals,,28,54,9,22,12,15,7,29,18,10,2,13,20,77,argentina,2008-08-14,croatia,2008081413,Group A,200813,mens-olympics

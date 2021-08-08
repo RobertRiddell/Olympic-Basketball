@@ -1,28 +1,28 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Joe Ingles,35,7,11,2,4,2,4,0,1,4,3,0,1,1,18,australia,2014-09-02,lithuania,2014090231,Group Play,201431
-1,David Andersen,30,3,9,0,1,1,3,0,5,2,1,0,3,3,7,australia,2014-09-02,lithuania,2014090231,Group Play,201431
-2,Matthew Dellavedova,27,4,9,2,3,3,4,0,2,2,1,0,3,2,13,australia,2014-09-02,lithuania,2014090231,Group Play,201431
-3,Ryan Broekhoff,24,2,5,2,4,2,2,1,3,0,2,0,1,2,8,australia,2014-09-02,lithuania,2014090231,Group Play,201431
-4,Aron Baynes,22,5,12,0,0,4,4,3,6,0,1,0,2,4,14,australia,2014-09-02,lithuania,2014090231,Group Play,201431
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,australia,2014-09-02,lithuania,2014090231,Group Play,201431
-6,Brad Newley,19,3,6,1,1,3,5,3,4,2,1,0,0,3,10,australia,2014-09-02,lithuania,2014090231,Group Play,201431
-7,Brock Motum,16,3,8,0,1,0,0,2,2,1,0,0,2,3,6,australia,2014-09-02,lithuania,2014090231,Group Play,201431
-8,Adam Gibson,11,0,0,0,0,0,0,0,2,1,0,0,0,1,0,australia,2014-09-02,lithuania,2014090231,Group Play,201431
-9,Nathan Jawai,7,2,3,0,0,0,0,2,5,0,0,0,0,1,4,australia,2014-09-02,lithuania,2014090231,Group Play,201431
-10,Cameron Bairstow,5,1,1,0,0,0,0,0,0,0,0,0,0,3,2,australia,2014-09-02,lithuania,2014090231,Group Play,201431
-11,Dante Exum,4,0,0,0,0,0,0,0,1,1,0,0,1,0,0,australia,2014-09-02,lithuania,2014090231,Group Play,201431
-12,Totals,,30,64,7,14,15,22,11,31,13,9,0,13,23,82,australia,2014-09-02,lithuania,2014090231,Group Play,201431
-0,Renaldas Seibutis,31,7,11,1,4,6,6,0,3,3,0,0,2,1,21,lithuania,2014-09-02,australia,2014090231,Group Play,201431
-1,Jonas Maciulis,21,1,5,1,1,1,2,0,2,1,2,1,3,0,4,lithuania,2014-09-02,australia,2014090231,Group Play,201431
-2,Jonas Valanciunas,18,2,3,0,0,0,0,1,6,0,0,0,5,3,4,lithuania,2014-09-02,australia,2014090231,Group Play,201431
-3,Sarunas Vasiliauskas,14,1,2,0,1,2,2,0,2,0,0,0,0,2,4,lithuania,2014-09-02,australia,2014090231,Group Play,201431
-4,Donatas Motiejunas,8,1,2,0,1,0,0,0,1,0,0,0,2,0,2,lithuania,2014-09-02,australia,2014090231,Group Play,201431
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,lithuania,2014-09-02,australia,2014090231,Group Play,201431
-6,Martynas Pocius,26,3,7,0,1,0,1,0,1,1,0,0,2,4,6,lithuania,2014-09-02,australia,2014090231,Group Play,201431
-7,Darjus Lavrinovic,22,4,5,1,2,5,5,0,2,1,1,2,0,1,14,lithuania,2014-09-02,australia,2014090231,Group Play,201431
-8,Paulius Jankunas,16,3,6,0,2,3,3,0,2,0,0,0,2,2,9,lithuania,2014-09-02,australia,2014090231,Group Play,201431
-9,Ksistof Lavrinovic,15,2,2,1,1,3,3,0,4,1,0,0,3,3,8,lithuania,2014-09-02,australia,2014090231,Group Play,201431
-10,Mindaugas Kuzminskas,13,1,3,1,1,0,0,1,1,1,1,0,0,3,3,lithuania,2014-09-02,australia,2014090231,Group Play,201431
-11,Adas Juskevicius,8,0,2,0,1,0,0,0,1,0,0,0,3,0,0,lithuania,2014-09-02,australia,2014090231,Group Play,201431
-12,Simas Jasaitis,8,0,1,0,1,0,0,0,0,0,0,0,0,2,0,lithuania,2014-09-02,australia,2014090231,Group Play,201431
-13,Totals,,25,49,5,16,20,22,2,25,8,4,3,22,21,75,lithuania,2014-09-02,australia,2014090231,Group Play,201431
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Joe Ingles,35,7,11,2,4,2,4,0,1,4,3,0,1,1,18,australia,2014-09-02,lithuania,2014090231,Group Play,201431,fiba-world-cup
+1,David Andersen,30,3,9,0,1,1,3,0,5,2,1,0,3,3,7,australia,2014-09-02,lithuania,2014090231,Group Play,201431,fiba-world-cup
+2,Matthew Dellavedova,27,4,9,2,3,3,4,0,2,2,1,0,3,2,13,australia,2014-09-02,lithuania,2014090231,Group Play,201431,fiba-world-cup
+3,Ryan Broekhoff,24,2,5,2,4,2,2,1,3,0,2,0,1,2,8,australia,2014-09-02,lithuania,2014090231,Group Play,201431,fiba-world-cup
+4,Aron Baynes,22,5,12,0,0,4,4,3,6,0,1,0,2,4,14,australia,2014-09-02,lithuania,2014090231,Group Play,201431,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,australia,2014-09-02,lithuania,2014090231,Group Play,201431,fiba-world-cup
+6,Brad Newley,19,3,6,1,1,3,5,3,4,2,1,0,0,3,10,australia,2014-09-02,lithuania,2014090231,Group Play,201431,fiba-world-cup
+7,Brock Motum,16,3,8,0,1,0,0,2,2,1,0,0,2,3,6,australia,2014-09-02,lithuania,2014090231,Group Play,201431,fiba-world-cup
+8,Adam Gibson,11,0,0,0,0,0,0,0,2,1,0,0,0,1,0,australia,2014-09-02,lithuania,2014090231,Group Play,201431,fiba-world-cup
+9,Nathan Jawai,7,2,3,0,0,0,0,2,5,0,0,0,0,1,4,australia,2014-09-02,lithuania,2014090231,Group Play,201431,fiba-world-cup
+10,Cameron Bairstow,5,1,1,0,0,0,0,0,0,0,0,0,0,3,2,australia,2014-09-02,lithuania,2014090231,Group Play,201431,fiba-world-cup
+11,Dante Exum,4,0,0,0,0,0,0,0,1,1,0,0,1,0,0,australia,2014-09-02,lithuania,2014090231,Group Play,201431,fiba-world-cup
+12,Totals,,30,64,7,14,15,22,11,31,13,9,0,13,23,82,australia,2014-09-02,lithuania,2014090231,Group Play,201431,fiba-world-cup
+0,Renaldas Seibutis,31,7,11,1,4,6,6,0,3,3,0,0,2,1,21,lithuania,2014-09-02,australia,2014090231,Group Play,201431,fiba-world-cup
+1,Jonas Maciulis,21,1,5,1,1,1,2,0,2,1,2,1,3,0,4,lithuania,2014-09-02,australia,2014090231,Group Play,201431,fiba-world-cup
+2,Jonas Valanciunas,18,2,3,0,0,0,0,1,6,0,0,0,5,3,4,lithuania,2014-09-02,australia,2014090231,Group Play,201431,fiba-world-cup
+3,Sarunas Vasiliauskas,14,1,2,0,1,2,2,0,2,0,0,0,0,2,4,lithuania,2014-09-02,australia,2014090231,Group Play,201431,fiba-world-cup
+4,Donatas Motiejunas,8,1,2,0,1,0,0,0,1,0,0,0,2,0,2,lithuania,2014-09-02,australia,2014090231,Group Play,201431,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,lithuania,2014-09-02,australia,2014090231,Group Play,201431,fiba-world-cup
+6,Martynas Pocius,26,3,7,0,1,0,1,0,1,1,0,0,2,4,6,lithuania,2014-09-02,australia,2014090231,Group Play,201431,fiba-world-cup
+7,Darjus Lavrinovic,22,4,5,1,2,5,5,0,2,1,1,2,0,1,14,lithuania,2014-09-02,australia,2014090231,Group Play,201431,fiba-world-cup
+8,Paulius Jankunas,16,3,6,0,2,3,3,0,2,0,0,0,2,2,9,lithuania,2014-09-02,australia,2014090231,Group Play,201431,fiba-world-cup
+9,Ksistof Lavrinovic,15,2,2,1,1,3,3,0,4,1,0,0,3,3,8,lithuania,2014-09-02,australia,2014090231,Group Play,201431,fiba-world-cup
+10,Mindaugas Kuzminskas,13,1,3,1,1,0,0,1,1,1,1,0,0,3,3,lithuania,2014-09-02,australia,2014090231,Group Play,201431,fiba-world-cup
+11,Adas Juskevicius,8,0,2,0,1,0,0,0,1,0,0,0,3,0,0,lithuania,2014-09-02,australia,2014090231,Group Play,201431,fiba-world-cup
+12,Simas Jasaitis,8,0,1,0,1,0,0,0,0,0,0,0,0,2,0,lithuania,2014-09-02,australia,2014090231,Group Play,201431,fiba-world-cup
+13,Totals,,25,49,5,16,20,22,2,25,8,4,3,22,21,75,lithuania,2014-09-02,australia,2014090231,Group Play,201431,fiba-world-cup

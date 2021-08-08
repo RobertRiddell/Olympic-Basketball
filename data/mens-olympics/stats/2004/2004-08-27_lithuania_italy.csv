@@ -1,24 +1,24 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Sarunas Jasikevicius,37.0,3.0,15.0,1.0,7.0,2.0,2.0,2.0,5,9,2,0,3,1.0,9,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437
-1,Arvydas Macijauskas,35.0,8.0,14.0,6.0,10.0,4.0,6.0,1.0,5,1,1,0,1,4.0,26,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437
-2,Ramunas Siskauskas,32.0,1.0,12.0,0.0,5.0,2.0,2.0,4.0,7,4,1,0,2,5.0,4,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437
-3,Eurelijus Zukauskas,26.0,2.0,4.0,0.0,0.0,6.0,8.0,1.0,5,2,0,1,0,1.0,10,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437
-4,Ksistof Lavrinovic,17.0,5.0,8.0,3.0,5.0,2.0,2.0,2.0,3,0,0,0,0,3.0,15,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437
-5,Mindaugas Zukauskas,17.0,3.0,6.0,2.0,4.0,0.0,0.0,1.0,2,0,1,0,1,5.0,8,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437
-6,Saulius Stombergas,15.0,4.0,7.0,3.0,4.0,1.0,1.0,0.0,0,2,2,0,2,5.0,12,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437
-7,Darius Songaila,8.0,2.0,5.0,0.0,0.0,2.0,2.0,0.0,2,1,0,0,1,1.0,6,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437
-8,Dainius Salenga,8.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,1,0,0,0,0,1.0,1,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437
-9,Robertas Javtokas,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,1.0,0,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437
-10,Vidas Ginevicius,,,,,,,,,1,0,0,0,0,,0,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437
-11,Totals,,,,,,,,,31,19,7,1,10,,91,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437
-0,Gianluca Basile,34.0,8.0,15.0,7.0,11.0,8.0,8.0,1.0,4,1,1,1,1,2.0,31,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437
-1,Giacomo Galanda,29.0,6.0,10.0,4.0,5.0,0.0,0.0,1.0,5,0,1,2,0,5.0,16,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437
-2,Matteo Soragna,29.0,4.0,7.0,2.0,2.0,2.0,2.0,0.0,3,2,0,0,2,2.0,12,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437
-3,Denis Marconato,27.0,1.0,4.0,0.0,0.0,4.0,4.0,4.0,9,3,1,1,2,4.0,6,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437
-4,Massimo Bulleri,24.0,4.0,12.0,2.0,5.0,2.0,2.0,0.0,5,2,0,0,2,3.0,12,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437
-5,Gianmarco Pozzecco,21.0,4.0,7.0,3.0,5.0,6.0,6.0,0.0,2,3,3,0,2,4.0,17,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437
-6,Roberto Chiacig,12.0,2.0,4.0,0.0,0.0,0.0,0.0,2.0,5,0,0,0,3,2.0,4,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437
-7,Nikola Radulovic,12.0,0.0,0.0,0.0,0.0,2.0,6.0,0.0,5,0,0,1,0,0.0,2,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437
-8,Alex Righetti,12.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,2,1,0,0,1,1.0,0,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437
-9,Luca Garri,,,,,,,,,0,0,0,0,0,,0,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437
-10,Totals,,,,,,,,,40,12,6,5,13,,100,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Sarunas Jasikevicius,37.0,3.0,15.0,1.0,7.0,2.0,2.0,2.0,5,9,2,0,3,1.0,9,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437,mens-olympics
+1,Arvydas Macijauskas,35.0,8.0,14.0,6.0,10.0,4.0,6.0,1.0,5,1,1,0,1,4.0,26,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437,mens-olympics
+2,Ramunas Siskauskas,32.0,1.0,12.0,0.0,5.0,2.0,2.0,4.0,7,4,1,0,2,5.0,4,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437,mens-olympics
+3,Eurelijus Zukauskas,26.0,2.0,4.0,0.0,0.0,6.0,8.0,1.0,5,2,0,1,0,1.0,10,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437,mens-olympics
+4,Ksistof Lavrinovic,17.0,5.0,8.0,3.0,5.0,2.0,2.0,2.0,3,0,0,0,0,3.0,15,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437,mens-olympics
+5,Mindaugas Zukauskas,17.0,3.0,6.0,2.0,4.0,0.0,0.0,1.0,2,0,1,0,1,5.0,8,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437,mens-olympics
+6,Saulius Stombergas,15.0,4.0,7.0,3.0,4.0,1.0,1.0,0.0,0,2,2,0,2,5.0,12,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437,mens-olympics
+7,Darius Songaila,8.0,2.0,5.0,0.0,0.0,2.0,2.0,0.0,2,1,0,0,1,1.0,6,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437,mens-olympics
+8,Dainius Salenga,8.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,1,0,0,0,0,1.0,1,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437,mens-olympics
+9,Robertas Javtokas,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,1.0,0,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437,mens-olympics
+10,Vidas Ginevicius,,,,,,,,,1,0,0,0,0,,0,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437,mens-olympics
+11,Totals,,,,,,,,,31,19,7,1,10,,91,lithuania,2004-08-27,italy,2004082737,Semi-Finals,200437,mens-olympics
+0,Gianluca Basile,34.0,8.0,15.0,7.0,11.0,8.0,8.0,1.0,4,1,1,1,1,2.0,31,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437,mens-olympics
+1,Giacomo Galanda,29.0,6.0,10.0,4.0,5.0,0.0,0.0,1.0,5,0,1,2,0,5.0,16,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437,mens-olympics
+2,Matteo Soragna,29.0,4.0,7.0,2.0,2.0,2.0,2.0,0.0,3,2,0,0,2,2.0,12,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437,mens-olympics
+3,Denis Marconato,27.0,1.0,4.0,0.0,0.0,4.0,4.0,4.0,9,3,1,1,2,4.0,6,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437,mens-olympics
+4,Massimo Bulleri,24.0,4.0,12.0,2.0,5.0,2.0,2.0,0.0,5,2,0,0,2,3.0,12,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437,mens-olympics
+5,Gianmarco Pozzecco,21.0,4.0,7.0,3.0,5.0,6.0,6.0,0.0,2,3,3,0,2,4.0,17,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437,mens-olympics
+6,Roberto Chiacig,12.0,2.0,4.0,0.0,0.0,0.0,0.0,2.0,5,0,0,0,3,2.0,4,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437,mens-olympics
+7,Nikola Radulovic,12.0,0.0,0.0,0.0,0.0,2.0,6.0,0.0,5,0,0,1,0,0.0,2,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437,mens-olympics
+8,Alex Righetti,12.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,2,1,0,0,1,1.0,0,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437,mens-olympics
+9,Luca Garri,,,,,,,,,0,0,0,0,0,,0,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437,mens-olympics
+10,Totals,,,,,,,,,40,12,6,5,13,,100,italy,2004-08-27,lithuania,2004082737,Semi-Finals,200437,mens-olympics

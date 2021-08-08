@@ -1,29 +1,29 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Stephen Curry,25,7,10,6,9,0,0,0,3,4,1,0,0,1,20,united states,2014-09-06,mexico,2014090661,Round of 16,201461
-1,Kyrie Irving,24,2,5,0,1,0,0,1,3,2,0,0,2,1,4,united states,2014-09-06,mexico,2014090661,Round of 16,201461
-2,Kenneth Faried,20,4,8,0,0,0,0,6,8,0,0,0,1,0,8,united states,2014-09-06,mexico,2014090661,Round of 16,201461
-3,James Harden,20,3,7,2,5,4,4,0,4,2,2,0,3,1,12,united states,2014-09-06,mexico,2014090661,Round of 16,201461
-4,Anthony Davis,20,2,9,0,0,0,0,1,6,1,2,4,1,1,4,united states,2014-09-06,mexico,2014090661,Round of 16,201461
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,united states,2014-09-06,mexico,2014090661,Round of 16,201461
-6,Klay Thompson,22,6,14,3,9,0,0,0,5,2,0,0,2,3,15,united states,2014-09-06,mexico,2014090661,Round of 16,201461
-7,Derrick Rose,16,0,5,0,1,0,0,1,2,4,1,0,3,0,0,united states,2014-09-06,mexico,2014090661,Round of 16,201461
-8,DeMarcus Cousins,14,5,5,0,0,1,1,2,7,1,0,2,1,3,11,united states,2014-09-06,mexico,2014090661,Round of 16,201461
-9,Rudy Gay,13,4,7,2,3,0,0,0,1,0,0,0,0,0,10,united states,2014-09-06,mexico,2014090661,Round of 16,201461
-10,DeMar DeRozan,13,0,1,0,1,0,0,0,2,2,0,0,0,0,0,united states,2014-09-06,mexico,2014090661,Round of 16,201461
-11,Andre Drummond,6,1,2,0,0,0,0,1,2,0,0,0,2,2,2,united states,2014-09-06,mexico,2014090661,Round of 16,201461
-12,Mason Plumlee,6,0,0,0,0,0,0,1,1,0,0,0,0,0,0,united states,2014-09-06,mexico,2014090661,Round of 16,201461
-13,Totals,,34,73,13,29,5,5,13,44,18,6,6,15,12,86,united states,2014-09-06,mexico,2014090661,Round of 16,201461
-0,Gustavo Ayon,37,11,19,0,0,3,8,6,8,0,2,1,2,2,25,mexico,2014-09-06,united states,2014090661,Round of 16,201461
-1,Jorge Gutierrez,27,3,8,1,1,0,0,0,3,3,2,0,2,4,7,mexico,2014-09-06,united states,2014090661,Round of 16,201461
-2,Hector Hernandez,24,0,2,0,1,0,0,3,6,1,0,1,0,0,0,mexico,2014-09-06,united states,2014090661,Round of 16,201461
-3,Marco Ramos,23,2,5,0,1,0,0,1,6,0,0,0,2,2,4,mexico,2014-09-06,united states,2014090661,Round of 16,201461
-4,Francisco Cruz,19,3,11,0,2,0,0,2,5,1,2,0,4,0,6,mexico,2014-09-06,united states,2014090661,Round of 16,201461
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,mexico,2014-09-06,united states,2014090661,Round of 16,201461
-6,Orlando Mendez,18,2,7,1,3,0,0,0,0,2,0,0,0,0,5,mexico,2014-09-06,united states,2014090661,Round of 16,201461
-7,Paul Stoll,15,2,7,1,5,0,0,1,6,2,0,0,2,0,5,mexico,2014-09-06,united states,2014090661,Round of 16,201461
-8,Roman Martinez,10,3,6,1,3,0,0,0,0,0,0,0,1,1,7,mexico,2014-09-06,united states,2014090661,Round of 16,201461
-9,Adrian Zamora,8,1,5,0,0,0,0,2,3,0,0,0,0,1,2,mexico,2014-09-06,united states,2014090661,Round of 16,201461
-10,David Meza,8,1,3,0,0,0,0,1,1,1,0,0,0,1,2,mexico,2014-09-06,united states,2014090661,Round of 16,201461
-11,Adam Parada,7,0,0,0,0,0,0,1,2,0,1,0,1,1,0,mexico,2014-09-06,united states,2014090661,Round of 16,201461
-12,Israel Gutierrez,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,mexico,2014-09-06,united states,2014090661,Round of 16,201461
-13,Totals,,28,73,4,16,3,8,17,40,10,7,2,15,12,63,mexico,2014-09-06,united states,2014090661,Round of 16,201461
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Stephen Curry,25,7,10,6,9,0,0,0,3,4,1,0,0,1,20,united states,2014-09-06,mexico,2014090661,Round of 16,201461,fiba-world-cup
+1,Kyrie Irving,24,2,5,0,1,0,0,1,3,2,0,0,2,1,4,united states,2014-09-06,mexico,2014090661,Round of 16,201461,fiba-world-cup
+2,Kenneth Faried,20,4,8,0,0,0,0,6,8,0,0,0,1,0,8,united states,2014-09-06,mexico,2014090661,Round of 16,201461,fiba-world-cup
+3,James Harden,20,3,7,2,5,4,4,0,4,2,2,0,3,1,12,united states,2014-09-06,mexico,2014090661,Round of 16,201461,fiba-world-cup
+4,Anthony Davis,20,2,9,0,0,0,0,1,6,1,2,4,1,1,4,united states,2014-09-06,mexico,2014090661,Round of 16,201461,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,united states,2014-09-06,mexico,2014090661,Round of 16,201461,fiba-world-cup
+6,Klay Thompson,22,6,14,3,9,0,0,0,5,2,0,0,2,3,15,united states,2014-09-06,mexico,2014090661,Round of 16,201461,fiba-world-cup
+7,Derrick Rose,16,0,5,0,1,0,0,1,2,4,1,0,3,0,0,united states,2014-09-06,mexico,2014090661,Round of 16,201461,fiba-world-cup
+8,DeMarcus Cousins,14,5,5,0,0,1,1,2,7,1,0,2,1,3,11,united states,2014-09-06,mexico,2014090661,Round of 16,201461,fiba-world-cup
+9,Rudy Gay,13,4,7,2,3,0,0,0,1,0,0,0,0,0,10,united states,2014-09-06,mexico,2014090661,Round of 16,201461,fiba-world-cup
+10,DeMar DeRozan,13,0,1,0,1,0,0,0,2,2,0,0,0,0,0,united states,2014-09-06,mexico,2014090661,Round of 16,201461,fiba-world-cup
+11,Andre Drummond,6,1,2,0,0,0,0,1,2,0,0,0,2,2,2,united states,2014-09-06,mexico,2014090661,Round of 16,201461,fiba-world-cup
+12,Mason Plumlee,6,0,0,0,0,0,0,1,1,0,0,0,0,0,0,united states,2014-09-06,mexico,2014090661,Round of 16,201461,fiba-world-cup
+13,Totals,,34,73,13,29,5,5,13,44,18,6,6,15,12,86,united states,2014-09-06,mexico,2014090661,Round of 16,201461,fiba-world-cup
+0,Gustavo Ayon,37,11,19,0,0,3,8,6,8,0,2,1,2,2,25,mexico,2014-09-06,united states,2014090661,Round of 16,201461,fiba-world-cup
+1,Jorge Gutierrez,27,3,8,1,1,0,0,0,3,3,2,0,2,4,7,mexico,2014-09-06,united states,2014090661,Round of 16,201461,fiba-world-cup
+2,Hector Hernandez,24,0,2,0,1,0,0,3,6,1,0,1,0,0,0,mexico,2014-09-06,united states,2014090661,Round of 16,201461,fiba-world-cup
+3,Marco Ramos,23,2,5,0,1,0,0,1,6,0,0,0,2,2,4,mexico,2014-09-06,united states,2014090661,Round of 16,201461,fiba-world-cup
+4,Francisco Cruz,19,3,11,0,2,0,0,2,5,1,2,0,4,0,6,mexico,2014-09-06,united states,2014090661,Round of 16,201461,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,mexico,2014-09-06,united states,2014090661,Round of 16,201461,fiba-world-cup
+6,Orlando Mendez,18,2,7,1,3,0,0,0,0,2,0,0,0,0,5,mexico,2014-09-06,united states,2014090661,Round of 16,201461,fiba-world-cup
+7,Paul Stoll,15,2,7,1,5,0,0,1,6,2,0,0,2,0,5,mexico,2014-09-06,united states,2014090661,Round of 16,201461,fiba-world-cup
+8,Roman Martinez,10,3,6,1,3,0,0,0,0,0,0,0,1,1,7,mexico,2014-09-06,united states,2014090661,Round of 16,201461,fiba-world-cup
+9,Adrian Zamora,8,1,5,0,0,0,0,2,3,0,0,0,0,1,2,mexico,2014-09-06,united states,2014090661,Round of 16,201461,fiba-world-cup
+10,David Meza,8,1,3,0,0,0,0,1,1,1,0,0,0,1,2,mexico,2014-09-06,united states,2014090661,Round of 16,201461,fiba-world-cup
+11,Adam Parada,7,0,0,0,0,0,0,1,2,0,1,0,1,1,0,mexico,2014-09-06,united states,2014090661,Round of 16,201461,fiba-world-cup
+12,Israel Gutierrez,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,mexico,2014-09-06,united states,2014090661,Round of 16,201461,fiba-world-cup
+13,Totals,,28,73,4,16,3,8,17,40,10,7,2,15,12,63,mexico,2014-09-06,united states,2014090661,Round of 16,201461,fiba-world-cup

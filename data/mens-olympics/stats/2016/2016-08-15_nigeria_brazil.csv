@@ -1,23 +1,23 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Ike Diogu,28.0,3,8,1,2,2,4,2,4,2,0,0,1,0,9,nigeria,2016-08-15,brazil,2016081528,Group B,201628
-1,Alade Aminu,26.0,5,10,0,0,0,0,4,7,2,1,0,5,3,10,nigeria,2016-08-15,brazil,2016081528,Group B,201628
-2,Michael Gbinije,22.0,1,2,0,0,0,0,0,3,1,0,0,1,3,2,nigeria,2016-08-15,brazil,2016081528,Group B,201628
-3,Ben Uzoh,21.0,5,7,0,0,5,8,1,4,2,0,0,1,0,15,nigeria,2016-08-15,brazil,2016081528,Group B,201628
-4,Michael Umeh,20.0,3,8,1,3,2,2,1,4,2,0,0,2,0,9,nigeria,2016-08-15,brazil,2016081528,Group B,201628
-5,Champ Oguchi,20.0,1,6,1,5,0,0,0,2,1,0,0,0,2,3,nigeria,2016-08-15,brazil,2016081528,Group B,201628
-6,Josh Akognon,20.0,4,9,3,6,5,5,0,0,0,0,0,1,4,16,nigeria,2016-08-15,brazil,2016081528,Group B,201628
-7,Ebi Ere,18.0,2,4,1,2,0,0,0,1,1,2,0,3,1,5,nigeria,2016-08-15,brazil,2016081528,Group B,201628
-8,Ekene Ibekwe,17.0,0,3,0,2,0,0,0,4,0,0,3,1,3,0,nigeria,2016-08-15,brazil,2016081528,Group B,201628
-9,Andy Ogide,9.0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,nigeria,2016-08-15,brazil,2016081528,Group B,201628
-10,Totals,,24,58,7,20,14,19,8,29,11,3,4,15,16,69,nigeria,2016-08-15,brazil,2016081528,Group B,201628
-0,Rafael Hettsheimeir,28.0,4,8,3,6,1,2,5,6,0,1,0,0,4,12,brazil,2016-08-15,nigeria,2016081528,Group B,201628
-1,Marcelo Huertas,26.0,3,7,0,2,6,6,3,6,11,1,0,3,2,12,brazil,2016-08-15,nigeria,2016081528,Group B,201628
-2,Nene Hilario,24.0,8,12,1,1,2,2,4,7,4,3,1,1,2,19,brazil,2016-08-15,nigeria,2016081528,Group B,201628
-3,Leandro Barbosa,23.0,3,10,0,4,1,2,0,4,3,3,0,1,2,7,brazil,2016-08-15,nigeria,2016081528,Group B,201628
-4,Vitor Benite,22.0,6,11,3,7,0,0,1,2,1,1,0,0,1,15,brazil,2016-08-15,nigeria,2016081528,Group B,201628
-5,Alex Garcia,22.0,6,10,0,2,1,1,0,2,1,0,0,1,3,13,brazil,2016-08-15,nigeria,2016081528,Group B,201628
-6,Cristiano Felicio,16.0,1,3,0,0,0,2,3,6,2,1,0,1,2,2,brazil,2016-08-15,nigeria,2016081528,Group B,201628
-7,Raul Neto,14.0,2,4,0,1,0,0,1,2,5,0,0,1,0,4,brazil,2016-08-15,nigeria,2016081528,Group B,201628
-8,Marcus Vinicius,13.0,1,5,0,2,0,0,0,2,0,0,0,0,0,2,brazil,2016-08-15,nigeria,2016081528,Group B,201628
-9,Guilherme Giovannoni,11.0,0,5,0,2,0,0,2,5,0,0,1,0,0,0,brazil,2016-08-15,nigeria,2016081528,Group B,201628
-10,Totals,,34,75,7,27,11,15,19,42,27,10,2,8,16,86,brazil,2016-08-15,nigeria,2016081528,Group B,201628
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Ike Diogu,28.0,3,8,1,2,2,4,2,4,2,0,0,1,0,9,nigeria,2016-08-15,brazil,2016081528,Group B,201628,mens-olympics
+1,Alade Aminu,26.0,5,10,0,0,0,0,4,7,2,1,0,5,3,10,nigeria,2016-08-15,brazil,2016081528,Group B,201628,mens-olympics
+2,Michael Gbinije,22.0,1,2,0,0,0,0,0,3,1,0,0,1,3,2,nigeria,2016-08-15,brazil,2016081528,Group B,201628,mens-olympics
+3,Ben Uzoh,21.0,5,7,0,0,5,8,1,4,2,0,0,1,0,15,nigeria,2016-08-15,brazil,2016081528,Group B,201628,mens-olympics
+4,Michael Umeh,20.0,3,8,1,3,2,2,1,4,2,0,0,2,0,9,nigeria,2016-08-15,brazil,2016081528,Group B,201628,mens-olympics
+5,Champ Oguchi,20.0,1,6,1,5,0,0,0,2,1,0,0,0,2,3,nigeria,2016-08-15,brazil,2016081528,Group B,201628,mens-olympics
+6,Josh Akognon,20.0,4,9,3,6,5,5,0,0,0,0,0,1,4,16,nigeria,2016-08-15,brazil,2016081528,Group B,201628,mens-olympics
+7,Ebi Ere,18.0,2,4,1,2,0,0,0,1,1,2,0,3,1,5,nigeria,2016-08-15,brazil,2016081528,Group B,201628,mens-olympics
+8,Ekene Ibekwe,17.0,0,3,0,2,0,0,0,4,0,0,3,1,3,0,nigeria,2016-08-15,brazil,2016081528,Group B,201628,mens-olympics
+9,Andy Ogide,9.0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,nigeria,2016-08-15,brazil,2016081528,Group B,201628,mens-olympics
+10,Totals,,24,58,7,20,14,19,8,29,11,3,4,15,16,69,nigeria,2016-08-15,brazil,2016081528,Group B,201628,mens-olympics
+0,Rafael Hettsheimeir,28.0,4,8,3,6,1,2,5,6,0,1,0,0,4,12,brazil,2016-08-15,nigeria,2016081528,Group B,201628,mens-olympics
+1,Marcelo Huertas,26.0,3,7,0,2,6,6,3,6,11,1,0,3,2,12,brazil,2016-08-15,nigeria,2016081528,Group B,201628,mens-olympics
+2,Nene Hilario,24.0,8,12,1,1,2,2,4,7,4,3,1,1,2,19,brazil,2016-08-15,nigeria,2016081528,Group B,201628,mens-olympics
+3,Leandro Barbosa,23.0,3,10,0,4,1,2,0,4,3,3,0,1,2,7,brazil,2016-08-15,nigeria,2016081528,Group B,201628,mens-olympics
+4,Vitor Benite,22.0,6,11,3,7,0,0,1,2,1,1,0,0,1,15,brazil,2016-08-15,nigeria,2016081528,Group B,201628,mens-olympics
+5,Alex Garcia,22.0,6,10,0,2,1,1,0,2,1,0,0,1,3,13,brazil,2016-08-15,nigeria,2016081528,Group B,201628,mens-olympics
+6,Cristiano Felicio,16.0,1,3,0,0,0,2,3,6,2,1,0,1,2,2,brazil,2016-08-15,nigeria,2016081528,Group B,201628,mens-olympics
+7,Raul Neto,14.0,2,4,0,1,0,0,1,2,5,0,0,1,0,4,brazil,2016-08-15,nigeria,2016081528,Group B,201628,mens-olympics
+8,Marcus Vinicius,13.0,1,5,0,2,0,0,0,2,0,0,0,0,0,2,brazil,2016-08-15,nigeria,2016081528,Group B,201628,mens-olympics
+9,Guilherme Giovannoni,11.0,0,5,0,2,0,0,2,5,0,0,1,0,0,0,brazil,2016-08-15,nigeria,2016081528,Group B,201628,mens-olympics
+10,Totals,,34,75,7,27,11,15,19,42,27,10,2,8,16,86,brazil,2016-08-15,nigeria,2016081528,Group B,201628,mens-olympics

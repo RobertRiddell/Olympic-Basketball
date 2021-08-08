@@ -1,25 +1,25 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Salah Mejri,29,5,14,0,1,0,0,4,9,0,0,1,1,4,10,tunisia,2010-08-30,iran,2010083028,Group Play,201028
-1,Radhouane Slimane,28,3,9,0,4,0,0,0,6,3,2,1,6,4,6,tunisia,2010-08-30,iran,2010083028,Group Play,201028
-2,Mohamed Naim Dhifallah,21,3,5,1,2,2,2,0,0,0,1,0,1,2,9,tunisia,2010-08-30,iran,2010083028,Group Play,201028
-3,Amine Rzig,20,0,6,0,1,0,0,1,4,1,0,0,1,4,0,tunisia,2010-08-30,iran,2010083028,Group Play,201028
-4,Marouan Kechrid,19,2,4,0,0,0,0,1,1,0,0,0,0,2,4,tunisia,2010-08-30,iran,2010083028,Group Play,201028
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,tunisia,2010-08-30,iran,2010083028,Group Play,201028
-6,Atef Maoua,19,2,6,2,5,1,2,2,4,0,2,0,3,1,7,tunisia,2010-08-30,iran,2010083028,Group Play,201028
-7,Marouan Laghnej,17,1,1,1,1,1,2,0,1,1,0,0,1,3,4,tunisia,2010-08-30,iran,2010083028,Group Play,201028
-8,Makram Ben Romdhane,14,3,6,0,0,4,7,0,1,0,2,0,1,1,10,tunisia,2010-08-30,iran,2010083028,Group Play,201028
-9,Nizar Knioua,14,2,3,1,2,0,0,0,1,1,4,0,1,1,5,tunisia,2010-08-30,iran,2010083028,Group Play,201028
-10,Hamdi Braa,10,1,5,1,4,0,0,1,1,0,0,0,1,2,3,tunisia,2010-08-30,iran,2010083028,Group Play,201028
-11,Mohamed Hadidane,10,0,3,0,1,0,0,0,0,3,0,0,0,0,0,tunisia,2010-08-30,iran,2010083028,Group Play,201028
-12,Totals,,22,62,6,21,8,13,9,28,9,11,2,16,24,58,tunisia,2010-08-30,iran,2010083028,Group Play,201028
-0,Hamed Haddadi,33,8,19,1,5,6,7,4,13,1,0,4,4,2,23,iran,2010-08-30,tunisia,2010083028,Group Play,201028
-1,Mahdi Kamrany,32,5,12,3,8,2,2,1,2,3,1,0,3,3,15,iran,2010-08-30,tunisia,2010083028,Group Play,201028
-2,Javad Davari,32,2,6,1,5,3,4,0,2,2,1,0,5,4,8,iran,2010-08-30,tunisia,2010083028,Group Play,201028
-3,Arsalan Kazemi,31,4,7,1,2,5,6,1,7,1,4,0,1,2,14,iran,2010-08-30,tunisia,2010083028,Group Play,201028
-4,Oshin Sahakian,26,2,3,0,1,0,0,0,2,0,1,0,0,2,4,iran,2010-08-30,tunisia,2010083028,Group Play,201028
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,iran,2010-08-30,tunisia,2010083028,Group Play,201028
-6,Saman Veisi,21,2,5,1,2,0,0,0,1,0,0,0,1,3,5,iran,2010-08-30,tunisia,2010083028,Group Play,201028
-7,Aren Davoudichegani,15,0,1,0,1,2,4,0,1,1,1,0,2,4,2,iran,2010-08-30,tunisia,2010083028,Group Play,201028
-8,Moosa Nabipoor,7,0,0,0,0,0,0,0,2,0,0,0,1,0,0,iran,2010-08-30,tunisia,2010083028,Group Play,201028
-9,Iman Zandi,3,0,0,0,0,0,0,1,2,0,0,0,1,0,0,iran,2010-08-30,tunisia,2010083028,Group Play,201028
-10,Totals,,23,53,7,24,18,23,7,32,8,8,4,18,20,71,iran,2010-08-30,tunisia,2010083028,Group Play,201028
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Salah Mejri,29,5,14,0,1,0,0,4,9,0,0,1,1,4,10,tunisia,2010-08-30,iran,2010083028,Group Play,201028,fiba-world-cup
+1,Radhouane Slimane,28,3,9,0,4,0,0,0,6,3,2,1,6,4,6,tunisia,2010-08-30,iran,2010083028,Group Play,201028,fiba-world-cup
+2,Mohamed Naim Dhifallah,21,3,5,1,2,2,2,0,0,0,1,0,1,2,9,tunisia,2010-08-30,iran,2010083028,Group Play,201028,fiba-world-cup
+3,Amine Rzig,20,0,6,0,1,0,0,1,4,1,0,0,1,4,0,tunisia,2010-08-30,iran,2010083028,Group Play,201028,fiba-world-cup
+4,Marouan Kechrid,19,2,4,0,0,0,0,1,1,0,0,0,0,2,4,tunisia,2010-08-30,iran,2010083028,Group Play,201028,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,tunisia,2010-08-30,iran,2010083028,Group Play,201028,fiba-world-cup
+6,Atef Maoua,19,2,6,2,5,1,2,2,4,0,2,0,3,1,7,tunisia,2010-08-30,iran,2010083028,Group Play,201028,fiba-world-cup
+7,Marouan Laghnej,17,1,1,1,1,1,2,0,1,1,0,0,1,3,4,tunisia,2010-08-30,iran,2010083028,Group Play,201028,fiba-world-cup
+8,Makram Ben Romdhane,14,3,6,0,0,4,7,0,1,0,2,0,1,1,10,tunisia,2010-08-30,iran,2010083028,Group Play,201028,fiba-world-cup
+9,Nizar Knioua,14,2,3,1,2,0,0,0,1,1,4,0,1,1,5,tunisia,2010-08-30,iran,2010083028,Group Play,201028,fiba-world-cup
+10,Hamdi Braa,10,1,5,1,4,0,0,1,1,0,0,0,1,2,3,tunisia,2010-08-30,iran,2010083028,Group Play,201028,fiba-world-cup
+11,Mohamed Hadidane,10,0,3,0,1,0,0,0,0,3,0,0,0,0,0,tunisia,2010-08-30,iran,2010083028,Group Play,201028,fiba-world-cup
+12,Totals,,22,62,6,21,8,13,9,28,9,11,2,16,24,58,tunisia,2010-08-30,iran,2010083028,Group Play,201028,fiba-world-cup
+0,Hamed Haddadi,33,8,19,1,5,6,7,4,13,1,0,4,4,2,23,iran,2010-08-30,tunisia,2010083028,Group Play,201028,fiba-world-cup
+1,Mahdi Kamrany,32,5,12,3,8,2,2,1,2,3,1,0,3,3,15,iran,2010-08-30,tunisia,2010083028,Group Play,201028,fiba-world-cup
+2,Javad Davari,32,2,6,1,5,3,4,0,2,2,1,0,5,4,8,iran,2010-08-30,tunisia,2010083028,Group Play,201028,fiba-world-cup
+3,Arsalan Kazemi,31,4,7,1,2,5,6,1,7,1,4,0,1,2,14,iran,2010-08-30,tunisia,2010083028,Group Play,201028,fiba-world-cup
+4,Oshin Sahakian,26,2,3,0,1,0,0,0,2,0,1,0,0,2,4,iran,2010-08-30,tunisia,2010083028,Group Play,201028,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,iran,2010-08-30,tunisia,2010083028,Group Play,201028,fiba-world-cup
+6,Saman Veisi,21,2,5,1,2,0,0,0,1,0,0,0,1,3,5,iran,2010-08-30,tunisia,2010083028,Group Play,201028,fiba-world-cup
+7,Aren Davoudichegani,15,0,1,0,1,2,4,0,1,1,1,0,2,4,2,iran,2010-08-30,tunisia,2010083028,Group Play,201028,fiba-world-cup
+8,Moosa Nabipoor,7,0,0,0,0,0,0,0,2,0,0,0,1,0,0,iran,2010-08-30,tunisia,2010083028,Group Play,201028,fiba-world-cup
+9,Iman Zandi,3,0,0,0,0,0,0,1,2,0,0,0,1,0,0,iran,2010-08-30,tunisia,2010083028,Group Play,201028,fiba-world-cup
+10,Totals,,23,53,7,24,18,23,7,32,8,8,4,18,20,71,iran,2010-08-30,tunisia,2010083028,Group Play,201028,fiba-world-cup

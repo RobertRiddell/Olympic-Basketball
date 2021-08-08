@@ -1,28 +1,28 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Kirk Penney,30,10,19,6,10,0,0,0,1,2,1,0,1,2,26,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033
-1,Thomas Abercrombie,30,9,17,2,5,3,4,5,7,1,0,0,1,4,23,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033
-2,Lindsay Tait,28,5,6,0,0,2,2,0,0,1,3,0,0,3,12,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033
-3,Craig Bradshaw,26,4,8,1,2,1,2,3,6,3,1,0,1,3,10,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033
-4,Mika Vukona,18,3,5,0,0,5,5,4,7,4,2,1,1,5,11,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033
-6,Phill Jones,20,5,10,2,6,1,3,0,1,4,1,0,1,2,13,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033
-7,Casey Frank,17,3,3,0,0,2,2,1,3,3,1,0,1,3,8,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033
-8,Pero Cameron,14,1,1,0,0,1,2,0,0,4,0,0,1,0,3,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033
-9,Michael Fitchett,12,0,1,0,1,0,0,0,0,1,1,0,1,3,0,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033
-10,Alex Pledger,3,0,0,0,0,0,2,0,0,1,0,0,0,1,0,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033
-11,B.J. Anthony,1,0,0,0,0,2,2,0,0,0,0,0,0,0,2,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033
-12,Jeremy Kench,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033
-13,Totals,,40,70,11,24,17,24,13,25,24,11,1,8,26,108,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033
-0,Fadi El Khatib,32,5,10,0,2,8,9,4,7,1,0,1,3,1,18,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033
-1,Matt Freije,32,1,7,0,4,2,2,1,2,0,1,0,1,3,4,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033
-2,Elias Rustom,23,3,5,1,1,1,1,1,1,1,0,0,2,2,8,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033
-3,Jackson Vroman,20,4,7,0,0,2,6,1,6,2,0,0,3,5,10,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033
-4,Rony Fahed,17,3,5,2,3,4,4,0,1,0,1,0,3,2,12,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033
-6,Ali Mahmoud,26,1,3,1,2,1,2,1,2,4,3,0,3,4,4,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033
-7,Jean Abd El Nour,25,4,8,1,2,3,4,0,0,1,0,0,1,2,12,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033
-8,Ali Kanaan,14,1,1,0,0,1,2,0,2,0,0,0,2,0,3,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033
-9,Ali Fakhreddine,6,1,2,0,0,0,0,2,3,0,1,0,0,0,2,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033
-10,Ghaled Reda,3,1,1,1,1,0,0,0,0,1,0,1,2,0,3,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033
-11,Elie Stephan,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033
-12,Totals,,24,49,6,15,22,30,10,24,10,6,2,20,20,76,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Kirk Penney,30,10,19,6,10,0,0,0,1,2,1,0,1,2,26,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033,fiba-world-cup
+1,Thomas Abercrombie,30,9,17,2,5,3,4,5,7,1,0,0,1,4,23,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033,fiba-world-cup
+2,Lindsay Tait,28,5,6,0,0,2,2,0,0,1,3,0,0,3,12,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033,fiba-world-cup
+3,Craig Bradshaw,26,4,8,1,2,1,2,3,6,3,1,0,1,3,10,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033,fiba-world-cup
+4,Mika Vukona,18,3,5,0,0,5,5,4,7,4,2,1,1,5,11,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033,fiba-world-cup
+6,Phill Jones,20,5,10,2,6,1,3,0,1,4,1,0,1,2,13,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033,fiba-world-cup
+7,Casey Frank,17,3,3,0,0,2,2,1,3,3,1,0,1,3,8,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033,fiba-world-cup
+8,Pero Cameron,14,1,1,0,0,1,2,0,0,4,0,0,1,0,3,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033,fiba-world-cup
+9,Michael Fitchett,12,0,1,0,1,0,0,0,0,1,1,0,1,3,0,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033,fiba-world-cup
+10,Alex Pledger,3,0,0,0,0,0,2,0,0,1,0,0,0,1,0,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033,fiba-world-cup
+11,B.J. Anthony,1,0,0,0,0,2,2,0,0,0,0,0,0,0,2,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033,fiba-world-cup
+12,Jeremy Kench,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033,fiba-world-cup
+13,Totals,,40,70,11,24,17,24,13,25,24,11,1,8,26,108,new zealand,2010-08-31,lebanon,2010083133,Group Play,201033,fiba-world-cup
+0,Fadi El Khatib,32,5,10,0,2,8,9,4,7,1,0,1,3,1,18,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033,fiba-world-cup
+1,Matt Freije,32,1,7,0,4,2,2,1,2,0,1,0,1,3,4,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033,fiba-world-cup
+2,Elias Rustom,23,3,5,1,1,1,1,1,1,1,0,0,2,2,8,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033,fiba-world-cup
+3,Jackson Vroman,20,4,7,0,0,2,6,1,6,2,0,0,3,5,10,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033,fiba-world-cup
+4,Rony Fahed,17,3,5,2,3,4,4,0,1,0,1,0,3,2,12,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033,fiba-world-cup
+6,Ali Mahmoud,26,1,3,1,2,1,2,1,2,4,3,0,3,4,4,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033,fiba-world-cup
+7,Jean Abd El Nour,25,4,8,1,2,3,4,0,0,1,0,0,1,2,12,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033,fiba-world-cup
+8,Ali Kanaan,14,1,1,0,0,1,2,0,2,0,0,0,2,0,3,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033,fiba-world-cup
+9,Ali Fakhreddine,6,1,2,0,0,0,0,2,3,0,1,0,0,0,2,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033,fiba-world-cup
+10,Ghaled Reda,3,1,1,1,1,0,0,0,0,1,0,1,2,0,3,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033,fiba-world-cup
+11,Elie Stephan,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033,fiba-world-cup
+12,Totals,,24,49,6,15,22,30,10,24,10,6,2,20,20,76,lebanon,2010-08-31,new zealand,2010083133,Group Play,201033,fiba-world-cup

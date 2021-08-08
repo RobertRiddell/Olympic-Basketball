@@ -1,28 +1,28 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Derrick Rose,21,3,5,3,4,0,0,0,1,6,0,2,0,0,9,united states,2010-09-06,angola,2010090664,Round of 16,201064
-1,Chauncey Billups,19,5,7,5,7,4,4,0,2,4,0,0,0,3,19,united states,2010-09-06,angola,2010090664,Round of 16,201064
-2,Kevin Durant,19,7,14,2,6,1,1,0,5,1,0,0,0,1,17,united states,2010-09-06,angola,2010090664,Round of 16,201064
-3,Lamar Odom,16,3,5,1,1,2,2,5,8,0,0,1,1,2,9,united states,2010-09-06,angola,2010090664,Round of 16,201064
-4,Andre Iguodala,15,3,6,0,1,0,2,3,7,4,1,0,0,1,6,united states,2010-09-06,angola,2010090664,Round of 16,201064
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,united states,2010-09-06,angola,2010090664,Round of 16,201064
-6,Eric Gordon,21,6,7,5,6,0,0,0,0,0,0,0,0,1,17,united states,2010-09-06,angola,2010090664,Round of 16,201064
-7,Rudy Gay,17,6,10,0,2,5,6,3,4,2,3,0,0,2,17,united states,2010-09-06,angola,2010090664,Round of 16,201064
-8,Stephen Curry,17,2,6,1,5,0,0,0,0,3,2,0,3,1,5,united states,2010-09-06,angola,2010090664,Round of 16,201064
-9,Kevin Love,15,2,4,1,1,3,3,0,6,1,0,0,0,1,8,united states,2010-09-06,angola,2010090664,Round of 16,201064
-10,Russell Westbrook,14,1,5,0,1,2,2,2,2,6,3,0,1,0,4,united states,2010-09-06,angola,2010090664,Round of 16,201064
-11,Danny Granger,13,2,7,0,4,1,2,0,1,2,0,1,0,0,5,united states,2010-09-06,angola,2010090664,Round of 16,201064
-12,Tyson Chandler,13,1,2,0,0,3,4,6,7,1,1,0,0,4,5,united states,2010-09-06,angola,2010090664,Round of 16,201064
-13,Totals,,41,78,18,38,21,26,19,43,30,10,4,5,16,121,united states,2010-09-06,angola,2010090664,Round of 16,201064
-0,Carlos Morais,33,1,10,0,5,3,4,2,3,4,0,0,3,1,5,angola,2010-09-06,united states,2010090664,Round of 16,201064
-1,Joaquim Gomes,28,9,12,2,4,1,2,0,4,1,0,1,2,3,21,angola,2010-09-06,united states,2010090664,Round of 16,201064
-2,Carlos Almeida,24,1,6,1,6,0,0,0,1,0,0,0,1,4,3,angola,2010-09-06,united states,2010090664,Round of 16,201064
-3,Miguel Lutonda,17,1,3,0,0,6,6,0,1,1,0,0,1,3,8,angola,2010-09-06,united states,2010090664,Round of 16,201064
-4,Eduardo Mingas,12,1,5,0,1,0,0,0,1,0,0,0,1,0,2,angola,2010-09-06,united states,2010090664,Round of 16,201064
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,angola,2010-09-06,united states,2010090664,Round of 16,201064
-6,Felizardo Ambrosio,28,5,8,1,3,1,1,4,7,1,0,0,1,4,12,angola,2010-09-06,united states,2010090664,Round of 16,201064
-7,Roberto Fortes,25,4,7,3,6,0,0,0,1,2,0,1,0,2,11,angola,2010-09-06,united states,2010090664,Round of 16,201064
-8,Vladimir Jeronimo,15,0,3,0,2,0,0,0,2,2,0,0,1,1,0,angola,2010-09-06,united states,2010090664,Round of 16,201064
-9,Divaldo Mbunga,12,2,2,0,0,0,2,1,2,0,0,0,0,1,4,angola,2010-09-06,united states,2010090664,Round of 16,201064
-10,Domingos Bonifacio,4,0,1,0,0,0,0,0,0,1,0,0,2,0,0,angola,2010-09-06,united states,2010090664,Round of 16,201064
-11,Leonel Paulo,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,angola,2010-09-06,united states,2010090664,Round of 16,201064
-12,Totals,,24,57,7,27,11,15,7,22,12,0,2,13,20,66,angola,2010-09-06,united states,2010090664,Round of 16,201064
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Derrick Rose,21,3,5,3,4,0,0,0,1,6,0,2,0,0,9,united states,2010-09-06,angola,2010090664,Round of 16,201064,fiba-world-cup
+1,Chauncey Billups,19,5,7,5,7,4,4,0,2,4,0,0,0,3,19,united states,2010-09-06,angola,2010090664,Round of 16,201064,fiba-world-cup
+2,Kevin Durant,19,7,14,2,6,1,1,0,5,1,0,0,0,1,17,united states,2010-09-06,angola,2010090664,Round of 16,201064,fiba-world-cup
+3,Lamar Odom,16,3,5,1,1,2,2,5,8,0,0,1,1,2,9,united states,2010-09-06,angola,2010090664,Round of 16,201064,fiba-world-cup
+4,Andre Iguodala,15,3,6,0,1,0,2,3,7,4,1,0,0,1,6,united states,2010-09-06,angola,2010090664,Round of 16,201064,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,united states,2010-09-06,angola,2010090664,Round of 16,201064,fiba-world-cup
+6,Eric Gordon,21,6,7,5,6,0,0,0,0,0,0,0,0,1,17,united states,2010-09-06,angola,2010090664,Round of 16,201064,fiba-world-cup
+7,Rudy Gay,17,6,10,0,2,5,6,3,4,2,3,0,0,2,17,united states,2010-09-06,angola,2010090664,Round of 16,201064,fiba-world-cup
+8,Stephen Curry,17,2,6,1,5,0,0,0,0,3,2,0,3,1,5,united states,2010-09-06,angola,2010090664,Round of 16,201064,fiba-world-cup
+9,Kevin Love,15,2,4,1,1,3,3,0,6,1,0,0,0,1,8,united states,2010-09-06,angola,2010090664,Round of 16,201064,fiba-world-cup
+10,Russell Westbrook,14,1,5,0,1,2,2,2,2,6,3,0,1,0,4,united states,2010-09-06,angola,2010090664,Round of 16,201064,fiba-world-cup
+11,Danny Granger,13,2,7,0,4,1,2,0,1,2,0,1,0,0,5,united states,2010-09-06,angola,2010090664,Round of 16,201064,fiba-world-cup
+12,Tyson Chandler,13,1,2,0,0,3,4,6,7,1,1,0,0,4,5,united states,2010-09-06,angola,2010090664,Round of 16,201064,fiba-world-cup
+13,Totals,,41,78,18,38,21,26,19,43,30,10,4,5,16,121,united states,2010-09-06,angola,2010090664,Round of 16,201064,fiba-world-cup
+0,Carlos Morais,33,1,10,0,5,3,4,2,3,4,0,0,3,1,5,angola,2010-09-06,united states,2010090664,Round of 16,201064,fiba-world-cup
+1,Joaquim Gomes,28,9,12,2,4,1,2,0,4,1,0,1,2,3,21,angola,2010-09-06,united states,2010090664,Round of 16,201064,fiba-world-cup
+2,Carlos Almeida,24,1,6,1,6,0,0,0,1,0,0,0,1,4,3,angola,2010-09-06,united states,2010090664,Round of 16,201064,fiba-world-cup
+3,Miguel Lutonda,17,1,3,0,0,6,6,0,1,1,0,0,1,3,8,angola,2010-09-06,united states,2010090664,Round of 16,201064,fiba-world-cup
+4,Eduardo Mingas,12,1,5,0,1,0,0,0,1,0,0,0,1,0,2,angola,2010-09-06,united states,2010090664,Round of 16,201064,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,angola,2010-09-06,united states,2010090664,Round of 16,201064,fiba-world-cup
+6,Felizardo Ambrosio,28,5,8,1,3,1,1,4,7,1,0,0,1,4,12,angola,2010-09-06,united states,2010090664,Round of 16,201064,fiba-world-cup
+7,Roberto Fortes,25,4,7,3,6,0,0,0,1,2,0,1,0,2,11,angola,2010-09-06,united states,2010090664,Round of 16,201064,fiba-world-cup
+8,Vladimir Jeronimo,15,0,3,0,2,0,0,0,2,2,0,0,1,1,0,angola,2010-09-06,united states,2010090664,Round of 16,201064,fiba-world-cup
+9,Divaldo Mbunga,12,2,2,0,0,0,2,1,2,0,0,0,0,1,4,angola,2010-09-06,united states,2010090664,Round of 16,201064,fiba-world-cup
+10,Domingos Bonifacio,4,0,1,0,0,0,0,0,0,1,0,0,2,0,0,angola,2010-09-06,united states,2010090664,Round of 16,201064,fiba-world-cup
+11,Leonel Paulo,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,angola,2010-09-06,united states,2010090664,Round of 16,201064,fiba-world-cup
+12,Totals,,24,57,7,27,11,15,7,22,12,0,2,13,20,66,angola,2010-09-06,united states,2010090664,Round of 16,201064,fiba-world-cup

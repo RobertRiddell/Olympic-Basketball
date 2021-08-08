@@ -1,22 +1,22 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Marcelo Huertas,37.0,8,17,3,8,3,4,0,0,5,0,0,1,3,22,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230
-1,Alex Garcia,35.0,5,12,0,1,0,0,0,1,1,1,0,2,4,10,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230
-2,Nene Hilario,27.0,2,6,0,0,3,6,2,12,0,0,0,2,4,7,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230
-3,Leandro Barbosa,24.0,8,14,4,7,2,4,0,1,0,0,0,2,3,22,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230
-4,Tiago Splitter,22.0,2,5,0,0,2,8,2,4,4,0,0,1,3,6,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230
-5,Guilherme Giovannoni,16.0,1,2,0,1,0,0,0,5,2,1,0,0,4,2,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230
-6,Anderson Varejao,16.0,1,2,0,0,2,2,3,5,0,0,1,0,1,4,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230
-7,Marcus Vinicius,9.0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230
-8,Marcelinho Machado,7.0,1,4,0,3,0,0,0,0,0,0,0,0,2,2,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230
-9,Larry Taylor,7.0,1,5,0,3,0,0,0,1,0,0,0,0,1,2,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230
-10,Totals,,29,67,7,23,12,24,7,29,12,3,1,8,26,77,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230
-0,Carlos Delfino,37.0,5,11,3,7,3,4,0,7,2,1,0,1,2,16,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230
-1,Manu Ginobili,36.0,5,11,2,6,4,4,0,8,3,0,0,4,3,16,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230
-2,Pablo Prigioni,33.0,2,8,0,5,2,2,0,3,8,2,0,2,2,6,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230
-3,Luis Scola,29.0,6,12,0,0,5,10,0,4,0,0,0,2,3,17,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230
-4,Andres Nocioni,26.0,5,7,2,3,0,0,2,6,1,0,2,0,2,12,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230
-5,Juan Gutierrez,18.0,4,6,0,1,3,4,2,4,0,0,0,0,4,11,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230
-6,Facu Campazzo,7.0,1,2,0,0,1,2,0,1,0,1,0,0,2,3,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230
-7,Leo Gutierrez,7.0,0,1,0,1,0,0,0,0,0,0,0,0,3,0,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230
-8,Hernan Jasen,7.0,0,1,0,1,1,2,0,0,0,0,0,1,3,1,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230
-9,Totals,,28,59,7,24,19,28,4,33,14,4,2,10,24,82,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Marcelo Huertas,37.0,8,17,3,8,3,4,0,0,5,0,0,1,3,22,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230,mens-olympics
+1,Alex Garcia,35.0,5,12,0,1,0,0,0,1,1,1,0,2,4,10,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230,mens-olympics
+2,Nene Hilario,27.0,2,6,0,0,3,6,2,12,0,0,0,2,4,7,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230,mens-olympics
+3,Leandro Barbosa,24.0,8,14,4,7,2,4,0,1,0,0,0,2,3,22,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230,mens-olympics
+4,Tiago Splitter,22.0,2,5,0,0,2,8,2,4,4,0,0,1,3,6,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230,mens-olympics
+5,Guilherme Giovannoni,16.0,1,2,0,1,0,0,0,5,2,1,0,0,4,2,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230,mens-olympics
+6,Anderson Varejao,16.0,1,2,0,0,2,2,3,5,0,0,1,0,1,4,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230,mens-olympics
+7,Marcus Vinicius,9.0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230,mens-olympics
+8,Marcelinho Machado,7.0,1,4,0,3,0,0,0,0,0,0,0,0,2,2,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230,mens-olympics
+9,Larry Taylor,7.0,1,5,0,3,0,0,0,1,0,0,0,0,1,2,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230,mens-olympics
+10,Totals,,29,67,7,23,12,24,7,29,12,3,1,8,26,77,brazil,2012-08-08,argentina,2012080830,Quarter-Finals,201230,mens-olympics
+0,Carlos Delfino,37.0,5,11,3,7,3,4,0,7,2,1,0,1,2,16,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230,mens-olympics
+1,Manu Ginobili,36.0,5,11,2,6,4,4,0,8,3,0,0,4,3,16,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230,mens-olympics
+2,Pablo Prigioni,33.0,2,8,0,5,2,2,0,3,8,2,0,2,2,6,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230,mens-olympics
+3,Luis Scola,29.0,6,12,0,0,5,10,0,4,0,0,0,2,3,17,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230,mens-olympics
+4,Andres Nocioni,26.0,5,7,2,3,0,0,2,6,1,0,2,0,2,12,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230,mens-olympics
+5,Juan Gutierrez,18.0,4,6,0,1,3,4,2,4,0,0,0,0,4,11,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230,mens-olympics
+6,Facu Campazzo,7.0,1,2,0,0,1,2,0,1,0,1,0,0,2,3,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230,mens-olympics
+7,Leo Gutierrez,7.0,0,1,0,1,0,0,0,0,0,0,0,0,3,0,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230,mens-olympics
+8,Hernan Jasen,7.0,0,1,0,1,1,2,0,0,0,0,0,1,3,1,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230,mens-olympics
+9,Totals,,28,59,7,24,19,28,4,33,14,4,2,10,24,82,argentina,2012-08-08,brazil,2012080830,Quarter-Finals,201230,mens-olympics

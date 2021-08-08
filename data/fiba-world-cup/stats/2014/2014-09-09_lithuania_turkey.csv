@@ -1,27 +1,27 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Jonas Maciulis,36,4,5,1,1,0,1,1,2,2,1,0,3,3,9,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468
-1,Renaldas Seibutis,36,6,10,3,3,4,4,0,1,3,0,0,1,3,19,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468
-2,Jonas Valanciunas,27,5,9,0,0,2,2,3,13,1,0,1,2,2,12,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468
-3,Adas Juskevicius,17,1,5,0,2,1,2,0,2,0,0,0,2,1,3,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468
-4,Donatas Motiejunas,16,1,5,0,1,0,0,2,3,1,0,1,1,1,2,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468
-6,Martynas Pocius,24,4,8,3,5,2,2,0,1,3,2,0,0,1,13,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468
-7,Darjus Lavrinovic,18,4,7,3,4,0,0,1,5,1,0,1,1,4,11,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468
-8,Ksistof Lavrinovic,10,0,2,0,1,0,0,0,1,2,0,2,0,1,0,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468
-9,Paulius Jankunas,8,1,3,0,0,0,0,0,1,0,0,0,2,1,2,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468
-10,Simas Jasaitis,4,1,2,0,1,0,0,0,1,0,0,0,1,2,2,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468
-11,Sarunas Vasiliauskas,3,0,2,0,1,0,0,0,1,0,0,0,0,1,0,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468
-12,Totals,,27,58,10,19,9,11,7,31,13,3,5,13,20,73,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468
-0,Emir Preldzic,37,3,12,0,4,4,6,0,4,5,3,1,3,3,10,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468
-1,Sinan Guler,36,4,6,1,3,0,0,0,1,3,1,0,1,3,9,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468
-2,Kerem Gonlum,33,6,12,0,0,1,1,4,9,2,0,1,0,3,13,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468
-3,Omer Asik,28,5,10,0,0,1,2,3,10,2,1,2,1,4,11,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468
-4,Ender Arslan,25,2,6,2,6,6,8,0,0,1,2,0,1,2,12,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468
-6,Kerem Tunceri,12,0,1,0,0,0,0,0,1,0,0,0,1,1,0,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468
-7,Cenk Akyol,8,0,4,0,3,0,0,0,1,0,0,0,0,1,0,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468
-8,Cedi Osman,7,1,2,0,1,0,0,0,2,0,1,1,2,2,2,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468
-9,Oguz Savas,6,2,3,0,0,0,0,0,0,0,0,0,1,2,4,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468
-10,Baris Hersek,6,0,1,0,1,0,0,0,0,0,0,0,1,0,0,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468
-11,Furkan Aldemir,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468
-12,Totals,,23,58,3,18,12,17,7,28,13,8,5,11,21,61,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Jonas Maciulis,36,4,5,1,1,0,1,1,2,2,1,0,3,3,9,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468,fiba-world-cup
+1,Renaldas Seibutis,36,6,10,3,3,4,4,0,1,3,0,0,1,3,19,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468,fiba-world-cup
+2,Jonas Valanciunas,27,5,9,0,0,2,2,3,13,1,0,1,2,2,12,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468,fiba-world-cup
+3,Adas Juskevicius,17,1,5,0,2,1,2,0,2,0,0,0,2,1,3,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468,fiba-world-cup
+4,Donatas Motiejunas,16,1,5,0,1,0,0,2,3,1,0,1,1,1,2,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468,fiba-world-cup
+6,Martynas Pocius,24,4,8,3,5,2,2,0,1,3,2,0,0,1,13,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468,fiba-world-cup
+7,Darjus Lavrinovic,18,4,7,3,4,0,0,1,5,1,0,1,1,4,11,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468,fiba-world-cup
+8,Ksistof Lavrinovic,10,0,2,0,1,0,0,0,1,2,0,2,0,1,0,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468,fiba-world-cup
+9,Paulius Jankunas,8,1,3,0,0,0,0,0,1,0,0,0,2,1,2,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468,fiba-world-cup
+10,Simas Jasaitis,4,1,2,0,1,0,0,0,1,0,0,0,1,2,2,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468,fiba-world-cup
+11,Sarunas Vasiliauskas,3,0,2,0,1,0,0,0,1,0,0,0,0,1,0,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468,fiba-world-cup
+12,Totals,,27,58,10,19,9,11,7,31,13,3,5,13,20,73,lithuania,2014-09-09,turkey,2014090968,Quarterfinals,201468,fiba-world-cup
+0,Emir Preldzic,37,3,12,0,4,4,6,0,4,5,3,1,3,3,10,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468,fiba-world-cup
+1,Sinan Guler,36,4,6,1,3,0,0,0,1,3,1,0,1,3,9,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468,fiba-world-cup
+2,Kerem Gonlum,33,6,12,0,0,1,1,4,9,2,0,1,0,3,13,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468,fiba-world-cup
+3,Omer Asik,28,5,10,0,0,1,2,3,10,2,1,2,1,4,11,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468,fiba-world-cup
+4,Ender Arslan,25,2,6,2,6,6,8,0,0,1,2,0,1,2,12,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468,fiba-world-cup
+6,Kerem Tunceri,12,0,1,0,0,0,0,0,1,0,0,0,1,1,0,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468,fiba-world-cup
+7,Cenk Akyol,8,0,4,0,3,0,0,0,1,0,0,0,0,1,0,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468,fiba-world-cup
+8,Cedi Osman,7,1,2,0,1,0,0,0,2,0,1,1,2,2,2,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468,fiba-world-cup
+9,Oguz Savas,6,2,3,0,0,0,0,0,0,0,0,0,1,2,4,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468,fiba-world-cup
+10,Baris Hersek,6,0,1,0,1,0,0,0,0,0,0,0,1,0,0,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468,fiba-world-cup
+11,Furkan Aldemir,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468,fiba-world-cup
+12,Totals,,23,58,3,18,12,17,7,28,13,8,5,11,21,61,turkey,2014-09-09,lithuania,2014090968,Quarterfinals,201468,fiba-world-cup

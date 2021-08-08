@@ -1,27 +1,27 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Erik Murphy,33,5,10,0,2,2,5,5,8,1,1,1,0,2,12,finland,2014-08-31,ukraine,2014083122,Group Play,201422
-1,Shawn Huff,31,9,15,5,8,0,0,2,8,0,0,0,1,1,23,finland,2014-08-31,ukraine,2014083122,Group Play,201422
-2,Petteri Koponen,30,4,12,2,5,4,8,0,2,9,1,0,1,4,14,finland,2014-08-31,ukraine,2014083122,Group Play,201422
-3,Sasu Salin,27,3,6,1,4,2,2,2,5,4,2,0,1,2,9,finland,2014-08-31,ukraine,2014083122,Group Play,201422
-4,Gerald Lee,24,3,6,0,0,1,4,1,3,0,0,0,3,2,7,finland,2014-08-31,ukraine,2014083122,Group Play,201422
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,finland,2014-08-31,ukraine,2014083122,Group Play,201422
-6,Mikko Koivisto,16,2,5,2,4,0,0,0,1,1,3,0,0,4,6,finland,2014-08-31,ukraine,2014083122,Group Play,201422
-7,Teemu Rannikko,16,1,5,1,5,3,4,0,1,4,0,0,1,2,6,finland,2014-08-31,ukraine,2014083122,Group Play,201422
-8,Tuukka Kotti,11,0,1,0,0,0,0,0,1,0,0,0,1,3,0,finland,2014-08-31,ukraine,2014083122,Group Play,201422
-9,Kimmo Muurinen,6,0,0,0,0,0,0,0,1,0,0,0,2,2,0,finland,2014-08-31,ukraine,2014083122,Group Play,201422
-10,Hanno Mottola,4,2,2,0,0,0,0,0,0,0,0,0,0,0,4,finland,2014-08-31,ukraine,2014083122,Group Play,201422
-11,Antero Lehto,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,finland,2014-08-31,ukraine,2014083122,Group Play,201422
-12,Totals,,29,62,11,28,12,23,10,30,19,7,1,10,22,81,finland,2014-08-31,ukraine,2014083122,Group Play,201422
-0,Pooh Jeter,33,7,14,2,8,8,10,0,5,9,0,0,1,1,24,ukraine,2014-08-31,finland,2014083122,Group Play,201422
-1,Oleksandr Lypovyy,30,1,4,1,3,0,0,2,4,2,0,0,2,1,3,ukraine,2014-08-31,finland,2014083122,Group Play,201422
-2,Maxym Kornienko,19,1,4,0,1,0,0,0,6,0,0,0,1,1,2,ukraine,2014-08-31,finland,2014083122,Group Play,201422
-3,Kyryl Natyazhko,10,2,2,0,0,2,2,1,1,0,0,0,1,2,6,ukraine,2014-08-31,finland,2014083122,Group Play,201422
-4,Sergey Gladyr,8,2,3,2,3,0,0,0,0,0,0,0,1,0,6,ukraine,2014-08-31,finland,2014083122,Group Play,201422
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,ukraine,2014-08-31,finland,2014083122,Group Play,201422
-6,Viacheslav Kravtsov,27,0,1,0,0,0,0,1,8,3,0,1,5,2,0,ukraine,2014-08-31,finland,2014083122,Group Play,201422
-7,Maksym Pustozvonov,22,6,10,3,6,0,0,1,2,2,1,0,1,4,15,ukraine,2014-08-31,finland,2014083122,Group Play,201422
-8,Igor Zaytsev,19,2,5,0,1,2,2,1,6,0,0,1,0,1,6,ukraine,2014-08-31,finland,2014083122,Group Play,201422
-9,Dmytro Zabirchenko,12,0,2,0,2,2,2,0,0,1,0,0,0,2,2,ukraine,2014-08-31,finland,2014083122,Group Play,201422
-10,Olexandr Mishula,10,2,5,2,4,2,2,0,1,1,1,0,2,5,8,ukraine,2014-08-31,finland,2014083122,Group Play,201422
-11,Sviatoslav Mykhailiuk,10,1,4,0,2,2,5,2,2,1,1,0,2,4,4,ukraine,2014-08-31,finland,2014083122,Group Play,201422
-12,Totals,,24,54,10,30,18,23,8,35,19,3,2,16,23,76,ukraine,2014-08-31,finland,2014083122,Group Play,201422
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Erik Murphy,33,5,10,0,2,2,5,5,8,1,1,1,0,2,12,finland,2014-08-31,ukraine,2014083122,Group Play,201422,fiba-world-cup
+1,Shawn Huff,31,9,15,5,8,0,0,2,8,0,0,0,1,1,23,finland,2014-08-31,ukraine,2014083122,Group Play,201422,fiba-world-cup
+2,Petteri Koponen,30,4,12,2,5,4,8,0,2,9,1,0,1,4,14,finland,2014-08-31,ukraine,2014083122,Group Play,201422,fiba-world-cup
+3,Sasu Salin,27,3,6,1,4,2,2,2,5,4,2,0,1,2,9,finland,2014-08-31,ukraine,2014083122,Group Play,201422,fiba-world-cup
+4,Gerald Lee,24,3,6,0,0,1,4,1,3,0,0,0,3,2,7,finland,2014-08-31,ukraine,2014083122,Group Play,201422,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,finland,2014-08-31,ukraine,2014083122,Group Play,201422,fiba-world-cup
+6,Mikko Koivisto,16,2,5,2,4,0,0,0,1,1,3,0,0,4,6,finland,2014-08-31,ukraine,2014083122,Group Play,201422,fiba-world-cup
+7,Teemu Rannikko,16,1,5,1,5,3,4,0,1,4,0,0,1,2,6,finland,2014-08-31,ukraine,2014083122,Group Play,201422,fiba-world-cup
+8,Tuukka Kotti,11,0,1,0,0,0,0,0,1,0,0,0,1,3,0,finland,2014-08-31,ukraine,2014083122,Group Play,201422,fiba-world-cup
+9,Kimmo Muurinen,6,0,0,0,0,0,0,0,1,0,0,0,2,2,0,finland,2014-08-31,ukraine,2014083122,Group Play,201422,fiba-world-cup
+10,Hanno Mottola,4,2,2,0,0,0,0,0,0,0,0,0,0,0,4,finland,2014-08-31,ukraine,2014083122,Group Play,201422,fiba-world-cup
+11,Antero Lehto,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,finland,2014-08-31,ukraine,2014083122,Group Play,201422,fiba-world-cup
+12,Totals,,29,62,11,28,12,23,10,30,19,7,1,10,22,81,finland,2014-08-31,ukraine,2014083122,Group Play,201422,fiba-world-cup
+0,Pooh Jeter,33,7,14,2,8,8,10,0,5,9,0,0,1,1,24,ukraine,2014-08-31,finland,2014083122,Group Play,201422,fiba-world-cup
+1,Oleksandr Lypovyy,30,1,4,1,3,0,0,2,4,2,0,0,2,1,3,ukraine,2014-08-31,finland,2014083122,Group Play,201422,fiba-world-cup
+2,Maxym Kornienko,19,1,4,0,1,0,0,0,6,0,0,0,1,1,2,ukraine,2014-08-31,finland,2014083122,Group Play,201422,fiba-world-cup
+3,Kyryl Natyazhko,10,2,2,0,0,2,2,1,1,0,0,0,1,2,6,ukraine,2014-08-31,finland,2014083122,Group Play,201422,fiba-world-cup
+4,Sergey Gladyr,8,2,3,2,3,0,0,0,0,0,0,0,1,0,6,ukraine,2014-08-31,finland,2014083122,Group Play,201422,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,ukraine,2014-08-31,finland,2014083122,Group Play,201422,fiba-world-cup
+6,Viacheslav Kravtsov,27,0,1,0,0,0,0,1,8,3,0,1,5,2,0,ukraine,2014-08-31,finland,2014083122,Group Play,201422,fiba-world-cup
+7,Maksym Pustozvonov,22,6,10,3,6,0,0,1,2,2,1,0,1,4,15,ukraine,2014-08-31,finland,2014083122,Group Play,201422,fiba-world-cup
+8,Igor Zaytsev,19,2,5,0,1,2,2,1,6,0,0,1,0,1,6,ukraine,2014-08-31,finland,2014083122,Group Play,201422,fiba-world-cup
+9,Dmytro Zabirchenko,12,0,2,0,2,2,2,0,0,1,0,0,0,2,2,ukraine,2014-08-31,finland,2014083122,Group Play,201422,fiba-world-cup
+10,Olexandr Mishula,10,2,5,2,4,2,2,0,1,1,1,0,2,5,8,ukraine,2014-08-31,finland,2014083122,Group Play,201422,fiba-world-cup
+11,Sviatoslav Mykhailiuk,10,1,4,0,2,2,5,2,2,1,1,0,2,4,4,ukraine,2014-08-31,finland,2014083122,Group Play,201422,fiba-world-cup
+12,Totals,,24,54,10,30,18,23,8,35,19,3,2,16,23,76,ukraine,2014-08-31,finland,2014083122,Group Play,201422,fiba-world-cup

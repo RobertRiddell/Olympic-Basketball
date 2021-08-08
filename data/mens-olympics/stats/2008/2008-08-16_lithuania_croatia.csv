@@ -1,23 +1,23 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Ramunas Siskauskas,33.0,3.0,4.0,1.0,1.0,0.0,0.0,0.0,4,2,1,0,2,1.0,7,lithuania,2008-08-16,croatia,2008081622,Group A,200822
-1,Sarunas Jasikevicius,31.0,3.0,8.0,1.0,3.0,2.0,2.0,0.0,2,6,1,0,2,3.0,9,lithuania,2008-08-16,croatia,2008081622,Group A,200822
-2,Simas Jasaitis,25.0,5.0,7.0,1.0,3.0,1.0,1.0,2.0,3,3,2,0,2,4.0,12,lithuania,2008-08-16,croatia,2008081622,Group A,200822
-3,Mindaugas Lukauskis,21.0,7.0,9.0,3.0,4.0,3.0,4.0,0.0,0,1,1,0,0,1.0,20,lithuania,2008-08-16,croatia,2008081622,Group A,200822
-4,Linas Kleiza,20.0,6.0,10.0,4.0,6.0,2.0,2.0,0.0,4,0,0,0,0,1.0,18,lithuania,2008-08-16,croatia,2008081622,Group A,200822
-5,Ksistof Lavrinovic,20.0,2.0,9.0,1.0,3.0,3.0,4.0,2.0,7,3,0,1,2,0.0,8,lithuania,2008-08-16,croatia,2008081622,Group A,200822
-6,Marijonas Petravicius,20.0,2.0,5.0,0.0,0.0,1.0,2.0,3.0,4,0,1,1,0,3.0,5,lithuania,2008-08-16,croatia,2008081622,Group A,200822
-7,Robertas Javtokas,19.0,2.0,2.0,0.0,0.0,3.0,4.0,1.0,3,1,0,0,2,3.0,7,lithuania,2008-08-16,croatia,2008081622,Group A,200822
-8,Rimantas Kaukenas,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,3.0,0,lithuania,2008-08-16,croatia,2008081622,Group A,200822
-9,Jonas Maciulis,,,,,,,,,0,0,0,0,0,,0,lithuania,2008-08-16,croatia,2008081622,Group A,200822
-10,Totals,,,,,,,,,27,16,6,2,11,,86,lithuania,2008-08-16,croatia,2008081622,Group A,200822
-0,Roko Ukic,32.0,5.0,13.0,1.0,6.0,2.0,2.0,0.0,4,1,1,0,1,0.0,13,croatia,2008-08-16,lithuania,2008081622,Group A,200822
-1,Davor Kus,31.0,2.0,5.0,0.0,2.0,4.0,4.0,3.0,4,3,1,0,2,1.0,8,croatia,2008-08-16,lithuania,2008081622,Group A,200822
-2,Marko Banic,24.0,5.0,8.0,0.0,0.0,0.0,0.0,3.0,7,0,2,0,3,3.0,10,croatia,2008-08-16,lithuania,2008081622,Group A,200822
-3,Marko Tomas,22.0,0.0,6.0,0.0,3.0,3.0,4.0,2.0,4,2,1,0,1,4.0,3,croatia,2008-08-16,lithuania,2008081622,Group A,200822
-4,Kresimir Loncar,19.0,3.0,10.0,0.0,0.0,2.0,2.0,3.0,6,0,1,1,1,4.0,8,croatia,2008-08-16,lithuania,2008081622,Group A,200822
-5,Sandro Nicevic,19.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,1,2,1,1,0,1.0,6,croatia,2008-08-16,lithuania,2008081622,Group A,200822
-6,Marin Rozic,18.0,2.0,3.0,1.0,1.0,3.0,3.0,1.0,1,1,1,0,1,4.0,8,croatia,2008-08-16,lithuania,2008081622,Group A,200822
-7,Zoran Planinic,16.0,4.0,8.0,3.0,5.0,0.0,0.0,2.0,3,1,0,0,3,1.0,11,croatia,2008-08-16,lithuania,2008081622,Group A,200822
-8,Stanko Barac,15.0,2.0,5.0,0.0,0.0,1.0,2.0,2.0,3,1,0,0,1,1.0,5,croatia,2008-08-16,lithuania,2008081622,Group A,200822
-9,Nikola Prkacin,4.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0,0,0,0,1,2.0,1,croatia,2008-08-16,lithuania,2008081622,Group A,200822
-10,Totals,,26.0,61.0,5.0,17.0,16.0,19.0,16.0,33,11,8,2,14,21.0,73,croatia,2008-08-16,lithuania,2008081622,Group A,200822
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Ramunas Siskauskas,33.0,3.0,4.0,1.0,1.0,0.0,0.0,0.0,4,2,1,0,2,1.0,7,lithuania,2008-08-16,croatia,2008081622,Group A,200822,mens-olympics
+1,Sarunas Jasikevicius,31.0,3.0,8.0,1.0,3.0,2.0,2.0,0.0,2,6,1,0,2,3.0,9,lithuania,2008-08-16,croatia,2008081622,Group A,200822,mens-olympics
+2,Simas Jasaitis,25.0,5.0,7.0,1.0,3.0,1.0,1.0,2.0,3,3,2,0,2,4.0,12,lithuania,2008-08-16,croatia,2008081622,Group A,200822,mens-olympics
+3,Mindaugas Lukauskis,21.0,7.0,9.0,3.0,4.0,3.0,4.0,0.0,0,1,1,0,0,1.0,20,lithuania,2008-08-16,croatia,2008081622,Group A,200822,mens-olympics
+4,Linas Kleiza,20.0,6.0,10.0,4.0,6.0,2.0,2.0,0.0,4,0,0,0,0,1.0,18,lithuania,2008-08-16,croatia,2008081622,Group A,200822,mens-olympics
+5,Ksistof Lavrinovic,20.0,2.0,9.0,1.0,3.0,3.0,4.0,2.0,7,3,0,1,2,0.0,8,lithuania,2008-08-16,croatia,2008081622,Group A,200822,mens-olympics
+6,Marijonas Petravicius,20.0,2.0,5.0,0.0,0.0,1.0,2.0,3.0,4,0,1,1,0,3.0,5,lithuania,2008-08-16,croatia,2008081622,Group A,200822,mens-olympics
+7,Robertas Javtokas,19.0,2.0,2.0,0.0,0.0,3.0,4.0,1.0,3,1,0,0,2,3.0,7,lithuania,2008-08-16,croatia,2008081622,Group A,200822,mens-olympics
+8,Rimantas Kaukenas,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,3.0,0,lithuania,2008-08-16,croatia,2008081622,Group A,200822,mens-olympics
+9,Jonas Maciulis,,,,,,,,,0,0,0,0,0,,0,lithuania,2008-08-16,croatia,2008081622,Group A,200822,mens-olympics
+10,Totals,,,,,,,,,27,16,6,2,11,,86,lithuania,2008-08-16,croatia,2008081622,Group A,200822,mens-olympics
+0,Roko Ukic,32.0,5.0,13.0,1.0,6.0,2.0,2.0,0.0,4,1,1,0,1,0.0,13,croatia,2008-08-16,lithuania,2008081622,Group A,200822,mens-olympics
+1,Davor Kus,31.0,2.0,5.0,0.0,2.0,4.0,4.0,3.0,4,3,1,0,2,1.0,8,croatia,2008-08-16,lithuania,2008081622,Group A,200822,mens-olympics
+2,Marko Banic,24.0,5.0,8.0,0.0,0.0,0.0,0.0,3.0,7,0,2,0,3,3.0,10,croatia,2008-08-16,lithuania,2008081622,Group A,200822,mens-olympics
+3,Marko Tomas,22.0,0.0,6.0,0.0,3.0,3.0,4.0,2.0,4,2,1,0,1,4.0,3,croatia,2008-08-16,lithuania,2008081622,Group A,200822,mens-olympics
+4,Kresimir Loncar,19.0,3.0,10.0,0.0,0.0,2.0,2.0,3.0,6,0,1,1,1,4.0,8,croatia,2008-08-16,lithuania,2008081622,Group A,200822,mens-olympics
+5,Sandro Nicevic,19.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,1,2,1,1,0,1.0,6,croatia,2008-08-16,lithuania,2008081622,Group A,200822,mens-olympics
+6,Marin Rozic,18.0,2.0,3.0,1.0,1.0,3.0,3.0,1.0,1,1,1,0,1,4.0,8,croatia,2008-08-16,lithuania,2008081622,Group A,200822,mens-olympics
+7,Zoran Planinic,16.0,4.0,8.0,3.0,5.0,0.0,0.0,2.0,3,1,0,0,3,1.0,11,croatia,2008-08-16,lithuania,2008081622,Group A,200822,mens-olympics
+8,Stanko Barac,15.0,2.0,5.0,0.0,0.0,1.0,2.0,2.0,3,1,0,0,1,1.0,5,croatia,2008-08-16,lithuania,2008081622,Group A,200822,mens-olympics
+9,Nikola Prkacin,4.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0,0,0,0,1,2.0,1,croatia,2008-08-16,lithuania,2008081622,Group A,200822,mens-olympics
+10,Totals,,26.0,61.0,5.0,17.0,16.0,19.0,16.0,33,11,8,2,14,21.0,73,croatia,2008-08-16,lithuania,2008081622,Group A,200822,mens-olympics

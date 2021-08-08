@@ -1,27 +1,27 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Jarod Stevenson,27,4,9,3,7,5,5,0,1,1,1,0,2,1,16,korea,2014-09-04,mexico,2014090453,Group Play,201453
-1,Dong-geun Yang,27,4,9,2,7,0,0,0,1,4,2,1,1,1,10,korea,2014-09-04,mexico,2014090453,Group Play,201453
-2,Jonghyun Lee,25,4,7,0,0,2,2,1,3,1,1,1,1,1,10,korea,2014-09-04,mexico,2014090453,Group Play,201453
-3,Jongkyu Kim,23,3,5,0,0,4,4,1,2,1,1,3,2,3,10,korea,2014-09-04,mexico,2014090453,Group Play,201453
-4,Sungmin Cho,20,0,4,0,3,0,0,0,1,4,0,0,2,1,0,korea,2014-09-04,mexico,2014090453,Group Play,201453
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,korea,2014-09-04,mexico,2014090453,Group Play,201453
-6,Heejong Yang,23,0,0,0,0,0,0,2,5,0,0,0,0,2,0,korea,2014-09-04,mexico,2014090453,Group Play,201453
-7,Sekeun Oh,21,6,8,0,0,1,1,0,2,2,1,1,2,2,13,korea,2014-09-04,mexico,2014090453,Group Play,201453
-8,Joo Sung Kim,11,1,3,0,0,1,4,0,0,0,0,0,0,0,3,korea,2014-09-04,mexico,2014090453,Group Play,201453
-9,Sunhyung Kim,9,0,1,0,0,2,2,0,2,2,0,0,2,0,2,korea,2014-09-04,mexico,2014090453,Group Play,201453
-10,Ilyoung Heo,5,1,1,1,1,3,3,0,1,0,0,0,1,1,6,korea,2014-09-04,mexico,2014090453,Group Play,201453
-11,Chan Hee Park,5,0,1,0,0,1,2,0,0,2,0,0,0,0,1,korea,2014-09-04,mexico,2014090453,Group Play,201453
-12,Taesul Kim,4,0,1,0,1,0,0,0,0,0,0,0,0,2,0,korea,2014-09-04,mexico,2014090453,Group Play,201453
-13,Totals,,23,49,6,19,19,23,4,18,17,6,6,13,14,71,korea,2014-09-04,mexico,2014090453,Group Play,201453
-0,Hector Hernandez,37,7,13,2,5,0,0,2,11,0,1,0,0,1,16,mexico,2014-09-04,korea,2014090453,Group Play,201453
-1,Marco Ramos,28,5,9,3,6,1,2,4,6,1,0,0,0,4,14,mexico,2014-09-04,korea,2014090453,Group Play,201453
-2,Jorge Gutierrez,26,5,11,0,0,1,2,1,3,4,1,0,1,1,11,mexico,2014-09-04,korea,2014090453,Group Play,201453
-3,Francisco Cruz,19,6,10,1,1,0,0,2,2,3,0,0,3,0,13,mexico,2014-09-04,korea,2014090453,Group Play,201453
-4,Adam Parada,17,2,4,0,0,0,0,2,6,0,0,0,2,3,4,mexico,2014-09-04,korea,2014090453,Group Play,201453
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,mexico,2014-09-04,korea,2014090453,Group Play,201453
-6,Adrian Zamora,23,5,7,0,0,1,1,4,6,0,0,1,1,3,11,mexico,2014-09-04,korea,2014090453,Group Play,201453
-7,Orlando Mendez,22,3,9,1,5,0,0,2,2,4,1,0,4,3,7,mexico,2014-09-04,korea,2014090453,Group Play,201453
-8,Roman Martinez,14,3,5,3,5,0,0,1,3,1,0,0,0,1,9,mexico,2014-09-04,korea,2014090453,Group Play,201453
-9,David Meza,9,0,3,0,0,0,0,1,1,1,0,0,2,2,0,mexico,2014-09-04,korea,2014090453,Group Play,201453
-10,Paul Stoll,5,1,1,0,0,0,0,0,0,2,0,0,1,1,2,mexico,2014-09-04,korea,2014090453,Group Play,201453
-11,Totals,,37,72,10,22,3,5,19,40,16,3,1,14,19,87,mexico,2014-09-04,korea,2014090453,Group Play,201453
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Jarod Stevenson,27,4,9,3,7,5,5,0,1,1,1,0,2,1,16,korea,2014-09-04,mexico,2014090453,Group Play,201453,fiba-world-cup
+1,Dong-geun Yang,27,4,9,2,7,0,0,0,1,4,2,1,1,1,10,korea,2014-09-04,mexico,2014090453,Group Play,201453,fiba-world-cup
+2,Jonghyun Lee,25,4,7,0,0,2,2,1,3,1,1,1,1,1,10,korea,2014-09-04,mexico,2014090453,Group Play,201453,fiba-world-cup
+3,Jongkyu Kim,23,3,5,0,0,4,4,1,2,1,1,3,2,3,10,korea,2014-09-04,mexico,2014090453,Group Play,201453,fiba-world-cup
+4,Sungmin Cho,20,0,4,0,3,0,0,0,1,4,0,0,2,1,0,korea,2014-09-04,mexico,2014090453,Group Play,201453,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,korea,2014-09-04,mexico,2014090453,Group Play,201453,fiba-world-cup
+6,Heejong Yang,23,0,0,0,0,0,0,2,5,0,0,0,0,2,0,korea,2014-09-04,mexico,2014090453,Group Play,201453,fiba-world-cup
+7,Sekeun Oh,21,6,8,0,0,1,1,0,2,2,1,1,2,2,13,korea,2014-09-04,mexico,2014090453,Group Play,201453,fiba-world-cup
+8,Joo Sung Kim,11,1,3,0,0,1,4,0,0,0,0,0,0,0,3,korea,2014-09-04,mexico,2014090453,Group Play,201453,fiba-world-cup
+9,Sunhyung Kim,9,0,1,0,0,2,2,0,2,2,0,0,2,0,2,korea,2014-09-04,mexico,2014090453,Group Play,201453,fiba-world-cup
+10,Ilyoung Heo,5,1,1,1,1,3,3,0,1,0,0,0,1,1,6,korea,2014-09-04,mexico,2014090453,Group Play,201453,fiba-world-cup
+11,Chan Hee Park,5,0,1,0,0,1,2,0,0,2,0,0,0,0,1,korea,2014-09-04,mexico,2014090453,Group Play,201453,fiba-world-cup
+12,Taesul Kim,4,0,1,0,1,0,0,0,0,0,0,0,0,2,0,korea,2014-09-04,mexico,2014090453,Group Play,201453,fiba-world-cup
+13,Totals,,23,49,6,19,19,23,4,18,17,6,6,13,14,71,korea,2014-09-04,mexico,2014090453,Group Play,201453,fiba-world-cup
+0,Hector Hernandez,37,7,13,2,5,0,0,2,11,0,1,0,0,1,16,mexico,2014-09-04,korea,2014090453,Group Play,201453,fiba-world-cup
+1,Marco Ramos,28,5,9,3,6,1,2,4,6,1,0,0,0,4,14,mexico,2014-09-04,korea,2014090453,Group Play,201453,fiba-world-cup
+2,Jorge Gutierrez,26,5,11,0,0,1,2,1,3,4,1,0,1,1,11,mexico,2014-09-04,korea,2014090453,Group Play,201453,fiba-world-cup
+3,Francisco Cruz,19,6,10,1,1,0,0,2,2,3,0,0,3,0,13,mexico,2014-09-04,korea,2014090453,Group Play,201453,fiba-world-cup
+4,Adam Parada,17,2,4,0,0,0,0,2,6,0,0,0,2,3,4,mexico,2014-09-04,korea,2014090453,Group Play,201453,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,mexico,2014-09-04,korea,2014090453,Group Play,201453,fiba-world-cup
+6,Adrian Zamora,23,5,7,0,0,1,1,4,6,0,0,1,1,3,11,mexico,2014-09-04,korea,2014090453,Group Play,201453,fiba-world-cup
+7,Orlando Mendez,22,3,9,1,5,0,0,2,2,4,1,0,4,3,7,mexico,2014-09-04,korea,2014090453,Group Play,201453,fiba-world-cup
+8,Roman Martinez,14,3,5,3,5,0,0,1,3,1,0,0,0,1,9,mexico,2014-09-04,korea,2014090453,Group Play,201453,fiba-world-cup
+9,David Meza,9,0,3,0,0,0,0,1,1,1,0,0,2,2,0,mexico,2014-09-04,korea,2014090453,Group Play,201453,fiba-world-cup
+10,Paul Stoll,5,1,1,0,0,0,0,0,0,2,0,0,1,1,2,mexico,2014-09-04,korea,2014090453,Group Play,201453,fiba-world-cup
+11,Totals,,37,72,10,22,3,5,19,40,16,3,1,14,19,87,mexico,2014-09-04,korea,2014090453,Group Play,201453,fiba-world-cup

@@ -1,25 +1,25 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Nicolas Batum,34,8,14,3,7,5,8,0,7,0,3,0,2,1,24,france,2010-08-31,canada,2010083130,Group Play,201030
-1,Boris Diaw,34,3,8,1,2,1,3,5,6,5,0,0,3,0,8,france,2010-08-31,canada,2010083130,Group Play,201030
-2,Mickael Gelabale,26,2,5,0,2,4,4,0,3,1,1,0,3,1,8,france,2010-08-31,canada,2010083130,Group Play,201030
-3,Nando De Colo,23,2,5,1,3,0,0,0,1,4,3,0,1,5,5,france,2010-08-31,canada,2010083130,Group Play,201030
-4,Ali Traore,17,3,7,0,0,0,0,0,0,1,0,0,1,4,6,france,2010-08-31,canada,2010083130,Group Play,201030
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,france,2010-08-31,canada,2010083130,Group Play,201030
-6,Yannick Bokolo,24,2,3,1,2,1,4,0,0,2,3,0,1,1,6,france,2010-08-31,canada,2010083130,Group Play,201030
-7,Alain Koffi,20,3,6,0,0,1,2,4,7,0,0,2,0,2,7,france,2010-08-31,canada,2010083130,Group Play,201030
-8,Ian Mahinmi,12,1,2,0,0,2,2,0,0,0,0,0,1,2,4,france,2010-08-31,canada,2010083130,Group Play,201030
-9,Andrew Albicy,7,0,1,0,1,0,0,0,0,0,0,0,0,0,0,france,2010-08-31,canada,2010083130,Group Play,201030
-10,Edwin Jackson,4,0,2,0,2,0,0,0,0,0,0,0,0,0,0,france,2010-08-31,canada,2010083130,Group Play,201030
-11,Totals,,24,53,6,19,14,23,9,24,13,10,2,12,16,68,france,2010-08-31,canada,2010083130,Group Play,201030
-0,Jermaine Anderson,35,3,11,2,7,3,4,0,4,2,2,0,3,1,11,canada,2010-08-31,france,2010083130,Group Play,201030
-1,Denham Brown,30,4,13,0,5,0,0,0,3,1,2,0,1,3,8,canada,2010-08-31,france,2010083130,Group Play,201030
-2,Joel Anthony,28,2,4,0,0,2,6,4,5,0,2,1,1,4,6,canada,2010-08-31,france,2010083130,Group Play,201030
-3,Aaron Doornekamp,27,0,1,0,1,0,0,0,1,1,2,0,3,3,0,canada,2010-08-31,france,2010083130,Group Play,201030
-4,Levon Kendall,25,7,11,1,3,0,0,2,4,3,0,0,1,4,15,canada,2010-08-31,france,2010083130,Group Play,201030
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,canada,2010-08-31,france,2010083130,Group Play,201030
-6,Kelly Olynyk,19,4,5,1,1,4,4,1,2,1,0,0,1,2,13,canada,2010-08-31,france,2010083130,Group Play,201030
-7,Jevohn Shepherd,13,2,6,1,2,0,0,1,2,0,0,0,0,2,5,canada,2010-08-31,france,2010083130,Group Play,201030
-8,Jermaine Bucknor,10,1,1,1,1,0,0,0,1,0,0,0,0,0,3,canada,2010-08-31,france,2010083130,Group Play,201030
-9,Robert Sacre,8,0,1,0,0,0,0,1,2,0,1,1,1,0,0,canada,2010-08-31,france,2010083130,Group Play,201030
-10,Ryan Bell,5,1,1,0,0,0,0,1,2,1,0,0,2,1,2,canada,2010-08-31,france,2010083130,Group Play,201030
-11,Totals,,24,54,6,20,9,14,10,26,9,9,2,13,20,63,canada,2010-08-31,france,2010083130,Group Play,201030
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Nicolas Batum,34,8,14,3,7,5,8,0,7,0,3,0,2,1,24,france,2010-08-31,canada,2010083130,Group Play,201030,fiba-world-cup
+1,Boris Diaw,34,3,8,1,2,1,3,5,6,5,0,0,3,0,8,france,2010-08-31,canada,2010083130,Group Play,201030,fiba-world-cup
+2,Mickael Gelabale,26,2,5,0,2,4,4,0,3,1,1,0,3,1,8,france,2010-08-31,canada,2010083130,Group Play,201030,fiba-world-cup
+3,Nando De Colo,23,2,5,1,3,0,0,0,1,4,3,0,1,5,5,france,2010-08-31,canada,2010083130,Group Play,201030,fiba-world-cup
+4,Ali Traore,17,3,7,0,0,0,0,0,0,1,0,0,1,4,6,france,2010-08-31,canada,2010083130,Group Play,201030,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,france,2010-08-31,canada,2010083130,Group Play,201030,fiba-world-cup
+6,Yannick Bokolo,24,2,3,1,2,1,4,0,0,2,3,0,1,1,6,france,2010-08-31,canada,2010083130,Group Play,201030,fiba-world-cup
+7,Alain Koffi,20,3,6,0,0,1,2,4,7,0,0,2,0,2,7,france,2010-08-31,canada,2010083130,Group Play,201030,fiba-world-cup
+8,Ian Mahinmi,12,1,2,0,0,2,2,0,0,0,0,0,1,2,4,france,2010-08-31,canada,2010083130,Group Play,201030,fiba-world-cup
+9,Andrew Albicy,7,0,1,0,1,0,0,0,0,0,0,0,0,0,0,france,2010-08-31,canada,2010083130,Group Play,201030,fiba-world-cup
+10,Edwin Jackson,4,0,2,0,2,0,0,0,0,0,0,0,0,0,0,france,2010-08-31,canada,2010083130,Group Play,201030,fiba-world-cup
+11,Totals,,24,53,6,19,14,23,9,24,13,10,2,12,16,68,france,2010-08-31,canada,2010083130,Group Play,201030,fiba-world-cup
+0,Jermaine Anderson,35,3,11,2,7,3,4,0,4,2,2,0,3,1,11,canada,2010-08-31,france,2010083130,Group Play,201030,fiba-world-cup
+1,Denham Brown,30,4,13,0,5,0,0,0,3,1,2,0,1,3,8,canada,2010-08-31,france,2010083130,Group Play,201030,fiba-world-cup
+2,Joel Anthony,28,2,4,0,0,2,6,4,5,0,2,1,1,4,6,canada,2010-08-31,france,2010083130,Group Play,201030,fiba-world-cup
+3,Aaron Doornekamp,27,0,1,0,1,0,0,0,1,1,2,0,3,3,0,canada,2010-08-31,france,2010083130,Group Play,201030,fiba-world-cup
+4,Levon Kendall,25,7,11,1,3,0,0,2,4,3,0,0,1,4,15,canada,2010-08-31,france,2010083130,Group Play,201030,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,canada,2010-08-31,france,2010083130,Group Play,201030,fiba-world-cup
+6,Kelly Olynyk,19,4,5,1,1,4,4,1,2,1,0,0,1,2,13,canada,2010-08-31,france,2010083130,Group Play,201030,fiba-world-cup
+7,Jevohn Shepherd,13,2,6,1,2,0,0,1,2,0,0,0,0,2,5,canada,2010-08-31,france,2010083130,Group Play,201030,fiba-world-cup
+8,Jermaine Bucknor,10,1,1,1,1,0,0,0,1,0,0,0,0,0,3,canada,2010-08-31,france,2010083130,Group Play,201030,fiba-world-cup
+9,Robert Sacre,8,0,1,0,0,0,0,1,2,0,1,1,1,0,0,canada,2010-08-31,france,2010083130,Group Play,201030,fiba-world-cup
+10,Ryan Bell,5,1,1,0,0,0,0,1,2,1,0,0,2,1,2,canada,2010-08-31,france,2010083130,Group Play,201030,fiba-world-cup
+11,Totals,,24,54,6,20,9,14,10,26,9,9,2,13,20,63,canada,2010-08-31,france,2010083130,Group Play,201030,fiba-world-cup

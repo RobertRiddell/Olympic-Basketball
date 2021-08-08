@@ -1,23 +1,23 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Vassilis Spanoulis,23.0,3,8,0,2,0,0,1,1,3,2,0,2,1,6,greece,2008-08-16,angola,2008081618,Group B,200818
-1,Panagiotis Vasilopoulos,22.0,4,9,2,3,0,0,1,5,0,2,0,2,2,10,greece,2008-08-16,angola,2008081618,Group B,200818
-2,Theodoros Papaloukas,22.0,2,4,1,1,3,4,0,3,3,0,0,0,1,8,greece,2008-08-16,angola,2008081618,Group B,200818
-3,Antonis Fotsis,22.0,2,3,1,2,2,2,1,7,5,1,1,1,0,7,greece,2008-08-16,angola,2008081618,Group B,200818
-4,Dimitris Diamantidis,21.0,3,7,1,1,0,0,2,4,0,1,0,1,0,7,greece,2008-08-16,angola,2008081618,Group B,200818
-5,Nikos Zisis,21.0,3,6,1,2,0,0,1,3,4,0,0,1,0,7,greece,2008-08-16,angola,2008081618,Group B,200818
-6,Andreas Glyniadakis,19.0,3,4,0,0,5,5,1,7,0,1,0,0,0,11,greece,2008-08-16,angola,2008081618,Group B,200818
-7,Michalis Pelekanos,16.0,3,5,2,4,0,0,0,1,0,2,0,0,3,8,greece,2008-08-16,angola,2008081618,Group B,200818
-8,Ioannis Bourousis,13.0,9,9,0,0,4,7,1,5,1,0,2,0,0,22,greece,2008-08-16,angola,2008081618,Group B,200818
-9,Giorgos Printezis,13.0,5,6,2,3,2,2,0,2,1,0,0,0,2,14,greece,2008-08-16,angola,2008081618,Group B,200818
-10,Kostas Tsartsaris,8.0,0,2,0,0,2,2,2,4,0,0,0,1,1,2,greece,2008-08-16,angola,2008081618,Group B,200818
-11,Totals,,37,63,10,18,18,22,10,42,17,9,3,8,10,102,greece,2008-08-16,angola,2008081618,Group B,200818
-0,Luis Costa,36.0,6,14,4,7,0,0,0,0,2,1,0,1,1,16,angola,2008-08-16,greece,2008081618,Group B,200818
-1,Armando Costa,35.0,1,7,0,4,0,0,1,5,4,1,0,5,4,2,angola,2008-08-16,greece,2008081618,Group B,200818
-2,Eduardo Mingas,34.0,10,18,3,6,0,1,2,3,1,0,0,2,2,23,angola,2008-08-16,greece,2008081618,Group B,200818
-3,Vladimir Jeronimo,31.0,3,12,1,4,1,2,3,7,1,2,1,5,2,8,angola,2008-08-16,greece,2008081618,Group B,200818
-4,Joaquim Gomes,22.0,2,5,1,2,0,0,0,4,1,1,0,0,2,5,angola,2008-08-16,greece,2008081618,Group B,200818
-5,Felizardo Ambrosio,16.0,2,3,0,1,0,1,1,4,2,0,0,1,3,4,angola,2008-08-16,greece,2008081618,Group B,200818
-6,Olimpio Cipriano,13.0,0,1,0,0,0,0,0,1,0,0,1,1,2,0,angola,2008-08-16,greece,2008081618,Group B,200818
-7,Milton Barros,9.0,1,3,1,3,0,0,0,0,1,0,0,0,2,3,angola,2008-08-16,greece,2008081618,Group B,200818
-8,Abdel Moussa,4.0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,angola,2008-08-16,greece,2008081618,Group B,200818
-9,Totals,,25,64,10,27,1,4,7,25,12,5,2,15,18,61,angola,2008-08-16,greece,2008081618,Group B,200818
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Vassilis Spanoulis,23.0,3,8,0,2,0,0,1,1,3,2,0,2,1,6,greece,2008-08-16,angola,2008081618,Group B,200818,mens-olympics
+1,Panagiotis Vasilopoulos,22.0,4,9,2,3,0,0,1,5,0,2,0,2,2,10,greece,2008-08-16,angola,2008081618,Group B,200818,mens-olympics
+2,Theodoros Papaloukas,22.0,2,4,1,1,3,4,0,3,3,0,0,0,1,8,greece,2008-08-16,angola,2008081618,Group B,200818,mens-olympics
+3,Antonis Fotsis,22.0,2,3,1,2,2,2,1,7,5,1,1,1,0,7,greece,2008-08-16,angola,2008081618,Group B,200818,mens-olympics
+4,Dimitris Diamantidis,21.0,3,7,1,1,0,0,2,4,0,1,0,1,0,7,greece,2008-08-16,angola,2008081618,Group B,200818,mens-olympics
+5,Nikos Zisis,21.0,3,6,1,2,0,0,1,3,4,0,0,1,0,7,greece,2008-08-16,angola,2008081618,Group B,200818,mens-olympics
+6,Andreas Glyniadakis,19.0,3,4,0,0,5,5,1,7,0,1,0,0,0,11,greece,2008-08-16,angola,2008081618,Group B,200818,mens-olympics
+7,Michalis Pelekanos,16.0,3,5,2,4,0,0,0,1,0,2,0,0,3,8,greece,2008-08-16,angola,2008081618,Group B,200818,mens-olympics
+8,Ioannis Bourousis,13.0,9,9,0,0,4,7,1,5,1,0,2,0,0,22,greece,2008-08-16,angola,2008081618,Group B,200818,mens-olympics
+9,Giorgos Printezis,13.0,5,6,2,3,2,2,0,2,1,0,0,0,2,14,greece,2008-08-16,angola,2008081618,Group B,200818,mens-olympics
+10,Kostas Tsartsaris,8.0,0,2,0,0,2,2,2,4,0,0,0,1,1,2,greece,2008-08-16,angola,2008081618,Group B,200818,mens-olympics
+11,Totals,,37,63,10,18,18,22,10,42,17,9,3,8,10,102,greece,2008-08-16,angola,2008081618,Group B,200818,mens-olympics
+0,Luis Costa,36.0,6,14,4,7,0,0,0,0,2,1,0,1,1,16,angola,2008-08-16,greece,2008081618,Group B,200818,mens-olympics
+1,Armando Costa,35.0,1,7,0,4,0,0,1,5,4,1,0,5,4,2,angola,2008-08-16,greece,2008081618,Group B,200818,mens-olympics
+2,Eduardo Mingas,34.0,10,18,3,6,0,1,2,3,1,0,0,2,2,23,angola,2008-08-16,greece,2008081618,Group B,200818,mens-olympics
+3,Vladimir Jeronimo,31.0,3,12,1,4,1,2,3,7,1,2,1,5,2,8,angola,2008-08-16,greece,2008081618,Group B,200818,mens-olympics
+4,Joaquim Gomes,22.0,2,5,1,2,0,0,0,4,1,1,0,0,2,5,angola,2008-08-16,greece,2008081618,Group B,200818,mens-olympics
+5,Felizardo Ambrosio,16.0,2,3,0,1,0,1,1,4,2,0,0,1,3,4,angola,2008-08-16,greece,2008081618,Group B,200818,mens-olympics
+6,Olimpio Cipriano,13.0,0,1,0,0,0,0,0,1,0,0,1,1,2,0,angola,2008-08-16,greece,2008081618,Group B,200818,mens-olympics
+7,Milton Barros,9.0,1,3,1,3,0,0,0,0,1,0,0,0,2,3,angola,2008-08-16,greece,2008081618,Group B,200818,mens-olympics
+8,Abdel Moussa,4.0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,angola,2008-08-16,greece,2008081618,Group B,200818,mens-olympics
+9,Totals,,25,64,10,27,1,4,7,25,12,5,2,15,18,61,angola,2008-08-16,greece,2008081618,Group B,200818,mens-olympics

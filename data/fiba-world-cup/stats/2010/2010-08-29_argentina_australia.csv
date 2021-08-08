@@ -1,26 +1,26 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Hernan Jasen,35,1,7,1,5,1,3,4,10,1,2,1,4,3,4,argentina,2010-08-29,australia,2010082913,Group Play,201013
-1,Pablo Prigioni,34,3,6,3,5,0,0,1,3,7,0,0,3,0,9,argentina,2010-08-29,australia,2010082913,Group Play,201013
-2,Luis Scola,33,11,19,0,0,9,10,4,9,1,0,0,3,3,31,argentina,2010-08-29,australia,2010082913,Group Play,201013
-3,Leo Gutierrez,33,6,11,5,10,0,1,0,3,1,0,0,0,5,17,argentina,2010-08-29,australia,2010082913,Group Play,201013
-4,Carlos Delfino,28,3,11,0,6,1,1,0,6,4,0,0,3,4,7,argentina,2010-08-29,australia,2010082913,Group Play,201013
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,argentina,2010-08-29,australia,2010082913,Group Play,201013
-6,Federico Kammerichs,12,0,0,0,0,2,6,1,4,0,0,0,1,1,2,argentina,2010-08-29,australia,2010082913,Group Play,201013
-7,Roman Gonzalez,9,1,2,0,0,0,0,1,4,0,0,0,0,2,2,argentina,2010-08-29,australia,2010082913,Group Play,201013
-8,Luis Eduardo Cequeira,7,1,1,0,0,0,0,0,0,1,0,0,0,3,2,argentina,2010-08-29,australia,2010082913,Group Play,201013
-9,Paulo Quinteros,5,0,0,0,0,0,0,0,0,1,0,0,0,1,0,argentina,2010-08-29,australia,2010082913,Group Play,201013
-10,Juan Gutierrez,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,argentina,2010-08-29,australia,2010082913,Group Play,201013
-11,Totals,,26,57,9,26,13,21,11,40,16,2,1,14,22,74,argentina,2010-08-29,australia,2010082913,Group Play,201013
-0,Joe Ingles,31,9,15,2,7,2,3,2,4,3,2,0,0,3,22,australia,2010-08-29,argentina,2010082913,Group Play,201013
-1,Matt Nielsen,31,4,10,1,3,1,4,1,10,1,1,0,2,4,10,australia,2010-08-29,argentina,2010082913,Group Play,201013
-2,Patty Mills,29,5,14,4,9,7,8,0,0,5,0,0,0,0,21,australia,2010-08-29,argentina,2010082913,Group Play,201013
-3,David Andersen,28,3,8,0,1,1,1,3,8,1,1,0,0,3,7,australia,2010-08-29,argentina,2010082913,Group Play,201013
-4,Adam Gibson,20,3,9,1,6,0,0,0,0,0,0,0,0,1,7,australia,2010-08-29,argentina,2010082913,Group Play,201013
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,australia,2010-08-29,argentina,2010082913,Group Play,201013
-6,Brad Newley,23,2,8,1,5,0,2,1,3,0,0,0,0,1,5,australia,2010-08-29,argentina,2010082913,Group Play,201013
-7,Aleks Maric,13,0,2,0,0,0,0,0,1,0,0,0,4,4,0,australia,2010-08-29,argentina,2010082913,Group Play,201013
-8,David Barlow,10,0,1,0,1,0,0,0,2,0,2,0,0,2,0,australia,2010-08-29,argentina,2010082913,Group Play,201013
-9,Mark Worthington,7,0,0,0,0,0,0,1,2,2,0,0,0,1,0,australia,2010-08-29,argentina,2010082913,Group Play,201013
-10,Damian Martin,6,0,0,0,0,0,0,0,1,0,0,0,0,1,0,australia,2010-08-29,argentina,2010082913,Group Play,201013
-11,Aron Baynes,2,0,0,0,0,0,0,1,1,0,0,0,0,1,0,australia,2010-08-29,argentina,2010082913,Group Play,201013
-12,Totals,,26,67,9,32,11,18,9,32,12,6,0,6,21,72,australia,2010-08-29,argentina,2010082913,Group Play,201013
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Hernan Jasen,35,1,7,1,5,1,3,4,10,1,2,1,4,3,4,argentina,2010-08-29,australia,2010082913,Group Play,201013,fiba-world-cup
+1,Pablo Prigioni,34,3,6,3,5,0,0,1,3,7,0,0,3,0,9,argentina,2010-08-29,australia,2010082913,Group Play,201013,fiba-world-cup
+2,Luis Scola,33,11,19,0,0,9,10,4,9,1,0,0,3,3,31,argentina,2010-08-29,australia,2010082913,Group Play,201013,fiba-world-cup
+3,Leo Gutierrez,33,6,11,5,10,0,1,0,3,1,0,0,0,5,17,argentina,2010-08-29,australia,2010082913,Group Play,201013,fiba-world-cup
+4,Carlos Delfino,28,3,11,0,6,1,1,0,6,4,0,0,3,4,7,argentina,2010-08-29,australia,2010082913,Group Play,201013,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,argentina,2010-08-29,australia,2010082913,Group Play,201013,fiba-world-cup
+6,Federico Kammerichs,12,0,0,0,0,2,6,1,4,0,0,0,1,1,2,argentina,2010-08-29,australia,2010082913,Group Play,201013,fiba-world-cup
+7,Roman Gonzalez,9,1,2,0,0,0,0,1,4,0,0,0,0,2,2,argentina,2010-08-29,australia,2010082913,Group Play,201013,fiba-world-cup
+8,Luis Eduardo Cequeira,7,1,1,0,0,0,0,0,0,1,0,0,0,3,2,argentina,2010-08-29,australia,2010082913,Group Play,201013,fiba-world-cup
+9,Paulo Quinteros,5,0,0,0,0,0,0,0,0,1,0,0,0,1,0,argentina,2010-08-29,australia,2010082913,Group Play,201013,fiba-world-cup
+10,Juan Gutierrez,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,argentina,2010-08-29,australia,2010082913,Group Play,201013,fiba-world-cup
+11,Totals,,26,57,9,26,13,21,11,40,16,2,1,14,22,74,argentina,2010-08-29,australia,2010082913,Group Play,201013,fiba-world-cup
+0,Joe Ingles,31,9,15,2,7,2,3,2,4,3,2,0,0,3,22,australia,2010-08-29,argentina,2010082913,Group Play,201013,fiba-world-cup
+1,Matt Nielsen,31,4,10,1,3,1,4,1,10,1,1,0,2,4,10,australia,2010-08-29,argentina,2010082913,Group Play,201013,fiba-world-cup
+2,Patty Mills,29,5,14,4,9,7,8,0,0,5,0,0,0,0,21,australia,2010-08-29,argentina,2010082913,Group Play,201013,fiba-world-cup
+3,David Andersen,28,3,8,0,1,1,1,3,8,1,1,0,0,3,7,australia,2010-08-29,argentina,2010082913,Group Play,201013,fiba-world-cup
+4,Adam Gibson,20,3,9,1,6,0,0,0,0,0,0,0,0,1,7,australia,2010-08-29,argentina,2010082913,Group Play,201013,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,australia,2010-08-29,argentina,2010082913,Group Play,201013,fiba-world-cup
+6,Brad Newley,23,2,8,1,5,0,2,1,3,0,0,0,0,1,5,australia,2010-08-29,argentina,2010082913,Group Play,201013,fiba-world-cup
+7,Aleks Maric,13,0,2,0,0,0,0,0,1,0,0,0,4,4,0,australia,2010-08-29,argentina,2010082913,Group Play,201013,fiba-world-cup
+8,David Barlow,10,0,1,0,1,0,0,0,2,0,2,0,0,2,0,australia,2010-08-29,argentina,2010082913,Group Play,201013,fiba-world-cup
+9,Mark Worthington,7,0,0,0,0,0,0,1,2,2,0,0,0,1,0,australia,2010-08-29,argentina,2010082913,Group Play,201013,fiba-world-cup
+10,Damian Martin,6,0,0,0,0,0,0,0,1,0,0,0,0,1,0,australia,2010-08-29,argentina,2010082913,Group Play,201013,fiba-world-cup
+11,Aron Baynes,2,0,0,0,0,0,0,1,1,0,0,0,0,1,0,australia,2010-08-29,argentina,2010082913,Group Play,201013,fiba-world-cup
+12,Totals,,26,67,9,32,11,18,9,32,12,6,0,6,21,72,australia,2010-08-29,argentina,2010082913,Group Play,201013,fiba-world-cup

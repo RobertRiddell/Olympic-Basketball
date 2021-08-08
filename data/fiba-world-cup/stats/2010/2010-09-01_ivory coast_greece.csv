@@ -1,28 +1,28 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Souleyman Diabate,34,1,8,0,4,2,2,2,2,6,1,0,2,3,4,ivory coast,2010-09-01,greece,2010090139,Group Play,201039
-1,Guy Edi,25,3,9,3,5,0,1,1,2,0,0,0,3,3,9,ivory coast,2010-09-01,greece,2010090139,Group Play,201039
-2,Herve Lamizana,21,3,5,1,2,2,4,0,4,0,0,4,1,2,9,ivory coast,2010-09-01,greece,2010090139,Group Play,201039
-3,Kinidinnin Stephane Konate Sornan,21,1,4,0,0,0,2,1,2,1,0,0,3,1,2,ivory coast,2010-09-01,greece,2010090139,Group Play,201039
-4,Mohamed Kone,18,2,5,0,1,1,2,2,5,1,3,0,3,2,5,ivory coast,2010-09-01,greece,2010090139,Group Play,201039
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,ivory coast,2010-09-01,greece,2010090139,Group Play,201039
-6,Brice Kevin Assie,22,4,6,0,0,3,6,3,7,0,1,1,1,3,11,ivory coast,2010-09-01,greece,2010090139,Group Play,201039
-7,Jonathan Monyongo Kale,19,2,5,0,1,4,6,3,5,0,1,0,0,3,8,ivory coast,2010-09-01,greece,2010090139,Group Play,201039
-8,Eric Tape,15,1,7,0,3,0,0,1,4,1,0,2,0,0,2,ivory coast,2010-09-01,greece,2010090139,Group Play,201039
-9,Charles Abouo,13,1,6,1,2,1,2,0,1,0,0,0,1,1,4,ivory coast,2010-09-01,greece,2010090139,Group Play,201039
-10,Ismael N'Diaye,10,2,5,0,0,2,2,0,1,1,0,0,1,0,6,ivory coast,2010-09-01,greece,2010090139,Group Play,201039
-11,Pape-Philippe Amagou,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,ivory coast,2010-09-01,greece,2010090139,Group Play,201039
-12,Totals,,20,60,5,18,15,27,13,33,10,6,7,15,19,60,ivory coast,2010-09-01,greece,2010090139,Group Play,201039
-0,Vassilis Spanoulis,21,3,5,2,3,2,2,0,2,3,1,0,2,0,10,greece,2010-09-01,ivory coast,2010090139,Group Play,201039
-1,Nikos Zisis,20,1,7,0,2,2,2,1,2,3,0,0,3,2,4,greece,2010-09-01,ivory coast,2010090139,Group Play,201039
-2,Dimitris Diamantidis,18,2,3,1,2,0,0,0,3,5,2,0,1,1,5,greece,2010-09-01,ivory coast,2010090139,Group Play,201039
-3,Ioannis Bourousis,16,3,9,2,6,1,1,2,7,1,2,0,1,1,9,greece,2010-09-01,ivory coast,2010090139,Group Play,201039
-4,Kostas Tsartsaris,11,4,7,0,0,4,4,4,5,0,0,0,0,0,12,greece,2010-09-01,ivory coast,2010090139,Group Play,201039
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,greece,2010-09-01,ivory coast,2010090139,Group Play,201039
-6,Nick Calathes,25,7,10,0,2,1,1,2,7,8,2,0,1,1,15,greece,2010-09-01,ivory coast,2010090139,Group Play,201039
-7,Sofoklis Schortsanitis,20,3,4,0,0,4,8,2,4,0,2,0,2,4,10,greece,2010-09-01,ivory coast,2010090139,Group Play,201039
-8,Stratos Perperoglou,19,1,4,0,1,0,0,0,1,4,1,0,0,3,2,greece,2010-09-01,ivory coast,2010090139,Group Play,201039
-9,Giorgos Printezis,16,5,8,1,3,1,1,0,2,0,1,0,0,4,12,greece,2010-09-01,ivory coast,2010090139,Group Play,201039
-10,Antonis Fotsis,13,2,6,2,4,0,0,2,6,1,1,1,1,1,6,greece,2010-09-01,ivory coast,2010090139,Group Play,201039
-11,Kostas Kaimakoglou,12,3,4,2,2,0,0,0,2,1,0,0,0,3,8,greece,2010-09-01,ivory coast,2010090139,Group Play,201039
-12,Ian Vouyoukas,9,1,2,0,0,2,2,0,3,0,0,1,0,2,4,greece,2010-09-01,ivory coast,2010090139,Group Play,201039
-13,Totals,,35,69,10,25,17,21,13,44,26,12,2,11,22,97,greece,2010-09-01,ivory coast,2010090139,Group Play,201039
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Souleyman Diabate,34,1,8,0,4,2,2,2,2,6,1,0,2,3,4,ivory coast,2010-09-01,greece,2010090139,Group Play,201039,fiba-world-cup
+1,Guy Edi,25,3,9,3,5,0,1,1,2,0,0,0,3,3,9,ivory coast,2010-09-01,greece,2010090139,Group Play,201039,fiba-world-cup
+2,Herve Lamizana,21,3,5,1,2,2,4,0,4,0,0,4,1,2,9,ivory coast,2010-09-01,greece,2010090139,Group Play,201039,fiba-world-cup
+3,Kinidinnin Stephane Konate Sornan,21,1,4,0,0,0,2,1,2,1,0,0,3,1,2,ivory coast,2010-09-01,greece,2010090139,Group Play,201039,fiba-world-cup
+4,Mohamed Kone,18,2,5,0,1,1,2,2,5,1,3,0,3,2,5,ivory coast,2010-09-01,greece,2010090139,Group Play,201039,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,ivory coast,2010-09-01,greece,2010090139,Group Play,201039,fiba-world-cup
+6,Brice Kevin Assie,22,4,6,0,0,3,6,3,7,0,1,1,1,3,11,ivory coast,2010-09-01,greece,2010090139,Group Play,201039,fiba-world-cup
+7,Jonathan Monyongo Kale,19,2,5,0,1,4,6,3,5,0,1,0,0,3,8,ivory coast,2010-09-01,greece,2010090139,Group Play,201039,fiba-world-cup
+8,Eric Tape,15,1,7,0,3,0,0,1,4,1,0,2,0,0,2,ivory coast,2010-09-01,greece,2010090139,Group Play,201039,fiba-world-cup
+9,Charles Abouo,13,1,6,1,2,1,2,0,1,0,0,0,1,1,4,ivory coast,2010-09-01,greece,2010090139,Group Play,201039,fiba-world-cup
+10,Ismael N'Diaye,10,2,5,0,0,2,2,0,1,1,0,0,1,0,6,ivory coast,2010-09-01,greece,2010090139,Group Play,201039,fiba-world-cup
+11,Pape-Philippe Amagou,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,ivory coast,2010-09-01,greece,2010090139,Group Play,201039,fiba-world-cup
+12,Totals,,20,60,5,18,15,27,13,33,10,6,7,15,19,60,ivory coast,2010-09-01,greece,2010090139,Group Play,201039,fiba-world-cup
+0,Vassilis Spanoulis,21,3,5,2,3,2,2,0,2,3,1,0,2,0,10,greece,2010-09-01,ivory coast,2010090139,Group Play,201039,fiba-world-cup
+1,Nikos Zisis,20,1,7,0,2,2,2,1,2,3,0,0,3,2,4,greece,2010-09-01,ivory coast,2010090139,Group Play,201039,fiba-world-cup
+2,Dimitris Diamantidis,18,2,3,1,2,0,0,0,3,5,2,0,1,1,5,greece,2010-09-01,ivory coast,2010090139,Group Play,201039,fiba-world-cup
+3,Ioannis Bourousis,16,3,9,2,6,1,1,2,7,1,2,0,1,1,9,greece,2010-09-01,ivory coast,2010090139,Group Play,201039,fiba-world-cup
+4,Kostas Tsartsaris,11,4,7,0,0,4,4,4,5,0,0,0,0,0,12,greece,2010-09-01,ivory coast,2010090139,Group Play,201039,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,greece,2010-09-01,ivory coast,2010090139,Group Play,201039,fiba-world-cup
+6,Nick Calathes,25,7,10,0,2,1,1,2,7,8,2,0,1,1,15,greece,2010-09-01,ivory coast,2010090139,Group Play,201039,fiba-world-cup
+7,Sofoklis Schortsanitis,20,3,4,0,0,4,8,2,4,0,2,0,2,4,10,greece,2010-09-01,ivory coast,2010090139,Group Play,201039,fiba-world-cup
+8,Stratos Perperoglou,19,1,4,0,1,0,0,0,1,4,1,0,0,3,2,greece,2010-09-01,ivory coast,2010090139,Group Play,201039,fiba-world-cup
+9,Giorgos Printezis,16,5,8,1,3,1,1,0,2,0,1,0,0,4,12,greece,2010-09-01,ivory coast,2010090139,Group Play,201039,fiba-world-cup
+10,Antonis Fotsis,13,2,6,2,4,0,0,2,6,1,1,1,1,1,6,greece,2010-09-01,ivory coast,2010090139,Group Play,201039,fiba-world-cup
+11,Kostas Kaimakoglou,12,3,4,2,2,0,0,0,2,1,0,0,0,3,8,greece,2010-09-01,ivory coast,2010090139,Group Play,201039,fiba-world-cup
+12,Ian Vouyoukas,9,1,2,0,0,2,2,0,3,0,0,1,0,2,4,greece,2010-09-01,ivory coast,2010090139,Group Play,201039,fiba-world-cup
+13,Totals,,35,69,10,25,17,21,13,44,26,12,2,11,22,97,greece,2010-09-01,ivory coast,2010090139,Group Play,201039,fiba-world-cup

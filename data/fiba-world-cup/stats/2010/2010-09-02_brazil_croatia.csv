@@ -1,26 +1,26 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Alex Garcia,29,4,9,2,5,5,9,0,3,2,1,1,1,0,15,brazil,2010-09-02,croatia,2010090251,Group Play,201051
-1,Marcelo Huertas,29,2,3,1,1,2,2,0,2,6,1,0,2,1,7,brazil,2010-09-02,croatia,2010090251,Group Play,201051
-2,Leandro Barbosa,27,6,10,0,2,5,5,0,4,0,0,0,1,2,17,brazil,2010-09-02,croatia,2010090251,Group Play,201051
-3,Anderson Varejao,24,1,4,0,0,0,0,4,12,0,0,0,1,2,2,brazil,2010-09-02,croatia,2010090251,Group Play,201051
-4,Tiago Splitter,16,1,4,0,1,4,4,1,4,4,0,1,3,3,6,brazil,2010-09-02,croatia,2010090251,Group Play,201051
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,brazil,2010-09-02,croatia,2010090251,Group Play,201051
-6,Marcelinho Machado,19,4,5,4,5,6,7,0,3,0,0,1,1,2,18,brazil,2010-09-02,croatia,2010090251,Group Play,201051
-7,Murilo Becker,18,3,5,1,2,0,0,0,2,1,0,1,0,3,7,brazil,2010-09-02,croatia,2010090251,Group Play,201051
-8,Guilherme Giovannoni,12,4,5,2,2,2,2,0,1,0,0,1,1,3,12,brazil,2010-09-02,croatia,2010090251,Group Play,201051
-9,Nezinho Dos Santos,11,0,1,0,0,0,0,0,0,2,0,0,0,1,0,brazil,2010-09-02,croatia,2010090251,Group Play,201051
-10,JP Batista,10,3,4,0,0,0,0,1,3,1,0,0,1,4,6,brazil,2010-09-02,croatia,2010090251,Group Play,201051
-11,Marcus Vinicius,5,1,3,0,1,0,0,0,1,0,1,0,0,0,2,brazil,2010-09-02,croatia,2010090251,Group Play,201051
-12,Totals,,29,53,10,19,24,29,6,35,16,3,5,11,21,92,brazil,2010-09-02,croatia,2010090251,Group Play,201051
-0,Luksa Andric,29,3,6,0,2,5,7,1,2,0,2,0,1,3,11,croatia,2010-09-02,brazil,2010090251,Group Play,201051
-1,Marko Tomas,29,3,8,3,6,0,0,3,3,3,2,1,1,5,9,croatia,2010-09-02,brazil,2010090251,Group Play,201051
-2,Roko Ukic,29,2,8,0,4,0,0,0,0,2,2,0,1,1,4,croatia,2010-09-02,brazil,2010090251,Group Play,201051
-3,Bojan Bogdanovic,26,3,7,2,5,2,4,3,6,1,0,0,0,2,10,croatia,2010-09-02,brazil,2010090251,Group Play,201051
-4,Ante Tomic,11,1,5,0,0,0,0,1,1,0,0,0,1,5,2,croatia,2010-09-02,brazil,2010090251,Group Play,201051
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,croatia,2010-09-02,brazil,2010090251,Group Play,201051
-6,Kresimir Loncar,19,4,13,0,1,4,4,1,6,0,0,0,1,3,12,croatia,2010-09-02,brazil,2010090251,Group Play,201051
-7,Marko Banic,19,2,9,0,0,0,0,2,3,1,0,0,0,1,4,croatia,2010-09-02,brazil,2010090251,Group Play,201051
-8,Marko Popovic,17,6,8,2,4,1,2,1,4,0,1,0,0,3,15,croatia,2010-09-02,brazil,2010090251,Group Play,201051
-9,Davor Kus,16,0,2,0,1,4,4,0,0,1,0,0,0,1,4,croatia,2010-09-02,brazil,2010090251,Group Play,201051
-10,Zoran Planinic,6,1,1,0,0,1,2,0,0,1,0,0,1,0,3,croatia,2010-09-02,brazil,2010090251,Group Play,201051
-11,Totals,,25,67,7,23,17,23,12,25,9,7,1,6,24,74,croatia,2010-09-02,brazil,2010090251,Group Play,201051
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Alex Garcia,29,4,9,2,5,5,9,0,3,2,1,1,1,0,15,brazil,2010-09-02,croatia,2010090251,Group Play,201051,fiba-world-cup
+1,Marcelo Huertas,29,2,3,1,1,2,2,0,2,6,1,0,2,1,7,brazil,2010-09-02,croatia,2010090251,Group Play,201051,fiba-world-cup
+2,Leandro Barbosa,27,6,10,0,2,5,5,0,4,0,0,0,1,2,17,brazil,2010-09-02,croatia,2010090251,Group Play,201051,fiba-world-cup
+3,Anderson Varejao,24,1,4,0,0,0,0,4,12,0,0,0,1,2,2,brazil,2010-09-02,croatia,2010090251,Group Play,201051,fiba-world-cup
+4,Tiago Splitter,16,1,4,0,1,4,4,1,4,4,0,1,3,3,6,brazil,2010-09-02,croatia,2010090251,Group Play,201051,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,brazil,2010-09-02,croatia,2010090251,Group Play,201051,fiba-world-cup
+6,Marcelinho Machado,19,4,5,4,5,6,7,0,3,0,0,1,1,2,18,brazil,2010-09-02,croatia,2010090251,Group Play,201051,fiba-world-cup
+7,Murilo Becker,18,3,5,1,2,0,0,0,2,1,0,1,0,3,7,brazil,2010-09-02,croatia,2010090251,Group Play,201051,fiba-world-cup
+8,Guilherme Giovannoni,12,4,5,2,2,2,2,0,1,0,0,1,1,3,12,brazil,2010-09-02,croatia,2010090251,Group Play,201051,fiba-world-cup
+9,Nezinho Dos Santos,11,0,1,0,0,0,0,0,0,2,0,0,0,1,0,brazil,2010-09-02,croatia,2010090251,Group Play,201051,fiba-world-cup
+10,JP Batista,10,3,4,0,0,0,0,1,3,1,0,0,1,4,6,brazil,2010-09-02,croatia,2010090251,Group Play,201051,fiba-world-cup
+11,Marcus Vinicius,5,1,3,0,1,0,0,0,1,0,1,0,0,0,2,brazil,2010-09-02,croatia,2010090251,Group Play,201051,fiba-world-cup
+12,Totals,,29,53,10,19,24,29,6,35,16,3,5,11,21,92,brazil,2010-09-02,croatia,2010090251,Group Play,201051,fiba-world-cup
+0,Luksa Andric,29,3,6,0,2,5,7,1,2,0,2,0,1,3,11,croatia,2010-09-02,brazil,2010090251,Group Play,201051,fiba-world-cup
+1,Marko Tomas,29,3,8,3,6,0,0,3,3,3,2,1,1,5,9,croatia,2010-09-02,brazil,2010090251,Group Play,201051,fiba-world-cup
+2,Roko Ukic,29,2,8,0,4,0,0,0,0,2,2,0,1,1,4,croatia,2010-09-02,brazil,2010090251,Group Play,201051,fiba-world-cup
+3,Bojan Bogdanovic,26,3,7,2,5,2,4,3,6,1,0,0,0,2,10,croatia,2010-09-02,brazil,2010090251,Group Play,201051,fiba-world-cup
+4,Ante Tomic,11,1,5,0,0,0,0,1,1,0,0,0,1,5,2,croatia,2010-09-02,brazil,2010090251,Group Play,201051,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,croatia,2010-09-02,brazil,2010090251,Group Play,201051,fiba-world-cup
+6,Kresimir Loncar,19,4,13,0,1,4,4,1,6,0,0,0,1,3,12,croatia,2010-09-02,brazil,2010090251,Group Play,201051,fiba-world-cup
+7,Marko Banic,19,2,9,0,0,0,0,2,3,1,0,0,0,1,4,croatia,2010-09-02,brazil,2010090251,Group Play,201051,fiba-world-cup
+8,Marko Popovic,17,6,8,2,4,1,2,1,4,0,1,0,0,3,15,croatia,2010-09-02,brazil,2010090251,Group Play,201051,fiba-world-cup
+9,Davor Kus,16,0,2,0,1,4,4,0,0,1,0,0,0,1,4,croatia,2010-09-02,brazil,2010090251,Group Play,201051,fiba-world-cup
+10,Zoran Planinic,6,1,1,0,0,1,2,0,0,1,0,0,1,0,3,croatia,2010-09-02,brazil,2010090251,Group Play,201051,fiba-world-cup
+11,Totals,,25,67,7,23,17,23,12,25,9,7,1,6,24,74,croatia,2010-09-02,brazil,2010090251,Group Play,201051,fiba-world-cup

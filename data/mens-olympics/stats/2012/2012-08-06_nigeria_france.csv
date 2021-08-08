@@ -1,23 +1,23 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Derrick Obasohan,38.0,8,16,1,3,1,3,0,2,0,0,0,2,1,18,nigeria,2012-08-06,france,2012080628,Group A,201228
-1,Champ Oguchi,33.0,10,20,8,14,7,7,1,3,2,2,0,3,3,35,nigeria,2012-08-06,france,2012080628,Group A,201228
-2,Ike Diogu,32.0,2,10,1,2,1,2,0,7,1,1,0,1,3,6,nigeria,2012-08-06,france,2012080628,Group A,201228
-3,Al-Farouq Aminu,27.0,0,5,0,0,0,0,1,3,2,2,0,3,1,0,nigeria,2012-08-06,france,2012080628,Group A,201228
-4,Olumide Oyedeji,20.0,0,0,0,0,2,2,1,3,0,1,0,0,2,2,nigeria,2012-08-06,france,2012080628,Group A,201228
-5,Alade Aminu,16.0,4,6,0,0,1,3,4,7,0,0,0,1,3,9,nigeria,2012-08-06,france,2012080628,Group A,201228
-6,Richard Oruche,14.0,1,3,0,1,1,2,0,0,2,0,0,2,1,3,nigeria,2012-08-06,france,2012080628,Group A,201228
-7,Ejike Ugboaja,9.0,0,1,0,0,0,0,1,3,1,0,0,2,0,0,nigeria,2012-08-06,france,2012080628,Group A,201228
-8,Koko Archibong,8.0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,nigeria,2012-08-06,france,2012080628,Group A,201228
-9,Ekene Ibekwe,2.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,nigeria,2012-08-06,france,2012080628,Group A,201228
-10,Totals,,25,61,10,20,13,19,8,30,10,6,0,15,16,73,nigeria,2012-08-06,france,2012080628,Group A,201228
-0,Boris Diaw,29.0,4,5,0,0,2,4,2,6,4,3,2,2,0,10,france,2012-08-06,nigeria,2012080628,Group A,201228
-1,Nicolas Batum,25.0,8,13,4,9,3,3,0,6,0,2,1,2,3,23,france,2012-08-06,nigeria,2012080628,Group A,201228
-2,Mickael Gelabale,24.0,5,11,0,4,1,2,2,5,2,0,0,3,1,11,france,2012-08-06,nigeria,2012080628,Group A,201228
-3,Nando De Colo,24.0,3,8,2,5,0,0,0,0,4,4,0,3,3,8,france,2012-08-06,nigeria,2012080628,Group A,201228
-4,Kevin Seraphin,22.0,4,5,0,0,1,2,2,5,2,0,2,1,3,9,france,2012-08-06,nigeria,2012080628,Group A,201228
-5,Tony Parker,21.0,1,6,0,2,1,2,1,2,7,0,0,0,1,3,france,2012-08-06,nigeria,2012080628,Group A,201228
-6,Ali Traore,21.0,2,4,0,0,3,4,1,5,0,0,1,2,2,7,france,2012-08-06,nigeria,2012080628,Group A,201228
-7,Yakhouba Diawara,17.0,3,6,2,5,0,0,0,1,1,2,0,0,3,8,france,2012-08-06,nigeria,2012080628,Group A,201228
-8,Fabien Causeur,8.0,0,2,0,1,0,0,0,1,1,0,0,0,1,0,france,2012-08-06,nigeria,2012080628,Group A,201228
-9,Yannick Bokolo,8.0,0,2,0,2,0,0,0,1,3,0,0,0,1,0,france,2012-08-06,nigeria,2012080628,Group A,201228
-10,Totals,,30,62,8,28,11,17,8,32,24,11,6,13,18,79,france,2012-08-06,nigeria,2012080628,Group A,201228
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Derrick Obasohan,38.0,8,16,1,3,1,3,0,2,0,0,0,2,1,18,nigeria,2012-08-06,france,2012080628,Group A,201228,mens-olympics
+1,Champ Oguchi,33.0,10,20,8,14,7,7,1,3,2,2,0,3,3,35,nigeria,2012-08-06,france,2012080628,Group A,201228,mens-olympics
+2,Ike Diogu,32.0,2,10,1,2,1,2,0,7,1,1,0,1,3,6,nigeria,2012-08-06,france,2012080628,Group A,201228,mens-olympics
+3,Al-Farouq Aminu,27.0,0,5,0,0,0,0,1,3,2,2,0,3,1,0,nigeria,2012-08-06,france,2012080628,Group A,201228,mens-olympics
+4,Olumide Oyedeji,20.0,0,0,0,0,2,2,1,3,0,1,0,0,2,2,nigeria,2012-08-06,france,2012080628,Group A,201228,mens-olympics
+5,Alade Aminu,16.0,4,6,0,0,1,3,4,7,0,0,0,1,3,9,nigeria,2012-08-06,france,2012080628,Group A,201228,mens-olympics
+6,Richard Oruche,14.0,1,3,0,1,1,2,0,0,2,0,0,2,1,3,nigeria,2012-08-06,france,2012080628,Group A,201228,mens-olympics
+7,Ejike Ugboaja,9.0,0,1,0,0,0,0,1,3,1,0,0,2,0,0,nigeria,2012-08-06,france,2012080628,Group A,201228,mens-olympics
+8,Koko Archibong,8.0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,nigeria,2012-08-06,france,2012080628,Group A,201228,mens-olympics
+9,Ekene Ibekwe,2.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,nigeria,2012-08-06,france,2012080628,Group A,201228,mens-olympics
+10,Totals,,25,61,10,20,13,19,8,30,10,6,0,15,16,73,nigeria,2012-08-06,france,2012080628,Group A,201228,mens-olympics
+0,Boris Diaw,29.0,4,5,0,0,2,4,2,6,4,3,2,2,0,10,france,2012-08-06,nigeria,2012080628,Group A,201228,mens-olympics
+1,Nicolas Batum,25.0,8,13,4,9,3,3,0,6,0,2,1,2,3,23,france,2012-08-06,nigeria,2012080628,Group A,201228,mens-olympics
+2,Mickael Gelabale,24.0,5,11,0,4,1,2,2,5,2,0,0,3,1,11,france,2012-08-06,nigeria,2012080628,Group A,201228,mens-olympics
+3,Nando De Colo,24.0,3,8,2,5,0,0,0,0,4,4,0,3,3,8,france,2012-08-06,nigeria,2012080628,Group A,201228,mens-olympics
+4,Kevin Seraphin,22.0,4,5,0,0,1,2,2,5,2,0,2,1,3,9,france,2012-08-06,nigeria,2012080628,Group A,201228,mens-olympics
+5,Tony Parker,21.0,1,6,0,2,1,2,1,2,7,0,0,0,1,3,france,2012-08-06,nigeria,2012080628,Group A,201228,mens-olympics
+6,Ali Traore,21.0,2,4,0,0,3,4,1,5,0,0,1,2,2,7,france,2012-08-06,nigeria,2012080628,Group A,201228,mens-olympics
+7,Yakhouba Diawara,17.0,3,6,2,5,0,0,0,1,1,2,0,0,3,8,france,2012-08-06,nigeria,2012080628,Group A,201228,mens-olympics
+8,Fabien Causeur,8.0,0,2,0,1,0,0,0,1,1,0,0,0,1,0,france,2012-08-06,nigeria,2012080628,Group A,201228,mens-olympics
+9,Yannick Bokolo,8.0,0,2,0,2,0,0,0,1,3,0,0,0,1,0,france,2012-08-06,nigeria,2012080628,Group A,201228,mens-olympics
+10,Totals,,30,62,8,28,11,17,8,32,24,11,6,13,18,79,france,2012-08-06,nigeria,2012080628,Group A,201228,mens-olympics

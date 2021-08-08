@@ -1,22 +1,22 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Joe Ingles,34.0,8,15,3,7,4,4,0,2,2,1,0,2,1,23,australia,2019-09-09,france,2019090974,Second Round,201974
-1,Patty Mills,34.0,10,18,3,8,7,8,1,2,3,1,0,3,1,30,australia,2019-09-09,france,2019090974,Second Round,201974
-2,Aron Baynes,27.0,7,9,5,6,2,2,0,5,2,0,0,0,1,21,australia,2019-09-09,france,2019090974,Second Round,201974
-3,Matthew Dellavedova,25.0,1,4,1,3,3,4,1,3,9,0,0,2,4,6,australia,2019-09-09,france,2019090974,Second Round,201974
-4,Jock Landale,25.0,2,3,1,1,0,0,0,4,3,0,0,1,1,5,australia,2019-09-09,france,2019090974,Second Round,201974
-5,Mitchell Creek,18.0,3,3,0,0,2,4,1,3,1,0,0,0,2,8,australia,2019-09-09,france,2019090974,Second Round,201974
-6,Chris Goulding,15.0,0,2,0,2,0,0,0,1,2,0,0,2,2,0,australia,2019-09-09,france,2019090974,Second Round,201974
-7,Andrew Bogut,13.0,3,5,0,0,1,2,1,6,3,0,1,2,5,7,australia,2019-09-09,france,2019090974,Second Round,201974
-8,Nicholas Kay,9.0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,australia,2019-09-09,france,2019090974,Second Round,201974
-9,Totals,,34,59,13,27,19,24,4,26,25,2,1,13,18,100,australia,2019-09-09,france,2019090974,Second Round,201974
-0,Nicolas Batum,35.0,4,7,1,3,4,5,0,3,3,0,1,0,0,13,france,2019-09-09,australia,2019090974,Second Round,201974
-1,Evan Fournier,33.0,11,23,3,8,6,7,1,6,4,1,0,1,3,31,france,2019-09-09,australia,2019090974,Second Round,201974
-2,Rudy Gobert,32.0,3,4,0,0,2,2,0,4,6,0,2,1,5,8,france,2019-09-09,australia,2019090974,Second Round,201974
-3,Nando De Colo,27.0,11,16,2,3,2,2,0,1,2,2,0,1,2,26,france,2019-09-09,australia,2019090974,Second Round,201974
-4,Frank Ntilikina,20.0,3,7,0,2,1,1,0,5,2,1,0,1,2,7,france,2019-09-09,australia,2019090974,Second Round,201974
-5,Amath M'Baye,19.0,1,1,0,0,0,0,0,0,0,0,0,1,2,2,france,2019-09-09,australia,2019090974,Second Round,201974
-6,Andrew Albicy,17.0,3,4,1,1,2,2,0,0,1,2,0,1,4,9,france,2019-09-09,australia,2019090974,Second Round,201974
-7,Vincent Poirier,8.0,1,2,0,0,0,0,0,0,1,0,1,0,2,2,france,2019-09-09,australia,2019090974,Second Round,201974
-8,Mathias Lessort,6.0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,france,2019-09-09,australia,2019090974,Second Round,201974
-9,Axel Toupane,4.0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,france,2019-09-09,australia,2019090974,Second Round,201974
-10,Totals,,37,65,7,17,17,19,1,20,20,7,4,6,23,98,france,2019-09-09,australia,2019090974,Second Round,201974
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Joe Ingles,34.0,8,15,3,7,4,4,0,2,2,1,0,2,1,23,australia,2019-09-09,france,2019090974,Second Round,201974,fiba-world-cup
+1,Patty Mills,34.0,10,18,3,8,7,8,1,2,3,1,0,3,1,30,australia,2019-09-09,france,2019090974,Second Round,201974,fiba-world-cup
+2,Aron Baynes,27.0,7,9,5,6,2,2,0,5,2,0,0,0,1,21,australia,2019-09-09,france,2019090974,Second Round,201974,fiba-world-cup
+3,Matthew Dellavedova,25.0,1,4,1,3,3,4,1,3,9,0,0,2,4,6,australia,2019-09-09,france,2019090974,Second Round,201974,fiba-world-cup
+4,Jock Landale,25.0,2,3,1,1,0,0,0,4,3,0,0,1,1,5,australia,2019-09-09,france,2019090974,Second Round,201974,fiba-world-cup
+5,Mitchell Creek,18.0,3,3,0,0,2,4,1,3,1,0,0,0,2,8,australia,2019-09-09,france,2019090974,Second Round,201974,fiba-world-cup
+6,Chris Goulding,15.0,0,2,0,2,0,0,0,1,2,0,0,2,2,0,australia,2019-09-09,france,2019090974,Second Round,201974,fiba-world-cup
+7,Andrew Bogut,13.0,3,5,0,0,1,2,1,6,3,0,1,2,5,7,australia,2019-09-09,france,2019090974,Second Round,201974,fiba-world-cup
+8,Nicholas Kay,9.0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,australia,2019-09-09,france,2019090974,Second Round,201974,fiba-world-cup
+9,Totals,,34,59,13,27,19,24,4,26,25,2,1,13,18,100,australia,2019-09-09,france,2019090974,Second Round,201974,fiba-world-cup
+0,Nicolas Batum,35.0,4,7,1,3,4,5,0,3,3,0,1,0,0,13,france,2019-09-09,australia,2019090974,Second Round,201974,fiba-world-cup
+1,Evan Fournier,33.0,11,23,3,8,6,7,1,6,4,1,0,1,3,31,france,2019-09-09,australia,2019090974,Second Round,201974,fiba-world-cup
+2,Rudy Gobert,32.0,3,4,0,0,2,2,0,4,6,0,2,1,5,8,france,2019-09-09,australia,2019090974,Second Round,201974,fiba-world-cup
+3,Nando De Colo,27.0,11,16,2,3,2,2,0,1,2,2,0,1,2,26,france,2019-09-09,australia,2019090974,Second Round,201974,fiba-world-cup
+4,Frank Ntilikina,20.0,3,7,0,2,1,1,0,5,2,1,0,1,2,7,france,2019-09-09,australia,2019090974,Second Round,201974,fiba-world-cup
+5,Amath M'Baye,19.0,1,1,0,0,0,0,0,0,0,0,0,1,2,2,france,2019-09-09,australia,2019090974,Second Round,201974,fiba-world-cup
+6,Andrew Albicy,17.0,3,4,1,1,2,2,0,0,1,2,0,1,4,9,france,2019-09-09,australia,2019090974,Second Round,201974,fiba-world-cup
+7,Vincent Poirier,8.0,1,2,0,0,0,0,0,0,1,0,1,0,2,2,france,2019-09-09,australia,2019090974,Second Round,201974,fiba-world-cup
+8,Mathias Lessort,6.0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,france,2019-09-09,australia,2019090974,Second Round,201974,fiba-world-cup
+9,Axel Toupane,4.0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,france,2019-09-09,australia,2019090974,Second Round,201974,fiba-world-cup
+10,Totals,,37,65,7,17,17,19,1,20,20,7,4,6,23,98,france,2019-09-09,australia,2019090974,Second Round,201974,fiba-world-cup

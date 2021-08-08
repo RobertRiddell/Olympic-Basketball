@@ -1,27 +1,27 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Andrei Kirilenko,31.0,7,12,0,2,2,3,2,9,0,4,1,2,0,16,russia,2012-07-31,china,201207319,Group B,20129
-1,Alexey Shved,29.0,6,11,2,5,0,0,0,1,6,2,0,3,1,14,russia,2012-07-31,china,201207319,Group B,20129
-2,Viktor Khryapa,27.0,3,7,1,3,0,0,3,12,6,2,0,0,2,7,russia,2012-07-31,china,201207319,Group B,20129
-3,Sasha Kaun,21.0,5,11,0,0,3,6,3,6,0,0,4,3,3,13,russia,2012-07-31,china,201207319,Group B,20129
-4,Sergei Monia,20.0,3,9,0,3,0,0,2,7,1,0,1,1,0,6,russia,2012-07-31,china,201207319,Group B,20129
-5,Timofey Mozgov,19.0,4,6,0,0,2,2,1,2,0,0,0,0,1,10,russia,2012-07-31,china,201207319,Group B,20129
-6,Vitaly Fridzon,15.0,2,4,1,2,0,0,0,3,1,0,0,0,4,5,russia,2012-07-31,china,201207319,Group B,20129
-7,Anton Ponkrashov,14.0,0,5,0,1,2,2,0,2,3,1,0,1,2,2,russia,2012-07-31,china,201207319,Group B,20129
-8,Dimitriy Khvostov,13.0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,russia,2012-07-31,china,201207319,Group B,20129
-9,Evgeny Voronov,5.0,0,2,0,0,0,0,1,1,1,0,1,0,0,0,russia,2012-07-31,china,201207319,Group B,20129
-10,Semen Antonov,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,russia,2012-07-31,china,201207319,Group B,20129
-11,Sergey Karasev,3.0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,russia,2012-07-31,china,201207319,Group B,20129
-12,Totals,,30,68,4,17,9,13,12,45,19,9,7,10,14,73,russia,2012-07-31,china,201207319,Group B,20129
-0,Yi Jianlian,37.0,6,14,0,1,4,5,2,7,0,2,4,0,0,16,china,2012-07-31,russia,201207319,Group B,20129
-1,Wei Liu,23.0,1,4,0,1,0,0,0,3,1,0,0,1,0,2,china,2012-07-31,russia,201207319,Group B,20129
-2,Chen Jianghua,22.0,2,8,1,2,0,0,0,2,4,0,0,1,4,5,china,2012-07-31,russia,201207319,Group B,20129
-3,Zhou Peng,20.0,2,2,0,0,1,1,0,1,0,0,1,1,1,5,china,2012-07-31,russia,201207319,Group B,20129
-4,Yi Li,19.0,3,5,2,2,1,2,0,2,0,1,1,3,1,9,china,2012-07-31,russia,201207319,Group B,20129
-5,Wang Shipeng,17.0,3,6,1,3,0,0,0,0,1,0,0,3,0,7,china,2012-07-31,russia,201207319,Group B,20129
-6,Zhu Fangyu,17.0,2,4,1,3,0,0,0,0,0,0,0,2,2,5,china,2012-07-31,russia,201207319,Group B,20129
-7,Sun Yue,13.0,1,4,0,0,0,0,0,1,0,0,0,1,2,2,china,2012-07-31,russia,201207319,Group B,20129
-8,Ding Jinhui,12.0,0,5,0,0,0,0,0,2,0,1,0,0,2,0,china,2012-07-31,russia,201207319,Group B,20129
-9,Guo Ailun,10.0,0,1,0,0,0,0,0,1,1,0,0,2,1,0,china,2012-07-31,russia,201207319,Group B,20129
-10,Wang Zhizhi,9.0,1,3,0,1,1,2,0,5,0,0,0,0,1,3,china,2012-07-31,russia,201207319,Group B,20129
-11,Max Zhang,4.0,0,0,0,0,0,0,0,1,0,0,1,2,1,0,china,2012-07-31,russia,201207319,Group B,20129
-12,Totals,,21,56,5,13,7,10,2,25,7,4,7,16,15,54,china,2012-07-31,russia,201207319,Group B,20129
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Andrei Kirilenko,31.0,7,12,0,2,2,3,2,9,0,4,1,2,0,16,russia,2012-07-31,china,201207319,Group B,20129,mens-olympics
+1,Alexey Shved,29.0,6,11,2,5,0,0,0,1,6,2,0,3,1,14,russia,2012-07-31,china,201207319,Group B,20129,mens-olympics
+2,Viktor Khryapa,27.0,3,7,1,3,0,0,3,12,6,2,0,0,2,7,russia,2012-07-31,china,201207319,Group B,20129,mens-olympics
+3,Sasha Kaun,21.0,5,11,0,0,3,6,3,6,0,0,4,3,3,13,russia,2012-07-31,china,201207319,Group B,20129,mens-olympics
+4,Sergei Monia,20.0,3,9,0,3,0,0,2,7,1,0,1,1,0,6,russia,2012-07-31,china,201207319,Group B,20129,mens-olympics
+5,Timofey Mozgov,19.0,4,6,0,0,2,2,1,2,0,0,0,0,1,10,russia,2012-07-31,china,201207319,Group B,20129,mens-olympics
+6,Vitaly Fridzon,15.0,2,4,1,2,0,0,0,3,1,0,0,0,4,5,russia,2012-07-31,china,201207319,Group B,20129,mens-olympics
+7,Anton Ponkrashov,14.0,0,5,0,1,2,2,0,2,3,1,0,1,2,2,russia,2012-07-31,china,201207319,Group B,20129,mens-olympics
+8,Dimitriy Khvostov,13.0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,russia,2012-07-31,china,201207319,Group B,20129,mens-olympics
+9,Evgeny Voronov,5.0,0,2,0,0,0,0,1,1,1,0,1,0,0,0,russia,2012-07-31,china,201207319,Group B,20129,mens-olympics
+10,Semen Antonov,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,russia,2012-07-31,china,201207319,Group B,20129,mens-olympics
+11,Sergey Karasev,3.0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,russia,2012-07-31,china,201207319,Group B,20129,mens-olympics
+12,Totals,,30,68,4,17,9,13,12,45,19,9,7,10,14,73,russia,2012-07-31,china,201207319,Group B,20129,mens-olympics
+0,Yi Jianlian,37.0,6,14,0,1,4,5,2,7,0,2,4,0,0,16,china,2012-07-31,russia,201207319,Group B,20129,mens-olympics
+1,Wei Liu,23.0,1,4,0,1,0,0,0,3,1,0,0,1,0,2,china,2012-07-31,russia,201207319,Group B,20129,mens-olympics
+2,Chen Jianghua,22.0,2,8,1,2,0,0,0,2,4,0,0,1,4,5,china,2012-07-31,russia,201207319,Group B,20129,mens-olympics
+3,Zhou Peng,20.0,2,2,0,0,1,1,0,1,0,0,1,1,1,5,china,2012-07-31,russia,201207319,Group B,20129,mens-olympics
+4,Yi Li,19.0,3,5,2,2,1,2,0,2,0,1,1,3,1,9,china,2012-07-31,russia,201207319,Group B,20129,mens-olympics
+5,Wang Shipeng,17.0,3,6,1,3,0,0,0,0,1,0,0,3,0,7,china,2012-07-31,russia,201207319,Group B,20129,mens-olympics
+6,Zhu Fangyu,17.0,2,4,1,3,0,0,0,0,0,0,0,2,2,5,china,2012-07-31,russia,201207319,Group B,20129,mens-olympics
+7,Sun Yue,13.0,1,4,0,0,0,0,0,1,0,0,0,1,2,2,china,2012-07-31,russia,201207319,Group B,20129,mens-olympics
+8,Ding Jinhui,12.0,0,5,0,0,0,0,0,2,0,1,0,0,2,0,china,2012-07-31,russia,201207319,Group B,20129,mens-olympics
+9,Guo Ailun,10.0,0,1,0,0,0,0,0,1,1,0,0,2,1,0,china,2012-07-31,russia,201207319,Group B,20129,mens-olympics
+10,Wang Zhizhi,9.0,1,3,0,1,1,2,0,5,0,0,0,0,1,3,china,2012-07-31,russia,201207319,Group B,20129,mens-olympics
+11,Max Zhang,4.0,0,0,0,0,0,0,0,1,0,0,1,2,1,0,china,2012-07-31,russia,201207319,Group B,20129,mens-olympics
+12,Totals,,21,56,5,13,7,10,2,25,7,4,7,16,15,54,china,2012-07-31,russia,201207319,Group B,20129,mens-olympics

@@ -1,25 +1,25 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Marc Gasol,28.0,4,9,0,0,4,6,1,7,2,0,1,1,4,12,spain,2012-07-31,australia,201207317,Group B,20127
-1,Sergio Llull,27.0,2,10,2,7,2,2,1,6,2,0,1,3,3,8,spain,2012-07-31,australia,201207317,Group B,20127
-2,Rudy Fernandez,23.0,6,7,4,5,1,3,0,6,3,1,0,2,0,17,spain,2012-07-31,australia,201207317,Group B,20127
-3,Jose Calderon,21.0,2,5,0,1,0,0,0,3,3,0,0,1,1,4,spain,2012-07-31,australia,201207317,Group B,20127
-4,Fernando San Emeterio,20.0,1,3,0,2,2,2,2,6,2,0,0,2,1,4,spain,2012-07-31,australia,201207317,Group B,20127
-5,Pau Gasol,18.0,8,13,1,2,3,3,2,4,2,0,1,3,0,20,spain,2012-07-31,australia,201207317,Group B,20127
-6,Felipe Reyes,17.0,2,4,0,0,3,4,4,12,1,0,0,0,3,7,spain,2012-07-31,australia,201207317,Group B,20127
-7,Serge Ibaka,17.0,3,6,0,0,2,4,2,2,2,0,1,1,2,8,spain,2012-07-31,australia,201207317,Group B,20127
-8,Sergio Rodriguez,13.0,0,5,0,2,0,0,0,1,3,0,0,0,1,0,spain,2012-07-31,australia,201207317,Group B,20127
-9,Victor Claver,10.0,0,3,0,2,0,0,1,3,0,1,1,1,3,0,spain,2012-07-31,australia,201207317,Group B,20127
-10,Victor Sada,6.0,0,0,0,0,2,2,0,2,1,0,0,2,2,2,spain,2012-07-31,australia,201207317,Group B,20127
-11,Totals,,28,65,7,21,19,26,13,52,21,2,5,16,20,82,spain,2012-07-31,australia,201207317,Group B,20127
-0,Joe Ingles,29.0,5,14,2,5,0,0,1,6,3,1,1,0,0,12,australia,2012-07-31,spain,201207317,Group B,20127
-1,Matthew Dellavedova,28.0,3,10,1,4,2,2,0,1,5,0,0,0,0,9,australia,2012-07-31,spain,201207317,Group B,20127
-2,Brad Newley,24.0,5,10,0,4,2,3,1,6,3,0,1,2,3,12,australia,2012-07-31,spain,201207317,Group B,20127
-3,Patty Mills,24.0,5,16,0,5,1,2,0,2,0,0,0,0,3,11,australia,2012-07-31,spain,201207317,Group B,20127
-4,David Andersen,21.0,2,11,0,2,0,0,4,7,0,4,0,0,2,4,australia,2012-07-31,spain,201207317,Group B,20127
-5,Matt Nielsen,19.0,3,3,0,0,1,2,1,1,0,3,0,1,4,7,australia,2012-07-31,spain,201207317,Group B,20127
-6,Mark Worthington,16.0,2,4,1,3,0,2,0,2,3,0,0,1,3,5,australia,2012-07-31,spain,201207317,Group B,20127
-7,David Barlow,14.0,1,5,0,1,0,1,3,4,0,2,0,0,2,2,australia,2012-07-31,spain,201207317,Group B,20127
-8,Aron Baynes,13.0,4,6,0,0,0,0,2,5,0,0,0,0,5,8,australia,2012-07-31,spain,201207317,Group B,20127
-9,Aleks Maric,10.0,0,2,0,0,0,0,2,2,0,1,0,0,1,0,australia,2012-07-31,spain,201207317,Group B,20127
-10,Adam Gibson,2.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,australia,2012-07-31,spain,201207317,Group B,20127
-11,Totals,,30,81,4,24,6,12,14,36,14,11,2,4,24,70,australia,2012-07-31,spain,201207317,Group B,20127
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Marc Gasol,28.0,4,9,0,0,4,6,1,7,2,0,1,1,4,12,spain,2012-07-31,australia,201207317,Group B,20127,mens-olympics
+1,Sergio Llull,27.0,2,10,2,7,2,2,1,6,2,0,1,3,3,8,spain,2012-07-31,australia,201207317,Group B,20127,mens-olympics
+2,Rudy Fernandez,23.0,6,7,4,5,1,3,0,6,3,1,0,2,0,17,spain,2012-07-31,australia,201207317,Group B,20127,mens-olympics
+3,Jose Calderon,21.0,2,5,0,1,0,0,0,3,3,0,0,1,1,4,spain,2012-07-31,australia,201207317,Group B,20127,mens-olympics
+4,Fernando San Emeterio,20.0,1,3,0,2,2,2,2,6,2,0,0,2,1,4,spain,2012-07-31,australia,201207317,Group B,20127,mens-olympics
+5,Pau Gasol,18.0,8,13,1,2,3,3,2,4,2,0,1,3,0,20,spain,2012-07-31,australia,201207317,Group B,20127,mens-olympics
+6,Felipe Reyes,17.0,2,4,0,0,3,4,4,12,1,0,0,0,3,7,spain,2012-07-31,australia,201207317,Group B,20127,mens-olympics
+7,Serge Ibaka,17.0,3,6,0,0,2,4,2,2,2,0,1,1,2,8,spain,2012-07-31,australia,201207317,Group B,20127,mens-olympics
+8,Sergio Rodriguez,13.0,0,5,0,2,0,0,0,1,3,0,0,0,1,0,spain,2012-07-31,australia,201207317,Group B,20127,mens-olympics
+9,Victor Claver,10.0,0,3,0,2,0,0,1,3,0,1,1,1,3,0,spain,2012-07-31,australia,201207317,Group B,20127,mens-olympics
+10,Victor Sada,6.0,0,0,0,0,2,2,0,2,1,0,0,2,2,2,spain,2012-07-31,australia,201207317,Group B,20127,mens-olympics
+11,Totals,,28,65,7,21,19,26,13,52,21,2,5,16,20,82,spain,2012-07-31,australia,201207317,Group B,20127,mens-olympics
+0,Joe Ingles,29.0,5,14,2,5,0,0,1,6,3,1,1,0,0,12,australia,2012-07-31,spain,201207317,Group B,20127,mens-olympics
+1,Matthew Dellavedova,28.0,3,10,1,4,2,2,0,1,5,0,0,0,0,9,australia,2012-07-31,spain,201207317,Group B,20127,mens-olympics
+2,Brad Newley,24.0,5,10,0,4,2,3,1,6,3,0,1,2,3,12,australia,2012-07-31,spain,201207317,Group B,20127,mens-olympics
+3,Patty Mills,24.0,5,16,0,5,1,2,0,2,0,0,0,0,3,11,australia,2012-07-31,spain,201207317,Group B,20127,mens-olympics
+4,David Andersen,21.0,2,11,0,2,0,0,4,7,0,4,0,0,2,4,australia,2012-07-31,spain,201207317,Group B,20127,mens-olympics
+5,Matt Nielsen,19.0,3,3,0,0,1,2,1,1,0,3,0,1,4,7,australia,2012-07-31,spain,201207317,Group B,20127,mens-olympics
+6,Mark Worthington,16.0,2,4,1,3,0,2,0,2,3,0,0,1,3,5,australia,2012-07-31,spain,201207317,Group B,20127,mens-olympics
+7,David Barlow,14.0,1,5,0,1,0,1,3,4,0,2,0,0,2,2,australia,2012-07-31,spain,201207317,Group B,20127,mens-olympics
+8,Aron Baynes,13.0,4,6,0,0,0,0,2,5,0,0,0,0,5,8,australia,2012-07-31,spain,201207317,Group B,20127,mens-olympics
+9,Aleks Maric,10.0,0,2,0,0,0,0,2,2,0,1,0,0,1,0,australia,2012-07-31,spain,201207317,Group B,20127,mens-olympics
+10,Adam Gibson,2.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,australia,2012-07-31,spain,201207317,Group B,20127,mens-olympics
+11,Totals,,30,81,4,24,6,12,14,36,14,11,2,4,24,70,australia,2012-07-31,spain,201207317,Group B,20127,mens-olympics

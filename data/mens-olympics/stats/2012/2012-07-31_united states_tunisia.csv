@@ -1,26 +1,26 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Chris Paul,25.0,1,4,0,2,0.0,0.0,0,1,7,0,0,3,4,2,united states,2012-07-31,tunisia,2012073111,Group A,201211
-1,Kevin Durant,23.0,4,10,1,4,4.0,4.0,2,10,5,1,0,2,1,13,united states,2012-07-31,tunisia,2012073111,Group A,201211
-2,Andre Iguodala,20.0,3,4,0,1,0.0,0.0,3,5,5,2,0,0,0,6,united states,2012-07-31,tunisia,2012073111,Group A,201211
-3,LeBron James,19.0,2,4,1,2,0.0,0.0,0,2,4,1,0,0,1,5,united states,2012-07-31,tunisia,2012073111,Group A,201211
-4,Kevin Love,18.0,6,9,3,5,1.0,2.0,1,6,0,0,0,0,2,16,united states,2012-07-31,tunisia,2012073111,Group A,201211
-5,James Harden,16.0,4,7,2,4,0.0,0.0,0,2,0,0,0,2,2,10,united states,2012-07-31,tunisia,2012073111,Group A,201211
-6,Russell Westbrook,15.0,4,8,0,1,3.0,5.0,0,3,3,2,0,1,1,11,united states,2012-07-31,tunisia,2012073111,Group A,201211
-7,Deron Williams,15.0,3,5,1,2,2.0,2.0,0,0,4,1,1,0,1,9,united states,2012-07-31,tunisia,2012073111,Group A,201211
-8,Tyson Chandler,15.0,3,3,0,0,0.0,1.0,2,6,0,0,1,0,1,6,united states,2012-07-31,tunisia,2012073111,Group A,201211
-9,Anthony Davis,14.0,5,5,0,0,2.0,2.0,1,3,0,1,1,0,2,12,united states,2012-07-31,tunisia,2012073111,Group A,201211
-10,Carmelo Anthony,12.0,6,6,2,2,2.0,2.0,0,2,0,0,0,0,1,16,united states,2012-07-31,tunisia,2012073111,Group A,201211
-11,Kobe Bryant,9.0,2,5,0,2,0.0,0.0,0,1,0,0,0,1,3,4,united states,2012-07-31,tunisia,2012073111,Group A,201211
-12,Totals,,43,70,10,25,14.0,18.0,9,41,28,8,3,9,19,110,united states,2012-07-31,tunisia,2012073111,Group A,201211
-0,Marouan Kechrid,36.0,3,11,3,8,0.0,0.0,1,3,2,0,0,3,1,9,tunisia,2012-07-31,united states,2012073111,Group A,201211
-1,Makram Ben Romdhane,36.0,9,18,1,3,3.0,9.0,5,11,4,1,0,2,2,22,tunisia,2012-07-31,united states,2012073111,Group A,201211
-2,Amine Rzig,32.0,2,8,1,5,1.0,2.0,0,2,3,1,0,1,3,6,tunisia,2012-07-31,united states,2012073111,Group A,201211
-3,Salah Mejri,32.0,2,9,0,2,0.0,0.0,3,7,0,1,2,2,3,4,tunisia,2012-07-31,united states,2012073111,Group A,201211
-4,Mohamed Hadidane,23.0,4,9,2,4,1.0,6.0,0,2,0,0,0,0,1,11,tunisia,2012-07-31,united states,2012073111,Group A,201211
-5,Mourad El Mabrouk,16.0,1,3,1,2,2.0,2.0,0,0,0,0,0,2,1,5,tunisia,2012-07-31,united states,2012073111,Group A,201211
-6,Mehdi Labeyrie,10.0,2,5,1,1,1.0,2.0,1,1,2,0,0,1,0,6,tunisia,2012-07-31,united states,2012073111,Group A,201211
-7,Mokhtar Ghyaza,7.0,0,1,0,0,0.0,0.0,1,2,0,1,0,2,0,0,tunisia,2012-07-31,united states,2012073111,Group A,201211
-8,Radhouane Slimane,5.0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,tunisia,2012-07-31,united states,2012073111,Group A,201211
-9,Marouan Laghnej,4.0,0,1,0,1,0.0,0.0,0,1,1,0,0,2,0,0,tunisia,2012-07-31,united states,2012073111,Group A,201211
-10,Nizar Knioua,0.0,0,0,0,0,,,0,0,0,0,1,0,0,0,tunisia,2012-07-31,united states,2012073111,Group A,201211
-11,Totals,,23,65,9,26,,,11,29,12,4,3,15,11,63,tunisia,2012-07-31,united states,2012073111,Group A,201211
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Chris Paul,25.0,1,4,0,2,0.0,0.0,0,1,7,0,0,3,4,2,united states,2012-07-31,tunisia,2012073111,Group A,201211,mens-olympics
+1,Kevin Durant,23.0,4,10,1,4,4.0,4.0,2,10,5,1,0,2,1,13,united states,2012-07-31,tunisia,2012073111,Group A,201211,mens-olympics
+2,Andre Iguodala,20.0,3,4,0,1,0.0,0.0,3,5,5,2,0,0,0,6,united states,2012-07-31,tunisia,2012073111,Group A,201211,mens-olympics
+3,LeBron James,19.0,2,4,1,2,0.0,0.0,0,2,4,1,0,0,1,5,united states,2012-07-31,tunisia,2012073111,Group A,201211,mens-olympics
+4,Kevin Love,18.0,6,9,3,5,1.0,2.0,1,6,0,0,0,0,2,16,united states,2012-07-31,tunisia,2012073111,Group A,201211,mens-olympics
+5,James Harden,16.0,4,7,2,4,0.0,0.0,0,2,0,0,0,2,2,10,united states,2012-07-31,tunisia,2012073111,Group A,201211,mens-olympics
+6,Russell Westbrook,15.0,4,8,0,1,3.0,5.0,0,3,3,2,0,1,1,11,united states,2012-07-31,tunisia,2012073111,Group A,201211,mens-olympics
+7,Deron Williams,15.0,3,5,1,2,2.0,2.0,0,0,4,1,1,0,1,9,united states,2012-07-31,tunisia,2012073111,Group A,201211,mens-olympics
+8,Tyson Chandler,15.0,3,3,0,0,0.0,1.0,2,6,0,0,1,0,1,6,united states,2012-07-31,tunisia,2012073111,Group A,201211,mens-olympics
+9,Anthony Davis,14.0,5,5,0,0,2.0,2.0,1,3,0,1,1,0,2,12,united states,2012-07-31,tunisia,2012073111,Group A,201211,mens-olympics
+10,Carmelo Anthony,12.0,6,6,2,2,2.0,2.0,0,2,0,0,0,0,1,16,united states,2012-07-31,tunisia,2012073111,Group A,201211,mens-olympics
+11,Kobe Bryant,9.0,2,5,0,2,0.0,0.0,0,1,0,0,0,1,3,4,united states,2012-07-31,tunisia,2012073111,Group A,201211,mens-olympics
+12,Totals,,43,70,10,25,14.0,18.0,9,41,28,8,3,9,19,110,united states,2012-07-31,tunisia,2012073111,Group A,201211,mens-olympics
+0,Marouan Kechrid,36.0,3,11,3,8,0.0,0.0,1,3,2,0,0,3,1,9,tunisia,2012-07-31,united states,2012073111,Group A,201211,mens-olympics
+1,Makram Ben Romdhane,36.0,9,18,1,3,3.0,9.0,5,11,4,1,0,2,2,22,tunisia,2012-07-31,united states,2012073111,Group A,201211,mens-olympics
+2,Amine Rzig,32.0,2,8,1,5,1.0,2.0,0,2,3,1,0,1,3,6,tunisia,2012-07-31,united states,2012073111,Group A,201211,mens-olympics
+3,Salah Mejri,32.0,2,9,0,2,0.0,0.0,3,7,0,1,2,2,3,4,tunisia,2012-07-31,united states,2012073111,Group A,201211,mens-olympics
+4,Mohamed Hadidane,23.0,4,9,2,4,1.0,6.0,0,2,0,0,0,0,1,11,tunisia,2012-07-31,united states,2012073111,Group A,201211,mens-olympics
+5,Mourad El Mabrouk,16.0,1,3,1,2,2.0,2.0,0,0,0,0,0,2,1,5,tunisia,2012-07-31,united states,2012073111,Group A,201211,mens-olympics
+6,Mehdi Labeyrie,10.0,2,5,1,1,1.0,2.0,1,1,2,0,0,1,0,6,tunisia,2012-07-31,united states,2012073111,Group A,201211,mens-olympics
+7,Mokhtar Ghyaza,7.0,0,1,0,0,0.0,0.0,1,2,0,1,0,2,0,0,tunisia,2012-07-31,united states,2012073111,Group A,201211,mens-olympics
+8,Radhouane Slimane,5.0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,tunisia,2012-07-31,united states,2012073111,Group A,201211,mens-olympics
+9,Marouan Laghnej,4.0,0,1,0,1,0.0,0.0,0,1,1,0,0,2,0,0,tunisia,2012-07-31,united states,2012073111,Group A,201211,mens-olympics
+10,Nizar Knioua,0.0,0,0,0,0,,,0,0,0,0,1,0,0,0,tunisia,2012-07-31,united states,2012073111,Group A,201211,mens-olympics
+11,Totals,,23,65,9,26,,,11,29,12,4,3,15,11,63,tunisia,2012-07-31,united states,2012073111,Group A,201211,mens-olympics

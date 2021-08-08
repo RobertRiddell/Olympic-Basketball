@@ -1,25 +1,25 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Linas Kleiza,29.0,5,11,0,3,7,8,1,7,0,1,0,0,5,17,lithuania,2012-08-02,france,2012080215,Group A,201215
-1,Mantas Kalnietis,26.0,3,9,0,5,0,0,1,4,3,0,0,0,2,6,lithuania,2012-08-02,france,2012080215,Group A,201215
-2,Simas Jasaitis,22.0,4,8,3,5,0,0,0,1,0,0,0,0,1,11,lithuania,2012-08-02,france,2012080215,Group A,201215
-3,Sarunas Jasikevicius,21.0,1,5,0,1,0,0,0,0,5,0,0,4,1,2,lithuania,2012-08-02,france,2012080215,Group A,201215
-4,Jonas Maciulis,18.0,2,6,0,2,0,0,2,4,0,0,1,3,2,4,lithuania,2012-08-02,france,2012080215,Group A,201215
-5,Darius Songaila,17.0,1,1,0,0,2,2,0,3,2,0,0,1,1,4,lithuania,2012-08-02,france,2012080215,Group A,201215
-6,Martynas Pocius,16.0,6,10,3,5,0,0,1,1,0,0,0,1,4,15,lithuania,2012-08-02,france,2012080215,Group A,201215
-7,Antanas Kavaliauskas,15.0,1,4,0,0,3,4,2,4,2,0,0,0,2,5,lithuania,2012-08-02,france,2012080215,Group A,201215
-8,Paulius Jankunas,11.0,0,0,0,0,0,0,0,3,2,0,0,1,2,0,lithuania,2012-08-02,france,2012080215,Group A,201215
-9,Rimantas Kaukenas,10.0,1,5,0,0,0,0,0,0,0,0,0,1,4,2,lithuania,2012-08-02,france,2012080215,Group A,201215
-10,Renaldas Seibutis,7.0,2,2,0,0,0,0,0,0,0,0,0,0,0,4,lithuania,2012-08-02,france,2012080215,Group A,201215
-11,Jonas Valanciunas,7.0,2,3,0,0,0,1,0,0,0,0,1,0,2,4,lithuania,2012-08-02,france,2012080215,Group A,201215
-12,Totals,,28,64,6,21,12,15,7,27,14,1,2,11,26,74,lithuania,2012-08-02,france,2012080215,Group A,201215
-0,Boris Diaw,38.0,5,10,0,1,0,0,2,6,8,1,0,2,2,10,france,2012-08-02,lithuania,2012080215,Group A,201215
-1,Tony Parker,36.0,9,14,2,3,7,10,0,5,2,0,0,4,1,27,france,2012-08-02,lithuania,2012080215,Group A,201215
-2,Nicolas Batum,34.0,8,11,1,2,4,4,1,6,0,2,3,1,2,21,france,2012-08-02,lithuania,2012080215,Group A,201215
-3,Mickael Gelabale,26.0,3,6,2,3,0,0,0,2,0,0,0,1,2,8,france,2012-08-02,lithuania,2012080215,Group A,201215
-4,Nando De Colo,25.0,3,7,1,3,1,2,0,5,1,0,0,1,4,8,france,2012-08-02,lithuania,2012080215,Group A,201215
-5,Ronny Turiaf,18.0,2,4,0,0,2,8,3,10,1,0,2,0,2,6,france,2012-08-02,lithuania,2012080215,Group A,201215
-6,Kevin Seraphin,17.0,1,4,0,0,0,0,2,3,1,1,0,2,3,2,france,2012-08-02,lithuania,2012080215,Group A,201215
-7,Ali Traore,4.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,france,2012-08-02,lithuania,2012080215,Group A,201215
-8,Florent Pietrus,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,france,2012-08-02,lithuania,2012080215,Group A,201215
-9,Yannick Bokolo,1.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,france,2012-08-02,lithuania,2012080215,Group A,201215
-10,Totals,,31,58,6,12,14,24,9,38,13,5,5,12,16,82,france,2012-08-02,lithuania,2012080215,Group A,201215
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Linas Kleiza,29.0,5,11,0,3,7,8,1,7,0,1,0,0,5,17,lithuania,2012-08-02,france,2012080215,Group A,201215,mens-olympics
+1,Mantas Kalnietis,26.0,3,9,0,5,0,0,1,4,3,0,0,0,2,6,lithuania,2012-08-02,france,2012080215,Group A,201215,mens-olympics
+2,Simas Jasaitis,22.0,4,8,3,5,0,0,0,1,0,0,0,0,1,11,lithuania,2012-08-02,france,2012080215,Group A,201215,mens-olympics
+3,Sarunas Jasikevicius,21.0,1,5,0,1,0,0,0,0,5,0,0,4,1,2,lithuania,2012-08-02,france,2012080215,Group A,201215,mens-olympics
+4,Jonas Maciulis,18.0,2,6,0,2,0,0,2,4,0,0,1,3,2,4,lithuania,2012-08-02,france,2012080215,Group A,201215,mens-olympics
+5,Darius Songaila,17.0,1,1,0,0,2,2,0,3,2,0,0,1,1,4,lithuania,2012-08-02,france,2012080215,Group A,201215,mens-olympics
+6,Martynas Pocius,16.0,6,10,3,5,0,0,1,1,0,0,0,1,4,15,lithuania,2012-08-02,france,2012080215,Group A,201215,mens-olympics
+7,Antanas Kavaliauskas,15.0,1,4,0,0,3,4,2,4,2,0,0,0,2,5,lithuania,2012-08-02,france,2012080215,Group A,201215,mens-olympics
+8,Paulius Jankunas,11.0,0,0,0,0,0,0,0,3,2,0,0,1,2,0,lithuania,2012-08-02,france,2012080215,Group A,201215,mens-olympics
+9,Rimantas Kaukenas,10.0,1,5,0,0,0,0,0,0,0,0,0,1,4,2,lithuania,2012-08-02,france,2012080215,Group A,201215,mens-olympics
+10,Renaldas Seibutis,7.0,2,2,0,0,0,0,0,0,0,0,0,0,0,4,lithuania,2012-08-02,france,2012080215,Group A,201215,mens-olympics
+11,Jonas Valanciunas,7.0,2,3,0,0,0,1,0,0,0,0,1,0,2,4,lithuania,2012-08-02,france,2012080215,Group A,201215,mens-olympics
+12,Totals,,28,64,6,21,12,15,7,27,14,1,2,11,26,74,lithuania,2012-08-02,france,2012080215,Group A,201215,mens-olympics
+0,Boris Diaw,38.0,5,10,0,1,0,0,2,6,8,1,0,2,2,10,france,2012-08-02,lithuania,2012080215,Group A,201215,mens-olympics
+1,Tony Parker,36.0,9,14,2,3,7,10,0,5,2,0,0,4,1,27,france,2012-08-02,lithuania,2012080215,Group A,201215,mens-olympics
+2,Nicolas Batum,34.0,8,11,1,2,4,4,1,6,0,2,3,1,2,21,france,2012-08-02,lithuania,2012080215,Group A,201215,mens-olympics
+3,Mickael Gelabale,26.0,3,6,2,3,0,0,0,2,0,0,0,1,2,8,france,2012-08-02,lithuania,2012080215,Group A,201215,mens-olympics
+4,Nando De Colo,25.0,3,7,1,3,1,2,0,5,1,0,0,1,4,8,france,2012-08-02,lithuania,2012080215,Group A,201215,mens-olympics
+5,Ronny Turiaf,18.0,2,4,0,0,2,8,3,10,1,0,2,0,2,6,france,2012-08-02,lithuania,2012080215,Group A,201215,mens-olympics
+6,Kevin Seraphin,17.0,1,4,0,0,0,0,2,3,1,1,0,2,3,2,france,2012-08-02,lithuania,2012080215,Group A,201215,mens-olympics
+7,Ali Traore,4.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,france,2012-08-02,lithuania,2012080215,Group A,201215,mens-olympics
+8,Florent Pietrus,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,france,2012-08-02,lithuania,2012080215,Group A,201215,mens-olympics
+9,Yannick Bokolo,1.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,france,2012-08-02,lithuania,2012080215,Group A,201215,mens-olympics
+10,Totals,,31,58,6,12,14,24,9,38,13,5,5,12,16,82,france,2012-08-02,lithuania,2012080215,Group A,201215,mens-olympics

@@ -1,25 +1,25 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Giannis Antetokounmpo,27.0,7,11,1,2,0,2,2,13,0,2,1,2,2,15,greece,2019-09-07,united-states,2019090763,Second Round,201963
-1,Nick Calathes,26.0,2,6,0,1,1,2,0,2,5,1,0,1,1,5,greece,2019-09-07,united-states,2019090763,Second Round,201963
-2,Giorgos Printezis,24.0,2,10,0,3,2,4,0,2,2,0,0,0,0,6,greece,2019-09-07,united-states,2019090763,Second Round,201963
-3,Ioannis Papapetrou,24.0,3,11,1,5,0,0,2,4,0,0,0,0,0,7,greece,2019-09-07,united-states,2019090763,Second Round,201963
-4,Kostas Sloukas,23.0,5,12,3,6,0,0,0,3,1,0,0,2,2,13,greece,2019-09-07,united-states,2019090763,Second Round,201963
-5,Ioannis Bourousis,19.0,1,5,1,3,0,0,2,5,0,0,0,0,2,3,greece,2019-09-07,united-states,2019090763,Second Round,201963
-6,Kostas Papanikolaou,16.0,0,3,0,3,0,0,2,3,1,0,1,0,4,0,greece,2019-09-07,united-states,2019090763,Second Round,201963
-7,Thanasis Antetokounmpo,14.0,0,2,0,1,1,2,0,2,2,0,0,1,3,1,greece,2019-09-07,united-states,2019090763,Second Round,201963
-8,Georgios Papagiannis,8.0,0,3,0,0,0,0,0,2,0,1,0,1,2,0,greece,2019-09-07,united-states,2019090763,Second Round,201963
-9,Giannoulis Larentzakis,7.0,0,1,0,1,0,0,0,0,2,1,0,0,0,0,greece,2019-09-07,united-states,2019090763,Second Round,201963
-10,Vangelis Mantzaris,6.0,1,1,1,1,0,0,0,0,0,0,0,1,0,3,greece,2019-09-07,united-states,2019090763,Second Round,201963
-11,Panagiotis Vasilopoulos,6.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,greece,2019-09-07,united-states,2019090763,Second Round,201963
-12,Totals,,21,66,7,27,4,10,8,36,13,5,2,8,16,53,greece,2019-09-07,united-states,2019090763,Second Round,201963
-0,Jaylen Brown,28.0,3,9,0,3,2,4,4,9,1,0,1,0,2,8,united-states,2019-09-07,greece,2019090763,Second Round,201963
-1,Donovan Mitchell,28.0,4,10,2,8,0,0,0,5,3,1,1,3,0,10,united-states,2019-09-07,greece,2019090763,Second Round,201963
-2,Harrison Barnes,27.0,3,7,0,1,3,3,1,7,1,3,0,1,1,9,united-states,2019-09-07,greece,2019090763,Second Round,201963
-3,Kemba Walker,26.0,5,12,3,6,2,2,1,4,6,0,0,1,4,15,united-states,2019-09-07,greece,2019090763,Second Round,201963
-4,Joe Harris,21.0,1,4,1,3,0,0,3,8,3,0,0,0,2,3,united-states,2019-09-07,greece,2019090763,Second Round,201963
-5,Khris Middleton,21.0,1,8,0,4,2,2,0,4,0,1,0,2,4,4,united-states,2019-09-07,greece,2019090763,Second Round,201963
-6,Marcus Smart,17.0,0,3,0,2,3,3,0,1,0,1,0,0,0,3,united-states,2019-09-07,greece,2019090763,Second Round,201963
-7,Myles Turner,14.0,3,6,0,0,2,2,2,7,0,0,2,0,1,8,united-states,2019-09-07,greece,2019090763,Second Round,201963
-8,Derrick White,14.0,4,6,1,3,0,0,0,1,1,0,0,2,2,9,united-states,2019-09-07,greece,2019090763,Second Round,201963
-9,Mason Plumlee,4.0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,united-states,2019-09-07,greece,2019090763,Second Round,201963
-10,Totals,,24,66,7,30,14,16,12,48,15,6,4,10,16,69,united-states,2019-09-07,greece,2019090763,Second Round,201963
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Giannis Antetokounmpo,27.0,7,11,1,2,0,2,2,13,0,2,1,2,2,15,greece,2019-09-07,united-states,2019090763,Second Round,201963,fiba-world-cup
+1,Nick Calathes,26.0,2,6,0,1,1,2,0,2,5,1,0,1,1,5,greece,2019-09-07,united-states,2019090763,Second Round,201963,fiba-world-cup
+2,Giorgos Printezis,24.0,2,10,0,3,2,4,0,2,2,0,0,0,0,6,greece,2019-09-07,united-states,2019090763,Second Round,201963,fiba-world-cup
+3,Ioannis Papapetrou,24.0,3,11,1,5,0,0,2,4,0,0,0,0,0,7,greece,2019-09-07,united-states,2019090763,Second Round,201963,fiba-world-cup
+4,Kostas Sloukas,23.0,5,12,3,6,0,0,0,3,1,0,0,2,2,13,greece,2019-09-07,united-states,2019090763,Second Round,201963,fiba-world-cup
+5,Ioannis Bourousis,19.0,1,5,1,3,0,0,2,5,0,0,0,0,2,3,greece,2019-09-07,united-states,2019090763,Second Round,201963,fiba-world-cup
+6,Kostas Papanikolaou,16.0,0,3,0,3,0,0,2,3,1,0,1,0,4,0,greece,2019-09-07,united-states,2019090763,Second Round,201963,fiba-world-cup
+7,Thanasis Antetokounmpo,14.0,0,2,0,1,1,2,0,2,2,0,0,1,3,1,greece,2019-09-07,united-states,2019090763,Second Round,201963,fiba-world-cup
+8,Georgios Papagiannis,8.0,0,3,0,0,0,0,0,2,0,1,0,1,2,0,greece,2019-09-07,united-states,2019090763,Second Round,201963,fiba-world-cup
+9,Giannoulis Larentzakis,7.0,0,1,0,1,0,0,0,0,2,1,0,0,0,0,greece,2019-09-07,united-states,2019090763,Second Round,201963,fiba-world-cup
+10,Vangelis Mantzaris,6.0,1,1,1,1,0,0,0,0,0,0,0,1,0,3,greece,2019-09-07,united-states,2019090763,Second Round,201963,fiba-world-cup
+11,Panagiotis Vasilopoulos,6.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,greece,2019-09-07,united-states,2019090763,Second Round,201963,fiba-world-cup
+12,Totals,,21,66,7,27,4,10,8,36,13,5,2,8,16,53,greece,2019-09-07,united-states,2019090763,Second Round,201963,fiba-world-cup
+0,Jaylen Brown,28.0,3,9,0,3,2,4,4,9,1,0,1,0,2,8,united-states,2019-09-07,greece,2019090763,Second Round,201963,fiba-world-cup
+1,Donovan Mitchell,28.0,4,10,2,8,0,0,0,5,3,1,1,3,0,10,united-states,2019-09-07,greece,2019090763,Second Round,201963,fiba-world-cup
+2,Harrison Barnes,27.0,3,7,0,1,3,3,1,7,1,3,0,1,1,9,united-states,2019-09-07,greece,2019090763,Second Round,201963,fiba-world-cup
+3,Kemba Walker,26.0,5,12,3,6,2,2,1,4,6,0,0,1,4,15,united-states,2019-09-07,greece,2019090763,Second Round,201963,fiba-world-cup
+4,Joe Harris,21.0,1,4,1,3,0,0,3,8,3,0,0,0,2,3,united-states,2019-09-07,greece,2019090763,Second Round,201963,fiba-world-cup
+5,Khris Middleton,21.0,1,8,0,4,2,2,0,4,0,1,0,2,4,4,united-states,2019-09-07,greece,2019090763,Second Round,201963,fiba-world-cup
+6,Marcus Smart,17.0,0,3,0,2,3,3,0,1,0,1,0,0,0,3,united-states,2019-09-07,greece,2019090763,Second Round,201963,fiba-world-cup
+7,Myles Turner,14.0,3,6,0,0,2,2,2,7,0,0,2,0,1,8,united-states,2019-09-07,greece,2019090763,Second Round,201963,fiba-world-cup
+8,Derrick White,14.0,4,6,1,3,0,0,0,1,1,0,0,2,2,9,united-states,2019-09-07,greece,2019090763,Second Round,201963,fiba-world-cup
+9,Mason Plumlee,4.0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,united-states,2019-09-07,greece,2019090763,Second Round,201963,fiba-world-cup
+10,Totals,,24,66,7,30,14,16,12,48,15,6,4,10,16,69,united-states,2019-09-07,greece,2019090763,Second Round,201963,fiba-world-cup

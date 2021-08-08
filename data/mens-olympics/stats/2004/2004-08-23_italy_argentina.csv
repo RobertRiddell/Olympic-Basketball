@@ -1,24 +1,24 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Massimo Bulleri,36.0,6.0,10.0,1.0,2.0,3.0,4.0,0.0,6,4,2,0,4,2.0,16,italy,2004-08-23,argentina,2004082325,Group A,200425
-1,Alex Righetti,32.0,6.0,7.0,2.0,2.0,0.0,0.0,0.0,4,0,2,0,3,2.0,14,italy,2004-08-23,argentina,2004082325,Group A,200425
-2,Matteo Soragna,31.0,1.0,5.0,0.0,0.0,4.0,7.0,0.0,3,1,0,0,0,2.0,6,italy,2004-08-23,argentina,2004082325,Group A,200425
-3,Nikola Radulovic,25.0,6.0,8.0,2.0,4.0,2.0,2.0,0.0,5,0,1,1,2,0.0,16,italy,2004-08-23,argentina,2004082325,Group A,200425
-4,Giacomo Galanda,19.0,0.0,3.0,0.0,2.0,1.0,2.0,0.0,4,0,1,0,1,1.0,1,italy,2004-08-23,argentina,2004082325,Group A,200425
-5,Gianmarco Pozzecco,16.0,7.0,10.0,2.0,4.0,1.0,2.0,1.0,1,3,0,0,4,1.0,17,italy,2004-08-23,argentina,2004082325,Group A,200425
-6,Roberto Chiacig,14.0,2.0,4.0,0.0,0.0,0.0,1.0,1.0,5,1,0,1,1,1.0,4,italy,2004-08-23,argentina,2004082325,Group A,200425
-7,Denis Marconato,12.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,3,1,0,0,4,4.0,2,italy,2004-08-23,argentina,2004082325,Group A,200425
-8,Luca Garri,10.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0,0,0,1,0,1.0,0,italy,2004-08-23,argentina,2004082325,Group A,200425
-9,Michele Mian,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,1,0,0,1.0,0,italy,2004-08-23,argentina,2004082325,Group A,200425
-10,Rodolfo Rombaldoni,,,,,,,,,0,0,0,0,0,,0,italy,2004-08-23,argentina,2004082325,Group A,200425
-11,Totals,,,,,,,,,32,10,7,3,19,,76,italy,2004-08-23,argentina,2004082325,Group A,200425
-0,Luis Scola,30.0,9.0,17.0,0.0,0.0,1.0,1.0,2.0,3,1,1,1,2,2.0,19,argentina,2004-08-23,italy,2004082325,Group A,200425
-1,Manu Ginobili,28.0,7.0,12.0,2.0,6.0,3.0,4.0,1.0,5,3,1,0,3,4.0,19,argentina,2004-08-23,italy,2004082325,Group A,200425
-2,Ruben Wolkowyski,27.0,2.0,5.0,1.0,3.0,0.0,0.0,1.0,7,0,1,1,2,1.0,5,argentina,2004-08-23,italy,2004082325,Group A,200425
-3,Alejandro Montecchia,26.0,2.0,7.0,1.0,4.0,0.0,0.0,1.0,3,1,2,0,0,1.0,5,argentina,2004-08-23,italy,2004082325,Group A,200425
-4,Hugo Sconochini,22.0,2.0,4.0,1.0,1.0,1.0,1.0,0.0,3,1,1,0,1,1.0,6,argentina,2004-08-23,italy,2004082325,Group A,200425
-5,Fabricio Oberto,17.0,2.0,5.0,0.0,0.0,0.0,0.0,1.0,1,1,1,0,2,2.0,4,argentina,2004-08-23,italy,2004082325,Group A,200425
-6,Andres Nocioni,15.0,3.0,7.0,0.0,1.0,0.0,0.0,1.0,2,1,0,0,1,2.0,6,argentina,2004-08-23,italy,2004082325,Group A,200425
-7,Carlos Delfino,15.0,2.0,6.0,0.0,2.0,2.0,2.0,1.0,1,1,0,0,0,1.0,6,argentina,2004-08-23,italy,2004082325,Group A,200425
-8,Pepe Sanchez,14.0,2.0,5.0,1.0,2.0,0.0,0.0,0.0,1,1,3,0,2,4.0,5,argentina,2004-08-23,italy,2004082325,Group A,200425
-9,Gabriel Fernandez,6.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,1,0,0,0,0,1.0,0,argentina,2004-08-23,italy,2004082325,Group A,200425
-10,Totals,,31.0,71.0,6.0,20.0,7.0,8.0,8.0,27,10,10,2,13,19.0,75,argentina,2004-08-23,italy,2004082325,Group A,200425
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Massimo Bulleri,36.0,6.0,10.0,1.0,2.0,3.0,4.0,0.0,6,4,2,0,4,2.0,16,italy,2004-08-23,argentina,2004082325,Group A,200425,mens-olympics
+1,Alex Righetti,32.0,6.0,7.0,2.0,2.0,0.0,0.0,0.0,4,0,2,0,3,2.0,14,italy,2004-08-23,argentina,2004082325,Group A,200425,mens-olympics
+2,Matteo Soragna,31.0,1.0,5.0,0.0,0.0,4.0,7.0,0.0,3,1,0,0,0,2.0,6,italy,2004-08-23,argentina,2004082325,Group A,200425,mens-olympics
+3,Nikola Radulovic,25.0,6.0,8.0,2.0,4.0,2.0,2.0,0.0,5,0,1,1,2,0.0,16,italy,2004-08-23,argentina,2004082325,Group A,200425,mens-olympics
+4,Giacomo Galanda,19.0,0.0,3.0,0.0,2.0,1.0,2.0,0.0,4,0,1,0,1,1.0,1,italy,2004-08-23,argentina,2004082325,Group A,200425,mens-olympics
+5,Gianmarco Pozzecco,16.0,7.0,10.0,2.0,4.0,1.0,2.0,1.0,1,3,0,0,4,1.0,17,italy,2004-08-23,argentina,2004082325,Group A,200425,mens-olympics
+6,Roberto Chiacig,14.0,2.0,4.0,0.0,0.0,0.0,1.0,1.0,5,1,0,1,1,1.0,4,italy,2004-08-23,argentina,2004082325,Group A,200425,mens-olympics
+7,Denis Marconato,12.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,3,1,0,0,4,4.0,2,italy,2004-08-23,argentina,2004082325,Group A,200425,mens-olympics
+8,Luca Garri,10.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0,0,0,1,0,1.0,0,italy,2004-08-23,argentina,2004082325,Group A,200425,mens-olympics
+9,Michele Mian,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,1,0,0,1.0,0,italy,2004-08-23,argentina,2004082325,Group A,200425,mens-olympics
+10,Rodolfo Rombaldoni,,,,,,,,,0,0,0,0,0,,0,italy,2004-08-23,argentina,2004082325,Group A,200425,mens-olympics
+11,Totals,,,,,,,,,32,10,7,3,19,,76,italy,2004-08-23,argentina,2004082325,Group A,200425,mens-olympics
+0,Luis Scola,30.0,9.0,17.0,0.0,0.0,1.0,1.0,2.0,3,1,1,1,2,2.0,19,argentina,2004-08-23,italy,2004082325,Group A,200425,mens-olympics
+1,Manu Ginobili,28.0,7.0,12.0,2.0,6.0,3.0,4.0,1.0,5,3,1,0,3,4.0,19,argentina,2004-08-23,italy,2004082325,Group A,200425,mens-olympics
+2,Ruben Wolkowyski,27.0,2.0,5.0,1.0,3.0,0.0,0.0,1.0,7,0,1,1,2,1.0,5,argentina,2004-08-23,italy,2004082325,Group A,200425,mens-olympics
+3,Alejandro Montecchia,26.0,2.0,7.0,1.0,4.0,0.0,0.0,1.0,3,1,2,0,0,1.0,5,argentina,2004-08-23,italy,2004082325,Group A,200425,mens-olympics
+4,Hugo Sconochini,22.0,2.0,4.0,1.0,1.0,1.0,1.0,0.0,3,1,1,0,1,1.0,6,argentina,2004-08-23,italy,2004082325,Group A,200425,mens-olympics
+5,Fabricio Oberto,17.0,2.0,5.0,0.0,0.0,0.0,0.0,1.0,1,1,1,0,2,2.0,4,argentina,2004-08-23,italy,2004082325,Group A,200425,mens-olympics
+6,Andres Nocioni,15.0,3.0,7.0,0.0,1.0,0.0,0.0,1.0,2,1,0,0,1,2.0,6,argentina,2004-08-23,italy,2004082325,Group A,200425,mens-olympics
+7,Carlos Delfino,15.0,2.0,6.0,0.0,2.0,2.0,2.0,1.0,1,1,0,0,0,1.0,6,argentina,2004-08-23,italy,2004082325,Group A,200425,mens-olympics
+8,Pepe Sanchez,14.0,2.0,5.0,1.0,2.0,0.0,0.0,0.0,1,1,3,0,2,4.0,5,argentina,2004-08-23,italy,2004082325,Group A,200425,mens-olympics
+9,Gabriel Fernandez,6.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,1,0,0,0,0,1.0,0,argentina,2004-08-23,italy,2004082325,Group A,200425,mens-olympics
+10,Totals,,31.0,71.0,6.0,20.0,7.0,8.0,8.0,27,10,10,2,13,19.0,75,argentina,2004-08-23,italy,2004082325,Group A,200425,mens-olympics

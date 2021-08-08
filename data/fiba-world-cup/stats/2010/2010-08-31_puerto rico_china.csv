@@ -1,24 +1,24 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,J.J. Barea,34.0,5,11,1,4,2,4,1,4,9,2,0,2,1,13,puerto rico,2010-08-31,china,2010083131,Group Play,201031
-1,Carmelo Lee,34.0,5,11,1,6,2,2,0,7,1,1,2,1,3,13,puerto rico,2010-08-31,china,2010083131,Group Play,201031
-2,Ricky Sanchez,9.0,0,2,0,1,0,0,0,0,0,0,0,1,2,0,puerto rico,2010-08-31,china,2010083131,Group Play,201031
-3,Peter John Ramos,8.0,2,3,0,0,2,4,1,2,0,0,0,3,0,6,puerto rico,2010-08-31,china,2010083131,Group Play,201031
-4,Renaldo Balkman,34.0,4,7,0,0,2,3,7,13,1,1,0,1,4,10,puerto rico,2010-08-31,china,2010083131,Group Play,201031
-5,Angel Daniel Vassallo,29.0,9,14,1,4,3,3,1,4,3,0,0,3,3,22,puerto rico,2010-08-31,china,2010083131,Group Play,201031
-6,Nathan Peavy,29.0,5,12,1,2,2,3,5,6,2,0,0,1,4,13,puerto rico,2010-08-31,china,2010083131,Group Play,201031
-7,David Huertas,10.0,2,5,1,2,0,0,0,1,0,1,0,0,1,5,puerto rico,2010-08-31,china,2010083131,Group Play,201031
-8,Filiberto Rivera,7.0,0,2,0,1,0,0,0,1,2,0,0,0,1,0,puerto rico,2010-08-31,china,2010083131,Group Play,201031
-9,Guillermo Diaz,6.0,1,2,0,1,0,0,0,0,1,0,0,1,1,2,puerto rico,2010-08-31,china,2010083131,Group Play,201031
-10,Daniel Santiago,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,puerto rico,2010-08-31,china,2010083131,Group Play,201031
-11,Totals,,33,69,5,21,13,19,15,38,19,5,2,13,20,84,puerto rico,2010-08-31,china,2010083131,Group Play,201031
-0,Yi Jianlian,37.0,9,19,1,4,5,6,1,7,1,0,0,3,1,24,china,2010-08-31,puerto rico,2010083131,Group Play,201031
-1,Wei Liu,37.0,5,10,1,4,0,0,0,2,3,1,0,2,2,11,china,2010-08-31,puerto rico,2010083131,Group Play,201031
-2,Sun Yue,33.0,3,8,3,7,3,4,1,2,5,3,3,1,3,12,china,2010-08-31,puerto rico,2010083131,Group Play,201031
-3,Wang Shipeng,30.0,2,9,1,6,0,2,0,6,2,0,0,1,4,5,china,2010-08-31,puerto rico,2010083131,Group Play,201031
-4,Wang Zhizhi,19.0,6,8,2,2,3,4,2,4,1,1,1,2,2,17,china,2010-08-31,puerto rico,2010083131,Group Play,201031
-5,Zhou Peng,18.0,1,3,1,2,0,0,1,3,0,1,0,1,1,3,china,2010-08-31,puerto rico,2010083131,Group Play,201031
-6,Ding Jinhui,15.0,1,2,0,0,2,2,0,0,1,0,0,0,3,4,china,2010-08-31,puerto rico,2010083131,Group Play,201031
-7,Yu Shulong,5.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,china,2010-08-31,puerto rico,2010083131,Group Play,201031
-8,Wei Su,4.0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,china,2010-08-31,puerto rico,2010083131,Group Play,201031
-9,Jin Lipeng,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,china,2010-08-31,puerto rico,2010083131,Group Play,201031
-10,Totals,,27,60,9,26,13,18,5,24,13,6,4,10,19,76,china,2010-08-31,puerto rico,2010083131,Group Play,201031
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,J.J. Barea,34.0,5,11,1,4,2,4,1,4,9,2,0,2,1,13,puerto rico,2010-08-31,china,2010083131,Group Play,201031,fiba-world-cup
+1,Carmelo Lee,34.0,5,11,1,6,2,2,0,7,1,1,2,1,3,13,puerto rico,2010-08-31,china,2010083131,Group Play,201031,fiba-world-cup
+2,Ricky Sanchez,9.0,0,2,0,1,0,0,0,0,0,0,0,1,2,0,puerto rico,2010-08-31,china,2010083131,Group Play,201031,fiba-world-cup
+3,Peter John Ramos,8.0,2,3,0,0,2,4,1,2,0,0,0,3,0,6,puerto rico,2010-08-31,china,2010083131,Group Play,201031,fiba-world-cup
+4,Renaldo Balkman,34.0,4,7,0,0,2,3,7,13,1,1,0,1,4,10,puerto rico,2010-08-31,china,2010083131,Group Play,201031,fiba-world-cup
+5,Angel Daniel Vassallo,29.0,9,14,1,4,3,3,1,4,3,0,0,3,3,22,puerto rico,2010-08-31,china,2010083131,Group Play,201031,fiba-world-cup
+6,Nathan Peavy,29.0,5,12,1,2,2,3,5,6,2,0,0,1,4,13,puerto rico,2010-08-31,china,2010083131,Group Play,201031,fiba-world-cup
+7,David Huertas,10.0,2,5,1,2,0,0,0,1,0,1,0,0,1,5,puerto rico,2010-08-31,china,2010083131,Group Play,201031,fiba-world-cup
+8,Filiberto Rivera,7.0,0,2,0,1,0,0,0,1,2,0,0,0,1,0,puerto rico,2010-08-31,china,2010083131,Group Play,201031,fiba-world-cup
+9,Guillermo Diaz,6.0,1,2,0,1,0,0,0,0,1,0,0,1,1,2,puerto rico,2010-08-31,china,2010083131,Group Play,201031,fiba-world-cup
+10,Daniel Santiago,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,puerto rico,2010-08-31,china,2010083131,Group Play,201031,fiba-world-cup
+11,Totals,,33,69,5,21,13,19,15,38,19,5,2,13,20,84,puerto rico,2010-08-31,china,2010083131,Group Play,201031,fiba-world-cup
+0,Yi Jianlian,37.0,9,19,1,4,5,6,1,7,1,0,0,3,1,24,china,2010-08-31,puerto rico,2010083131,Group Play,201031,fiba-world-cup
+1,Wei Liu,37.0,5,10,1,4,0,0,0,2,3,1,0,2,2,11,china,2010-08-31,puerto rico,2010083131,Group Play,201031,fiba-world-cup
+2,Sun Yue,33.0,3,8,3,7,3,4,1,2,5,3,3,1,3,12,china,2010-08-31,puerto rico,2010083131,Group Play,201031,fiba-world-cup
+3,Wang Shipeng,30.0,2,9,1,6,0,2,0,6,2,0,0,1,4,5,china,2010-08-31,puerto rico,2010083131,Group Play,201031,fiba-world-cup
+4,Wang Zhizhi,19.0,6,8,2,2,3,4,2,4,1,1,1,2,2,17,china,2010-08-31,puerto rico,2010083131,Group Play,201031,fiba-world-cup
+5,Zhou Peng,18.0,1,3,1,2,0,0,1,3,0,1,0,1,1,3,china,2010-08-31,puerto rico,2010083131,Group Play,201031,fiba-world-cup
+6,Ding Jinhui,15.0,1,2,0,0,2,2,0,0,1,0,0,0,3,4,china,2010-08-31,puerto rico,2010083131,Group Play,201031,fiba-world-cup
+7,Yu Shulong,5.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,china,2010-08-31,puerto rico,2010083131,Group Play,201031,fiba-world-cup
+8,Wei Su,4.0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,china,2010-08-31,puerto rico,2010083131,Group Play,201031,fiba-world-cup
+9,Jin Lipeng,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,china,2010-08-31,puerto rico,2010083131,Group Play,201031,fiba-world-cup
+10,Totals,,27,60,9,26,13,18,5,24,13,6,4,10,19,76,china,2010-08-31,puerto rico,2010083131,Group Play,201031,fiba-world-cup

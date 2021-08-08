@@ -1,25 +1,25 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Aleksandar Rasic,28,4,6,1,2,6,7,1,1,3,2,0,2,2,15,serbia,2010-09-04,croatia,2010090460,Round of 16,201060
-1,Milos Teodosic,26,1,6,1,5,0,0,0,2,2,4,0,4,3,3,serbia,2010-09-04,croatia,2010090460,Round of 16,201060
-2,Nenad Krstic,23,5,10,0,1,6,8,0,3,1,1,0,1,3,16,serbia,2010-09-04,croatia,2010090460,Round of 16,201060
-3,Novica Velickovic,18,3,4,0,0,1,4,1,2,0,0,0,1,1,7,serbia,2010-09-04,croatia,2010090460,Round of 16,201060
-4,Nemanja Bjelica,8,1,1,1,1,0,0,0,1,0,1,0,0,1,3,serbia,2010-09-04,croatia,2010090460,Round of 16,201060
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,serbia,2010-09-04,croatia,2010090460,Round of 16,201060
-6,Milenko Tepic,19,0,5,0,1,2,2,2,7,4,0,0,1,2,2,serbia,2010-09-04,croatia,2010090460,Round of 16,201060
-7,Kosta Perovic,15,4,5,0,0,2,2,1,3,0,0,0,2,1,10,serbia,2010-09-04,croatia,2010090460,Round of 16,201060
-8,Milan Macvan,14,3,5,1,1,1,2,0,1,0,0,0,1,2,8,serbia,2010-09-04,croatia,2010090460,Round of 16,201060
-9,Marko Keselj,14,2,4,1,2,0,0,1,3,0,0,0,0,0,5,serbia,2010-09-04,croatia,2010090460,Round of 16,201060
-10,Stefan Markovic,14,1,2,0,1,0,0,0,3,2,1,0,0,2,2,serbia,2010-09-04,croatia,2010090460,Round of 16,201060
-11,Ivan Paunic,11,1,3,0,1,0,0,0,0,0,0,0,0,1,2,serbia,2010-09-04,croatia,2010090460,Round of 16,201060
-12,Dusko Savanovic,10,0,2,0,0,0,0,1,1,2,0,0,0,1,0,serbia,2010-09-04,croatia,2010090460,Round of 16,201060
-13,Totals,,25,53,5,15,18,25,7,27,14,9,0,12,19,73,serbia,2010-09-04,croatia,2010090460,Round of 16,201060
-0,Marko Tomas,35,3,12,0,5,0,0,4,6,1,1,0,1,3,6,croatia,2010-09-04,serbia,2010090460,Round of 16,201060
-1,Marko Banic,34,3,6,0,0,4,4,4,7,1,1,1,1,2,10,croatia,2010-09-04,serbia,2010090460,Round of 16,201060
-2,Roko Ukic,33,5,10,0,3,1,1,0,4,4,1,0,3,4,11,croatia,2010-09-04,serbia,2010090460,Round of 16,201060
-3,Bojan Bogdanovic,28,3,6,1,4,2,2,1,3,1,1,0,1,1,9,croatia,2010-09-04,serbia,2010090460,Round of 16,201060
-4,Ante Tomic,23,3,8,0,0,0,0,2,8,0,1,1,5,3,6,croatia,2010-09-04,serbia,2010090460,Round of 16,201060
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,croatia,2010-09-04,serbia,2010090460,Round of 16,201060
-6,Marko Popovic,28,5,12,3,9,8,10,0,5,5,2,1,2,2,21,croatia,2010-09-04,serbia,2010090460,Round of 16,201060
-7,Kresimir Loncar,17,4,7,1,2,0,0,1,2,0,0,0,0,5,9,croatia,2010-09-04,serbia,2010090460,Round of 16,201060
-8,Davor Kus,3,0,1,0,1,0,0,0,0,0,0,0,0,2,0,croatia,2010-09-04,serbia,2010090460,Round of 16,201060
-9,Totals,,26,62,5,24,15,17,12,35,12,7,3,13,22,72,croatia,2010-09-04,serbia,2010090460,Round of 16,201060
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Aleksandar Rasic,28,4,6,1,2,6,7,1,1,3,2,0,2,2,15,serbia,2010-09-04,croatia,2010090460,Round of 16,201060,fiba-world-cup
+1,Milos Teodosic,26,1,6,1,5,0,0,0,2,2,4,0,4,3,3,serbia,2010-09-04,croatia,2010090460,Round of 16,201060,fiba-world-cup
+2,Nenad Krstic,23,5,10,0,1,6,8,0,3,1,1,0,1,3,16,serbia,2010-09-04,croatia,2010090460,Round of 16,201060,fiba-world-cup
+3,Novica Velickovic,18,3,4,0,0,1,4,1,2,0,0,0,1,1,7,serbia,2010-09-04,croatia,2010090460,Round of 16,201060,fiba-world-cup
+4,Nemanja Bjelica,8,1,1,1,1,0,0,0,1,0,1,0,0,1,3,serbia,2010-09-04,croatia,2010090460,Round of 16,201060,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,serbia,2010-09-04,croatia,2010090460,Round of 16,201060,fiba-world-cup
+6,Milenko Tepic,19,0,5,0,1,2,2,2,7,4,0,0,1,2,2,serbia,2010-09-04,croatia,2010090460,Round of 16,201060,fiba-world-cup
+7,Kosta Perovic,15,4,5,0,0,2,2,1,3,0,0,0,2,1,10,serbia,2010-09-04,croatia,2010090460,Round of 16,201060,fiba-world-cup
+8,Milan Macvan,14,3,5,1,1,1,2,0,1,0,0,0,1,2,8,serbia,2010-09-04,croatia,2010090460,Round of 16,201060,fiba-world-cup
+9,Marko Keselj,14,2,4,1,2,0,0,1,3,0,0,0,0,0,5,serbia,2010-09-04,croatia,2010090460,Round of 16,201060,fiba-world-cup
+10,Stefan Markovic,14,1,2,0,1,0,0,0,3,2,1,0,0,2,2,serbia,2010-09-04,croatia,2010090460,Round of 16,201060,fiba-world-cup
+11,Ivan Paunic,11,1,3,0,1,0,0,0,0,0,0,0,0,1,2,serbia,2010-09-04,croatia,2010090460,Round of 16,201060,fiba-world-cup
+12,Dusko Savanovic,10,0,2,0,0,0,0,1,1,2,0,0,0,1,0,serbia,2010-09-04,croatia,2010090460,Round of 16,201060,fiba-world-cup
+13,Totals,,25,53,5,15,18,25,7,27,14,9,0,12,19,73,serbia,2010-09-04,croatia,2010090460,Round of 16,201060,fiba-world-cup
+0,Marko Tomas,35,3,12,0,5,0,0,4,6,1,1,0,1,3,6,croatia,2010-09-04,serbia,2010090460,Round of 16,201060,fiba-world-cup
+1,Marko Banic,34,3,6,0,0,4,4,4,7,1,1,1,1,2,10,croatia,2010-09-04,serbia,2010090460,Round of 16,201060,fiba-world-cup
+2,Roko Ukic,33,5,10,0,3,1,1,0,4,4,1,0,3,4,11,croatia,2010-09-04,serbia,2010090460,Round of 16,201060,fiba-world-cup
+3,Bojan Bogdanovic,28,3,6,1,4,2,2,1,3,1,1,0,1,1,9,croatia,2010-09-04,serbia,2010090460,Round of 16,201060,fiba-world-cup
+4,Ante Tomic,23,3,8,0,0,0,0,2,8,0,1,1,5,3,6,croatia,2010-09-04,serbia,2010090460,Round of 16,201060,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,croatia,2010-09-04,serbia,2010090460,Round of 16,201060,fiba-world-cup
+6,Marko Popovic,28,5,12,3,9,8,10,0,5,5,2,1,2,2,21,croatia,2010-09-04,serbia,2010090460,Round of 16,201060,fiba-world-cup
+7,Kresimir Loncar,17,4,7,1,2,0,0,1,2,0,0,0,0,5,9,croatia,2010-09-04,serbia,2010090460,Round of 16,201060,fiba-world-cup
+8,Davor Kus,3,0,1,0,1,0,0,0,0,0,0,0,0,2,0,croatia,2010-09-04,serbia,2010090460,Round of 16,201060,fiba-world-cup
+9,Totals,,26,62,5,24,15,17,12,35,12,7,3,13,22,72,croatia,2010-09-04,serbia,2010090460,Round of 16,201060,fiba-world-cup

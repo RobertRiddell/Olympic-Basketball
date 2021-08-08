@@ -1,23 +1,23 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Behnam Yakhchali,36.0,2,5,1,4,0,0,2,4,4,1,0,2,1,5,iran,2019-09-06,angola,2019090648,Classification,201948
-1,Samad Nik Bahrami,33.0,6,13,5,7,4,5,0,3,2,1,0,0,3,21,iran,2019-09-06,angola,2019090648,Classification,201948
-2,Hamed Haddadi,27.0,3,8,0,0,3,5,0,5,2,0,1,5,3,9,iran,2019-09-06,angola,2019090648,Classification,201948
-3,Mohammad Jamshidi,26.0,3,5,0,1,0,0,1,3,3,0,0,2,0,6,iran,2019-09-06,angola,2019090648,Classification,201948
-4,Michael Rostampour,18.0,0,0,0,0,4,6,0,4,1,1,0,0,1,4,iran,2019-09-06,angola,2019090648,Classification,201948
-5,Aaron Geramipoor,15.0,5,6,0,0,1,2,0,7,2,1,0,1,2,11,iran,2019-09-06,angola,2019090648,Classification,201948
-6,Rasoul Mozafarivanani,14.0,0,1,0,0,5,6,0,1,2,1,0,2,0,5,iran,2019-09-06,angola,2019090648,Classification,201948
-7,Arman Zangeneh,11.0,1,3,0,1,0,0,0,1,0,1,0,1,0,2,iran,2019-09-06,angola,2019090648,Classification,201948
-8,Mohammad Hassanzadeh,9.0,3,5,0,1,0,2,2,3,0,0,0,0,0,6,iran,2019-09-06,angola,2019090648,Classification,201948
-9,Hamed Hosseinzadeh,5.0,0,2,0,1,0,0,0,1,1,0,0,0,0,0,iran,2019-09-06,angola,2019090648,Classification,201948
-10,Sajjad Mashayekhi,5.0,0,0,0,0,2,3,0,2,0,0,0,2,4,2,iran,2019-09-06,angola,2019090648,Classification,201948
-11,Totals,,23,48,6,15,19,29,5,34,17,6,1,15,14,71,iran,2019-09-06,angola,2019090648,Classification,201948
-0,Carlos Morais,31.0,8,16,1,2,0,1,0,3,2,2,0,1,2,17,angola,2019-09-06,iran,2019090648,Classification,201948
-1,Leandro Jacques Conceicao,29.0,1,4,0,2,0,0,0,2,2,0,0,3,3,2,angola,2019-09-06,iran,2019090648,Classification,201948
-2,Vander Joaquim,27.0,4,9,1,2,1,2,0,2,0,2,0,1,5,10,angola,2019-09-06,iran,2019090648,Classification,201948
-3,Jose Antonio,25.0,3,6,2,4,2,3,1,2,2,4,0,2,4,10,angola,2019-09-06,iran,2019090648,Classification,201948
-4,Yanick Moreira,24.0,2,7,0,0,0,0,2,7,1,1,0,2,5,4,angola,2019-09-06,iran,2019090648,Classification,201948
-5,Reggie Moore,24.0,2,6,2,4,0,0,0,4,1,0,0,1,2,6,angola,2019-09-06,iran,2019090648,Classification,201948
-6,Gerson Lukeny Goncalves,18.0,2,5,0,2,0,0,0,1,2,0,0,2,1,4,angola,2019-09-06,iran,2019090648,Classification,201948
-7,Leonel Paulo,18.0,2,3,1,1,2,4,0,2,1,1,1,0,2,7,angola,2019-09-06,iran,2019090648,Classification,201948
-8,Divaldo Mbunga,5.0,1,2,0,1,0,0,0,0,0,0,0,0,0,2,angola,2019-09-06,iran,2019090648,Classification,201948
-9,Totals,,25,58,7,18,5,10,3,23,11,10,1,12,24,62,angola,2019-09-06,iran,2019090648,Classification,201948
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Behnam Yakhchali,36.0,2,5,1,4,0,0,2,4,4,1,0,2,1,5,iran,2019-09-06,angola,2019090648,Classification,201948,fiba-world-cup
+1,Samad Nik Bahrami,33.0,6,13,5,7,4,5,0,3,2,1,0,0,3,21,iran,2019-09-06,angola,2019090648,Classification,201948,fiba-world-cup
+2,Hamed Haddadi,27.0,3,8,0,0,3,5,0,5,2,0,1,5,3,9,iran,2019-09-06,angola,2019090648,Classification,201948,fiba-world-cup
+3,Mohammad Jamshidi,26.0,3,5,0,1,0,0,1,3,3,0,0,2,0,6,iran,2019-09-06,angola,2019090648,Classification,201948,fiba-world-cup
+4,Michael Rostampour,18.0,0,0,0,0,4,6,0,4,1,1,0,0,1,4,iran,2019-09-06,angola,2019090648,Classification,201948,fiba-world-cup
+5,Aaron Geramipoor,15.0,5,6,0,0,1,2,0,7,2,1,0,1,2,11,iran,2019-09-06,angola,2019090648,Classification,201948,fiba-world-cup
+6,Rasoul Mozafarivanani,14.0,0,1,0,0,5,6,0,1,2,1,0,2,0,5,iran,2019-09-06,angola,2019090648,Classification,201948,fiba-world-cup
+7,Arman Zangeneh,11.0,1,3,0,1,0,0,0,1,0,1,0,1,0,2,iran,2019-09-06,angola,2019090648,Classification,201948,fiba-world-cup
+8,Mohammad Hassanzadeh,9.0,3,5,0,1,0,2,2,3,0,0,0,0,0,6,iran,2019-09-06,angola,2019090648,Classification,201948,fiba-world-cup
+9,Hamed Hosseinzadeh,5.0,0,2,0,1,0,0,0,1,1,0,0,0,0,0,iran,2019-09-06,angola,2019090648,Classification,201948,fiba-world-cup
+10,Sajjad Mashayekhi,5.0,0,0,0,0,2,3,0,2,0,0,0,2,4,2,iran,2019-09-06,angola,2019090648,Classification,201948,fiba-world-cup
+11,Totals,,23,48,6,15,19,29,5,34,17,6,1,15,14,71,iran,2019-09-06,angola,2019090648,Classification,201948,fiba-world-cup
+0,Carlos Morais,31.0,8,16,1,2,0,1,0,3,2,2,0,1,2,17,angola,2019-09-06,iran,2019090648,Classification,201948,fiba-world-cup
+1,Leandro Jacques Conceicao,29.0,1,4,0,2,0,0,0,2,2,0,0,3,3,2,angola,2019-09-06,iran,2019090648,Classification,201948,fiba-world-cup
+2,Vander Joaquim,27.0,4,9,1,2,1,2,0,2,0,2,0,1,5,10,angola,2019-09-06,iran,2019090648,Classification,201948,fiba-world-cup
+3,Jose Antonio,25.0,3,6,2,4,2,3,1,2,2,4,0,2,4,10,angola,2019-09-06,iran,2019090648,Classification,201948,fiba-world-cup
+4,Yanick Moreira,24.0,2,7,0,0,0,0,2,7,1,1,0,2,5,4,angola,2019-09-06,iran,2019090648,Classification,201948,fiba-world-cup
+5,Reggie Moore,24.0,2,6,2,4,0,0,0,4,1,0,0,1,2,6,angola,2019-09-06,iran,2019090648,Classification,201948,fiba-world-cup
+6,Gerson Lukeny Goncalves,18.0,2,5,0,2,0,0,0,1,2,0,0,2,1,4,angola,2019-09-06,iran,2019090648,Classification,201948,fiba-world-cup
+7,Leonel Paulo,18.0,2,3,1,1,2,4,0,2,1,1,1,0,2,7,angola,2019-09-06,iran,2019090648,Classification,201948,fiba-world-cup
+8,Divaldo Mbunga,5.0,1,2,0,1,0,0,0,0,0,0,0,0,0,2,angola,2019-09-06,iran,2019090648,Classification,201948,fiba-world-cup
+9,Totals,,25,58,7,18,5,10,3,23,11,10,1,12,24,62,angola,2019-09-06,iran,2019090648,Classification,201948,fiba-world-cup

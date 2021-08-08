@@ -1,26 +1,26 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Carlos Delfino,40,5,15,2,6,1,1,0,7,1,4,1,2,3,13,argentina,2010-09-02,serbia,2010090258,Group Play,201058
-1,Luis Scola,36,12,19,0,0,8,11,1,7,2,1,2,1,3,32,argentina,2010-09-02,serbia,2010090258,Group Play,201058
-2,Pablo Prigioni,35,5,10,3,5,0,2,1,3,9,5,0,2,2,13,argentina,2010-09-02,serbia,2010090258,Group Play,201058
-3,Roman Gonzalez,23,0,3,0,0,0,0,0,5,0,2,0,3,3,0,argentina,2010-09-02,serbia,2010090258,Group Play,201058
-4,Hernan Jasen,19,3,8,1,2,1,2,2,4,2,0,0,0,2,8,argentina,2010-09-02,serbia,2010090258,Group Play,201058
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,argentina,2010-09-02,serbia,2010090258,Group Play,201058
-6,Leo Gutierrez,15,1,4,1,4,1,2,0,1,0,0,0,0,1,4,argentina,2010-09-02,serbia,2010090258,Group Play,201058
-7,Paulo Quinteros,14,2,3,2,2,4,5,0,1,0,0,0,1,2,10,argentina,2010-09-02,serbia,2010090258,Group Play,201058
-8,Luis Eduardo Cequeira,8,1,1,0,0,0,0,0,0,0,1,0,1,1,2,argentina,2010-09-02,serbia,2010090258,Group Play,201058
-9,Juan Gutierrez,6,0,0,0,0,0,0,0,1,0,0,0,0,2,0,argentina,2010-09-02,serbia,2010090258,Group Play,201058
-10,Federico Kammerichs,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,argentina,2010-09-02,serbia,2010090258,Group Play,201058
-11,Totals,,29,63,9,19,15,23,4,29,14,13,3,10,20,82,argentina,2010-09-02,serbia,2010090258,Group Play,201058
-0,Milos Teodosic,28,7,13,2,7,0,0,0,4,4,3,0,3,5,16,serbia,2010-09-02,argentina,2010090258,Group Play,201058
-1,Aleksandar Rasic,28,2,5,2,4,4,4,1,1,0,0,0,4,2,10,serbia,2010-09-02,argentina,2010090258,Group Play,201058
-2,Novica Velickovic,19,3,10,1,4,0,0,2,6,3,0,2,1,2,7,serbia,2010-09-02,argentina,2010090258,Group Play,201058
-3,Nemanja Bjelica,14,0,2,0,2,0,0,0,2,0,0,0,1,2,0,serbia,2010-09-02,argentina,2010090258,Group Play,201058
-4,Kosta Perovic,13,1,3,0,0,0,0,1,5,0,0,0,0,3,2,serbia,2010-09-02,argentina,2010090258,Group Play,201058
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,serbia,2010-09-02,argentina,2010090258,Group Play,201058
-6,Nenad Krstic,26,6,10,0,0,6,10,2,8,3,1,0,1,3,18,serbia,2010-09-02,argentina,2010090258,Group Play,201058
-7,Dusko Savanovic,22,8,14,2,5,1,1,0,5,2,2,0,0,2,19,serbia,2010-09-02,argentina,2010090258,Group Play,201058
-8,Ivan Paunic,19,0,3,0,1,0,0,2,3,1,0,0,1,3,0,serbia,2010-09-02,argentina,2010090258,Group Play,201058
-9,Stefan Markovic,12,2,2,1,1,1,2,1,3,1,0,0,2,1,6,serbia,2010-09-02,argentina,2010090258,Group Play,201058
-10,Milenko Tepic,10,0,1,0,0,0,0,0,0,0,0,0,1,0,0,serbia,2010-09-02,argentina,2010090258,Group Play,201058
-11,Marko Keselj,9,2,4,1,2,1,1,0,2,0,0,0,1,1,6,serbia,2010-09-02,argentina,2010090258,Group Play,201058
-12,Totals,,31,67,9,26,13,18,9,39,14,6,2,15,24,84,serbia,2010-09-02,argentina,2010090258,Group Play,201058
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Carlos Delfino,40,5,15,2,6,1,1,0,7,1,4,1,2,3,13,argentina,2010-09-02,serbia,2010090258,Group Play,201058,fiba-world-cup
+1,Luis Scola,36,12,19,0,0,8,11,1,7,2,1,2,1,3,32,argentina,2010-09-02,serbia,2010090258,Group Play,201058,fiba-world-cup
+2,Pablo Prigioni,35,5,10,3,5,0,2,1,3,9,5,0,2,2,13,argentina,2010-09-02,serbia,2010090258,Group Play,201058,fiba-world-cup
+3,Roman Gonzalez,23,0,3,0,0,0,0,0,5,0,2,0,3,3,0,argentina,2010-09-02,serbia,2010090258,Group Play,201058,fiba-world-cup
+4,Hernan Jasen,19,3,8,1,2,1,2,2,4,2,0,0,0,2,8,argentina,2010-09-02,serbia,2010090258,Group Play,201058,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,argentina,2010-09-02,serbia,2010090258,Group Play,201058,fiba-world-cup
+6,Leo Gutierrez,15,1,4,1,4,1,2,0,1,0,0,0,0,1,4,argentina,2010-09-02,serbia,2010090258,Group Play,201058,fiba-world-cup
+7,Paulo Quinteros,14,2,3,2,2,4,5,0,1,0,0,0,1,2,10,argentina,2010-09-02,serbia,2010090258,Group Play,201058,fiba-world-cup
+8,Luis Eduardo Cequeira,8,1,1,0,0,0,0,0,0,0,1,0,1,1,2,argentina,2010-09-02,serbia,2010090258,Group Play,201058,fiba-world-cup
+9,Juan Gutierrez,6,0,0,0,0,0,0,0,1,0,0,0,0,2,0,argentina,2010-09-02,serbia,2010090258,Group Play,201058,fiba-world-cup
+10,Federico Kammerichs,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,argentina,2010-09-02,serbia,2010090258,Group Play,201058,fiba-world-cup
+11,Totals,,29,63,9,19,15,23,4,29,14,13,3,10,20,82,argentina,2010-09-02,serbia,2010090258,Group Play,201058,fiba-world-cup
+0,Milos Teodosic,28,7,13,2,7,0,0,0,4,4,3,0,3,5,16,serbia,2010-09-02,argentina,2010090258,Group Play,201058,fiba-world-cup
+1,Aleksandar Rasic,28,2,5,2,4,4,4,1,1,0,0,0,4,2,10,serbia,2010-09-02,argentina,2010090258,Group Play,201058,fiba-world-cup
+2,Novica Velickovic,19,3,10,1,4,0,0,2,6,3,0,2,1,2,7,serbia,2010-09-02,argentina,2010090258,Group Play,201058,fiba-world-cup
+3,Nemanja Bjelica,14,0,2,0,2,0,0,0,2,0,0,0,1,2,0,serbia,2010-09-02,argentina,2010090258,Group Play,201058,fiba-world-cup
+4,Kosta Perovic,13,1,3,0,0,0,0,1,5,0,0,0,0,3,2,serbia,2010-09-02,argentina,2010090258,Group Play,201058,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,serbia,2010-09-02,argentina,2010090258,Group Play,201058,fiba-world-cup
+6,Nenad Krstic,26,6,10,0,0,6,10,2,8,3,1,0,1,3,18,serbia,2010-09-02,argentina,2010090258,Group Play,201058,fiba-world-cup
+7,Dusko Savanovic,22,8,14,2,5,1,1,0,5,2,2,0,0,2,19,serbia,2010-09-02,argentina,2010090258,Group Play,201058,fiba-world-cup
+8,Ivan Paunic,19,0,3,0,1,0,0,2,3,1,0,0,1,3,0,serbia,2010-09-02,argentina,2010090258,Group Play,201058,fiba-world-cup
+9,Stefan Markovic,12,2,2,1,1,1,2,1,3,1,0,0,2,1,6,serbia,2010-09-02,argentina,2010090258,Group Play,201058,fiba-world-cup
+10,Milenko Tepic,10,0,1,0,0,0,0,0,0,0,0,0,1,0,0,serbia,2010-09-02,argentina,2010090258,Group Play,201058,fiba-world-cup
+11,Marko Keselj,9,2,4,1,2,1,1,0,2,0,0,0,1,1,6,serbia,2010-09-02,argentina,2010090258,Group Play,201058,fiba-world-cup
+12,Totals,,31,67,9,26,13,18,9,39,14,6,2,15,24,84,serbia,2010-09-02,argentina,2010090258,Group Play,201058,fiba-world-cup

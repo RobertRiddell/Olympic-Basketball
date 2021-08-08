@@ -1,26 +1,26 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Sergio Llull,29,1,4,1,4,0,0,0,1,5,0,0,1,2,3,spain,2010-09-02,canada,2010090249,Group Play,201049
-1,Ricky Rubio,25,2,6,1,4,3,3,1,6,8,0,1,1,3,8,spain,2010-09-02,canada,2010090249,Group Play,201049
-2,Rudy Fernandez,23,5,8,4,7,5,6,1,5,1,2,1,2,1,19,spain,2010-09-02,canada,2010090249,Group Play,201049
-3,Marc Gasol,20,2,5,0,0,0,0,3,9,0,0,3,4,1,4,spain,2010-09-02,canada,2010090249,Group Play,201049
-4,Jorge Garbajosa,17,2,6,1,4,4,4,0,1,0,0,0,1,2,9,spain,2010-09-02,canada,2010090249,Group Play,201049
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,spain,2010-09-02,canada,2010090249,Group Play,201049
-6,Alex Mumbru,20,3,6,0,2,2,2,1,5,2,0,0,2,3,8,spain,2010-09-02,canada,2010090249,Group Play,201049
-7,Felipe Reyes,18,4,10,0,0,0,0,1,9,2,0,0,1,2,8,spain,2010-09-02,canada,2010090249,Group Play,201049
-8,Fran Vazquez,16,9,9,0,0,1,2,3,5,0,1,4,0,4,19,spain,2010-09-02,canada,2010090249,Group Play,201049
-9,Fernando San Emeterio,15,3,5,0,1,0,0,1,4,3,0,0,2,0,6,spain,2010-09-02,canada,2010090249,Group Play,201049
-10,Raul Lopez,9,0,1,0,1,0,0,0,1,1,0,0,1,2,0,spain,2010-09-02,canada,2010090249,Group Play,201049
-11,Victor Claver,8,2,3,1,1,0,2,0,1,0,0,0,2,1,5,spain,2010-09-02,canada,2010090249,Group Play,201049
-12,Totals,,33,63,8,24,15,19,11,47,22,3,9,17,21,89,spain,2010-09-02,canada,2010090249,Group Play,201049
-0,Joel Anthony,26,2,6,0,0,0,0,1,6,0,3,1,2,2,4,canada,2010-09-02,spain,2010090249,Group Play,201049
-1,Levon Kendall,24,2,6,1,3,2,2,0,5,0,2,0,1,0,7,canada,2010-09-02,spain,2010090249,Group Play,201049
-2,Jermaine Anderson,22,3,8,1,3,1,2,1,2,2,0,0,1,2,8,canada,2010-09-02,spain,2010090249,Group Play,201049
-3,Aaron Doornekamp,22,1,6,0,1,0,0,1,3,2,0,0,1,3,2,canada,2010-09-02,spain,2010090249,Group Play,201049
-4,Denham Brown,17,0,6,0,1,0,0,1,2,0,0,0,1,0,0,canada,2010-09-02,spain,2010090249,Group Play,201049
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,canada,2010-09-02,spain,2010090249,Group Play,201049
-6,Jevohn Shepherd,23,3,15,2,6,4,6,0,1,1,1,0,1,2,12,canada,2010-09-02,spain,2010090249,Group Play,201049
-7,Kelly Olynyk,22,3,7,1,3,7,9,2,4,0,0,0,1,2,14,canada,2010-09-02,spain,2010090249,Group Play,201049
-8,Ryan Bell,18,1,2,1,1,2,2,0,0,1,1,0,0,2,5,canada,2010-09-02,spain,2010090249,Group Play,201049
-9,Robert Sacre,14,3,6,0,0,2,2,2,3,0,1,0,1,0,8,canada,2010-09-02,spain,2010090249,Group Play,201049
-10,Jermaine Bucknor,12,2,3,2,2,1,2,0,2,1,1,0,0,2,7,canada,2010-09-02,spain,2010090249,Group Play,201049
-11,Totals,,20,65,8,20,19,25,8,28,7,9,1,9,15,67,canada,2010-09-02,spain,2010090249,Group Play,201049
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Sergio Llull,29,1,4,1,4,0,0,0,1,5,0,0,1,2,3,spain,2010-09-02,canada,2010090249,Group Play,201049,fiba-world-cup
+1,Ricky Rubio,25,2,6,1,4,3,3,1,6,8,0,1,1,3,8,spain,2010-09-02,canada,2010090249,Group Play,201049,fiba-world-cup
+2,Rudy Fernandez,23,5,8,4,7,5,6,1,5,1,2,1,2,1,19,spain,2010-09-02,canada,2010090249,Group Play,201049,fiba-world-cup
+3,Marc Gasol,20,2,5,0,0,0,0,3,9,0,0,3,4,1,4,spain,2010-09-02,canada,2010090249,Group Play,201049,fiba-world-cup
+4,Jorge Garbajosa,17,2,6,1,4,4,4,0,1,0,0,0,1,2,9,spain,2010-09-02,canada,2010090249,Group Play,201049,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,spain,2010-09-02,canada,2010090249,Group Play,201049,fiba-world-cup
+6,Alex Mumbru,20,3,6,0,2,2,2,1,5,2,0,0,2,3,8,spain,2010-09-02,canada,2010090249,Group Play,201049,fiba-world-cup
+7,Felipe Reyes,18,4,10,0,0,0,0,1,9,2,0,0,1,2,8,spain,2010-09-02,canada,2010090249,Group Play,201049,fiba-world-cup
+8,Fran Vazquez,16,9,9,0,0,1,2,3,5,0,1,4,0,4,19,spain,2010-09-02,canada,2010090249,Group Play,201049,fiba-world-cup
+9,Fernando San Emeterio,15,3,5,0,1,0,0,1,4,3,0,0,2,0,6,spain,2010-09-02,canada,2010090249,Group Play,201049,fiba-world-cup
+10,Raul Lopez,9,0,1,0,1,0,0,0,1,1,0,0,1,2,0,spain,2010-09-02,canada,2010090249,Group Play,201049,fiba-world-cup
+11,Victor Claver,8,2,3,1,1,0,2,0,1,0,0,0,2,1,5,spain,2010-09-02,canada,2010090249,Group Play,201049,fiba-world-cup
+12,Totals,,33,63,8,24,15,19,11,47,22,3,9,17,21,89,spain,2010-09-02,canada,2010090249,Group Play,201049,fiba-world-cup
+0,Joel Anthony,26,2,6,0,0,0,0,1,6,0,3,1,2,2,4,canada,2010-09-02,spain,2010090249,Group Play,201049,fiba-world-cup
+1,Levon Kendall,24,2,6,1,3,2,2,0,5,0,2,0,1,0,7,canada,2010-09-02,spain,2010090249,Group Play,201049,fiba-world-cup
+2,Jermaine Anderson,22,3,8,1,3,1,2,1,2,2,0,0,1,2,8,canada,2010-09-02,spain,2010090249,Group Play,201049,fiba-world-cup
+3,Aaron Doornekamp,22,1,6,0,1,0,0,1,3,2,0,0,1,3,2,canada,2010-09-02,spain,2010090249,Group Play,201049,fiba-world-cup
+4,Denham Brown,17,0,6,0,1,0,0,1,2,0,0,0,1,0,0,canada,2010-09-02,spain,2010090249,Group Play,201049,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,canada,2010-09-02,spain,2010090249,Group Play,201049,fiba-world-cup
+6,Jevohn Shepherd,23,3,15,2,6,4,6,0,1,1,1,0,1,2,12,canada,2010-09-02,spain,2010090249,Group Play,201049,fiba-world-cup
+7,Kelly Olynyk,22,3,7,1,3,7,9,2,4,0,0,0,1,2,14,canada,2010-09-02,spain,2010090249,Group Play,201049,fiba-world-cup
+8,Ryan Bell,18,1,2,1,1,2,2,0,0,1,1,0,0,2,5,canada,2010-09-02,spain,2010090249,Group Play,201049,fiba-world-cup
+9,Robert Sacre,14,3,6,0,0,2,2,2,3,0,1,0,1,0,8,canada,2010-09-02,spain,2010090249,Group Play,201049,fiba-world-cup
+10,Jermaine Bucknor,12,2,3,2,2,1,2,0,2,1,1,0,0,2,7,canada,2010-09-02,spain,2010090249,Group Play,201049,fiba-world-cup
+11,Totals,,20,65,8,20,19,25,8,28,7,9,1,9,15,67,canada,2010-09-02,spain,2010090249,Group Play,201049,fiba-world-cup

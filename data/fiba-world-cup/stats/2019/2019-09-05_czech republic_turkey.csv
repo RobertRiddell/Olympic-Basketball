@@ -1,23 +1,23 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Vojtech Hruban,36.0,8,12,2,5,0,0,1,4,4,0,0,3,3,18,czech republic,2019-09-05,turkey,2019090546,First Round,201946
-1,Tomas Satoransky,36.0,1,8,1,2,8,8,1,7,7,0,0,2,3,11,czech republic,2019-09-05,turkey,2019090546,First Round,201946
-2,Patrik Auda,30.0,7,11,1,1,1,2,3,9,0,1,0,0,4,16,czech republic,2019-09-05,turkey,2019090546,First Round,201946
-3,Ondrej Balvin,30.0,8,9,0,0,1,5,3,11,1,0,2,2,4,17,czech republic,2019-09-05,turkey,2019090546,First Round,201946
-4,Jaromir Bohacik,27.0,6,8,1,3,2,2,1,4,4,0,0,1,3,15,czech republic,2019-09-05,turkey,2019090546,First Round,201946
-5,Blake Schilb,24.0,3,6,2,4,0,0,0,3,8,2,0,1,0,8,czech republic,2019-09-05,turkey,2019090546,First Round,201946
-6,Pavel Pumprla,7.0,1,1,0,0,0,2,0,1,0,0,0,0,1,2,czech republic,2019-09-05,turkey,2019090546,First Round,201946
-7,Martin Peterka,5.0,1,3,0,1,0,0,0,0,1,0,0,0,1,2,czech republic,2019-09-05,turkey,2019090546,First Round,201946
-8,Martin Kriz,5.0,1,3,0,1,0,0,0,1,1,0,0,1,0,2,czech republic,2019-09-05,turkey,2019090546,First Round,201946
-9,Jakub Sirina,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,czech republic,2019-09-05,turkey,2019090546,First Round,201946
-10,Totals,,36,61,7,17,12,19,9,40,26,3,2,10,19,91,czech republic,2019-09-05,turkey,2019090546,First Round,201946
-0,Cedi Osman,33.0,8,14,3,6,5,5,1,3,3,1,0,0,3,24,turkey,2019-09-05,czech republic,2019090546,First Round,201946
-1,Furkan Korkmaz,32.0,5,10,3,6,3,4,0,4,1,3,0,0,2,16,turkey,2019-09-05,czech republic,2019090546,First Round,201946
-2,Ersan Ilyasova,30.0,0,9,0,4,6,6,0,4,2,2,1,1,4,6,turkey,2019-09-05,czech republic,2019090546,First Round,201946
-3,Melih Mahmutoglu,28.0,5,12,4,8,0,0,0,0,0,0,0,0,0,14,turkey,2019-09-05,czech republic,2019090546,First Round,201946
-4,Semih Erden,23.0,2,4,0,0,4,5,1,4,0,2,0,0,4,8,turkey,2019-09-05,czech republic,2019090546,First Round,201946
-5,Scottie Wilbekin,21.0,2,5,1,2,0,0,0,3,3,0,0,1,3,5,turkey,2019-09-05,czech republic,2019090546,First Round,201946
-6,Dogus Balbay,15.0,0,3,0,2,0,0,2,2,3,0,1,0,2,0,turkey,2019-09-05,czech republic,2019090546,First Round,201946
-7,James Birsen,9.0,1,2,0,1,0,0,2,3,0,0,0,1,0,2,turkey,2019-09-05,czech republic,2019090546,First Round,201946
-8,Ahmet Tuncer,5.0,0,1,0,1,0,0,0,1,3,0,0,0,1,0,turkey,2019-09-05,czech republic,2019090546,First Round,201946
-9,Sertac Sanli,4.0,0,0,0,0,1,2,0,1,0,0,0,0,1,1,turkey,2019-09-05,czech republic,2019090546,First Round,201946
-10,Totals,,23,60,11,30,19,22,6,25,15,8,2,3,20,76,turkey,2019-09-05,czech republic,2019090546,First Round,201946
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Vojtech Hruban,36.0,8,12,2,5,0,0,1,4,4,0,0,3,3,18,czech republic,2019-09-05,turkey,2019090546,First Round,201946,fiba-world-cup
+1,Tomas Satoransky,36.0,1,8,1,2,8,8,1,7,7,0,0,2,3,11,czech republic,2019-09-05,turkey,2019090546,First Round,201946,fiba-world-cup
+2,Patrik Auda,30.0,7,11,1,1,1,2,3,9,0,1,0,0,4,16,czech republic,2019-09-05,turkey,2019090546,First Round,201946,fiba-world-cup
+3,Ondrej Balvin,30.0,8,9,0,0,1,5,3,11,1,0,2,2,4,17,czech republic,2019-09-05,turkey,2019090546,First Round,201946,fiba-world-cup
+4,Jaromir Bohacik,27.0,6,8,1,3,2,2,1,4,4,0,0,1,3,15,czech republic,2019-09-05,turkey,2019090546,First Round,201946,fiba-world-cup
+5,Blake Schilb,24.0,3,6,2,4,0,0,0,3,8,2,0,1,0,8,czech republic,2019-09-05,turkey,2019090546,First Round,201946,fiba-world-cup
+6,Pavel Pumprla,7.0,1,1,0,0,0,2,0,1,0,0,0,0,1,2,czech republic,2019-09-05,turkey,2019090546,First Round,201946,fiba-world-cup
+7,Martin Peterka,5.0,1,3,0,1,0,0,0,0,1,0,0,0,1,2,czech republic,2019-09-05,turkey,2019090546,First Round,201946,fiba-world-cup
+8,Martin Kriz,5.0,1,3,0,1,0,0,0,1,1,0,0,1,0,2,czech republic,2019-09-05,turkey,2019090546,First Round,201946,fiba-world-cup
+9,Jakub Sirina,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,czech republic,2019-09-05,turkey,2019090546,First Round,201946,fiba-world-cup
+10,Totals,,36,61,7,17,12,19,9,40,26,3,2,10,19,91,czech republic,2019-09-05,turkey,2019090546,First Round,201946,fiba-world-cup
+0,Cedi Osman,33.0,8,14,3,6,5,5,1,3,3,1,0,0,3,24,turkey,2019-09-05,czech republic,2019090546,First Round,201946,fiba-world-cup
+1,Furkan Korkmaz,32.0,5,10,3,6,3,4,0,4,1,3,0,0,2,16,turkey,2019-09-05,czech republic,2019090546,First Round,201946,fiba-world-cup
+2,Ersan Ilyasova,30.0,0,9,0,4,6,6,0,4,2,2,1,1,4,6,turkey,2019-09-05,czech republic,2019090546,First Round,201946,fiba-world-cup
+3,Melih Mahmutoglu,28.0,5,12,4,8,0,0,0,0,0,0,0,0,0,14,turkey,2019-09-05,czech republic,2019090546,First Round,201946,fiba-world-cup
+4,Semih Erden,23.0,2,4,0,0,4,5,1,4,0,2,0,0,4,8,turkey,2019-09-05,czech republic,2019090546,First Round,201946,fiba-world-cup
+5,Scottie Wilbekin,21.0,2,5,1,2,0,0,0,3,3,0,0,1,3,5,turkey,2019-09-05,czech republic,2019090546,First Round,201946,fiba-world-cup
+6,Dogus Balbay,15.0,0,3,0,2,0,0,2,2,3,0,1,0,2,0,turkey,2019-09-05,czech republic,2019090546,First Round,201946,fiba-world-cup
+7,James Birsen,9.0,1,2,0,1,0,0,2,3,0,0,0,1,0,2,turkey,2019-09-05,czech republic,2019090546,First Round,201946,fiba-world-cup
+8,Ahmet Tuncer,5.0,0,1,0,1,0,0,0,1,3,0,0,0,1,0,turkey,2019-09-05,czech republic,2019090546,First Round,201946,fiba-world-cup
+9,Sertac Sanli,4.0,0,0,0,0,1,2,0,1,0,0,0,0,1,1,turkey,2019-09-05,czech republic,2019090546,First Round,201946,fiba-world-cup
+10,Totals,,23,60,11,30,19,22,6,25,15,8,2,3,20,76,turkey,2019-09-05,czech republic,2019090546,First Round,201946,fiba-world-cup

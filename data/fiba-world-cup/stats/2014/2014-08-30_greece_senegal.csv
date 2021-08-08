@@ -1,28 +1,28 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Nick Calathes,22,2,5,0,2,0,0,1,5,1,0,0,4,0,4,greece,2014-08-30,senegal,201408307,Group Play,20147
-1,Kostas Vasileiadis,21,5,8,3,6,0,0,0,2,0,1,0,1,2,13,greece,2014-08-30,senegal,201408307,Group Play,20147
-2,Kostas Papanikolaou,21,2,5,1,1,0,0,0,3,3,0,0,1,1,5,greece,2014-08-30,senegal,201408307,Group Play,20147
-3,Ioannis Bourousis,18,3,7,0,1,1,1,2,7,2,0,0,1,3,7,greece,2014-08-30,senegal,201408307,Group Play,20147
-4,Giorgos Printezis,18,2,6,0,1,1,1,0,3,1,0,0,0,3,5,greece,2014-08-30,senegal,201408307,Group Play,20147
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,greece,2014-08-30,senegal,201408307,Group Play,20147
-6,Kostas Kaimakoglou,22,6,10,5,7,0,0,3,8,2,1,0,0,2,17,greece,2014-08-30,senegal,201408307,Group Play,20147
-7,Giannis Antetokounmpo,19,2,2,0,0,7,8,2,5,1,3,0,1,2,11,greece,2014-08-30,senegal,201408307,Group Play,20147
-8,Kostas Sloukas,17,4,6,2,2,0,0,0,1,4,0,0,2,1,10,greece,2014-08-30,senegal,201408307,Group Play,20147
-9,Ian Vouyoukas,16,0,0,0,0,3,4,0,2,2,0,0,2,5,3,greece,2014-08-30,senegal,201408307,Group Play,20147
-10,Nikos Zisis,11,0,3,0,1,0,0,0,0,3,0,0,2,2,0,greece,2014-08-30,senegal,201408307,Group Play,20147
-11,Vangelis Mantzaris,9,2,4,2,3,2,2,0,0,0,0,0,0,0,8,greece,2014-08-30,senegal,201408307,Group Play,20147
-12,Andreas Glyniadakis,6,2,3,0,0,0,0,1,3,0,0,0,2,4,4,greece,2014-08-30,senegal,201408307,Group Play,20147
-13,Totals,,30,59,13,24,14,16,9,39,19,5,0,16,25,87,greece,2014-08-30,senegal,201408307,Group Play,20147
-0,Gorgui Dieng,38,6,13,0,1,9,12,4,14,0,3,1,3,0,21,senegal,2014-08-30,greece,201408307,Group Play,20147
-1,Maleye N'Doye,31,3,5,2,3,3,4,0,0,1,2,1,0,4,11,senegal,2014-08-30,greece,201408307,Group Play,20147
-2,Mouhammad Faye,22,1,10,0,4,0,0,0,3,0,1,1,1,1,2,senegal,2014-08-30,greece,201408307,Group Play,20147
-3,Hamady N'Diaye,16,3,6,0,0,0,0,3,4,1,1,2,0,3,6,senegal,2014-08-30,greece,201408307,Group Play,20147
-4,Xane D'Almeida,13,0,3,0,1,0,0,0,0,2,0,0,1,1,0,senegal,2014-08-30,greece,201408307,Group Play,20147
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,senegal,2014-08-30,greece,201408307,Group Play,20147
-6,Pape Badji,24,3,7,0,0,8,10,2,4,0,1,1,0,3,14,senegal,2014-08-30,greece,201408307,Group Play,20147
-7,Maurice Ndour,22,1,3,1,1,1,2,0,3,2,2,1,1,4,4,senegal,2014-08-30,greece,201408307,Group Play,20147
-8,Mamadou Ndoye,21,0,5,0,1,0,0,0,0,2,0,0,3,3,0,senegal,2014-08-30,greece,201408307,Group Play,20147
-9,Thierno Niang,7,0,1,0,1,0,0,0,0,1,0,0,1,0,0,senegal,2014-08-30,greece,201408307,Group Play,20147
-10,Mohamet Diop,4,2,4,1,2,1,2,0,0,0,0,0,0,0,6,senegal,2014-08-30,greece,201408307,Group Play,20147
-11,Ibrahima Thomas,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,senegal,2014-08-30,greece,201408307,Group Play,20147
-12,Totals,,19,58,4,14,22,30,9,28,9,10,7,10,19,64,senegal,2014-08-30,greece,201408307,Group Play,20147
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Nick Calathes,22,2,5,0,2,0,0,1,5,1,0,0,4,0,4,greece,2014-08-30,senegal,201408307,Group Play,20147,fiba-world-cup
+1,Kostas Vasileiadis,21,5,8,3,6,0,0,0,2,0,1,0,1,2,13,greece,2014-08-30,senegal,201408307,Group Play,20147,fiba-world-cup
+2,Kostas Papanikolaou,21,2,5,1,1,0,0,0,3,3,0,0,1,1,5,greece,2014-08-30,senegal,201408307,Group Play,20147,fiba-world-cup
+3,Ioannis Bourousis,18,3,7,0,1,1,1,2,7,2,0,0,1,3,7,greece,2014-08-30,senegal,201408307,Group Play,20147,fiba-world-cup
+4,Giorgos Printezis,18,2,6,0,1,1,1,0,3,1,0,0,0,3,5,greece,2014-08-30,senegal,201408307,Group Play,20147,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,greece,2014-08-30,senegal,201408307,Group Play,20147,fiba-world-cup
+6,Kostas Kaimakoglou,22,6,10,5,7,0,0,3,8,2,1,0,0,2,17,greece,2014-08-30,senegal,201408307,Group Play,20147,fiba-world-cup
+7,Giannis Antetokounmpo,19,2,2,0,0,7,8,2,5,1,3,0,1,2,11,greece,2014-08-30,senegal,201408307,Group Play,20147,fiba-world-cup
+8,Kostas Sloukas,17,4,6,2,2,0,0,0,1,4,0,0,2,1,10,greece,2014-08-30,senegal,201408307,Group Play,20147,fiba-world-cup
+9,Ian Vouyoukas,16,0,0,0,0,3,4,0,2,2,0,0,2,5,3,greece,2014-08-30,senegal,201408307,Group Play,20147,fiba-world-cup
+10,Nikos Zisis,11,0,3,0,1,0,0,0,0,3,0,0,2,2,0,greece,2014-08-30,senegal,201408307,Group Play,20147,fiba-world-cup
+11,Vangelis Mantzaris,9,2,4,2,3,2,2,0,0,0,0,0,0,0,8,greece,2014-08-30,senegal,201408307,Group Play,20147,fiba-world-cup
+12,Andreas Glyniadakis,6,2,3,0,0,0,0,1,3,0,0,0,2,4,4,greece,2014-08-30,senegal,201408307,Group Play,20147,fiba-world-cup
+13,Totals,,30,59,13,24,14,16,9,39,19,5,0,16,25,87,greece,2014-08-30,senegal,201408307,Group Play,20147,fiba-world-cup
+0,Gorgui Dieng,38,6,13,0,1,9,12,4,14,0,3,1,3,0,21,senegal,2014-08-30,greece,201408307,Group Play,20147,fiba-world-cup
+1,Maleye N'Doye,31,3,5,2,3,3,4,0,0,1,2,1,0,4,11,senegal,2014-08-30,greece,201408307,Group Play,20147,fiba-world-cup
+2,Mouhammad Faye,22,1,10,0,4,0,0,0,3,0,1,1,1,1,2,senegal,2014-08-30,greece,201408307,Group Play,20147,fiba-world-cup
+3,Hamady N'Diaye,16,3,6,0,0,0,0,3,4,1,1,2,0,3,6,senegal,2014-08-30,greece,201408307,Group Play,20147,fiba-world-cup
+4,Xane D'Almeida,13,0,3,0,1,0,0,0,0,2,0,0,1,1,0,senegal,2014-08-30,greece,201408307,Group Play,20147,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,senegal,2014-08-30,greece,201408307,Group Play,20147,fiba-world-cup
+6,Pape Badji,24,3,7,0,0,8,10,2,4,0,1,1,0,3,14,senegal,2014-08-30,greece,201408307,Group Play,20147,fiba-world-cup
+7,Maurice Ndour,22,1,3,1,1,1,2,0,3,2,2,1,1,4,4,senegal,2014-08-30,greece,201408307,Group Play,20147,fiba-world-cup
+8,Mamadou Ndoye,21,0,5,0,1,0,0,0,0,2,0,0,3,3,0,senegal,2014-08-30,greece,201408307,Group Play,20147,fiba-world-cup
+9,Thierno Niang,7,0,1,0,1,0,0,0,0,1,0,0,1,0,0,senegal,2014-08-30,greece,201408307,Group Play,20147,fiba-world-cup
+10,Mohamet Diop,4,2,4,1,2,1,2,0,0,0,0,0,0,0,6,senegal,2014-08-30,greece,201408307,Group Play,20147,fiba-world-cup
+11,Ibrahima Thomas,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,senegal,2014-08-30,greece,201408307,Group Play,20147,fiba-world-cup
+12,Totals,,19,58,4,14,22,30,9,28,9,10,7,10,19,64,senegal,2014-08-30,greece,201408307,Group Play,20147,fiba-world-cup

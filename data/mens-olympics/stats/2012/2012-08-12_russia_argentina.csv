@@ -1,20 +1,20 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Andrei Kirilenko,36.0,8,12,1,4,3,4,2,8,2,0,2,2,0,20,russia,2012-08-12,argentina,2012081236,Final Round,201236
-1,Alexey Shved,33.0,8,16,6,11,3,4,1,5,7,1,1,1,1,25,russia,2012-08-12,argentina,2012081236,Final Round,201236
-2,Viktor Khryapa,31.0,3,6,1,2,2,2,1,7,2,2,0,2,3,9,russia,2012-08-12,argentina,2012081236,Final Round,201236
-3,Sasha Kaun,30.0,3,5,0,0,0,2,2,6,0,0,0,3,3,6,russia,2012-08-12,argentina,2012081236,Final Round,201236
-4,Vitaly Fridzon,28.0,5,9,1,3,8,8,0,1,1,1,0,5,1,19,russia,2012-08-12,argentina,2012081236,Final Round,201236
-5,Sergei Monia,23.0,1,4,0,3,0,0,0,2,1,2,0,0,3,2,russia,2012-08-12,argentina,2012081236,Final Round,201236
-6,Anton Ponkrashov,12.0,0,1,0,0,0,0,0,0,1,0,0,2,0,0,russia,2012-08-12,argentina,2012081236,Final Round,201236
-7,Timofey Mozgov,7.0,0,2,0,0,0,0,0,1,0,0,0,0,2,0,russia,2012-08-12,argentina,2012081236,Final Round,201236
-8,Totals,,28,55,9,23,16,20,6,30,14,6,3,15,13,81,russia,2012-08-12,argentina,2012081236,Final Round,201236
-0,Carlos Delfino,40.0,4,11,2,9,5,6,1,6,1,0,0,3,4,15,argentina,2012-08-12,russia,2012081236,Final Round,201236
-1,Pablo Prigioni,37.0,1,3,1,3,0,0,1,1,7,3,1,3,4,3,argentina,2012-08-12,russia,2012081236,Final Round,201236
-2,Luis Scola,35.0,5,12,0,0,1,2,2,6,4,1,0,1,4,11,argentina,2012-08-12,russia,2012081236,Final Round,201236
-3,Manu Ginobili,33.0,7,15,4,8,3,3,0,3,3,2,0,3,3,21,argentina,2012-08-12,russia,2012081236,Final Round,201236
-4,Andres Nocioni,32.0,6,10,3,6,1,2,1,7,1,1,0,1,3,16,argentina,2012-08-12,russia,2012081236,Final Round,201236
-5,Leo Gutierrez,8.0,2,5,2,4,0,0,0,0,1,2,0,0,1,6,argentina,2012-08-12,russia,2012081236,Final Round,201236
-6,Hernan Jasen,6.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,argentina,2012-08-12,russia,2012081236,Final Round,201236
-7,Juan Gutierrez,5.0,1,2,0,0,0,0,0,1,0,0,0,0,0,2,argentina,2012-08-12,russia,2012081236,Final Round,201236
-8,Facu Campazzo,4.0,1,2,1,2,0,0,0,0,0,1,0,0,0,3,argentina,2012-08-12,russia,2012081236,Final Round,201236
-9,Totals,,27,61,13,33,10,13,5,24,17,10,1,11,19,77,argentina,2012-08-12,russia,2012081236,Final Round,201236
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Andrei Kirilenko,36.0,8,12,1,4,3,4,2,8,2,0,2,2,0,20,russia,2012-08-12,argentina,2012081236,Final Round,201236,mens-olympics
+1,Alexey Shved,33.0,8,16,6,11,3,4,1,5,7,1,1,1,1,25,russia,2012-08-12,argentina,2012081236,Final Round,201236,mens-olympics
+2,Viktor Khryapa,31.0,3,6,1,2,2,2,1,7,2,2,0,2,3,9,russia,2012-08-12,argentina,2012081236,Final Round,201236,mens-olympics
+3,Sasha Kaun,30.0,3,5,0,0,0,2,2,6,0,0,0,3,3,6,russia,2012-08-12,argentina,2012081236,Final Round,201236,mens-olympics
+4,Vitaly Fridzon,28.0,5,9,1,3,8,8,0,1,1,1,0,5,1,19,russia,2012-08-12,argentina,2012081236,Final Round,201236,mens-olympics
+5,Sergei Monia,23.0,1,4,0,3,0,0,0,2,1,2,0,0,3,2,russia,2012-08-12,argentina,2012081236,Final Round,201236,mens-olympics
+6,Anton Ponkrashov,12.0,0,1,0,0,0,0,0,0,1,0,0,2,0,0,russia,2012-08-12,argentina,2012081236,Final Round,201236,mens-olympics
+7,Timofey Mozgov,7.0,0,2,0,0,0,0,0,1,0,0,0,0,2,0,russia,2012-08-12,argentina,2012081236,Final Round,201236,mens-olympics
+8,Totals,,28,55,9,23,16,20,6,30,14,6,3,15,13,81,russia,2012-08-12,argentina,2012081236,Final Round,201236,mens-olympics
+0,Carlos Delfino,40.0,4,11,2,9,5,6,1,6,1,0,0,3,4,15,argentina,2012-08-12,russia,2012081236,Final Round,201236,mens-olympics
+1,Pablo Prigioni,37.0,1,3,1,3,0,0,1,1,7,3,1,3,4,3,argentina,2012-08-12,russia,2012081236,Final Round,201236,mens-olympics
+2,Luis Scola,35.0,5,12,0,0,1,2,2,6,4,1,0,1,4,11,argentina,2012-08-12,russia,2012081236,Final Round,201236,mens-olympics
+3,Manu Ginobili,33.0,7,15,4,8,3,3,0,3,3,2,0,3,3,21,argentina,2012-08-12,russia,2012081236,Final Round,201236,mens-olympics
+4,Andres Nocioni,32.0,6,10,3,6,1,2,1,7,1,1,0,1,3,16,argentina,2012-08-12,russia,2012081236,Final Round,201236,mens-olympics
+5,Leo Gutierrez,8.0,2,5,2,4,0,0,0,0,1,2,0,0,1,6,argentina,2012-08-12,russia,2012081236,Final Round,201236,mens-olympics
+6,Hernan Jasen,6.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,argentina,2012-08-12,russia,2012081236,Final Round,201236,mens-olympics
+7,Juan Gutierrez,5.0,1,2,0,0,0,0,0,1,0,0,0,0,0,2,argentina,2012-08-12,russia,2012081236,Final Round,201236,mens-olympics
+8,Facu Campazzo,4.0,1,2,1,2,0,0,0,0,0,1,0,0,0,3,argentina,2012-08-12,russia,2012081236,Final Round,201236,mens-olympics
+9,Totals,,27,61,13,33,10,13,5,24,17,10,1,11,19,77,argentina,2012-08-12,russia,2012081236,Final Round,201236,mens-olympics

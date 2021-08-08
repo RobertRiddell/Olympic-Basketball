@@ -1,25 +1,25 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Yuta Watanabe,28.0,2,6,0,2,5,6,0,3,2,0,0,1,2,9,japan,2019-09-05,united-states,2019090547,First Round,201947
-1,Yudai Baba,27.0,8,15,2,4,0,0,0,1,1,3,0,3,1,18,japan,2019-09-05,united-states,2019090547,First Round,201947
-2,Rui Hachimura,24.0,2,8,0,1,0,2,0,4,1,2,0,0,2,4,japan,2019-09-05,united-states,2019090547,First Round,201947
-3,Makoto Hiejima,19.0,2,8,0,2,0,0,0,2,0,0,0,2,3,4,japan,2019-09-05,united-states,2019090547,First Round,201947
-4,Kosuke Takeuchi,18.0,0,2,0,0,3,4,3,6,1,2,0,0,1,3,japan,2019-09-05,united-states,2019090547,First Round,201947
-5,Seiya Ando,17.0,0,4,0,1,0,0,0,1,0,0,0,2,0,0,japan,2019-09-05,united-states,2019090547,First Round,201947
-6,Nick Fazekas,16.0,2,8,0,1,0,0,1,4,0,1,0,0,0,4,japan,2019-09-05,united-states,2019090547,First Round,201947
-7,Daiki Tanaka,16.0,1,2,1,2,0,0,0,0,1,1,0,2,0,3,japan,2019-09-05,united-states,2019090547,First Round,201947
-8,Ryusei Shinoyama,13.0,0,2,0,1,0,0,1,4,1,0,0,4,2,0,japan,2019-09-05,united-states,2019090547,First Round,201947
-9,Joji Takeuchi,10.0,0,2,0,0,0,0,0,1,0,0,0,2,1,0,japan,2019-09-05,united-states,2019090547,First Round,201947
-10,Shuto Ando,6.0,0,3,0,3,0,0,1,2,0,0,0,2,0,0,japan,2019-09-05,united-states,2019090547,First Round,201947
-11,Avi Koki Schafer,6.0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,japan,2019-09-05,united-states,2019090547,First Round,201947
-12,Totals,,17,62,3,17,8,12,6,28,7,10,0,18,12,45,japan,2019-09-05,united-states,2019090547,First Round,201947
-0,Donovan Mitchell,23.0,4,8,2,5,0,0,0,3,6,1,0,0,1,10,united-states,2019-09-05,japan,2019090547,First Round,201947
-1,Jaylen Brown,23.0,9,15,2,6,0,1,1,7,1,2,0,1,2,20,united-states,2019-09-05,japan,2019090547,First Round,201947
-2,Khris Middleton,22.0,3,8,1,4,2,2,3,6,6,2,0,0,1,9,united-states,2019-09-05,japan,2019090547,First Round,201947
-3,Kemba Walker,21.0,5,11,3,8,2,3,1,2,8,0,1,2,0,15,united-states,2019-09-05,japan,2019090547,First Round,201947
-4,Joe Harris,20.0,4,6,2,3,0,0,3,5,0,0,0,0,1,10,united-states,2019-09-05,japan,2019090547,First Round,201947
-5,Derrick White,20.0,3,8,1,3,1,3,1,3,3,3,0,4,2,8,united-states,2019-09-05,japan,2019090547,First Round,201947
-6,Harrison Barnes,19.0,6,13,2,7,0,0,2,8,0,2,0,1,2,14,united-states,2019-09-05,japan,2019090547,First Round,201947
-7,Myles Turner,19.0,1,3,0,1,1,2,4,9,0,1,2,1,2,3,united-states,2019-09-05,japan,2019090547,First Round,201947
-8,Brook Lopez,17.0,3,6,1,4,0,1,1,4,1,0,2,2,2,7,united-states,2019-09-05,japan,2019090547,First Round,201947
-9,Mason Plumlee,16.0,1,3,0,0,0,0,2,5,0,0,0,2,0,2,united-states,2019-09-05,japan,2019090547,First Round,201947
-10,Totals,,39,81,14,41,6,12,18,52,25,11,5,13,13,98,united-states,2019-09-05,japan,2019090547,First Round,201947
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Yuta Watanabe,28.0,2,6,0,2,5,6,0,3,2,0,0,1,2,9,japan,2019-09-05,united-states,2019090547,First Round,201947,fiba-world-cup
+1,Yudai Baba,27.0,8,15,2,4,0,0,0,1,1,3,0,3,1,18,japan,2019-09-05,united-states,2019090547,First Round,201947,fiba-world-cup
+2,Rui Hachimura,24.0,2,8,0,1,0,2,0,4,1,2,0,0,2,4,japan,2019-09-05,united-states,2019090547,First Round,201947,fiba-world-cup
+3,Makoto Hiejima,19.0,2,8,0,2,0,0,0,2,0,0,0,2,3,4,japan,2019-09-05,united-states,2019090547,First Round,201947,fiba-world-cup
+4,Kosuke Takeuchi,18.0,0,2,0,0,3,4,3,6,1,2,0,0,1,3,japan,2019-09-05,united-states,2019090547,First Round,201947,fiba-world-cup
+5,Seiya Ando,17.0,0,4,0,1,0,0,0,1,0,0,0,2,0,0,japan,2019-09-05,united-states,2019090547,First Round,201947,fiba-world-cup
+6,Nick Fazekas,16.0,2,8,0,1,0,0,1,4,0,1,0,0,0,4,japan,2019-09-05,united-states,2019090547,First Round,201947,fiba-world-cup
+7,Daiki Tanaka,16.0,1,2,1,2,0,0,0,0,1,1,0,2,0,3,japan,2019-09-05,united-states,2019090547,First Round,201947,fiba-world-cup
+8,Ryusei Shinoyama,13.0,0,2,0,1,0,0,1,4,1,0,0,4,2,0,japan,2019-09-05,united-states,2019090547,First Round,201947,fiba-world-cup
+9,Joji Takeuchi,10.0,0,2,0,0,0,0,0,1,0,0,0,2,1,0,japan,2019-09-05,united-states,2019090547,First Round,201947,fiba-world-cup
+10,Shuto Ando,6.0,0,3,0,3,0,0,1,2,0,0,0,2,0,0,japan,2019-09-05,united-states,2019090547,First Round,201947,fiba-world-cup
+11,Avi Koki Schafer,6.0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,japan,2019-09-05,united-states,2019090547,First Round,201947,fiba-world-cup
+12,Totals,,17,62,3,17,8,12,6,28,7,10,0,18,12,45,japan,2019-09-05,united-states,2019090547,First Round,201947,fiba-world-cup
+0,Donovan Mitchell,23.0,4,8,2,5,0,0,0,3,6,1,0,0,1,10,united-states,2019-09-05,japan,2019090547,First Round,201947,fiba-world-cup
+1,Jaylen Brown,23.0,9,15,2,6,0,1,1,7,1,2,0,1,2,20,united-states,2019-09-05,japan,2019090547,First Round,201947,fiba-world-cup
+2,Khris Middleton,22.0,3,8,1,4,2,2,3,6,6,2,0,0,1,9,united-states,2019-09-05,japan,2019090547,First Round,201947,fiba-world-cup
+3,Kemba Walker,21.0,5,11,3,8,2,3,1,2,8,0,1,2,0,15,united-states,2019-09-05,japan,2019090547,First Round,201947,fiba-world-cup
+4,Joe Harris,20.0,4,6,2,3,0,0,3,5,0,0,0,0,1,10,united-states,2019-09-05,japan,2019090547,First Round,201947,fiba-world-cup
+5,Derrick White,20.0,3,8,1,3,1,3,1,3,3,3,0,4,2,8,united-states,2019-09-05,japan,2019090547,First Round,201947,fiba-world-cup
+6,Harrison Barnes,19.0,6,13,2,7,0,0,2,8,0,2,0,1,2,14,united-states,2019-09-05,japan,2019090547,First Round,201947,fiba-world-cup
+7,Myles Turner,19.0,1,3,0,1,1,2,4,9,0,1,2,1,2,3,united-states,2019-09-05,japan,2019090547,First Round,201947,fiba-world-cup
+8,Brook Lopez,17.0,3,6,1,4,0,1,1,4,1,0,2,2,2,7,united-states,2019-09-05,japan,2019090547,First Round,201947,fiba-world-cup
+9,Mason Plumlee,16.0,1,3,0,0,0,0,2,5,0,0,0,2,0,2,united-states,2019-09-05,japan,2019090547,First Round,201947,fiba-world-cup
+10,Totals,,39,81,14,41,6,12,18,52,25,11,5,13,13,98,united-states,2019-09-05,japan,2019090547,First Round,201947,fiba-world-cup

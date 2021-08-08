@@ -1,26 +1,26 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Bogdan Bogdanovic,36.0,10,21,6,11,5,9,3,4,5,5,0,1,2,31,serbia,2019-09-04,italy,2019090433,First Round,201933
-1,Nemanja Bjelica,27.0,2,9,1,4,0,0,3,7,9,1,1,3,2,5,serbia,2019-09-04,italy,2019090433,First Round,201933
-2,Vladimir Lucic,26.0,1,3,0,1,0,0,0,1,1,1,0,0,5,2,serbia,2019-09-04,italy,2019090433,First Round,201933
-3,Stefan Jovic,25.0,4,8,3,5,0,0,2,6,3,1,0,3,3,11,serbia,2019-09-04,italy,2019090433,First Round,201933
-4,Nikola Jokic,24.0,5,6,0,0,5,6,1,6,4,0,1,4,4,15,serbia,2019-09-04,italy,2019090433,First Round,201933
-5,Vasilije Micic,15.0,2,3,0,0,2,2,0,0,0,1,0,1,2,6,serbia,2019-09-04,italy,2019090433,First Round,201933
-6,Nikola Milutinov,12.0,1,1,0,0,2,2,0,0,0,0,0,1,2,4,serbia,2019-09-04,italy,2019090433,First Round,201933
-7,Marko Simonovic,11.0,0,1,0,0,0,0,1,1,0,0,0,0,4,0,serbia,2019-09-04,italy,2019090433,First Round,201933
-8,Marko Guduric,9.0,0,4,0,3,0,0,0,2,1,0,0,0,0,0,serbia,2019-09-04,italy,2019090433,First Round,201933
-9,Miroslav Raduljica,8.0,0,1,0,0,12,13,0,2,1,0,0,2,4,12,serbia,2019-09-04,italy,2019090433,First Round,201933
-10,Boban Marjanovic,6.0,2,2,0,0,2,2,0,1,0,0,0,0,0,6,serbia,2019-09-04,italy,2019090433,First Round,201933
-11,Stefan Bircevic,3.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,serbia,2019-09-04,italy,2019090433,First Round,201933
-12,Totals,,27,59,10,24,28,34,10,30,24,9,2,15,30,92,serbia,2019-09-04,italy,2019090433,First Round,201933
-0,Marco Belinelli,34.0,5,9,3,5,2,6,0,2,4,2,0,2,3,15,italy,2019-09-04,serbia,2019090433,First Round,201933
-1,Danilo Gallinari,34.0,8,13,3,5,7,10,2,8,1,0,0,0,3,26,italy,2019-09-04,serbia,2019090433,First Round,201933
-2,Daniel Hackett,31.0,4,10,2,6,3,4,1,3,1,2,0,5,3,13,italy,2019-09-04,serbia,2019090433,First Round,201933
-3,Luigi Datome,27.0,1,6,1,4,2,2,0,4,3,0,0,2,4,5,italy,2019-09-04,serbia,2019090433,First Round,201933
-4,Alessandro Gentile,25.0,2,6,1,1,6,6,0,1,1,0,0,3,2,11,italy,2019-09-04,serbia,2019090433,First Round,201933
-5,Jeff Brooks,17.0,1,2,0,1,0,0,1,2,0,3,0,0,4,2,italy,2019-09-04,serbia,2019090433,First Round,201933
-6,Awudu Abass,16.0,1,3,1,3,2,2,0,1,1,0,0,1,2,5,italy,2019-09-04,serbia,2019090433,First Round,201933
-7,Paul Biligha,10.0,0,1,0,0,0,0,2,2,0,0,0,1,3,0,italy,2019-09-04,serbia,2019090433,First Round,201933
-8,Amedeo Della Valle,3.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,italy,2019-09-04,serbia,2019090433,First Round,201933
-9,Luca Vitali,2.0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,italy,2019-09-04,serbia,2019090433,First Round,201933
-10,Amedeo Tessitori,2.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,italy,2019-09-04,serbia,2019090433,First Round,201933
-11,Totals,,22,51,11,26,22,30,6,23,11,7,0,15,26,77,italy,2019-09-04,serbia,2019090433,First Round,201933
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Bogdan Bogdanovic,36.0,10,21,6,11,5,9,3,4,5,5,0,1,2,31,serbia,2019-09-04,italy,2019090433,First Round,201933,fiba-world-cup
+1,Nemanja Bjelica,27.0,2,9,1,4,0,0,3,7,9,1,1,3,2,5,serbia,2019-09-04,italy,2019090433,First Round,201933,fiba-world-cup
+2,Vladimir Lucic,26.0,1,3,0,1,0,0,0,1,1,1,0,0,5,2,serbia,2019-09-04,italy,2019090433,First Round,201933,fiba-world-cup
+3,Stefan Jovic,25.0,4,8,3,5,0,0,2,6,3,1,0,3,3,11,serbia,2019-09-04,italy,2019090433,First Round,201933,fiba-world-cup
+4,Nikola Jokic,24.0,5,6,0,0,5,6,1,6,4,0,1,4,4,15,serbia,2019-09-04,italy,2019090433,First Round,201933,fiba-world-cup
+5,Vasilije Micic,15.0,2,3,0,0,2,2,0,0,0,1,0,1,2,6,serbia,2019-09-04,italy,2019090433,First Round,201933,fiba-world-cup
+6,Nikola Milutinov,12.0,1,1,0,0,2,2,0,0,0,0,0,1,2,4,serbia,2019-09-04,italy,2019090433,First Round,201933,fiba-world-cup
+7,Marko Simonovic,11.0,0,1,0,0,0,0,1,1,0,0,0,0,4,0,serbia,2019-09-04,italy,2019090433,First Round,201933,fiba-world-cup
+8,Marko Guduric,9.0,0,4,0,3,0,0,0,2,1,0,0,0,0,0,serbia,2019-09-04,italy,2019090433,First Round,201933,fiba-world-cup
+9,Miroslav Raduljica,8.0,0,1,0,0,12,13,0,2,1,0,0,2,4,12,serbia,2019-09-04,italy,2019090433,First Round,201933,fiba-world-cup
+10,Boban Marjanovic,6.0,2,2,0,0,2,2,0,1,0,0,0,0,0,6,serbia,2019-09-04,italy,2019090433,First Round,201933,fiba-world-cup
+11,Stefan Bircevic,3.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,serbia,2019-09-04,italy,2019090433,First Round,201933,fiba-world-cup
+12,Totals,,27,59,10,24,28,34,10,30,24,9,2,15,30,92,serbia,2019-09-04,italy,2019090433,First Round,201933,fiba-world-cup
+0,Marco Belinelli,34.0,5,9,3,5,2,6,0,2,4,2,0,2,3,15,italy,2019-09-04,serbia,2019090433,First Round,201933,fiba-world-cup
+1,Danilo Gallinari,34.0,8,13,3,5,7,10,2,8,1,0,0,0,3,26,italy,2019-09-04,serbia,2019090433,First Round,201933,fiba-world-cup
+2,Daniel Hackett,31.0,4,10,2,6,3,4,1,3,1,2,0,5,3,13,italy,2019-09-04,serbia,2019090433,First Round,201933,fiba-world-cup
+3,Luigi Datome,27.0,1,6,1,4,2,2,0,4,3,0,0,2,4,5,italy,2019-09-04,serbia,2019090433,First Round,201933,fiba-world-cup
+4,Alessandro Gentile,25.0,2,6,1,1,6,6,0,1,1,0,0,3,2,11,italy,2019-09-04,serbia,2019090433,First Round,201933,fiba-world-cup
+5,Jeff Brooks,17.0,1,2,0,1,0,0,1,2,0,3,0,0,4,2,italy,2019-09-04,serbia,2019090433,First Round,201933,fiba-world-cup
+6,Awudu Abass,16.0,1,3,1,3,2,2,0,1,1,0,0,1,2,5,italy,2019-09-04,serbia,2019090433,First Round,201933,fiba-world-cup
+7,Paul Biligha,10.0,0,1,0,0,0,0,2,2,0,0,0,1,3,0,italy,2019-09-04,serbia,2019090433,First Round,201933,fiba-world-cup
+8,Amedeo Della Valle,3.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,italy,2019-09-04,serbia,2019090433,First Round,201933,fiba-world-cup
+9,Luca Vitali,2.0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,italy,2019-09-04,serbia,2019090433,First Round,201933,fiba-world-cup
+10,Amedeo Tessitori,2.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,italy,2019-09-04,serbia,2019090433,First Round,201933,fiba-world-cup
+11,Totals,,22,51,11,26,22,30,6,23,11,7,0,15,26,77,italy,2019-09-04,serbia,2019090433,First Round,201933,fiba-world-cup

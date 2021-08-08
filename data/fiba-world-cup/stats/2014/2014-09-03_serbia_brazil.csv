@@ -1,26 +1,26 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Bogdan Bogdanovic,33,2,7,1,3,3,4,0,2,3,1,0,1,4,8,serbia,2014-09-03,brazil,2014090339,Group Play,201439
-1,Stefan Markovic,29,4,9,1,5,1,4,0,3,3,1,0,1,2,10,serbia,2014-09-03,brazil,2014090339,Group Play,201439
-2,Nemanja Bjelica,27,2,7,0,1,4,4,3,5,1,0,0,1,2,8,serbia,2014-09-03,brazil,2014090339,Group Play,201439
-3,Miroslav Raduljica,25,4,8,0,0,3,6,1,5,1,0,0,4,4,11,serbia,2014-09-03,brazil,2014090339,Group Play,201439
-4,Vladimir Stimac,8,1,3,0,0,0,0,1,1,0,0,0,0,0,2,serbia,2014-09-03,brazil,2014090339,Group Play,201439
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,serbia,2014-09-03,brazil,2014090339,Group Play,201439
-6,Milos Teodosic,26,5,8,3,6,1,2,0,2,5,1,0,0,1,14,serbia,2014-09-03,brazil,2014090339,Group Play,201439
-7,Nenad Krstic,17,2,9,0,0,3,7,2,3,0,0,0,0,1,7,serbia,2014-09-03,brazil,2014090339,Group Play,201439
-8,Stefan Jovic,16,0,0,0,0,2,2,0,1,0,1,0,1,4,2,serbia,2014-09-03,brazil,2014090339,Group Play,201439
-9,Marko Simonovic,10,1,1,1,1,0,0,0,1,0,1,0,0,1,3,serbia,2014-09-03,brazil,2014090339,Group Play,201439
-10,Stefan Bircevic,9,3,5,2,4,0,0,0,1,0,0,0,0,5,8,serbia,2014-09-03,brazil,2014090339,Group Play,201439
-11,Totals,,24,57,8,20,17,29,7,24,13,5,0,8,24,73,serbia,2014-09-03,brazil,2014090339,Group Play,201439
-0,Marcelo Huertas,29,2,4,0,0,2,2,2,5,5,0,0,3,3,6,brazil,2014-09-03,serbia,2014090339,Group Play,201439
-1,Leandro Barbosa,28,6,16,2,6,2,4,0,1,0,0,1,0,1,16,brazil,2014-09-03,serbia,2014090339,Group Play,201439
-2,Anderson Varejao,27,2,4,0,1,0,0,1,9,0,1,0,1,4,4,brazil,2014-09-03,serbia,2014090339,Group Play,201439
-3,Marcus Vinicius,25,7,13,6,9,1,4,0,5,0,0,0,3,1,21,brazil,2014-09-03,serbia,2014090339,Group Play,201439
-4,Tiago Splitter,21,5,8,0,0,0,0,4,7,6,0,0,1,3,10,brazil,2014-09-03,serbia,2014090339,Group Play,201439
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,brazil,2014-09-03,serbia,2014090339,Group Play,201439
-6,Guilherme Giovannoni,15,3,3,1,1,0,0,2,2,2,0,0,0,3,7,brazil,2014-09-03,serbia,2014090339,Group Play,201439
-7,Larry Taylor,15,1,4,0,1,0,0,1,2,0,1,0,0,3,2,brazil,2014-09-03,serbia,2014090339,Group Play,201439
-8,Nene Hilario,14,2,3,0,0,3,5,1,2,1,0,2,0,4,7,brazil,2014-09-03,serbia,2014090339,Group Play,201439
-9,Alex Garcia,11,2,3,2,3,0,0,0,1,1,2,0,1,3,6,brazil,2014-09-03,serbia,2014090339,Group Play,201439
-10,Raul Neto,11,1,2,0,1,0,0,0,1,1,0,0,0,2,2,brazil,2014-09-03,serbia,2014090339,Group Play,201439
-11,Rafael Hettsheimeir,4,0,2,0,1,0,0,0,1,0,0,0,0,0,0,brazil,2014-09-03,serbia,2014090339,Group Play,201439
-12,Totals,,31,62,11,23,8,15,11,36,16,4,3,9,27,81,brazil,2014-09-03,serbia,2014090339,Group Play,201439
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Bogdan Bogdanovic,33,2,7,1,3,3,4,0,2,3,1,0,1,4,8,serbia,2014-09-03,brazil,2014090339,Group Play,201439,fiba-world-cup
+1,Stefan Markovic,29,4,9,1,5,1,4,0,3,3,1,0,1,2,10,serbia,2014-09-03,brazil,2014090339,Group Play,201439,fiba-world-cup
+2,Nemanja Bjelica,27,2,7,0,1,4,4,3,5,1,0,0,1,2,8,serbia,2014-09-03,brazil,2014090339,Group Play,201439,fiba-world-cup
+3,Miroslav Raduljica,25,4,8,0,0,3,6,1,5,1,0,0,4,4,11,serbia,2014-09-03,brazil,2014090339,Group Play,201439,fiba-world-cup
+4,Vladimir Stimac,8,1,3,0,0,0,0,1,1,0,0,0,0,0,2,serbia,2014-09-03,brazil,2014090339,Group Play,201439,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,serbia,2014-09-03,brazil,2014090339,Group Play,201439,fiba-world-cup
+6,Milos Teodosic,26,5,8,3,6,1,2,0,2,5,1,0,0,1,14,serbia,2014-09-03,brazil,2014090339,Group Play,201439,fiba-world-cup
+7,Nenad Krstic,17,2,9,0,0,3,7,2,3,0,0,0,0,1,7,serbia,2014-09-03,brazil,2014090339,Group Play,201439,fiba-world-cup
+8,Stefan Jovic,16,0,0,0,0,2,2,0,1,0,1,0,1,4,2,serbia,2014-09-03,brazil,2014090339,Group Play,201439,fiba-world-cup
+9,Marko Simonovic,10,1,1,1,1,0,0,0,1,0,1,0,0,1,3,serbia,2014-09-03,brazil,2014090339,Group Play,201439,fiba-world-cup
+10,Stefan Bircevic,9,3,5,2,4,0,0,0,1,0,0,0,0,5,8,serbia,2014-09-03,brazil,2014090339,Group Play,201439,fiba-world-cup
+11,Totals,,24,57,8,20,17,29,7,24,13,5,0,8,24,73,serbia,2014-09-03,brazil,2014090339,Group Play,201439,fiba-world-cup
+0,Marcelo Huertas,29,2,4,0,0,2,2,2,5,5,0,0,3,3,6,brazil,2014-09-03,serbia,2014090339,Group Play,201439,fiba-world-cup
+1,Leandro Barbosa,28,6,16,2,6,2,4,0,1,0,0,1,0,1,16,brazil,2014-09-03,serbia,2014090339,Group Play,201439,fiba-world-cup
+2,Anderson Varejao,27,2,4,0,1,0,0,1,9,0,1,0,1,4,4,brazil,2014-09-03,serbia,2014090339,Group Play,201439,fiba-world-cup
+3,Marcus Vinicius,25,7,13,6,9,1,4,0,5,0,0,0,3,1,21,brazil,2014-09-03,serbia,2014090339,Group Play,201439,fiba-world-cup
+4,Tiago Splitter,21,5,8,0,0,0,0,4,7,6,0,0,1,3,10,brazil,2014-09-03,serbia,2014090339,Group Play,201439,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,brazil,2014-09-03,serbia,2014090339,Group Play,201439,fiba-world-cup
+6,Guilherme Giovannoni,15,3,3,1,1,0,0,2,2,2,0,0,0,3,7,brazil,2014-09-03,serbia,2014090339,Group Play,201439,fiba-world-cup
+7,Larry Taylor,15,1,4,0,1,0,0,1,2,0,1,0,0,3,2,brazil,2014-09-03,serbia,2014090339,Group Play,201439,fiba-world-cup
+8,Nene Hilario,14,2,3,0,0,3,5,1,2,1,0,2,0,4,7,brazil,2014-09-03,serbia,2014090339,Group Play,201439,fiba-world-cup
+9,Alex Garcia,11,2,3,2,3,0,0,0,1,1,2,0,1,3,6,brazil,2014-09-03,serbia,2014090339,Group Play,201439,fiba-world-cup
+10,Raul Neto,11,1,2,0,1,0,0,0,1,1,0,0,0,2,2,brazil,2014-09-03,serbia,2014090339,Group Play,201439,fiba-world-cup
+11,Rafael Hettsheimeir,4,0,2,0,1,0,0,0,1,0,0,0,0,0,0,brazil,2014-09-03,serbia,2014090339,Group Play,201439,fiba-world-cup
+12,Totals,,31,62,11,23,8,15,11,36,16,4,3,9,27,81,brazil,2014-09-03,serbia,2014090339,Group Play,201439,fiba-world-cup

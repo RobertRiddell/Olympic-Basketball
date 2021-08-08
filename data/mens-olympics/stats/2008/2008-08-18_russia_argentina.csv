@@ -1,24 +1,24 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,JR Holden,40.0,7,16,2,6,3,4,1,1,5,1,0,3,2,19,russia,2008-08-18,argentina,2008081825,Group A,200825
-1,Andrei Kirilenko,37.0,8,19,2,6,5,6,3,9,3,2,1,4,1,23,russia,2008-08-18,argentina,2008081825,Group A,200825
-2,Zakhar Pashutin,24.0,0,3,0,2,1,2,1,4,0,1,0,0,2,1,russia,2008-08-18,argentina,2008081825,Group A,200825
-3,Andrey Vorontsevich,20.0,4,5,2,3,0,0,0,2,1,1,0,1,3,10,russia,2008-08-18,argentina,2008081825,Group A,200825
-4,Alexey Savrasenko,20.0,3,5,0,0,0,0,1,4,1,1,0,3,4,6,russia,2008-08-18,argentina,2008081825,Group A,200825
-5,Sergei Monia,20.0,2,5,0,2,0,0,4,6,0,0,0,0,3,4,russia,2008-08-18,argentina,2008081825,Group A,200825
-6,Nikita Morgunov,15.0,1,1,0,0,0,0,0,2,1,0,0,0,4,2,russia,2008-08-18,argentina,2008081825,Group A,200825
-7,Sergey Bykov,13.0,3,3,1,1,3,3,0,0,0,2,0,4,0,10,russia,2008-08-18,argentina,2008081825,Group A,200825
-8,Petr Samoylenko,4.0,0,0,0,0,2,2,0,1,0,0,0,1,1,2,russia,2008-08-18,argentina,2008081825,Group A,200825
-9,Viktor Keirou,4.0,1,3,0,0,0,0,0,0,0,0,0,0,1,2,russia,2008-08-18,argentina,2008081825,Group A,200825
-10,Vitaly Fridzon,3.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,russia,2008-08-18,argentina,2008081825,Group A,200825
-11,Totals,,29,60,7,20,14,17,10,29,11,8,1,16,23,79,russia,2008-08-18,argentina,2008081825,Group A,200825
-0,Luis Scola,40.0,12,16,0,0,13,17,2,8,3,1,2,2,2,37,argentina,2008-08-18,russia,2008081825,Group A,200825
-1,Pablo Prigioni,37.0,4,10,2,7,1,2,0,2,10,3,0,0,2,11,argentina,2008-08-18,russia,2008081825,Group A,200825
-2,Andres Nocioni,35.0,6,9,4,4,3,3,3,9,1,1,1,2,4,19,argentina,2008-08-18,russia,2008081825,Group A,200825
-3,Manu Ginobili,22.0,5,10,2,4,0,0,0,1,4,3,0,3,3,12,argentina,2008-08-18,russia,2008081825,Group A,200825
-4,Juan Gutierrez,20.0,1,3,0,0,3,4,3,4,0,2,0,2,2,5,argentina,2008-08-18,russia,2008081825,Group A,200825
-5,Roman Gonzalez,20.0,2,3,0,0,0,1,1,2,2,0,0,2,4,4,argentina,2008-08-18,russia,2008081825,Group A,200825
-6,Carlos Delfino,14.0,1,5,1,4,0,0,0,2,2,0,0,0,1,3,argentina,2008-08-18,russia,2008081825,Group A,200825
-7,Federico Kammerichs,5.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,argentina,2008-08-18,russia,2008081825,Group A,200825
-8,Paulo Quinteros,4.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,argentina,2008-08-18,russia,2008081825,Group A,200825
-9,Antonio Porta,3.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,argentina,2008-08-18,russia,2008081825,Group A,200825
-10,Totals,,31,57,9,19,20,27,9,28,22,10,3,13,18,91,argentina,2008-08-18,russia,2008081825,Group A,200825
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,JR Holden,40.0,7,16,2,6,3,4,1,1,5,1,0,3,2,19,russia,2008-08-18,argentina,2008081825,Group A,200825,mens-olympics
+1,Andrei Kirilenko,37.0,8,19,2,6,5,6,3,9,3,2,1,4,1,23,russia,2008-08-18,argentina,2008081825,Group A,200825,mens-olympics
+2,Zakhar Pashutin,24.0,0,3,0,2,1,2,1,4,0,1,0,0,2,1,russia,2008-08-18,argentina,2008081825,Group A,200825,mens-olympics
+3,Andrey Vorontsevich,20.0,4,5,2,3,0,0,0,2,1,1,0,1,3,10,russia,2008-08-18,argentina,2008081825,Group A,200825,mens-olympics
+4,Alexey Savrasenko,20.0,3,5,0,0,0,0,1,4,1,1,0,3,4,6,russia,2008-08-18,argentina,2008081825,Group A,200825,mens-olympics
+5,Sergei Monia,20.0,2,5,0,2,0,0,4,6,0,0,0,0,3,4,russia,2008-08-18,argentina,2008081825,Group A,200825,mens-olympics
+6,Nikita Morgunov,15.0,1,1,0,0,0,0,0,2,1,0,0,0,4,2,russia,2008-08-18,argentina,2008081825,Group A,200825,mens-olympics
+7,Sergey Bykov,13.0,3,3,1,1,3,3,0,0,0,2,0,4,0,10,russia,2008-08-18,argentina,2008081825,Group A,200825,mens-olympics
+8,Petr Samoylenko,4.0,0,0,0,0,2,2,0,1,0,0,0,1,1,2,russia,2008-08-18,argentina,2008081825,Group A,200825,mens-olympics
+9,Viktor Keirou,4.0,1,3,0,0,0,0,0,0,0,0,0,0,1,2,russia,2008-08-18,argentina,2008081825,Group A,200825,mens-olympics
+10,Vitaly Fridzon,3.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,russia,2008-08-18,argentina,2008081825,Group A,200825,mens-olympics
+11,Totals,,29,60,7,20,14,17,10,29,11,8,1,16,23,79,russia,2008-08-18,argentina,2008081825,Group A,200825,mens-olympics
+0,Luis Scola,40.0,12,16,0,0,13,17,2,8,3,1,2,2,2,37,argentina,2008-08-18,russia,2008081825,Group A,200825,mens-olympics
+1,Pablo Prigioni,37.0,4,10,2,7,1,2,0,2,10,3,0,0,2,11,argentina,2008-08-18,russia,2008081825,Group A,200825,mens-olympics
+2,Andres Nocioni,35.0,6,9,4,4,3,3,3,9,1,1,1,2,4,19,argentina,2008-08-18,russia,2008081825,Group A,200825,mens-olympics
+3,Manu Ginobili,22.0,5,10,2,4,0,0,0,1,4,3,0,3,3,12,argentina,2008-08-18,russia,2008081825,Group A,200825,mens-olympics
+4,Juan Gutierrez,20.0,1,3,0,0,3,4,3,4,0,2,0,2,2,5,argentina,2008-08-18,russia,2008081825,Group A,200825,mens-olympics
+5,Roman Gonzalez,20.0,2,3,0,0,0,1,1,2,2,0,0,2,4,4,argentina,2008-08-18,russia,2008081825,Group A,200825,mens-olympics
+6,Carlos Delfino,14.0,1,5,1,4,0,0,0,2,2,0,0,0,1,3,argentina,2008-08-18,russia,2008081825,Group A,200825,mens-olympics
+7,Federico Kammerichs,5.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,argentina,2008-08-18,russia,2008081825,Group A,200825,mens-olympics
+8,Paulo Quinteros,4.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,argentina,2008-08-18,russia,2008081825,Group A,200825,mens-olympics
+9,Antonio Porta,3.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,argentina,2008-08-18,russia,2008081825,Group A,200825,mens-olympics
+10,Totals,,31,57,9,19,20,27,9,28,22,10,3,13,18,91,argentina,2008-08-18,russia,2008081825,Group A,200825,mens-olympics

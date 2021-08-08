@@ -1,27 +1,27 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Donovan Mitchell,25.0,7,11,2,4,0,0,0,2,2,1,0,0,3,16,united states,2019-09-01,czech-republic,201909019,First Round,20199
-1,Marcus Smart,21.0,2,5,0,1,0,2,2,4,2,0,0,2,2,4,united states,2019-09-01,czech-republic,201909019,First Round,20199
-2,Harrison Barnes,20.0,5,8,1,3,3,3,0,1,0,0,0,0,2,14,united states,2019-09-01,czech-republic,201909019,First Round,20199
-3,Joe Harris,19.0,3,5,2,3,1,1,0,4,1,0,0,1,0,9,united states,2019-09-01,czech-republic,201909019,First Round,20199
-4,Kemba Walker,18.0,6,8,1,3,0,0,0,1,4,1,0,1,2,13,united states,2019-09-01,czech-republic,201909019,First Round,20199
-5,Jaylen Brown,18.0,1,3,0,0,0,0,2,3,1,0,1,1,0,2,united states,2019-09-01,czech-republic,201909019,First Round,20199
-6,Jayson Tatum,18.0,4,11,2,5,0,0,0,4,2,0,1,0,3,10,united states,2019-09-01,czech-republic,201909019,First Round,20199
-7,Myles Turner,16.0,2,7,0,0,0,0,1,7,0,1,2,1,2,4,united states,2019-09-01,czech-republic,201909019,First Round,20199
-8,Khris Middleton,16.0,3,6,2,4,0,0,0,4,2,1,0,1,1,8,united states,2019-09-01,czech-republic,201909019,First Round,20199
-9,Derrick White,14.0,3,6,0,1,0,0,0,1,3,2,0,0,1,6,united states,2019-09-01,czech-republic,201909019,First Round,20199
-10,Brook Lopez,9.0,1,3,0,2,0,0,0,1,1,0,1,0,1,2,united states,2019-09-01,czech-republic,201909019,First Round,20199
-11,Mason Plumlee,5.0,0,2,0,0,0,0,1,3,0,0,1,0,0,0,united states,2019-09-01,czech-republic,201909019,First Round,20199
-12,Totals,,37,75,10,26,4,6,6,35,18,6,6,7,17,88,united states,2019-09-01,czech-republic,201909019,First Round,20199
-0,Tomas Satoransky,28.0,7,13,1,2,2,3,0,2,5,0,0,4,2,17,czech-republic,2019-09-01,united states,201909019,First Round,20199
-1,Jaromir Bohacik,26.0,5,10,3,5,0,0,1,9,1,0,0,2,3,13,czech-republic,2019-09-01,united states,201909019,First Round,20199
-2,Vojtech Hruban,25.0,5,10,1,4,2,2,1,3,1,0,0,1,2,13,czech-republic,2019-09-01,united states,201909019,First Round,20199
-3,Ondrej Balvin,23.0,2,4,0,0,3,4,2,8,1,1,1,2,2,7,czech-republic,2019-09-01,united states,201909019,First Round,20199
-4,Patrik Auda,22.0,2,11,0,2,0,3,0,4,2,0,0,1,2,4,czech-republic,2019-09-01,united states,201909019,First Round,20199
-5,Pavel Pumprla,17.0,1,6,0,0,0,2,3,5,2,1,1,0,1,2,czech-republic,2019-09-01,united states,201909019,First Round,20199
-6,Blake Schilb,17.0,1,4,1,2,0,0,0,0,0,0,0,1,1,3,czech-republic,2019-09-01,united states,201909019,First Round,20199
-7,Martin Kriz,14.0,0,2,0,1,0,0,0,1,1,0,0,1,0,0,czech-republic,2019-09-01,united states,201909019,First Round,20199
-8,Martin Peterka,12.0,2,2,1,1,0,0,0,1,1,1,0,1,0,5,czech-republic,2019-09-01,united states,201909019,First Round,20199
-9,Jakub Sirina,8.0,0,1,0,0,0,0,0,0,3,0,0,2,1,0,czech-republic,2019-09-01,united states,201909019,First Round,20199
-10,Lukas Palyza,4.0,1,1,1,1,0,0,1,2,0,0,0,0,1,3,czech-republic,2019-09-01,united states,201909019,First Round,20199
-11,Tomas Vyoral,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,czech-republic,2019-09-01,united states,201909019,First Round,20199
-12,Totals,,26,64,8,18,7,14,8,35,17,3,2,15,15,67,czech-republic,2019-09-01,united states,201909019,First Round,20199
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Donovan Mitchell,25.0,7,11,2,4,0,0,0,2,2,1,0,0,3,16,united states,2019-09-01,czech-republic,201909019,First Round,20199,fiba-world-cup
+1,Marcus Smart,21.0,2,5,0,1,0,2,2,4,2,0,0,2,2,4,united states,2019-09-01,czech-republic,201909019,First Round,20199,fiba-world-cup
+2,Harrison Barnes,20.0,5,8,1,3,3,3,0,1,0,0,0,0,2,14,united states,2019-09-01,czech-republic,201909019,First Round,20199,fiba-world-cup
+3,Joe Harris,19.0,3,5,2,3,1,1,0,4,1,0,0,1,0,9,united states,2019-09-01,czech-republic,201909019,First Round,20199,fiba-world-cup
+4,Kemba Walker,18.0,6,8,1,3,0,0,0,1,4,1,0,1,2,13,united states,2019-09-01,czech-republic,201909019,First Round,20199,fiba-world-cup
+5,Jaylen Brown,18.0,1,3,0,0,0,0,2,3,1,0,1,1,0,2,united states,2019-09-01,czech-republic,201909019,First Round,20199,fiba-world-cup
+6,Jayson Tatum,18.0,4,11,2,5,0,0,0,4,2,0,1,0,3,10,united states,2019-09-01,czech-republic,201909019,First Round,20199,fiba-world-cup
+7,Myles Turner,16.0,2,7,0,0,0,0,1,7,0,1,2,1,2,4,united states,2019-09-01,czech-republic,201909019,First Round,20199,fiba-world-cup
+8,Khris Middleton,16.0,3,6,2,4,0,0,0,4,2,1,0,1,1,8,united states,2019-09-01,czech-republic,201909019,First Round,20199,fiba-world-cup
+9,Derrick White,14.0,3,6,0,1,0,0,0,1,3,2,0,0,1,6,united states,2019-09-01,czech-republic,201909019,First Round,20199,fiba-world-cup
+10,Brook Lopez,9.0,1,3,0,2,0,0,0,1,1,0,1,0,1,2,united states,2019-09-01,czech-republic,201909019,First Round,20199,fiba-world-cup
+11,Mason Plumlee,5.0,0,2,0,0,0,0,1,3,0,0,1,0,0,0,united states,2019-09-01,czech-republic,201909019,First Round,20199,fiba-world-cup
+12,Totals,,37,75,10,26,4,6,6,35,18,6,6,7,17,88,united states,2019-09-01,czech-republic,201909019,First Round,20199,fiba-world-cup
+0,Tomas Satoransky,28.0,7,13,1,2,2,3,0,2,5,0,0,4,2,17,czech-republic,2019-09-01,united states,201909019,First Round,20199,fiba-world-cup
+1,Jaromir Bohacik,26.0,5,10,3,5,0,0,1,9,1,0,0,2,3,13,czech-republic,2019-09-01,united states,201909019,First Round,20199,fiba-world-cup
+2,Vojtech Hruban,25.0,5,10,1,4,2,2,1,3,1,0,0,1,2,13,czech-republic,2019-09-01,united states,201909019,First Round,20199,fiba-world-cup
+3,Ondrej Balvin,23.0,2,4,0,0,3,4,2,8,1,1,1,2,2,7,czech-republic,2019-09-01,united states,201909019,First Round,20199,fiba-world-cup
+4,Patrik Auda,22.0,2,11,0,2,0,3,0,4,2,0,0,1,2,4,czech-republic,2019-09-01,united states,201909019,First Round,20199,fiba-world-cup
+5,Pavel Pumprla,17.0,1,6,0,0,0,2,3,5,2,1,1,0,1,2,czech-republic,2019-09-01,united states,201909019,First Round,20199,fiba-world-cup
+6,Blake Schilb,17.0,1,4,1,2,0,0,0,0,0,0,0,1,1,3,czech-republic,2019-09-01,united states,201909019,First Round,20199,fiba-world-cup
+7,Martin Kriz,14.0,0,2,0,1,0,0,0,1,1,0,0,1,0,0,czech-republic,2019-09-01,united states,201909019,First Round,20199,fiba-world-cup
+8,Martin Peterka,12.0,2,2,1,1,0,0,0,1,1,1,0,1,0,5,czech-republic,2019-09-01,united states,201909019,First Round,20199,fiba-world-cup
+9,Jakub Sirina,8.0,0,1,0,0,0,0,0,0,3,0,0,2,1,0,czech-republic,2019-09-01,united states,201909019,First Round,20199,fiba-world-cup
+10,Lukas Palyza,4.0,1,1,1,1,0,0,1,2,0,0,0,0,1,3,czech-republic,2019-09-01,united states,201909019,First Round,20199,fiba-world-cup
+11,Tomas Vyoral,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,czech-republic,2019-09-01,united states,201909019,First Round,20199,fiba-world-cup
+12,Totals,,26,64,8,18,7,14,8,35,17,3,2,15,15,67,czech-republic,2019-09-01,united states,201909019,First Round,20199,fiba-world-cup

@@ -1,26 +1,26 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Jaromir Bohacik,33.0,5,15,1,6,1,3,2,4,3,1,1,1,1,12,czech republic,2019-09-07,brazil,2019090757,Second Round,201957
-1,Ondrej Balvin,31.0,7,9,0,0,1,3,3,11,2,1,1,2,1,15,czech republic,2019-09-07,brazil,2019090757,Second Round,201957
-2,Tomas Satoransky,30.0,7,10,3,4,3,3,0,7,9,3,2,3,1,20,czech republic,2019-09-07,brazil,2019090757,Second Round,201957
-3,Vojtech Hruban,24.0,3,7,1,4,1,1,1,5,2,0,0,2,4,8,czech republic,2019-09-07,brazil,2019090757,Second Round,201957
-4,Patrik Auda,23.0,5,8,0,0,4,4,1,4,1,0,0,3,2,14,czech republic,2019-09-07,brazil,2019090757,Second Round,201957
-5,Martin Kriz,19.0,3,5,0,1,0,0,0,3,1,1,0,0,2,6,czech republic,2019-09-07,brazil,2019090757,Second Round,201957
-6,Blake Schilb,17.0,2,4,1,2,1,2,0,2,4,1,1,0,0,6,czech republic,2019-09-07,brazil,2019090757,Second Round,201957
-7,Pavel Pumprla,13.0,2,2,1,1,0,0,0,0,2,0,0,1,0,5,czech republic,2019-09-07,brazil,2019090757,Second Round,201957
-8,Martin Peterka,4.0,2,3,1,1,0,0,1,1,0,1,0,0,0,5,czech republic,2019-09-07,brazil,2019090757,Second Round,201957
-9,Tomas Vyoral,2.0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,czech republic,2019-09-07,brazil,2019090757,Second Round,201957
-10,Lukas Palyza,2.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,czech republic,2019-09-07,brazil,2019090757,Second Round,201957
-11,Jakub Sirina,2.0,0,0,0,0,2,2,0,0,1,0,0,0,1,2,czech republic,2019-09-07,brazil,2019090757,Second Round,201957
-12,Totals,,36,64,8,20,13,18,8,37,25,8,5,13,13,93,czech republic,2019-09-07,brazil,2019090757,Second Round,201957
-0,Bruno Caboclo,29.0,2,3,1,2,0,0,0,3,2,2,1,0,3,5,brazil,2019-09-07,czech republic,2019090757,Second Round,201957
-1,Vitor Benite,23.0,4,8,3,6,1,2,1,1,1,0,0,1,2,12,brazil,2019-09-07,czech republic,2019090757,Second Round,201957
-2,Alex Garcia,21.0,2,10,1,3,2,2,0,2,0,2,0,3,3,7,brazil,2019-09-07,czech republic,2019090757,Second Round,201957
-3,Anderson Varejao,20.0,1,4,0,1,0,0,0,5,2,1,0,0,1,2,brazil,2019-09-07,czech republic,2019090757,Second Round,201957
-4,Cristiano Felicio,20.0,3,4,0,0,2,2,1,4,2,0,0,1,1,8,brazil,2019-09-07,czech republic,2019090757,Second Round,201957
-5,Marcus Vinicius,20.0,3,8,1,4,0,0,1,2,1,1,0,0,1,7,brazil,2019-09-07,czech republic,2019090757,Second Round,201957
-6,Leandro Barbosa,18.0,4,9,1,2,2,2,0,0,1,1,0,4,4,11,brazil,2019-09-07,czech republic,2019090757,Second Round,201957
-7,Marcelo Huertas,17.0,5,7,1,2,0,0,1,2,6,0,0,1,3,11,brazil,2019-09-07,czech republic,2019090757,Second Round,201957
-8,Rafa Luz,12.0,3,7,0,2,0,0,1,2,1,0,0,0,0,6,brazil,2019-09-07,czech republic,2019090757,Second Round,201957
-9,Yago Mateus Dos Santos,11.0,0,4,0,4,2,2,1,1,4,1,0,1,0,2,brazil,2019-09-07,czech republic,2019090757,Second Round,201957
-10,Didi Louzada,9.0,0,3,0,1,0,0,0,1,1,0,0,0,1,0,brazil,2019-09-07,czech republic,2019090757,Second Round,201957
-11,Totals,,27,67,8,27,9,10,6,23,21,8,1,11,19,71,brazil,2019-09-07,czech republic,2019090757,Second Round,201957
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Jaromir Bohacik,33.0,5,15,1,6,1,3,2,4,3,1,1,1,1,12,czech republic,2019-09-07,brazil,2019090757,Second Round,201957,fiba-world-cup
+1,Ondrej Balvin,31.0,7,9,0,0,1,3,3,11,2,1,1,2,1,15,czech republic,2019-09-07,brazil,2019090757,Second Round,201957,fiba-world-cup
+2,Tomas Satoransky,30.0,7,10,3,4,3,3,0,7,9,3,2,3,1,20,czech republic,2019-09-07,brazil,2019090757,Second Round,201957,fiba-world-cup
+3,Vojtech Hruban,24.0,3,7,1,4,1,1,1,5,2,0,0,2,4,8,czech republic,2019-09-07,brazil,2019090757,Second Round,201957,fiba-world-cup
+4,Patrik Auda,23.0,5,8,0,0,4,4,1,4,1,0,0,3,2,14,czech republic,2019-09-07,brazil,2019090757,Second Round,201957,fiba-world-cup
+5,Martin Kriz,19.0,3,5,0,1,0,0,0,3,1,1,0,0,2,6,czech republic,2019-09-07,brazil,2019090757,Second Round,201957,fiba-world-cup
+6,Blake Schilb,17.0,2,4,1,2,1,2,0,2,4,1,1,0,0,6,czech republic,2019-09-07,brazil,2019090757,Second Round,201957,fiba-world-cup
+7,Pavel Pumprla,13.0,2,2,1,1,0,0,0,0,2,0,0,1,0,5,czech republic,2019-09-07,brazil,2019090757,Second Round,201957,fiba-world-cup
+8,Martin Peterka,4.0,2,3,1,1,0,0,1,1,0,1,0,0,0,5,czech republic,2019-09-07,brazil,2019090757,Second Round,201957,fiba-world-cup
+9,Tomas Vyoral,2.0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,czech republic,2019-09-07,brazil,2019090757,Second Round,201957,fiba-world-cup
+10,Lukas Palyza,2.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,czech republic,2019-09-07,brazil,2019090757,Second Round,201957,fiba-world-cup
+11,Jakub Sirina,2.0,0,0,0,0,2,2,0,0,1,0,0,0,1,2,czech republic,2019-09-07,brazil,2019090757,Second Round,201957,fiba-world-cup
+12,Totals,,36,64,8,20,13,18,8,37,25,8,5,13,13,93,czech republic,2019-09-07,brazil,2019090757,Second Round,201957,fiba-world-cup
+0,Bruno Caboclo,29.0,2,3,1,2,0,0,0,3,2,2,1,0,3,5,brazil,2019-09-07,czech republic,2019090757,Second Round,201957,fiba-world-cup
+1,Vitor Benite,23.0,4,8,3,6,1,2,1,1,1,0,0,1,2,12,brazil,2019-09-07,czech republic,2019090757,Second Round,201957,fiba-world-cup
+2,Alex Garcia,21.0,2,10,1,3,2,2,0,2,0,2,0,3,3,7,brazil,2019-09-07,czech republic,2019090757,Second Round,201957,fiba-world-cup
+3,Anderson Varejao,20.0,1,4,0,1,0,0,0,5,2,1,0,0,1,2,brazil,2019-09-07,czech republic,2019090757,Second Round,201957,fiba-world-cup
+4,Cristiano Felicio,20.0,3,4,0,0,2,2,1,4,2,0,0,1,1,8,brazil,2019-09-07,czech republic,2019090757,Second Round,201957,fiba-world-cup
+5,Marcus Vinicius,20.0,3,8,1,4,0,0,1,2,1,1,0,0,1,7,brazil,2019-09-07,czech republic,2019090757,Second Round,201957,fiba-world-cup
+6,Leandro Barbosa,18.0,4,9,1,2,2,2,0,0,1,1,0,4,4,11,brazil,2019-09-07,czech republic,2019090757,Second Round,201957,fiba-world-cup
+7,Marcelo Huertas,17.0,5,7,1,2,0,0,1,2,6,0,0,1,3,11,brazil,2019-09-07,czech republic,2019090757,Second Round,201957,fiba-world-cup
+8,Rafa Luz,12.0,3,7,0,2,0,0,1,2,1,0,0,0,0,6,brazil,2019-09-07,czech republic,2019090757,Second Round,201957,fiba-world-cup
+9,Yago Mateus Dos Santos,11.0,0,4,0,4,2,2,1,1,4,1,0,1,0,2,brazil,2019-09-07,czech republic,2019090757,Second Round,201957,fiba-world-cup
+10,Didi Louzada,9.0,0,3,0,1,0,0,0,1,1,0,0,0,1,0,brazil,2019-09-07,czech republic,2019090757,Second Round,201957,fiba-world-cup
+11,Totals,,27,67,8,27,9,10,6,23,21,8,1,11,19,71,brazil,2019-09-07,czech republic,2019090757,Second Round,201957,fiba-world-cup

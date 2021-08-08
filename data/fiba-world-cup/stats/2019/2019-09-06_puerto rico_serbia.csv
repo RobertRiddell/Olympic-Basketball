@@ -1,27 +1,27 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Devon Collier,27.0,4,8,0,0,0,0,2,5,0,0,0,2,4,8,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953
-1,Angel Rodriguez,24.0,0,7,0,5,3,3,0,5,4,1,0,4,2,3,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953
-2,Isaiah Pineiro,22.0,2,5,0,1,2,2,1,3,0,1,0,1,2,6,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953
-3,David Huertas,20.0,4,8,1,4,2,2,0,0,3,0,0,1,1,11,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953
-4,Gian Clavell,20.0,2,10,1,6,2,2,1,2,1,2,0,1,1,7,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953
-5,Renaldo Balkman,19.0,2,5,0,0,0,0,0,1,1,1,1,2,2,4,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953
-6,Gary Browne,16.0,1,5,0,3,0,0,0,0,2,1,0,0,1,2,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953
-7,Alex Franklin,12.0,0,2,0,1,0,0,0,3,0,0,0,2,2,0,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953
-8,Chris Brady,12.0,0,3,0,1,2,2,1,3,0,2,0,0,3,2,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953
-9,Ramon Clemente,11.0,0,2,0,1,0,0,0,0,0,0,0,3,0,0,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953
-10,Jorge Diaz,10.0,1,3,0,0,0,0,0,0,0,0,0,0,1,2,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953
-11,Javier Mojica,8.0,1,6,0,2,0,0,0,0,0,2,0,0,0,2,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953
-12,Totals,,17,64,2,24,11,11,5,22,11,10,1,16,19,47,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953
-0,Vladimir Lucic,22.0,2,3,0,1,0,0,1,6,1,0,0,0,2,4,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953
-1,Vasilije Micic,20.0,0,1,0,1,0,0,0,1,8,2,0,3,2,0,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953
-2,Bogdan Bogdanovic,20.0,1,8,1,5,2,2,0,2,5,0,0,2,1,5,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953
-3,Marko Guduric,20.0,3,6,2,5,2,2,0,1,1,2,0,0,1,10,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953
-4,Stefan Jovic,20.0,1,2,0,1,0,0,1,3,9,1,0,3,1,2,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953
-5,Marko Simonovic,18.0,2,6,1,4,0,0,0,0,1,2,0,1,0,5,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953
-6,Nemanja Bjelica,18.0,6,10,4,6,2,2,2,6,3,0,0,0,2,18,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953
-7,Nikola Jokic,17.0,6,8,0,1,2,2,3,10,1,0,2,3,2,14,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953
-8,Boban Marjanovic,16.0,7,8,0,0,2,2,3,4,1,1,0,1,0,16,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953
-9,Stefan Bircevic,13.0,4,7,2,5,2,4,0,7,0,1,1,1,2,12,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953
-10,Nikola Milutinov,12.0,0,0,0,0,0,2,0,3,0,0,1,0,0,0,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953
-11,Miroslav Raduljica,4.0,2,2,0,0,0,0,0,1,0,0,0,2,3,4,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953
-12,Totals,,34,61,10,29,12,16,10,44,30,9,4,16,16,90,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Devon Collier,27.0,4,8,0,0,0,0,2,5,0,0,0,2,4,8,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953,fiba-world-cup
+1,Angel Rodriguez,24.0,0,7,0,5,3,3,0,5,4,1,0,4,2,3,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953,fiba-world-cup
+2,Isaiah Pineiro,22.0,2,5,0,1,2,2,1,3,0,1,0,1,2,6,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953,fiba-world-cup
+3,David Huertas,20.0,4,8,1,4,2,2,0,0,3,0,0,1,1,11,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953,fiba-world-cup
+4,Gian Clavell,20.0,2,10,1,6,2,2,1,2,1,2,0,1,1,7,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953,fiba-world-cup
+5,Renaldo Balkman,19.0,2,5,0,0,0,0,0,1,1,1,1,2,2,4,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953,fiba-world-cup
+6,Gary Browne,16.0,1,5,0,3,0,0,0,0,2,1,0,0,1,2,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953,fiba-world-cup
+7,Alex Franklin,12.0,0,2,0,1,0,0,0,3,0,0,0,2,2,0,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953,fiba-world-cup
+8,Chris Brady,12.0,0,3,0,1,2,2,1,3,0,2,0,0,3,2,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953,fiba-world-cup
+9,Ramon Clemente,11.0,0,2,0,1,0,0,0,0,0,0,0,3,0,0,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953,fiba-world-cup
+10,Jorge Diaz,10.0,1,3,0,0,0,0,0,0,0,0,0,0,1,2,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953,fiba-world-cup
+11,Javier Mojica,8.0,1,6,0,2,0,0,0,0,0,2,0,0,0,2,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953,fiba-world-cup
+12,Totals,,17,64,2,24,11,11,5,22,11,10,1,16,19,47,puerto rico,2019-09-06,serbia,2019090653,Second Round,201953,fiba-world-cup
+0,Vladimir Lucic,22.0,2,3,0,1,0,0,1,6,1,0,0,0,2,4,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953,fiba-world-cup
+1,Vasilije Micic,20.0,0,1,0,1,0,0,0,1,8,2,0,3,2,0,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953,fiba-world-cup
+2,Bogdan Bogdanovic,20.0,1,8,1,5,2,2,0,2,5,0,0,2,1,5,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953,fiba-world-cup
+3,Marko Guduric,20.0,3,6,2,5,2,2,0,1,1,2,0,0,1,10,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953,fiba-world-cup
+4,Stefan Jovic,20.0,1,2,0,1,0,0,1,3,9,1,0,3,1,2,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953,fiba-world-cup
+5,Marko Simonovic,18.0,2,6,1,4,0,0,0,0,1,2,0,1,0,5,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953,fiba-world-cup
+6,Nemanja Bjelica,18.0,6,10,4,6,2,2,2,6,3,0,0,0,2,18,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953,fiba-world-cup
+7,Nikola Jokic,17.0,6,8,0,1,2,2,3,10,1,0,2,3,2,14,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953,fiba-world-cup
+8,Boban Marjanovic,16.0,7,8,0,0,2,2,3,4,1,1,0,1,0,16,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953,fiba-world-cup
+9,Stefan Bircevic,13.0,4,7,2,5,2,4,0,7,0,1,1,1,2,12,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953,fiba-world-cup
+10,Nikola Milutinov,12.0,0,0,0,0,0,2,0,3,0,0,1,0,0,0,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953,fiba-world-cup
+11,Miroslav Raduljica,4.0,2,2,0,0,0,0,0,1,0,0,0,2,3,4,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953,fiba-world-cup
+12,Totals,,34,61,10,29,12,16,10,44,30,9,4,16,16,90,serbia,2019-09-06,puerto rico,2019090653,Second Round,201953,fiba-world-cup

@@ -1,25 +1,25 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Derek Needham,34.0,4,10,3,8,2,3,0,0,3,3,0,2,4,13,montenegro,2019-09-07,turkey,2019090762,Classification,201962
-1,Nikola Vucevic,31.0,8,21,1,4,3,4,2,7,5,2,0,4,3,20,montenegro,2019-09-07,turkey,2019090762,Classification,201962
-2,Bojan Dubljevic,30.0,4,7,2,4,2,2,3,8,2,0,0,3,3,12,montenegro,2019-09-07,turkey,2019090762,Classification,201962
-3,Petar Popovic,29.0,3,6,0,3,0,0,0,2,5,1,0,2,3,6,montenegro,2019-09-07,turkey,2019090762,Classification,201962
-4,Dino Radoncic,23.0,1,5,0,1,1,2,0,4,1,1,0,0,2,3,montenegro,2019-09-07,turkey,2019090762,Classification,201962
-5,Nikola Ivanovic,15.0,3,4,2,3,0,0,0,2,1,0,0,3,1,8,montenegro,2019-09-07,turkey,2019090762,Classification,201962
-6,Milko Bjelica,10.0,1,1,0,0,0,0,2,3,0,0,0,0,1,2,montenegro,2019-09-07,turkey,2019090762,Classification,201962
-7,Marko Todorovic,9.0,2,4,0,0,1,2,0,2,1,1,0,1,1,5,montenegro,2019-09-07,turkey,2019090762,Classification,201962
-8,Suad Sehovic,8.0,1,3,1,3,0,0,0,0,0,0,0,1,2,3,montenegro,2019-09-07,turkey,2019090762,Classification,201962
-9,Aleksa Popovic,7.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,montenegro,2019-09-07,turkey,2019090762,Classification,201962
-10,Sead Sehovic,4.0,1,1,0,0,0,0,0,1,1,0,0,0,1,2,montenegro,2019-09-07,turkey,2019090762,Classification,201962
-11,Totals,,28,63,9,27,9,13,7,29,19,8,0,16,21,74,montenegro,2019-09-07,turkey,2019090762,Classification,201962
-0,Cedi Osman,34.0,8,15,1,6,2,2,0,4,1,1,0,2,3,19,turkey,2019-09-07,montenegro,2019090762,Classification,201962
-1,Melih Mahmutoglu,29.0,6,11,3,6,2,2,0,0,0,0,0,0,1,17,turkey,2019-09-07,montenegro,2019090762,Classification,201962
-2,Furkan Korkmaz,27.0,2,7,1,4,0,0,0,3,2,1,1,2,0,5,turkey,2019-09-07,montenegro,2019090762,Classification,201962
-3,James Birsen,25.0,6,10,1,5,2,2,4,8,0,1,0,2,0,15,turkey,2019-09-07,montenegro,2019090762,Classification,201962
-4,Scottie Wilbekin,24.0,2,3,0,1,5,5,0,5,13,4,0,2,1,9,turkey,2019-09-07,montenegro,2019090762,Classification,201962
-5,Semih Erden,22.0,3,6,0,0,0,0,0,2,2,1,2,5,5,6,turkey,2019-09-07,montenegro,2019090762,Classification,201962
-6,Dogus Balbay,14.0,0,0,0,0,0,0,1,1,3,1,1,1,2,0,turkey,2019-09-07,montenegro,2019090762,Classification,201962
-7,Sertac Sanli,7.0,1,2,0,0,2,2,0,2,0,1,0,0,0,4,turkey,2019-09-07,montenegro,2019090762,Classification,201962
-8,Yigit Arslan,7.0,1,2,0,1,0,0,0,0,0,0,0,1,1,2,turkey,2019-09-07,montenegro,2019090762,Classification,201962
-9,Ege Arar,6.0,0,1,0,0,0,2,0,2,1,0,1,0,2,0,turkey,2019-09-07,montenegro,2019090762,Classification,201962
-10,Ahmet Tuncer,5.0,0,1,0,0,2,2,0,1,0,1,0,1,2,2,turkey,2019-09-07,montenegro,2019090762,Classification,201962
-11,Totals,,29,58,6,23,15,17,5,28,22,11,5,16,17,79,turkey,2019-09-07,montenegro,2019090762,Classification,201962
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Derek Needham,34.0,4,10,3,8,2,3,0,0,3,3,0,2,4,13,montenegro,2019-09-07,turkey,2019090762,Classification,201962,fiba-world-cup
+1,Nikola Vucevic,31.0,8,21,1,4,3,4,2,7,5,2,0,4,3,20,montenegro,2019-09-07,turkey,2019090762,Classification,201962,fiba-world-cup
+2,Bojan Dubljevic,30.0,4,7,2,4,2,2,3,8,2,0,0,3,3,12,montenegro,2019-09-07,turkey,2019090762,Classification,201962,fiba-world-cup
+3,Petar Popovic,29.0,3,6,0,3,0,0,0,2,5,1,0,2,3,6,montenegro,2019-09-07,turkey,2019090762,Classification,201962,fiba-world-cup
+4,Dino Radoncic,23.0,1,5,0,1,1,2,0,4,1,1,0,0,2,3,montenegro,2019-09-07,turkey,2019090762,Classification,201962,fiba-world-cup
+5,Nikola Ivanovic,15.0,3,4,2,3,0,0,0,2,1,0,0,3,1,8,montenegro,2019-09-07,turkey,2019090762,Classification,201962,fiba-world-cup
+6,Milko Bjelica,10.0,1,1,0,0,0,0,2,3,0,0,0,0,1,2,montenegro,2019-09-07,turkey,2019090762,Classification,201962,fiba-world-cup
+7,Marko Todorovic,9.0,2,4,0,0,1,2,0,2,1,1,0,1,1,5,montenegro,2019-09-07,turkey,2019090762,Classification,201962,fiba-world-cup
+8,Suad Sehovic,8.0,1,3,1,3,0,0,0,0,0,0,0,1,2,3,montenegro,2019-09-07,turkey,2019090762,Classification,201962,fiba-world-cup
+9,Aleksa Popovic,7.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,montenegro,2019-09-07,turkey,2019090762,Classification,201962,fiba-world-cup
+10,Sead Sehovic,4.0,1,1,0,0,0,0,0,1,1,0,0,0,1,2,montenegro,2019-09-07,turkey,2019090762,Classification,201962,fiba-world-cup
+11,Totals,,28,63,9,27,9,13,7,29,19,8,0,16,21,74,montenegro,2019-09-07,turkey,2019090762,Classification,201962,fiba-world-cup
+0,Cedi Osman,34.0,8,15,1,6,2,2,0,4,1,1,0,2,3,19,turkey,2019-09-07,montenegro,2019090762,Classification,201962,fiba-world-cup
+1,Melih Mahmutoglu,29.0,6,11,3,6,2,2,0,0,0,0,0,0,1,17,turkey,2019-09-07,montenegro,2019090762,Classification,201962,fiba-world-cup
+2,Furkan Korkmaz,27.0,2,7,1,4,0,0,0,3,2,1,1,2,0,5,turkey,2019-09-07,montenegro,2019090762,Classification,201962,fiba-world-cup
+3,James Birsen,25.0,6,10,1,5,2,2,4,8,0,1,0,2,0,15,turkey,2019-09-07,montenegro,2019090762,Classification,201962,fiba-world-cup
+4,Scottie Wilbekin,24.0,2,3,0,1,5,5,0,5,13,4,0,2,1,9,turkey,2019-09-07,montenegro,2019090762,Classification,201962,fiba-world-cup
+5,Semih Erden,22.0,3,6,0,0,0,0,0,2,2,1,2,5,5,6,turkey,2019-09-07,montenegro,2019090762,Classification,201962,fiba-world-cup
+6,Dogus Balbay,14.0,0,0,0,0,0,0,1,1,3,1,1,1,2,0,turkey,2019-09-07,montenegro,2019090762,Classification,201962,fiba-world-cup
+7,Sertac Sanli,7.0,1,2,0,0,2,2,0,2,0,1,0,0,0,4,turkey,2019-09-07,montenegro,2019090762,Classification,201962,fiba-world-cup
+8,Yigit Arslan,7.0,1,2,0,1,0,0,0,0,0,0,0,1,1,2,turkey,2019-09-07,montenegro,2019090762,Classification,201962,fiba-world-cup
+9,Ege Arar,6.0,0,1,0,0,0,2,0,2,1,0,1,0,2,0,turkey,2019-09-07,montenegro,2019090762,Classification,201962,fiba-world-cup
+10,Ahmet Tuncer,5.0,0,1,0,0,2,2,0,1,0,1,0,1,2,2,turkey,2019-09-07,montenegro,2019090762,Classification,201962,fiba-world-cup
+11,Totals,,29,58,6,23,15,17,5,28,22,11,5,16,17,79,turkey,2019-09-07,montenegro,2019090762,Classification,201962,fiba-world-cup

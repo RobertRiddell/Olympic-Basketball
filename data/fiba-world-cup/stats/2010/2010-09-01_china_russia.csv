@@ -1,22 +1,22 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Wei Liu,35.0,1,5,0,1,3,3,0,5,2,1,0,3,1,5,china,2010-09-01,russia,2010090143,Group Play,201043
-1,Sun Yue,33.0,6,12,3,5,4,5,0,3,0,3,0,2,2,19,china,2010-09-01,russia,2010090143,Group Play,201043
-2,Wang Shipeng,29.0,4,9,3,6,5,5,0,2,0,0,0,1,4,16,china,2010-09-01,russia,2010090143,Group Play,201043
-3,Wang Zhizhi,21.0,6,10,1,2,1,2,1,4,0,0,0,1,2,14,china,2010-09-01,russia,2010090143,Group Play,201043
-4,Yi Jianlian,35.0,6,12,0,0,2,5,4,9,1,1,0,5,4,14,china,2010-09-01,russia,2010090143,Group Play,201043
-5,Ding Jinhui,19.0,1,1,0,0,0,0,0,1,0,0,1,1,0,2,china,2010-09-01,russia,2010090143,Group Play,201043
-6,Zhou Peng,13.0,0,0,0,0,3,5,0,2,1,0,0,4,3,3,china,2010-09-01,russia,2010090143,Group Play,201043
-7,Guo Ailun,9.0,0,1,0,0,2,2,0,1,2,0,0,1,2,2,china,2010-09-01,russia,2010090143,Group Play,201043
-8,Yu Shulong,4.0,2,2,1,1,0,0,1,1,0,0,0,1,1,5,china,2010-09-01,russia,2010090143,Group Play,201043
-9,Jin Lipeng,3.0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,china,2010-09-01,russia,2010090143,Group Play,201043
-10,Totals,,26,53,8,15,20,27,6,28,6,5,1,19,20,80,china,2010-09-01,russia,2010090143,Group Play,201043
-0,Sergei Monia,32.0,5,7,5,7,2,2,1,3,6,2,1,2,4,17,russia,2010-09-01,china,2010090143,Group Play,201043
-1,Sergey Bykov,32.0,4,9,0,2,3,4,2,4,5,1,0,5,4,11,russia,2010-09-01,china,2010090143,Group Play,201043
-2,Sasha Kaun,26.0,6,11,0,0,4,6,6,14,0,1,1,0,2,16,russia,2010-09-01,china,2010090143,Group Play,201043
-3,Andrey Vorontsevich,19.0,3,8,1,3,0,0,0,2,0,1,0,1,3,7,russia,2010-09-01,china,2010090143,Group Play,201043
-4,Vitaly Fridzon,5.0,0,2,0,0,2,2,0,1,0,1,0,1,2,2,russia,2010-09-01,china,2010090143,Group Play,201043
-5,Anton Ponkrashov,30.0,5,14,2,4,3,4,0,1,5,0,0,3,1,15,russia,2010-09-01,china,2010090143,Group Play,201043
-6,Evgeny Voronov,30.0,5,8,0,1,1,1,2,3,1,2,0,0,3,11,russia,2010-09-01,china,2010090143,Group Play,201043
-7,Timofey Mozgov,14.0,3,5,0,0,2,2,0,2,0,1,2,0,4,8,russia,2010-09-01,china,2010090143,Group Play,201043
-8,Dimitriy Khvostov,12.0,0,2,0,1,2,2,0,0,0,0,0,1,1,2,russia,2010-09-01,china,2010090143,Group Play,201043
-9,Totals,,31,66,8,18,19,23,11,30,17,9,4,13,24,89,russia,2010-09-01,china,2010090143,Group Play,201043
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Wei Liu,35.0,1,5,0,1,3,3,0,5,2,1,0,3,1,5,china,2010-09-01,russia,2010090143,Group Play,201043,fiba-world-cup
+1,Sun Yue,33.0,6,12,3,5,4,5,0,3,0,3,0,2,2,19,china,2010-09-01,russia,2010090143,Group Play,201043,fiba-world-cup
+2,Wang Shipeng,29.0,4,9,3,6,5,5,0,2,0,0,0,1,4,16,china,2010-09-01,russia,2010090143,Group Play,201043,fiba-world-cup
+3,Wang Zhizhi,21.0,6,10,1,2,1,2,1,4,0,0,0,1,2,14,china,2010-09-01,russia,2010090143,Group Play,201043,fiba-world-cup
+4,Yi Jianlian,35.0,6,12,0,0,2,5,4,9,1,1,0,5,4,14,china,2010-09-01,russia,2010090143,Group Play,201043,fiba-world-cup
+5,Ding Jinhui,19.0,1,1,0,0,0,0,0,1,0,0,1,1,0,2,china,2010-09-01,russia,2010090143,Group Play,201043,fiba-world-cup
+6,Zhou Peng,13.0,0,0,0,0,3,5,0,2,1,0,0,4,3,3,china,2010-09-01,russia,2010090143,Group Play,201043,fiba-world-cup
+7,Guo Ailun,9.0,0,1,0,0,2,2,0,1,2,0,0,1,2,2,china,2010-09-01,russia,2010090143,Group Play,201043,fiba-world-cup
+8,Yu Shulong,4.0,2,2,1,1,0,0,1,1,0,0,0,1,1,5,china,2010-09-01,russia,2010090143,Group Play,201043,fiba-world-cup
+9,Jin Lipeng,3.0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,china,2010-09-01,russia,2010090143,Group Play,201043,fiba-world-cup
+10,Totals,,26,53,8,15,20,27,6,28,6,5,1,19,20,80,china,2010-09-01,russia,2010090143,Group Play,201043,fiba-world-cup
+0,Sergei Monia,32.0,5,7,5,7,2,2,1,3,6,2,1,2,4,17,russia,2010-09-01,china,2010090143,Group Play,201043,fiba-world-cup
+1,Sergey Bykov,32.0,4,9,0,2,3,4,2,4,5,1,0,5,4,11,russia,2010-09-01,china,2010090143,Group Play,201043,fiba-world-cup
+2,Sasha Kaun,26.0,6,11,0,0,4,6,6,14,0,1,1,0,2,16,russia,2010-09-01,china,2010090143,Group Play,201043,fiba-world-cup
+3,Andrey Vorontsevich,19.0,3,8,1,3,0,0,0,2,0,1,0,1,3,7,russia,2010-09-01,china,2010090143,Group Play,201043,fiba-world-cup
+4,Vitaly Fridzon,5.0,0,2,0,0,2,2,0,1,0,1,0,1,2,2,russia,2010-09-01,china,2010090143,Group Play,201043,fiba-world-cup
+5,Anton Ponkrashov,30.0,5,14,2,4,3,4,0,1,5,0,0,3,1,15,russia,2010-09-01,china,2010090143,Group Play,201043,fiba-world-cup
+6,Evgeny Voronov,30.0,5,8,0,1,1,1,2,3,1,2,0,0,3,11,russia,2010-09-01,china,2010090143,Group Play,201043,fiba-world-cup
+7,Timofey Mozgov,14.0,3,5,0,0,2,2,0,2,0,1,2,0,4,8,russia,2010-09-01,china,2010090143,Group Play,201043,fiba-world-cup
+8,Dimitriy Khvostov,12.0,0,2,0,1,2,2,0,0,0,0,0,1,1,2,russia,2010-09-01,china,2010090143,Group Play,201043,fiba-world-cup
+9,Totals,,31,66,8,18,19,23,11,30,17,9,4,13,24,89,russia,2010-09-01,china,2010090143,Group Play,201043,fiba-world-cup

@@ -1,27 +1,27 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Kevin Durant,38,14,25,5,12,5,5,1,9,2,1,0,1,1,38,united states,2010-09-11,lithuania,2010091174,Semifinals,201074
-1,Lamar Odom,30,6,10,0,0,1,3,2,10,1,1,3,0,3,13,united states,2010-09-11,lithuania,2010091174,Semifinals,201074
-2,Chauncey Billups,27,1,8,1,5,0,0,0,2,3,1,0,2,4,3,united states,2010-09-11,lithuania,2010091174,Semifinals,201074
-3,Andre Iguodala,24,3,4,0,0,3,6,2,4,2,4,0,1,3,9,united states,2010-09-11,lithuania,2010091174,Semifinals,201074
-4,Derrick Rose,12,0,4,0,2,0,0,1,2,3,1,0,1,1,0,united states,2010-09-11,lithuania,2010091174,Semifinals,201074
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,united states,2010-09-11,lithuania,2010091174,Semifinals,201074
-6,Russell Westbrook,24,4,9,0,1,4,4,4,7,3,1,2,3,3,12,united states,2010-09-11,lithuania,2010091174,Semifinals,201074
-7,Eric Gordon,18,1,5,1,3,0,0,0,4,1,1,0,2,0,3,united states,2010-09-11,lithuania,2010091174,Semifinals,201074
-8,Rudy Gay,14,1,2,0,0,0,0,0,2,0,0,1,0,1,2,united states,2010-09-11,lithuania,2010091174,Semifinals,201074
-9,Kevin Love,8,2,3,0,1,2,2,1,3,0,0,1,1,0,6,united states,2010-09-11,lithuania,2010091174,Semifinals,201074
-10,Stephen Curry,2,1,1,1,1,0,0,0,0,0,0,0,0,0,3,united states,2010-09-11,lithuania,2010091174,Semifinals,201074
-11,Tyson Chandler,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,united states,2010-09-11,lithuania,2010091174,Semifinals,201074
-12,Danny Granger,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,united states,2010-09-11,lithuania,2010091174,Semifinals,201074
-13,Totals,,33,71,8,25,15,20,11,43,15,10,7,11,16,89,united states,2010-09-11,lithuania,2010091174,Semifinals,201074
-0,Linas Kleiza,29,1,11,0,4,2,2,0,5,1,2,0,4,0,4,lithuania,2010-09-11,united states,2010091174,Semifinals,201074
-1,Martynas Pocius,28,4,10,3,5,2,2,1,7,2,2,0,1,3,13,lithuania,2010-09-11,united states,2010091174,Semifinals,201074
-2,Jonas Maciulis,28,3,9,2,5,1,2,0,3,2,0,1,0,4,9,lithuania,2010-09-11,united states,2010091174,Semifinals,201074
-3,Mantas Kalnietis,26,4,8,2,4,0,0,0,2,2,1,0,4,1,10,lithuania,2010-09-11,united states,2010091174,Semifinals,201074
-4,Robertas Javtokas,25,7,12,0,0,1,2,4,9,1,0,0,1,3,15,lithuania,2010-09-11,united states,2010091174,Semifinals,201074
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,lithuania,2010-09-11,united states,2010091174,Semifinals,201074
-6,Simas Jasaitis,23,1,4,1,2,2,2,0,4,1,0,0,1,2,5,lithuania,2010-09-11,united states,2010091174,Semifinals,201074
-7,Paulius Jankunas,15,2,5,0,2,0,0,1,3,1,0,0,1,1,4,lithuania,2010-09-11,united states,2010091174,Semifinals,201074
-8,Tomas Delininkaitis,14,3,6,1,3,1,1,0,1,2,2,0,2,2,8,lithuania,2010-09-11,united states,2010091174,Semifinals,201074
-9,Martynas Gecevicius,7,2,4,2,3,0,0,1,1,1,1,0,0,0,6,lithuania,2010-09-11,united states,2010091174,Semifinals,201074
-10,Renaldas Seibutis,5,0,1,0,0,0,0,0,0,0,0,1,0,0,0,lithuania,2010-09-11,united states,2010091174,Semifinals,201074
-11,Totals,,27,70,11,28,9,11,7,35,13,8,2,14,16,74,lithuania,2010-09-11,united states,2010091174,Semifinals,201074
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Kevin Durant,38,14,25,5,12,5,5,1,9,2,1,0,1,1,38,united states,2010-09-11,lithuania,2010091174,Semifinals,201074,fiba-world-cup
+1,Lamar Odom,30,6,10,0,0,1,3,2,10,1,1,3,0,3,13,united states,2010-09-11,lithuania,2010091174,Semifinals,201074,fiba-world-cup
+2,Chauncey Billups,27,1,8,1,5,0,0,0,2,3,1,0,2,4,3,united states,2010-09-11,lithuania,2010091174,Semifinals,201074,fiba-world-cup
+3,Andre Iguodala,24,3,4,0,0,3,6,2,4,2,4,0,1,3,9,united states,2010-09-11,lithuania,2010091174,Semifinals,201074,fiba-world-cup
+4,Derrick Rose,12,0,4,0,2,0,0,1,2,3,1,0,1,1,0,united states,2010-09-11,lithuania,2010091174,Semifinals,201074,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,united states,2010-09-11,lithuania,2010091174,Semifinals,201074,fiba-world-cup
+6,Russell Westbrook,24,4,9,0,1,4,4,4,7,3,1,2,3,3,12,united states,2010-09-11,lithuania,2010091174,Semifinals,201074,fiba-world-cup
+7,Eric Gordon,18,1,5,1,3,0,0,0,4,1,1,0,2,0,3,united states,2010-09-11,lithuania,2010091174,Semifinals,201074,fiba-world-cup
+8,Rudy Gay,14,1,2,0,0,0,0,0,2,0,0,1,0,1,2,united states,2010-09-11,lithuania,2010091174,Semifinals,201074,fiba-world-cup
+9,Kevin Love,8,2,3,0,1,2,2,1,3,0,0,1,1,0,6,united states,2010-09-11,lithuania,2010091174,Semifinals,201074,fiba-world-cup
+10,Stephen Curry,2,1,1,1,1,0,0,0,0,0,0,0,0,0,3,united states,2010-09-11,lithuania,2010091174,Semifinals,201074,fiba-world-cup
+11,Tyson Chandler,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,united states,2010-09-11,lithuania,2010091174,Semifinals,201074,fiba-world-cup
+12,Danny Granger,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,united states,2010-09-11,lithuania,2010091174,Semifinals,201074,fiba-world-cup
+13,Totals,,33,71,8,25,15,20,11,43,15,10,7,11,16,89,united states,2010-09-11,lithuania,2010091174,Semifinals,201074,fiba-world-cup
+0,Linas Kleiza,29,1,11,0,4,2,2,0,5,1,2,0,4,0,4,lithuania,2010-09-11,united states,2010091174,Semifinals,201074,fiba-world-cup
+1,Martynas Pocius,28,4,10,3,5,2,2,1,7,2,2,0,1,3,13,lithuania,2010-09-11,united states,2010091174,Semifinals,201074,fiba-world-cup
+2,Jonas Maciulis,28,3,9,2,5,1,2,0,3,2,0,1,0,4,9,lithuania,2010-09-11,united states,2010091174,Semifinals,201074,fiba-world-cup
+3,Mantas Kalnietis,26,4,8,2,4,0,0,0,2,2,1,0,4,1,10,lithuania,2010-09-11,united states,2010091174,Semifinals,201074,fiba-world-cup
+4,Robertas Javtokas,25,7,12,0,0,1,2,4,9,1,0,0,1,3,15,lithuania,2010-09-11,united states,2010091174,Semifinals,201074,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,lithuania,2010-09-11,united states,2010091174,Semifinals,201074,fiba-world-cup
+6,Simas Jasaitis,23,1,4,1,2,2,2,0,4,1,0,0,1,2,5,lithuania,2010-09-11,united states,2010091174,Semifinals,201074,fiba-world-cup
+7,Paulius Jankunas,15,2,5,0,2,0,0,1,3,1,0,0,1,1,4,lithuania,2010-09-11,united states,2010091174,Semifinals,201074,fiba-world-cup
+8,Tomas Delininkaitis,14,3,6,1,3,1,1,0,1,2,2,0,2,2,8,lithuania,2010-09-11,united states,2010091174,Semifinals,201074,fiba-world-cup
+9,Martynas Gecevicius,7,2,4,2,3,0,0,1,1,1,1,0,0,0,6,lithuania,2010-09-11,united states,2010091174,Semifinals,201074,fiba-world-cup
+10,Renaldas Seibutis,5,0,1,0,0,0,0,0,0,0,0,1,0,0,0,lithuania,2010-09-11,united states,2010091174,Semifinals,201074,fiba-world-cup
+11,Totals,,27,70,11,28,9,11,7,35,13,8,2,14,16,74,lithuania,2010-09-11,united states,2010091174,Semifinals,201074,fiba-world-cup

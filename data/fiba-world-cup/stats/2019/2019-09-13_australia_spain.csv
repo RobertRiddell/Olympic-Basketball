@@ -1,21 +1,21 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Patty Mills,45.0,11,25,4,11,8,11,1,3,2,1,0,7,3,34,australia,2019-09-13,spain,2019091387,Knockout Stage,201987
-1,Joe Ingles,44.0,1,9,0,6,2,2,0,10,7,1,0,3,3,4,australia,2019-09-13,spain,2019091387,Knockout Stage,201987
-2,Matthew Dellavedova,39.0,2,9,2,5,0,0,2,4,9,1,0,6,3,6,australia,2019-09-13,spain,2019091387,Knockout Stage,201987
-3,Nicholas Kay,31.0,7,14,0,3,2,2,7,11,0,0,0,0,0,16,australia,2019-09-13,spain,2019091387,Knockout Stage,201987
-4,Aron Baynes,26.0,2,5,2,5,0,0,1,5,1,2,1,3,2,6,australia,2019-09-13,spain,2019091387,Knockout Stage,201987
-5,Andrew Bogut,24.0,6,8,0,1,0,0,4,9,1,1,0,1,4,12,australia,2019-09-13,spain,2019091387,Knockout Stage,201987
-6,Jock Landale,15.0,1,4,1,2,0,0,0,3,0,0,0,0,3,3,australia,2019-09-13,spain,2019091387,Knockout Stage,201987
-7,Chris Goulding,14.0,1,7,1,6,2,2,0,0,1,0,0,1,2,5,australia,2019-09-13,spain,2019091387,Knockout Stage,201987
-8,Mitchell Creek,11.0,1,4,0,1,0,0,1,6,0,0,0,1,2,2,australia,2019-09-13,spain,2019091387,Knockout Stage,201987
-9,Totals,,32,85,10,40,14,17,16,51,21,6,1,22,22,88,australia,2019-09-13,spain,2019091387,Knockout Stage,201987
-0,Rudy Fernandez,39.0,1,4,0,2,0,0,2,5,3,3,1,0,4,2,spain,2019-09-13,australia,2019091387,Knockout Stage,201987
-1,Marc Gasol,39.0,11,19,3,9,8,8,1,6,4,0,2,4,3,33,spain,2019-09-13,australia,2019091387,Knockout Stage,201987
-2,Ricky Rubio,38.0,6,19,1,8,6,8,0,7,12,4,0,4,2,19,spain,2019-09-13,australia,2019091387,Knockout Stage,201987
-3,Victor Claver,38.0,3,5,0,2,3,4,1,5,0,3,0,1,4,9,spain,2019-09-13,australia,2019091387,Knockout Stage,201987
-4,Sergio Llull,36.0,6,16,4,10,1,2,0,2,6,0,0,2,1,17,spain,2019-09-13,australia,2019091387,Knockout Stage,201987
-5,Pau Ribas,22.0,3,5,1,1,0,0,1,3,0,0,0,0,3,7,spain,2019-09-13,australia,2019091387,Knockout Stage,201987
-6,Juan Hernangomez,22.0,3,6,2,4,0,0,0,4,0,2,0,2,4,8,spain,2019-09-13,australia,2019091387,Knockout Stage,201987
-7,Willy Hernangomez,11.0,0,5,0,1,0,0,2,4,1,0,0,0,0,0,spain,2019-09-13,australia,2019091387,Knockout Stage,201987
-8,Pierre Oriola,6.0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,spain,2019-09-13,australia,2019091387,Knockout Stage,201987
-9,Totals,,33,79,11,37,18,22,7,37,26,12,3,14,22,95,spain,2019-09-13,australia,2019091387,Knockout Stage,201987
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Patty Mills,45.0,11,25,4,11,8,11,1,3,2,1,0,7,3,34,australia,2019-09-13,spain,2019091387,Knockout Stage,201987,fiba-world-cup
+1,Joe Ingles,44.0,1,9,0,6,2,2,0,10,7,1,0,3,3,4,australia,2019-09-13,spain,2019091387,Knockout Stage,201987,fiba-world-cup
+2,Matthew Dellavedova,39.0,2,9,2,5,0,0,2,4,9,1,0,6,3,6,australia,2019-09-13,spain,2019091387,Knockout Stage,201987,fiba-world-cup
+3,Nicholas Kay,31.0,7,14,0,3,2,2,7,11,0,0,0,0,0,16,australia,2019-09-13,spain,2019091387,Knockout Stage,201987,fiba-world-cup
+4,Aron Baynes,26.0,2,5,2,5,0,0,1,5,1,2,1,3,2,6,australia,2019-09-13,spain,2019091387,Knockout Stage,201987,fiba-world-cup
+5,Andrew Bogut,24.0,6,8,0,1,0,0,4,9,1,1,0,1,4,12,australia,2019-09-13,spain,2019091387,Knockout Stage,201987,fiba-world-cup
+6,Jock Landale,15.0,1,4,1,2,0,0,0,3,0,0,0,0,3,3,australia,2019-09-13,spain,2019091387,Knockout Stage,201987,fiba-world-cup
+7,Chris Goulding,14.0,1,7,1,6,2,2,0,0,1,0,0,1,2,5,australia,2019-09-13,spain,2019091387,Knockout Stage,201987,fiba-world-cup
+8,Mitchell Creek,11.0,1,4,0,1,0,0,1,6,0,0,0,1,2,2,australia,2019-09-13,spain,2019091387,Knockout Stage,201987,fiba-world-cup
+9,Totals,,32,85,10,40,14,17,16,51,21,6,1,22,22,88,australia,2019-09-13,spain,2019091387,Knockout Stage,201987,fiba-world-cup
+0,Rudy Fernandez,39.0,1,4,0,2,0,0,2,5,3,3,1,0,4,2,spain,2019-09-13,australia,2019091387,Knockout Stage,201987,fiba-world-cup
+1,Marc Gasol,39.0,11,19,3,9,8,8,1,6,4,0,2,4,3,33,spain,2019-09-13,australia,2019091387,Knockout Stage,201987,fiba-world-cup
+2,Ricky Rubio,38.0,6,19,1,8,6,8,0,7,12,4,0,4,2,19,spain,2019-09-13,australia,2019091387,Knockout Stage,201987,fiba-world-cup
+3,Victor Claver,38.0,3,5,0,2,3,4,1,5,0,3,0,1,4,9,spain,2019-09-13,australia,2019091387,Knockout Stage,201987,fiba-world-cup
+4,Sergio Llull,36.0,6,16,4,10,1,2,0,2,6,0,0,2,1,17,spain,2019-09-13,australia,2019091387,Knockout Stage,201987,fiba-world-cup
+5,Pau Ribas,22.0,3,5,1,1,0,0,1,3,0,0,0,0,3,7,spain,2019-09-13,australia,2019091387,Knockout Stage,201987,fiba-world-cup
+6,Juan Hernangomez,22.0,3,6,2,4,0,0,0,4,0,2,0,2,4,8,spain,2019-09-13,australia,2019091387,Knockout Stage,201987,fiba-world-cup
+7,Willy Hernangomez,11.0,0,5,0,1,0,0,2,4,1,0,0,0,0,0,spain,2019-09-13,australia,2019091387,Knockout Stage,201987,fiba-world-cup
+8,Pierre Oriola,6.0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,spain,2019-09-13,australia,2019091387,Knockout Stage,201987,fiba-world-cup
+9,Totals,,33,79,11,37,18,22,7,37,26,12,3,14,22,95,spain,2019-09-13,australia,2019091387,Knockout Stage,201987,fiba-world-cup

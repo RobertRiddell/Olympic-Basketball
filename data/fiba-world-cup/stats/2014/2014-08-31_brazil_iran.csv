@@ -1,28 +1,28 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Alex Garcia,24,4,6,0,0,4,4,0,3,0,3,0,0,1,12,brazil,2014-08-31,iran,2014083118,Group Play,201418
-1,Marcelo Huertas,18,1,3,0,1,0,0,0,2,6,1,0,0,0,2,brazil,2014-08-31,iran,2014083118,Group Play,201418
-2,Rafael Hettsheimeir,17,3,6,0,1,0,0,1,1,0,2,0,3,2,6,brazil,2014-08-31,iran,2014083118,Group Play,201418
-3,Tiago Splitter,16,3,5,0,0,4,8,2,6,1,1,1,4,3,10,brazil,2014-08-31,iran,2014083118,Group Play,201418
-4,Marcus Vinicius,15,1,4,0,2,2,2,0,3,0,0,0,3,1,4,brazil,2014-08-31,iran,2014083118,Group Play,201418
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,brazil,2014-08-31,iran,2014083118,Group Play,201418
-6,Leandro Barbosa,19,5,6,1,1,0,0,0,1,1,4,0,1,3,11,brazil,2014-08-31,iran,2014083118,Group Play,201418
-7,Marcelinho Machado,17,3,7,2,5,0,0,0,2,3,1,0,2,3,8,brazil,2014-08-31,iran,2014083118,Group Play,201418
-8,Anderson Varejao,17,2,3,0,0,0,0,0,6,0,0,1,3,2,4,brazil,2014-08-31,iran,2014083118,Group Play,201418
-9,Nene Hilario,16,4,6,0,0,0,0,2,4,0,2,0,0,0,8,brazil,2014-08-31,iran,2014083118,Group Play,201418
-10,Raul Neto,15,1,3,0,0,0,0,1,2,2,2,1,1,0,2,brazil,2014-08-31,iran,2014083118,Group Play,201418
-11,Larry Taylor,14,3,5,1,2,0,0,0,0,1,1,0,1,0,7,brazil,2014-08-31,iran,2014083118,Group Play,201418
-12,Guilherme Giovannoni,14,2,5,1,3,0,1,0,1,0,0,0,0,1,5,brazil,2014-08-31,iran,2014083118,Group Play,201418
-13,Totals,,32,59,5,15,10,15,6,31,14,17,3,18,16,79,brazil,2014-08-31,iran,2014083118,Group Play,201418
-0,Mohammad Jamshidi,31,6,14,1,5,0,0,0,2,2,0,0,6,2,13,iran,2014-08-31,brazil,2014083118,Group Play,201418
-1,Mahdi Kamrany,25,4,10,2,5,1,2,0,1,0,3,0,3,2,11,iran,2014-08-31,brazil,2014083118,Group Play,201418
-2,Oshin Sahakian,24,1,2,0,0,0,0,1,3,0,0,0,1,2,2,iran,2014-08-31,brazil,2014083118,Group Play,201418
-3,Behnam Yakhchali,23,3,5,0,1,0,1,2,3,1,1,0,0,2,6,iran,2014-08-31,brazil,2014083118,Group Play,201418
-4,Hamed Haddadi,21,2,7,0,0,0,0,1,7,1,0,1,6,2,4,iran,2014-08-31,brazil,2014083118,Group Play,201418
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,iran,2014-08-31,brazil,2014083118,Group Play,201418
-6,Samad Nik Bahrami,24,1,10,0,1,2,2,0,0,1,2,0,5,3,4,iran,2014-08-31,brazil,2014083118,Group Play,201418
-7,Arsalan Kazemi,21,1,2,0,0,0,0,0,3,1,4,1,1,3,2,iran,2014-08-31,brazil,2014083118,Group Play,201418
-8,Hamed Afagh,16,2,4,0,2,0,0,0,3,2,0,0,2,0,4,iran,2014-08-31,brazil,2014083118,Group Play,201418
-9,Asghar Kardoust,8,0,1,0,0,0,0,0,1,0,0,0,0,2,0,iran,2014-08-31,brazil,2014083118,Group Play,201418
-10,Rouzbeh Arghavan,5,1,1,0,0,2,4,0,0,1,1,0,0,1,4,iran,2014-08-31,brazil,2014083118,Group Play,201418
-11,Arman Zangeneh,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,iran,2014-08-31,brazil,2014083118,Group Play,201418
-12,Totals,,21,56,3,14,5,9,4,23,9,11,2,24,19,50,iran,2014-08-31,brazil,2014083118,Group Play,201418
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Alex Garcia,24,4,6,0,0,4,4,0,3,0,3,0,0,1,12,brazil,2014-08-31,iran,2014083118,Group Play,201418,fiba-world-cup
+1,Marcelo Huertas,18,1,3,0,1,0,0,0,2,6,1,0,0,0,2,brazil,2014-08-31,iran,2014083118,Group Play,201418,fiba-world-cup
+2,Rafael Hettsheimeir,17,3,6,0,1,0,0,1,1,0,2,0,3,2,6,brazil,2014-08-31,iran,2014083118,Group Play,201418,fiba-world-cup
+3,Tiago Splitter,16,3,5,0,0,4,8,2,6,1,1,1,4,3,10,brazil,2014-08-31,iran,2014083118,Group Play,201418,fiba-world-cup
+4,Marcus Vinicius,15,1,4,0,2,2,2,0,3,0,0,0,3,1,4,brazil,2014-08-31,iran,2014083118,Group Play,201418,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,brazil,2014-08-31,iran,2014083118,Group Play,201418,fiba-world-cup
+6,Leandro Barbosa,19,5,6,1,1,0,0,0,1,1,4,0,1,3,11,brazil,2014-08-31,iran,2014083118,Group Play,201418,fiba-world-cup
+7,Marcelinho Machado,17,3,7,2,5,0,0,0,2,3,1,0,2,3,8,brazil,2014-08-31,iran,2014083118,Group Play,201418,fiba-world-cup
+8,Anderson Varejao,17,2,3,0,0,0,0,0,6,0,0,1,3,2,4,brazil,2014-08-31,iran,2014083118,Group Play,201418,fiba-world-cup
+9,Nene Hilario,16,4,6,0,0,0,0,2,4,0,2,0,0,0,8,brazil,2014-08-31,iran,2014083118,Group Play,201418,fiba-world-cup
+10,Raul Neto,15,1,3,0,0,0,0,1,2,2,2,1,1,0,2,brazil,2014-08-31,iran,2014083118,Group Play,201418,fiba-world-cup
+11,Larry Taylor,14,3,5,1,2,0,0,0,0,1,1,0,1,0,7,brazil,2014-08-31,iran,2014083118,Group Play,201418,fiba-world-cup
+12,Guilherme Giovannoni,14,2,5,1,3,0,1,0,1,0,0,0,0,1,5,brazil,2014-08-31,iran,2014083118,Group Play,201418,fiba-world-cup
+13,Totals,,32,59,5,15,10,15,6,31,14,17,3,18,16,79,brazil,2014-08-31,iran,2014083118,Group Play,201418,fiba-world-cup
+0,Mohammad Jamshidi,31,6,14,1,5,0,0,0,2,2,0,0,6,2,13,iran,2014-08-31,brazil,2014083118,Group Play,201418,fiba-world-cup
+1,Mahdi Kamrany,25,4,10,2,5,1,2,0,1,0,3,0,3,2,11,iran,2014-08-31,brazil,2014083118,Group Play,201418,fiba-world-cup
+2,Oshin Sahakian,24,1,2,0,0,0,0,1,3,0,0,0,1,2,2,iran,2014-08-31,brazil,2014083118,Group Play,201418,fiba-world-cup
+3,Behnam Yakhchali,23,3,5,0,1,0,1,2,3,1,1,0,0,2,6,iran,2014-08-31,brazil,2014083118,Group Play,201418,fiba-world-cup
+4,Hamed Haddadi,21,2,7,0,0,0,0,1,7,1,0,1,6,2,4,iran,2014-08-31,brazil,2014083118,Group Play,201418,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,iran,2014-08-31,brazil,2014083118,Group Play,201418,fiba-world-cup
+6,Samad Nik Bahrami,24,1,10,0,1,2,2,0,0,1,2,0,5,3,4,iran,2014-08-31,brazil,2014083118,Group Play,201418,fiba-world-cup
+7,Arsalan Kazemi,21,1,2,0,0,0,0,0,3,1,4,1,1,3,2,iran,2014-08-31,brazil,2014083118,Group Play,201418,fiba-world-cup
+8,Hamed Afagh,16,2,4,0,2,0,0,0,3,2,0,0,2,0,4,iran,2014-08-31,brazil,2014083118,Group Play,201418,fiba-world-cup
+9,Asghar Kardoust,8,0,1,0,0,0,0,0,1,0,0,0,0,2,0,iran,2014-08-31,brazil,2014083118,Group Play,201418,fiba-world-cup
+10,Rouzbeh Arghavan,5,1,1,0,0,2,4,0,0,1,1,0,0,1,4,iran,2014-08-31,brazil,2014083118,Group Play,201418,fiba-world-cup
+11,Arman Zangeneh,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,iran,2014-08-31,brazil,2014083118,Group Play,201418,fiba-world-cup
+12,Totals,,21,56,3,14,5,9,4,23,9,11,2,24,19,50,iran,2014-08-31,brazil,2014083118,Group Play,201418,fiba-world-cup

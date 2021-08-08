@@ -1,25 +1,25 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Derrick Obasohan,35.0,6,12,3,8,0,0,2,6,2,1,0,5,3,15,nigeria,2012-08-04,argentina,2012080418,Group A,201218
-1,Ike Diogu,35.0,4,10,2,2,6,6,5,11,1,0,0,4,2,16,nigeria,2012-08-04,argentina,2012080418,Group A,201218
-2,Al-Farouq Aminu,27.0,3,12,0,5,4,4,2,4,5,2,1,0,2,10,nigeria,2012-08-04,argentina,2012080418,Group A,201218
-3,Champ Oguchi,23.0,4,12,2,4,2,2,0,0,1,0,0,3,3,12,nigeria,2012-08-04,argentina,2012080418,Group A,201218
-4,Richard Oruche,22.0,3,8,0,1,1,2,0,1,2,0,0,1,0,7,nigeria,2012-08-04,argentina,2012080418,Group A,201218
-5,Olumide Oyedeji,15.0,1,2,0,0,1,2,3,7,2,0,0,1,3,3,nigeria,2012-08-04,argentina,2012080418,Group A,201218
-6,Ejike Ugboaja,13.0,3,8,0,0,0,0,3,6,0,0,0,0,3,6,nigeria,2012-08-04,argentina,2012080418,Group A,201218
-7,Alade Aminu,11.0,2,3,0,0,0,0,1,1,1,0,1,1,3,4,nigeria,2012-08-04,argentina,2012080418,Group A,201218
-8,Tony Skinn,9.0,1,3,1,2,0,0,0,0,1,0,0,0,0,3,nigeria,2012-08-04,argentina,2012080418,Group A,201218
-9,Ekene Ibekwe,7.0,1,2,0,1,1,2,1,1,1,0,0,0,0,3,nigeria,2012-08-04,argentina,2012080418,Group A,201218
-10,Koko Archibong,3.0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,nigeria,2012-08-04,argentina,2012080418,Group A,201218
-11,Totals,,28,72,8,23,15,18,17,38,16,3,2,15,21,79,nigeria,2012-08-04,argentina,2012080418,Group A,201218
-0,Carlos Delfino,28.0,7,12,2,5,2,4,0,2,3,3,0,2,2,18,argentina,2012-08-04,nigeria,2012080418,Group A,201218
-1,Facu Campazzo,28.0,1,1,0,0,1,2,0,2,5,0,0,1,2,3,argentina,2012-08-04,nigeria,2012080418,Group A,201218
-2,Manu Ginobili,28.0,3,6,1,1,6,6,0,4,8,2,0,0,1,13,argentina,2012-08-04,nigeria,2012080418,Group A,201218
-3,Andres Nocioni,26.0,6,10,4,5,1,1,0,6,2,0,0,1,2,17,argentina,2012-08-04,nigeria,2012080418,Group A,201218
-4,Luis Scola,25.0,7,11,0,1,8,9,0,0,3,0,1,1,3,22,argentina,2012-08-04,nigeria,2012080418,Group A,201218
-5,Juan Gutierrez,17.0,4,7,1,1,0,0,0,3,0,0,2,0,4,9,argentina,2012-08-04,nigeria,2012080418,Group A,201218
-6,Pablo Prigioni,12.0,0,1,0,1,0,0,0,1,4,0,0,1,0,0,argentina,2012-08-04,nigeria,2012080418,Group A,201218
-7,Martin Leiva,11.0,1,7,0,1,0,0,3,5,0,0,0,1,2,2,argentina,2012-08-04,nigeria,2012080418,Group A,201218
-8,Leo Gutierrez,10.0,3,3,3,3,0,0,0,1,1,0,0,1,1,9,argentina,2012-08-04,nigeria,2012080418,Group A,201218
-9,Federico Kammerichs,10.0,0,0,0,0,0,0,1,2,0,1,0,2,1,0,argentina,2012-08-04,nigeria,2012080418,Group A,201218
-10,Marcos Mata,4.0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,argentina,2012-08-04,nigeria,2012080418,Group A,201218
-11,Totals,,32,59,11,18,18,22,4,26,27,6,3,10,19,93,argentina,2012-08-04,nigeria,2012080418,Group A,201218
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Derrick Obasohan,35.0,6,12,3,8,0,0,2,6,2,1,0,5,3,15,nigeria,2012-08-04,argentina,2012080418,Group A,201218,mens-olympics
+1,Ike Diogu,35.0,4,10,2,2,6,6,5,11,1,0,0,4,2,16,nigeria,2012-08-04,argentina,2012080418,Group A,201218,mens-olympics
+2,Al-Farouq Aminu,27.0,3,12,0,5,4,4,2,4,5,2,1,0,2,10,nigeria,2012-08-04,argentina,2012080418,Group A,201218,mens-olympics
+3,Champ Oguchi,23.0,4,12,2,4,2,2,0,0,1,0,0,3,3,12,nigeria,2012-08-04,argentina,2012080418,Group A,201218,mens-olympics
+4,Richard Oruche,22.0,3,8,0,1,1,2,0,1,2,0,0,1,0,7,nigeria,2012-08-04,argentina,2012080418,Group A,201218,mens-olympics
+5,Olumide Oyedeji,15.0,1,2,0,0,1,2,3,7,2,0,0,1,3,3,nigeria,2012-08-04,argentina,2012080418,Group A,201218,mens-olympics
+6,Ejike Ugboaja,13.0,3,8,0,0,0,0,3,6,0,0,0,0,3,6,nigeria,2012-08-04,argentina,2012080418,Group A,201218,mens-olympics
+7,Alade Aminu,11.0,2,3,0,0,0,0,1,1,1,0,1,1,3,4,nigeria,2012-08-04,argentina,2012080418,Group A,201218,mens-olympics
+8,Tony Skinn,9.0,1,3,1,2,0,0,0,0,1,0,0,0,0,3,nigeria,2012-08-04,argentina,2012080418,Group A,201218,mens-olympics
+9,Ekene Ibekwe,7.0,1,2,0,1,1,2,1,1,1,0,0,0,0,3,nigeria,2012-08-04,argentina,2012080418,Group A,201218,mens-olympics
+10,Koko Archibong,3.0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,nigeria,2012-08-04,argentina,2012080418,Group A,201218,mens-olympics
+11,Totals,,28,72,8,23,15,18,17,38,16,3,2,15,21,79,nigeria,2012-08-04,argentina,2012080418,Group A,201218,mens-olympics
+0,Carlos Delfino,28.0,7,12,2,5,2,4,0,2,3,3,0,2,2,18,argentina,2012-08-04,nigeria,2012080418,Group A,201218,mens-olympics
+1,Facu Campazzo,28.0,1,1,0,0,1,2,0,2,5,0,0,1,2,3,argentina,2012-08-04,nigeria,2012080418,Group A,201218,mens-olympics
+2,Manu Ginobili,28.0,3,6,1,1,6,6,0,4,8,2,0,0,1,13,argentina,2012-08-04,nigeria,2012080418,Group A,201218,mens-olympics
+3,Andres Nocioni,26.0,6,10,4,5,1,1,0,6,2,0,0,1,2,17,argentina,2012-08-04,nigeria,2012080418,Group A,201218,mens-olympics
+4,Luis Scola,25.0,7,11,0,1,8,9,0,0,3,0,1,1,3,22,argentina,2012-08-04,nigeria,2012080418,Group A,201218,mens-olympics
+5,Juan Gutierrez,17.0,4,7,1,1,0,0,0,3,0,0,2,0,4,9,argentina,2012-08-04,nigeria,2012080418,Group A,201218,mens-olympics
+6,Pablo Prigioni,12.0,0,1,0,1,0,0,0,1,4,0,0,1,0,0,argentina,2012-08-04,nigeria,2012080418,Group A,201218,mens-olympics
+7,Martin Leiva,11.0,1,7,0,1,0,0,3,5,0,0,0,1,2,2,argentina,2012-08-04,nigeria,2012080418,Group A,201218,mens-olympics
+8,Leo Gutierrez,10.0,3,3,3,3,0,0,0,1,1,0,0,1,1,9,argentina,2012-08-04,nigeria,2012080418,Group A,201218,mens-olympics
+9,Federico Kammerichs,10.0,0,0,0,0,0,0,1,2,0,1,0,2,1,0,argentina,2012-08-04,nigeria,2012080418,Group A,201218,mens-olympics
+10,Marcos Mata,4.0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,argentina,2012-08-04,nigeria,2012080418,Group A,201218,mens-olympics
+11,Totals,,32,59,11,18,18,22,4,26,27,6,3,10,19,93,argentina,2012-08-04,nigeria,2012080418,Group A,201218,mens-olympics

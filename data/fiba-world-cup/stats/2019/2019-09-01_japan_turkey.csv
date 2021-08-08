@@ -1,22 +1,22 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Rui Hachimura,31.0,3,10,0,2,9,10,1,7,2,2,0,2,3,15,japan,2019-09-01,turkey,2019090115,First Round,201915
-1,Yuta Watanabe,30.0,4,12,1,3,2,2,2,5,2,2,1,0,1,11,japan,2019-09-01,turkey,2019090115,First Round,201915
-2,Nick Fazekas,30.0,6,9,3,5,0,0,1,6,1,3,0,3,1,15,japan,2019-09-01,turkey,2019090115,First Round,201915
-3,Yudai Baba,29.0,1,6,0,2,4,4,0,3,4,0,0,0,1,6,japan,2019-09-01,turkey,2019090115,First Round,201915
-4,Daiki Tanaka,24.0,4,7,3,5,0,1,0,2,2,0,0,2,1,11,japan,2019-09-01,turkey,2019090115,First Round,201915
-5,Joji Takeuchi,19.0,1,3,1,1,3,4,1,1,1,0,0,1,0,6,japan,2019-09-01,turkey,2019090115,First Round,201915
-6,Ryusei Shinoyama,16.0,1,1,1,1,0,0,0,1,0,0,0,3,0,3,japan,2019-09-01,turkey,2019090115,First Round,201915
-7,Makoto Hiejima,13.0,0,1,0,0,0,0,0,0,1,1,0,1,3,0,japan,2019-09-01,turkey,2019090115,First Round,201915
-8,Shuto Ando,8.0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,japan,2019-09-01,turkey,2019090115,First Round,201915
-9,Totals,,20,52,9,22,18,21,5,25,13,8,1,12,10,67,japan,2019-09-01,turkey,2019090115,First Round,201915
-0,Ersan Ilyasova,30.0,7,16,5,9,0,0,2,10,3,2,1,1,2,19,turkey,2019-09-01,japan,2019090115,First Round,201915
-1,Melih Mahmutoglu,28.0,7,10,3,6,0,0,2,3,0,1,0,1,1,17,turkey,2019-09-01,japan,2019090115,First Round,201915
-2,Semih Erden,23.0,4,8,0,0,0,2,2,7,0,1,1,3,4,8,turkey,2019-09-01,japan,2019090115,First Round,201915
-3,Cedi Osman,22.0,6,11,0,3,0,0,1,1,1,1,0,2,2,12,turkey,2019-09-01,japan,2019090115,First Round,201915
-4,Furkan Korkmaz,21.0,5,12,0,2,0,0,3,3,2,0,0,1,2,10,turkey,2019-09-01,japan,2019090115,First Round,201915
-5,Dogus Balbay,20.0,1,2,0,1,0,0,1,6,8,1,0,0,2,2,turkey,2019-09-01,japan,2019090115,First Round,201915
-6,Ahmet Tuncer,20.0,3,6,1,3,0,0,0,1,7,0,0,1,0,7,turkey,2019-09-01,japan,2019090115,First Round,201915
-7,Sertac Sanli,17.0,2,3,0,0,1,2,0,5,0,1,0,1,4,5,turkey,2019-09-01,japan,2019090115,First Round,201915
-8,James Birsen,17.0,3,4,0,0,0,0,1,5,0,0,0,0,1,6,turkey,2019-09-01,japan,2019090115,First Round,201915
-9,Yigit Arslan,2.0,0,1,0,1,0,0,1,2,1,0,0,0,0,0,turkey,2019-09-01,japan,2019090115,First Round,201915
-10,Totals,,38,73,9,25,1,4,13,43,22,7,2,10,18,86,turkey,2019-09-01,japan,2019090115,First Round,201915
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Rui Hachimura,31.0,3,10,0,2,9,10,1,7,2,2,0,2,3,15,japan,2019-09-01,turkey,2019090115,First Round,201915,fiba-world-cup
+1,Yuta Watanabe,30.0,4,12,1,3,2,2,2,5,2,2,1,0,1,11,japan,2019-09-01,turkey,2019090115,First Round,201915,fiba-world-cup
+2,Nick Fazekas,30.0,6,9,3,5,0,0,1,6,1,3,0,3,1,15,japan,2019-09-01,turkey,2019090115,First Round,201915,fiba-world-cup
+3,Yudai Baba,29.0,1,6,0,2,4,4,0,3,4,0,0,0,1,6,japan,2019-09-01,turkey,2019090115,First Round,201915,fiba-world-cup
+4,Daiki Tanaka,24.0,4,7,3,5,0,1,0,2,2,0,0,2,1,11,japan,2019-09-01,turkey,2019090115,First Round,201915,fiba-world-cup
+5,Joji Takeuchi,19.0,1,3,1,1,3,4,1,1,1,0,0,1,0,6,japan,2019-09-01,turkey,2019090115,First Round,201915,fiba-world-cup
+6,Ryusei Shinoyama,16.0,1,1,1,1,0,0,0,1,0,0,0,3,0,3,japan,2019-09-01,turkey,2019090115,First Round,201915,fiba-world-cup
+7,Makoto Hiejima,13.0,0,1,0,0,0,0,0,0,1,1,0,1,3,0,japan,2019-09-01,turkey,2019090115,First Round,201915,fiba-world-cup
+8,Shuto Ando,8.0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,japan,2019-09-01,turkey,2019090115,First Round,201915,fiba-world-cup
+9,Totals,,20,52,9,22,18,21,5,25,13,8,1,12,10,67,japan,2019-09-01,turkey,2019090115,First Round,201915,fiba-world-cup
+0,Ersan Ilyasova,30.0,7,16,5,9,0,0,2,10,3,2,1,1,2,19,turkey,2019-09-01,japan,2019090115,First Round,201915,fiba-world-cup
+1,Melih Mahmutoglu,28.0,7,10,3,6,0,0,2,3,0,1,0,1,1,17,turkey,2019-09-01,japan,2019090115,First Round,201915,fiba-world-cup
+2,Semih Erden,23.0,4,8,0,0,0,2,2,7,0,1,1,3,4,8,turkey,2019-09-01,japan,2019090115,First Round,201915,fiba-world-cup
+3,Cedi Osman,22.0,6,11,0,3,0,0,1,1,1,1,0,2,2,12,turkey,2019-09-01,japan,2019090115,First Round,201915,fiba-world-cup
+4,Furkan Korkmaz,21.0,5,12,0,2,0,0,3,3,2,0,0,1,2,10,turkey,2019-09-01,japan,2019090115,First Round,201915,fiba-world-cup
+5,Dogus Balbay,20.0,1,2,0,1,0,0,1,6,8,1,0,0,2,2,turkey,2019-09-01,japan,2019090115,First Round,201915,fiba-world-cup
+6,Ahmet Tuncer,20.0,3,6,1,3,0,0,0,1,7,0,0,1,0,7,turkey,2019-09-01,japan,2019090115,First Round,201915,fiba-world-cup
+7,Sertac Sanli,17.0,2,3,0,0,1,2,0,5,0,1,0,1,4,5,turkey,2019-09-01,japan,2019090115,First Round,201915,fiba-world-cup
+8,James Birsen,17.0,3,4,0,0,0,0,1,5,0,0,0,0,1,6,turkey,2019-09-01,japan,2019090115,First Round,201915,fiba-world-cup
+9,Yigit Arslan,2.0,0,1,0,1,0,0,1,2,1,0,0,0,0,0,turkey,2019-09-01,japan,2019090115,First Round,201915,fiba-world-cup
+10,Totals,,38,73,9,25,1,4,13,43,22,7,2,10,18,86,turkey,2019-09-01,japan,2019090115,First Round,201915,fiba-world-cup

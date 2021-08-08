@@ -1,27 +1,27 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Luis Scola,32.0,9,17,1,3,2,2,1,6,3,3,0,3,2,21,argentina,2019-09-08,poland,2019090867,Second Round,201967
-1,Facu Campazzo,25.0,3,7,1,4,0,0,0,5,6,1,1,3,0,7,argentina,2019-09-08,poland,2019090867,Second Round,201967
-2,Marcos Delia,24.0,6,8,0,0,0,2,1,5,1,0,1,1,3,12,argentina,2019-09-08,poland,2019090867,Second Round,201967
-3,Nicolas Brussino,22.0,4,9,1,6,1,2,1,1,1,1,0,0,1,10,argentina,2019-09-08,poland,2019090867,Second Round,201967
-4,Patricio Garino,21.0,4,7,1,2,0,0,0,3,2,1,0,1,3,9,argentina,2019-09-08,poland,2019090867,Second Round,201967
-5,Gabriel Deck,21.0,4,5,0,0,1,2,0,3,2,4,0,0,4,9,argentina,2019-09-08,poland,2019090867,Second Round,201967
-6,Nicolas Laprovittola,20.0,2,6,2,6,1,2,0,3,7,4,0,0,1,7,argentina,2019-09-08,poland,2019090867,Second Round,201967
-7,Maximo Fjellerup,13.0,4,5,1,2,0,2,1,6,1,0,0,1,2,9,argentina,2019-09-08,poland,2019090867,Second Round,201967
-8,Luca Vildoza,7.0,1,1,1,1,0,0,0,1,0,0,0,2,1,3,argentina,2019-09-08,poland,2019090867,Second Round,201967
-9,Lucio Redivo,7.0,1,4,0,3,2,2,0,0,1,1,0,1,0,4,argentina,2019-09-08,poland,2019090867,Second Round,201967
-10,Tayavek Gallizzi,5.0,0,1,0,0,0,0,0,1,0,0,0,2,1,0,argentina,2019-09-08,poland,2019090867,Second Round,201967
-11,Agustin Caffaro,3.0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,argentina,2019-09-08,poland,2019090867,Second Round,201967
-12,Totals,,38,70,8,27,7,14,4,34,24,16,2,14,20,91,argentina,2019-09-08,poland,2019090867,Second Round,201967
-0,Olek Balcerowski,24.0,1,2,0,1,2,4,0,2,1,0,0,1,2,4,poland,2019-09-08,argentina,2019090867,Second Round,201967
-1,Adam Waczynski,24.0,2,9,2,5,0,0,0,1,1,1,0,1,1,6,poland,2019-09-08,argentina,2019090867,Second Round,201967
-2,A.J. Slaughter,23.0,6,11,2,3,2,2,2,3,3,1,0,0,1,16,poland,2019-09-08,argentina,2019090867,Second Round,201967
-3,Lukasz Koszarek,21.0,0,5,0,2,0,0,0,3,5,1,0,5,0,0,poland,2019-09-08,argentina,2019090867,Second Round,201967
-4,Michal Sokolowski,20.0,3,5,1,2,2,2,2,3,1,0,0,1,3,9,poland,2019-09-08,argentina,2019090867,Second Round,201967
-5,Adam Hrycaniuk,19.0,1,5,0,0,0,0,1,6,3,0,0,2,3,2,poland,2019-09-08,argentina,2019090867,Second Round,201967
-6,Damian Kulig,18.0,1,4,0,2,3,5,2,4,1,1,0,3,2,5,poland,2019-09-08,argentina,2019090867,Second Round,201967
-7,Mateusz Ponitka,16.0,1,5,1,2,1,2,0,5,2,0,1,0,2,4,poland,2019-09-08,argentina,2019090867,Second Round,201967
-8,Aaron Cel,16.0,3,8,0,3,0,0,0,3,0,2,0,4,0,6,poland,2019-09-08,argentina,2019090867,Second Round,201967
-9,Karol Gruszecki,13.0,5,7,1,3,0,2,1,5,1,1,0,4,0,11,poland,2019-09-08,argentina,2019090867,Second Round,201967
-10,Dominik Olejniczak,3.0,1,1,0,0,0,0,0,1,0,0,0,0,0,2,poland,2019-09-08,argentina,2019090867,Second Round,201967
-11,Kamil Laczynski,3.0,0,1,0,1,0,0,0,0,0,0,0,1,2,0,poland,2019-09-08,argentina,2019090867,Second Round,201967
-12,Totals,,24,63,7,24,10,17,8,36,18,7,1,22,16,65,poland,2019-09-08,argentina,2019090867,Second Round,201967
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Luis Scola,32.0,9,17,1,3,2,2,1,6,3,3,0,3,2,21,argentina,2019-09-08,poland,2019090867,Second Round,201967,fiba-world-cup
+1,Facu Campazzo,25.0,3,7,1,4,0,0,0,5,6,1,1,3,0,7,argentina,2019-09-08,poland,2019090867,Second Round,201967,fiba-world-cup
+2,Marcos Delia,24.0,6,8,0,0,0,2,1,5,1,0,1,1,3,12,argentina,2019-09-08,poland,2019090867,Second Round,201967,fiba-world-cup
+3,Nicolas Brussino,22.0,4,9,1,6,1,2,1,1,1,1,0,0,1,10,argentina,2019-09-08,poland,2019090867,Second Round,201967,fiba-world-cup
+4,Patricio Garino,21.0,4,7,1,2,0,0,0,3,2,1,0,1,3,9,argentina,2019-09-08,poland,2019090867,Second Round,201967,fiba-world-cup
+5,Gabriel Deck,21.0,4,5,0,0,1,2,0,3,2,4,0,0,4,9,argentina,2019-09-08,poland,2019090867,Second Round,201967,fiba-world-cup
+6,Nicolas Laprovittola,20.0,2,6,2,6,1,2,0,3,7,4,0,0,1,7,argentina,2019-09-08,poland,2019090867,Second Round,201967,fiba-world-cup
+7,Maximo Fjellerup,13.0,4,5,1,2,0,2,1,6,1,0,0,1,2,9,argentina,2019-09-08,poland,2019090867,Second Round,201967,fiba-world-cup
+8,Luca Vildoza,7.0,1,1,1,1,0,0,0,1,0,0,0,2,1,3,argentina,2019-09-08,poland,2019090867,Second Round,201967,fiba-world-cup
+9,Lucio Redivo,7.0,1,4,0,3,2,2,0,0,1,1,0,1,0,4,argentina,2019-09-08,poland,2019090867,Second Round,201967,fiba-world-cup
+10,Tayavek Gallizzi,5.0,0,1,0,0,0,0,0,1,0,0,0,2,1,0,argentina,2019-09-08,poland,2019090867,Second Round,201967,fiba-world-cup
+11,Agustin Caffaro,3.0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,argentina,2019-09-08,poland,2019090867,Second Round,201967,fiba-world-cup
+12,Totals,,38,70,8,27,7,14,4,34,24,16,2,14,20,91,argentina,2019-09-08,poland,2019090867,Second Round,201967,fiba-world-cup
+0,Olek Balcerowski,24.0,1,2,0,1,2,4,0,2,1,0,0,1,2,4,poland,2019-09-08,argentina,2019090867,Second Round,201967,fiba-world-cup
+1,Adam Waczynski,24.0,2,9,2,5,0,0,0,1,1,1,0,1,1,6,poland,2019-09-08,argentina,2019090867,Second Round,201967,fiba-world-cup
+2,A.J. Slaughter,23.0,6,11,2,3,2,2,2,3,3,1,0,0,1,16,poland,2019-09-08,argentina,2019090867,Second Round,201967,fiba-world-cup
+3,Lukasz Koszarek,21.0,0,5,0,2,0,0,0,3,5,1,0,5,0,0,poland,2019-09-08,argentina,2019090867,Second Round,201967,fiba-world-cup
+4,Michal Sokolowski,20.0,3,5,1,2,2,2,2,3,1,0,0,1,3,9,poland,2019-09-08,argentina,2019090867,Second Round,201967,fiba-world-cup
+5,Adam Hrycaniuk,19.0,1,5,0,0,0,0,1,6,3,0,0,2,3,2,poland,2019-09-08,argentina,2019090867,Second Round,201967,fiba-world-cup
+6,Damian Kulig,18.0,1,4,0,2,3,5,2,4,1,1,0,3,2,5,poland,2019-09-08,argentina,2019090867,Second Round,201967,fiba-world-cup
+7,Mateusz Ponitka,16.0,1,5,1,2,1,2,0,5,2,0,1,0,2,4,poland,2019-09-08,argentina,2019090867,Second Round,201967,fiba-world-cup
+8,Aaron Cel,16.0,3,8,0,3,0,0,0,3,0,2,0,4,0,6,poland,2019-09-08,argentina,2019090867,Second Round,201967,fiba-world-cup
+9,Karol Gruszecki,13.0,5,7,1,3,0,2,1,5,1,1,0,4,0,11,poland,2019-09-08,argentina,2019090867,Second Round,201967,fiba-world-cup
+10,Dominik Olejniczak,3.0,1,1,0,0,0,0,0,1,0,0,0,0,0,2,poland,2019-09-08,argentina,2019090867,Second Round,201967,fiba-world-cup
+11,Kamil Laczynski,3.0,0,1,0,1,0,0,0,0,0,0,0,1,2,0,poland,2019-09-08,argentina,2019090867,Second Round,201967,fiba-world-cup
+12,Totals,,24,63,7,24,10,17,8,36,18,7,1,22,16,65,poland,2019-09-08,argentina,2019090867,Second Round,201967,fiba-world-cup

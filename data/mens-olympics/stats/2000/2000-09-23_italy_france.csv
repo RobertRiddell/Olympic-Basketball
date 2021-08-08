@@ -1,25 +1,25 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Carlton Myers,37.0,6,12,2,3,10,11,2,2,4,0,0,0,4,24,italy,2000-09-23,france,2000092321,Group A,200021
-1,Andrea Meneghin,30.0,2,7,1,5,4,5,1,2,2,0,0,2,4,9,italy,2000-09-23,france,2000092321,Group A,200021
-2,Gregor Fucka,27.0,3,8,0,1,0,0,3,5,1,0,1,0,3,6,italy,2000-09-23,france,2000092321,Group A,200021
-3,Alessandro Abbio,25.0,2,5,1,2,3,5,0,2,1,0,0,0,2,8,italy,2000-09-23,france,2000092321,Group A,200021
-4,Giacomo Galanda,23.0,1,7,0,2,4,4,2,6,0,0,0,1,3,6,italy,2000-09-23,france,2000092321,Group A,200021
-5,Roberto Chiacig,20.0,2,5,0,0,0,3,1,7,1,0,1,0,4,4,italy,2000-09-23,france,2000092321,Group A,200021
-6,Gianluca Basile,13.0,2,2,0,0,1,2,3,4,0,1,0,1,3,5,italy,2000-09-23,france,2000092321,Group A,200021
-7,Denis Marconato,8.0,0,1,0,0,0,0,0,1,0,0,0,0,4,0,italy,2000-09-23,france,2000092321,Group A,200021
-8,Michele Mian,8.0,0,2,0,2,0,0,0,0,1,0,0,0,0,0,italy,2000-09-23,france,2000092321,Group A,200021
-9,Agostino Li Vecchi,7.0,1,2,1,1,0,0,0,1,0,0,0,1,1,3,italy,2000-09-23,france,2000092321,Group A,200021
-10,Marcelo Damiao,2.0,1,1,0,0,0,1,0,0,0,0,0,0,0,2,italy,2000-09-23,france,2000092321,Group A,200021
-11,Totals,,20,52,5,16,22,31,12,30,10,1,2,5,28,67,italy,2000-09-23,france,2000092321,Group A,200021
-0,Laurent Sciarra,27.0,5,8,2,4,5,6,0,5,2,0,0,3,2,17,france,2000-09-23,italy,2000092321,Group A,200021
-1,Jim Bilba,26.0,0,3,0,1,2,2,1,2,3,1,1,3,4,2,france,2000-09-23,italy,2000092321,Group A,200021
-2,Antoine Rigaudeau,25.0,0,4,0,2,1,2,0,2,1,0,0,0,5,1,france,2000-09-23,italy,2000092321,Group A,200021
-3,Yann Bonato,24.0,3,6,2,5,6,9,0,2,1,0,0,1,2,14,france,2000-09-23,italy,2000092321,Group A,200021
-4,Frederic Weis,21.0,2,4,0,0,2,4,2,8,0,0,0,2,3,6,france,2000-09-23,italy,2000092321,Group A,200021
-5,Cyril Julian,19.0,2,5,0,0,2,4,2,3,2,2,0,0,4,6,france,2000-09-23,italy,2000092321,Group A,200021
-6,Stephane Risacher,19.0,2,4,1,1,0,0,0,1,0,0,0,0,2,5,france,2000-09-23,italy,2000092321,Group A,200021
-7,Crawford Palmer,14.0,1,3,0,0,4,4,1,3,0,0,0,1,2,6,france,2000-09-23,italy,2000092321,Group A,200021
-8,Laurent Foirest,14.0,0,3,0,1,0,0,0,3,0,0,0,0,2,0,france,2000-09-23,italy,2000092321,Group A,200021
-9,Makan Dioumassi,6.0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,france,2000-09-23,italy,2000092321,Group A,200021
-10,Moustapha Sonko,4.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,france,2000-09-23,italy,2000092321,Group A,200021
-11,Totals,,15,41,5,14,22,31,6,30,9,3,1,10,28,57,france,2000-09-23,italy,2000092321,Group A,200021
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Carlton Myers,37.0,6,12,2,3,10,11,2,2,4,0,0,0,4,24,italy,2000-09-23,france,2000092321,Group A,200021,mens-olympics
+1,Andrea Meneghin,30.0,2,7,1,5,4,5,1,2,2,0,0,2,4,9,italy,2000-09-23,france,2000092321,Group A,200021,mens-olympics
+2,Gregor Fucka,27.0,3,8,0,1,0,0,3,5,1,0,1,0,3,6,italy,2000-09-23,france,2000092321,Group A,200021,mens-olympics
+3,Alessandro Abbio,25.0,2,5,1,2,3,5,0,2,1,0,0,0,2,8,italy,2000-09-23,france,2000092321,Group A,200021,mens-olympics
+4,Giacomo Galanda,23.0,1,7,0,2,4,4,2,6,0,0,0,1,3,6,italy,2000-09-23,france,2000092321,Group A,200021,mens-olympics
+5,Roberto Chiacig,20.0,2,5,0,0,0,3,1,7,1,0,1,0,4,4,italy,2000-09-23,france,2000092321,Group A,200021,mens-olympics
+6,Gianluca Basile,13.0,2,2,0,0,1,2,3,4,0,1,0,1,3,5,italy,2000-09-23,france,2000092321,Group A,200021,mens-olympics
+7,Denis Marconato,8.0,0,1,0,0,0,0,0,1,0,0,0,0,4,0,italy,2000-09-23,france,2000092321,Group A,200021,mens-olympics
+8,Michele Mian,8.0,0,2,0,2,0,0,0,0,1,0,0,0,0,0,italy,2000-09-23,france,2000092321,Group A,200021,mens-olympics
+9,Agostino Li Vecchi,7.0,1,2,1,1,0,0,0,1,0,0,0,1,1,3,italy,2000-09-23,france,2000092321,Group A,200021,mens-olympics
+10,Marcelo Damiao,2.0,1,1,0,0,0,1,0,0,0,0,0,0,0,2,italy,2000-09-23,france,2000092321,Group A,200021,mens-olympics
+11,Totals,,20,52,5,16,22,31,12,30,10,1,2,5,28,67,italy,2000-09-23,france,2000092321,Group A,200021,mens-olympics
+0,Laurent Sciarra,27.0,5,8,2,4,5,6,0,5,2,0,0,3,2,17,france,2000-09-23,italy,2000092321,Group A,200021,mens-olympics
+1,Jim Bilba,26.0,0,3,0,1,2,2,1,2,3,1,1,3,4,2,france,2000-09-23,italy,2000092321,Group A,200021,mens-olympics
+2,Antoine Rigaudeau,25.0,0,4,0,2,1,2,0,2,1,0,0,0,5,1,france,2000-09-23,italy,2000092321,Group A,200021,mens-olympics
+3,Yann Bonato,24.0,3,6,2,5,6,9,0,2,1,0,0,1,2,14,france,2000-09-23,italy,2000092321,Group A,200021,mens-olympics
+4,Frederic Weis,21.0,2,4,0,0,2,4,2,8,0,0,0,2,3,6,france,2000-09-23,italy,2000092321,Group A,200021,mens-olympics
+5,Cyril Julian,19.0,2,5,0,0,2,4,2,3,2,2,0,0,4,6,france,2000-09-23,italy,2000092321,Group A,200021,mens-olympics
+6,Stephane Risacher,19.0,2,4,1,1,0,0,0,1,0,0,0,0,2,5,france,2000-09-23,italy,2000092321,Group A,200021,mens-olympics
+7,Crawford Palmer,14.0,1,3,0,0,4,4,1,3,0,0,0,1,2,6,france,2000-09-23,italy,2000092321,Group A,200021,mens-olympics
+8,Laurent Foirest,14.0,0,3,0,1,0,0,0,3,0,0,0,0,2,0,france,2000-09-23,italy,2000092321,Group A,200021,mens-olympics
+9,Makan Dioumassi,6.0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,france,2000-09-23,italy,2000092321,Group A,200021,mens-olympics
+10,Moustapha Sonko,4.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,france,2000-09-23,italy,2000092321,Group A,200021,mens-olympics
+11,Totals,,15,41,5,14,22,31,6,30,9,3,1,10,28,57,france,2000-09-23,italy,2000092321,Group A,200021,mens-olympics

@@ -1,22 +1,22 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Cenk Akyol,37,2,8,2,7,0,0,0,4,1,2,1,1,3,6,turkey,2010-09-02,china,2010090250,Group Play,201050
-1,Sinan Guler,31,3,7,1,4,2,3,0,3,7,8,0,4,2,9,turkey,2010-09-02,china,2010090250,Group Play,201050
-2,Oguz Savas,28,9,12,2,2,0,2,1,4,2,0,1,2,2,20,turkey,2010-09-02,china,2010090250,Group Play,201050
-3,Omer Asik,25,8,12,0,0,1,5,6,13,2,0,2,2,1,17,turkey,2010-09-02,china,2010090250,Group Play,201050
-4,Hidayet Turkoglu,10,1,2,1,2,2,4,0,3,2,1,0,0,2,5,turkey,2010-09-02,china,2010090250,Group Play,201050
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,turkey,2010-09-02,china,2010090250,Group Play,201050
-6,Semih Erden,27,9,11,0,0,0,1,4,12,3,0,3,3,0,18,turkey,2010-09-02,china,2010090250,Group Play,201050
-7,Baris Ermis,25,3,6,1,3,2,2,0,2,4,2,1,3,0,9,turkey,2010-09-02,china,2010090250,Group Play,201050
-8,Ender Arslan,18,1,4,1,4,0,0,0,1,1,0,0,1,1,3,turkey,2010-09-02,china,2010090250,Group Play,201050
-9,Totals,,36,62,8,22,7,17,11,42,22,13,8,16,11,87,turkey,2010-09-02,china,2010090250,Group Play,201050
-0,Yu Shulong,34,3,9,3,7,0,0,0,1,2,3,0,2,2,9,china,2010-09-02,turkey,2010090250,Group Play,201050
-1,Wei Su,33,2,10,0,0,0,1,3,9,0,0,0,3,2,4,china,2010-09-02,turkey,2010090250,Group Play,201050
-2,Zhou Peng,26,2,9,0,3,0,0,1,3,1,0,0,5,2,4,china,2010-09-02,turkey,2010090250,Group Play,201050
-3,Max Zhang,21,2,4,0,0,0,0,1,2,1,1,3,2,4,4,china,2010-09-02,turkey,2010090250,Group Play,201050
-4,Guo Ailun,14,0,2,0,0,0,0,0,1,1,0,0,3,0,0,china,2010-09-02,turkey,2010090250,Group Play,201050
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,china,2010-09-02,turkey,2010090250,Group Play,201050
-6,Sun Yue,24,6,12,3,6,0,0,1,4,2,2,1,5,3,15,china,2010-09-02,turkey,2010090250,Group Play,201050
-7,Ding Jinhui,24,2,11,0,5,0,0,4,8,2,0,0,2,2,4,china,2010-09-02,turkey,2010090250,Group Play,201050
-8,Jin Lipeng,21,0,5,0,4,0,0,0,0,0,0,0,0,1,0,china,2010-09-02,turkey,2010090250,Group Play,201050
-9,Wang Shipeng,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0,china,2010-09-02,turkey,2010090250,Group Play,201050
-10,Totals,,17,63,6,26,0,1,10,28,9,6,4,22,16,40,china,2010-09-02,turkey,2010090250,Group Play,201050
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Cenk Akyol,37,2,8,2,7,0,0,0,4,1,2,1,1,3,6,turkey,2010-09-02,china,2010090250,Group Play,201050,fiba-world-cup
+1,Sinan Guler,31,3,7,1,4,2,3,0,3,7,8,0,4,2,9,turkey,2010-09-02,china,2010090250,Group Play,201050,fiba-world-cup
+2,Oguz Savas,28,9,12,2,2,0,2,1,4,2,0,1,2,2,20,turkey,2010-09-02,china,2010090250,Group Play,201050,fiba-world-cup
+3,Omer Asik,25,8,12,0,0,1,5,6,13,2,0,2,2,1,17,turkey,2010-09-02,china,2010090250,Group Play,201050,fiba-world-cup
+4,Hidayet Turkoglu,10,1,2,1,2,2,4,0,3,2,1,0,0,2,5,turkey,2010-09-02,china,2010090250,Group Play,201050,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,turkey,2010-09-02,china,2010090250,Group Play,201050,fiba-world-cup
+6,Semih Erden,27,9,11,0,0,0,1,4,12,3,0,3,3,0,18,turkey,2010-09-02,china,2010090250,Group Play,201050,fiba-world-cup
+7,Baris Ermis,25,3,6,1,3,2,2,0,2,4,2,1,3,0,9,turkey,2010-09-02,china,2010090250,Group Play,201050,fiba-world-cup
+8,Ender Arslan,18,1,4,1,4,0,0,0,1,1,0,0,1,1,3,turkey,2010-09-02,china,2010090250,Group Play,201050,fiba-world-cup
+9,Totals,,36,62,8,22,7,17,11,42,22,13,8,16,11,87,turkey,2010-09-02,china,2010090250,Group Play,201050,fiba-world-cup
+0,Yu Shulong,34,3,9,3,7,0,0,0,1,2,3,0,2,2,9,china,2010-09-02,turkey,2010090250,Group Play,201050,fiba-world-cup
+1,Wei Su,33,2,10,0,0,0,1,3,9,0,0,0,3,2,4,china,2010-09-02,turkey,2010090250,Group Play,201050,fiba-world-cup
+2,Zhou Peng,26,2,9,0,3,0,0,1,3,1,0,0,5,2,4,china,2010-09-02,turkey,2010090250,Group Play,201050,fiba-world-cup
+3,Max Zhang,21,2,4,0,0,0,0,1,2,1,1,3,2,4,4,china,2010-09-02,turkey,2010090250,Group Play,201050,fiba-world-cup
+4,Guo Ailun,14,0,2,0,0,0,0,0,1,1,0,0,3,0,0,china,2010-09-02,turkey,2010090250,Group Play,201050,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,china,2010-09-02,turkey,2010090250,Group Play,201050,fiba-world-cup
+6,Sun Yue,24,6,12,3,6,0,0,1,4,2,2,1,5,3,15,china,2010-09-02,turkey,2010090250,Group Play,201050,fiba-world-cup
+7,Ding Jinhui,24,2,11,0,5,0,0,4,8,2,0,0,2,2,4,china,2010-09-02,turkey,2010090250,Group Play,201050,fiba-world-cup
+8,Jin Lipeng,21,0,5,0,4,0,0,0,0,0,0,0,0,1,0,china,2010-09-02,turkey,2010090250,Group Play,201050,fiba-world-cup
+9,Wang Shipeng,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0,china,2010-09-02,turkey,2010090250,Group Play,201050,fiba-world-cup
+10,Totals,,17,63,6,26,0,1,10,28,9,6,4,22,16,40,china,2010-09-02,turkey,2010090250,Group Play,201050,fiba-world-cup

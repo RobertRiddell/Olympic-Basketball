@@ -1,25 +1,25 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Hector Hernandez,30,1,3,1,3,2,4,0,1,0,0,0,1,3,5,mexico,2014-09-03,australia,2014090338,Group Play,201438
-1,Gustavo Ayon,28,4,10,0,0,3,8,4,9,1,2,1,2,4,11,mexico,2014-09-03,australia,2014090338,Group Play,201438
-2,Jorge Gutierrez,26,4,12,0,1,2,2,0,3,2,1,1,1,2,10,mexico,2014-09-03,australia,2014090338,Group Play,201438
-3,Francisco Cruz,20,2,7,1,3,1,2,1,1,0,1,0,2,2,6,mexico,2014-09-03,australia,2014090338,Group Play,201438
-4,Marco Ramos,17,3,3,2,2,0,0,2,2,1,3,0,0,2,8,mexico,2014-09-03,australia,2014090338,Group Play,201438
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,mexico,2014-09-03,australia,2014090338,Group Play,201438
-6,Paul Stoll,27,3,9,1,5,0,0,0,4,4,0,0,3,4,7,mexico,2014-09-03,australia,2014090338,Group Play,201438
-7,Orlando Mendez,26,4,9,2,3,0,0,0,2,5,0,0,1,2,10,mexico,2014-09-03,australia,2014090338,Group Play,201438
-8,Adam Parada,23,2,4,0,0,1,2,2,4,0,0,2,1,1,5,mexico,2014-09-03,australia,2014090338,Group Play,201438
-9,Roman Martinez,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,mexico,2014-09-03,australia,2014090338,Group Play,201438
-10,Totals,,23,57,7,17,9,18,9,26,13,7,4,11,21,62,mexico,2014-09-03,australia,2014090338,Group Play,201438
-0,Joe Ingles,32,0,1,0,0,0,0,0,5,5,1,0,2,3,0,australia,2014-09-03,mexico,2014090338,Group Play,201438
-1,Aron Baynes,30,6,15,0,0,9,10,2,5,1,0,3,2,3,21,australia,2014-09-03,mexico,2014090338,Group Play,201438
-2,Ryan Broekhoff,25,4,9,4,7,0,0,1,4,3,0,0,1,1,12,australia,2014-09-03,mexico,2014090338,Group Play,201438
-3,Matthew Dellavedova,23,2,5,1,3,2,3,0,3,2,1,1,0,2,7,australia,2014-09-03,mexico,2014090338,Group Play,201438
-4,David Andersen,22,2,5,0,2,2,2,2,7,1,2,0,3,4,6,australia,2014-09-03,mexico,2014090338,Group Play,201438
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,australia,2014-09-03,mexico,2014090338,Group Play,201438
-6,Brad Newley,18,4,6,1,1,1,4,0,0,0,1,0,1,0,10,australia,2014-09-03,mexico,2014090338,Group Play,201438
-7,Adam Gibson,17,1,1,0,0,0,0,0,0,1,1,0,1,4,2,australia,2014-09-03,mexico,2014090338,Group Play,201438
-8,Cameron Bairstow,10,3,8,0,0,0,0,3,4,1,0,0,1,2,6,australia,2014-09-03,mexico,2014090338,Group Play,201438
-9,Nathan Jawai,9,2,4,0,0,0,0,2,4,2,0,0,1,3,4,australia,2014-09-03,mexico,2014090338,Group Play,201438
-10,Brock Motum,8,1,2,0,0,0,0,0,2,1,1,0,2,0,2,australia,2014-09-03,mexico,2014090338,Group Play,201438
-11,Dante Exum,6,0,0,0,0,0,0,0,1,1,0,0,0,1,0,australia,2014-09-03,mexico,2014090338,Group Play,201438
-12,Totals,,25,56,6,13,14,19,10,35,18,7,4,14,23,70,australia,2014-09-03,mexico,2014090338,Group Play,201438
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Hector Hernandez,30,1,3,1,3,2,4,0,1,0,0,0,1,3,5,mexico,2014-09-03,australia,2014090338,Group Play,201438,fiba-world-cup
+1,Gustavo Ayon,28,4,10,0,0,3,8,4,9,1,2,1,2,4,11,mexico,2014-09-03,australia,2014090338,Group Play,201438,fiba-world-cup
+2,Jorge Gutierrez,26,4,12,0,1,2,2,0,3,2,1,1,1,2,10,mexico,2014-09-03,australia,2014090338,Group Play,201438,fiba-world-cup
+3,Francisco Cruz,20,2,7,1,3,1,2,1,1,0,1,0,2,2,6,mexico,2014-09-03,australia,2014090338,Group Play,201438,fiba-world-cup
+4,Marco Ramos,17,3,3,2,2,0,0,2,2,1,3,0,0,2,8,mexico,2014-09-03,australia,2014090338,Group Play,201438,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,mexico,2014-09-03,australia,2014090338,Group Play,201438,fiba-world-cup
+6,Paul Stoll,27,3,9,1,5,0,0,0,4,4,0,0,3,4,7,mexico,2014-09-03,australia,2014090338,Group Play,201438,fiba-world-cup
+7,Orlando Mendez,26,4,9,2,3,0,0,0,2,5,0,0,1,2,10,mexico,2014-09-03,australia,2014090338,Group Play,201438,fiba-world-cup
+8,Adam Parada,23,2,4,0,0,1,2,2,4,0,0,2,1,1,5,mexico,2014-09-03,australia,2014090338,Group Play,201438,fiba-world-cup
+9,Roman Martinez,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,mexico,2014-09-03,australia,2014090338,Group Play,201438,fiba-world-cup
+10,Totals,,23,57,7,17,9,18,9,26,13,7,4,11,21,62,mexico,2014-09-03,australia,2014090338,Group Play,201438,fiba-world-cup
+0,Joe Ingles,32,0,1,0,0,0,0,0,5,5,1,0,2,3,0,australia,2014-09-03,mexico,2014090338,Group Play,201438,fiba-world-cup
+1,Aron Baynes,30,6,15,0,0,9,10,2,5,1,0,3,2,3,21,australia,2014-09-03,mexico,2014090338,Group Play,201438,fiba-world-cup
+2,Ryan Broekhoff,25,4,9,4,7,0,0,1,4,3,0,0,1,1,12,australia,2014-09-03,mexico,2014090338,Group Play,201438,fiba-world-cup
+3,Matthew Dellavedova,23,2,5,1,3,2,3,0,3,2,1,1,0,2,7,australia,2014-09-03,mexico,2014090338,Group Play,201438,fiba-world-cup
+4,David Andersen,22,2,5,0,2,2,2,2,7,1,2,0,3,4,6,australia,2014-09-03,mexico,2014090338,Group Play,201438,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,australia,2014-09-03,mexico,2014090338,Group Play,201438,fiba-world-cup
+6,Brad Newley,18,4,6,1,1,1,4,0,0,0,1,0,1,0,10,australia,2014-09-03,mexico,2014090338,Group Play,201438,fiba-world-cup
+7,Adam Gibson,17,1,1,0,0,0,0,0,0,1,1,0,1,4,2,australia,2014-09-03,mexico,2014090338,Group Play,201438,fiba-world-cup
+8,Cameron Bairstow,10,3,8,0,0,0,0,3,4,1,0,0,1,2,6,australia,2014-09-03,mexico,2014090338,Group Play,201438,fiba-world-cup
+9,Nathan Jawai,9,2,4,0,0,0,0,2,4,2,0,0,1,3,4,australia,2014-09-03,mexico,2014090338,Group Play,201438,fiba-world-cup
+10,Brock Motum,8,1,2,0,0,0,0,0,2,1,1,0,2,0,2,australia,2014-09-03,mexico,2014090338,Group Play,201438,fiba-world-cup
+11,Dante Exum,6,0,0,0,0,0,0,0,1,1,0,0,0,1,0,australia,2014-09-03,mexico,2014090338,Group Play,201438,fiba-world-cup
+12,Totals,,25,56,6,13,14,19,10,35,18,7,4,14,23,70,australia,2014-09-03,mexico,2014090338,Group Play,201438,fiba-world-cup

@@ -1,26 +1,26 @@
-,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Luis Scola,31,6,17,1,2,4,6,1,5,3,2,0,1,2,17,argentina,2014-09-04,greece,2014090452,Group Play,201452
-1,Facu Campazzo,30,3,14,1,5,3,3,0,1,5,1,0,1,2,10,argentina,2014-09-04,greece,2014090452,Group Play,201452
-2,Pablo Prigioni,28,4,6,2,4,0,0,0,0,1,3,0,1,3,10,argentina,2014-09-04,greece,2014090452,Group Play,201452
-3,Andres Nocioni,27,2,6,0,2,4,5,0,4,0,2,0,2,4,8,argentina,2014-09-04,greece,2014090452,Group Play,201452
-4,Walter Herrmann,21,3,7,0,1,1,1,0,5,0,0,0,0,1,7,argentina,2014-09-04,greece,2014090452,Group Play,201452
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,argentina,2014-09-04,greece,2014090452,Group Play,201452
-6,Marcos Mata,19,0,1,0,0,0,0,1,3,1,1,0,0,1,0,argentina,2014-09-04,greece,2014090452,Group Play,201452
-7,Nicolas Laprovittola,15,3,5,1,1,0,0,1,3,1,0,0,1,2,7,argentina,2014-09-04,greece,2014090452,Group Play,201452
-8,Leo Gutierrez,13,1,4,1,4,0,0,0,1,1,1,0,0,4,3,argentina,2014-09-04,greece,2014090452,Group Play,201452
-9,Marcos Delia,9,1,1,0,0,2,2,0,0,0,0,0,0,1,4,argentina,2014-09-04,greece,2014090452,Group Play,201452
-10,Selem Safar,7,1,2,1,1,2,2,0,0,1,0,0,0,1,5,argentina,2014-09-04,greece,2014090452,Group Play,201452
-11,Totals,,24,63,7,20,16,19,3,22,13,10,0,6,21,71,argentina,2014-09-04,greece,2014090452,Group Play,201452
-0,Nick Calathes,31,8,12,2,3,0,0,1,5,4,0,1,3,4,18,greece,2014-09-04,argentina,2014090452,Group Play,201452
-1,Ioannis Bourousis,31,6,13,1,3,3,4,3,15,2,1,3,2,2,16,greece,2014-09-04,argentina,2014090452,Group Play,201452
-2,Nikos Zisis,29,3,5,1,2,6,6,0,2,5,0,0,1,2,13,greece,2014-09-04,argentina,2014090452,Group Play,201452
-3,Giorgos Printezis,28,6,8,1,2,2,2,1,4,0,0,0,2,2,15,greece,2014-09-04,argentina,2014090452,Group Play,201452
-4,Kostas Papanikolaou,28,3,6,0,1,0,0,0,4,0,0,1,1,2,6,greece,2014-09-04,argentina,2014090452,Group Play,201452
-5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,greece,2014-09-04,argentina,2014090452,Group Play,201452
-6,Kostas Kaimakoglou,12,0,3,0,2,2,2,0,2,1,1,0,1,3,2,greece,2014-09-04,argentina,2014090452,Group Play,201452
-7,Giannis Antetokounmpo,12,0,2,0,0,0,0,1,6,0,0,1,1,3,0,greece,2014-09-04,argentina,2014090452,Group Play,201452
-8,Ian Vouyoukas,9,1,5,0,0,2,2,2,2,0,0,2,0,2,4,greece,2014-09-04,argentina,2014090452,Group Play,201452
-9,Kostas Sloukas,9,1,2,1,2,0,0,0,0,1,1,0,1,1,3,greece,2014-09-04,argentina,2014090452,Group Play,201452
-10,Kostas Vasileiadis,8,1,2,0,0,0,0,0,0,0,0,0,0,1,2,greece,2014-09-04,argentina,2014090452,Group Play,201452
-11,Vangelis Mantzaris,4,0,0,0,0,0,0,0,1,0,0,0,1,0,0,greece,2014-09-04,argentina,2014090452,Group Play,201452
-12,Totals,,29,58,6,15,15,16,8,41,13,3,8,13,22,79,greece,2014-09-04,argentina,2014090452,Group Play,201452
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Luis Scola,31,6,17,1,2,4,6,1,5,3,2,0,1,2,17,argentina,2014-09-04,greece,2014090452,Group Play,201452,fiba-world-cup
+1,Facu Campazzo,30,3,14,1,5,3,3,0,1,5,1,0,1,2,10,argentina,2014-09-04,greece,2014090452,Group Play,201452,fiba-world-cup
+2,Pablo Prigioni,28,4,6,2,4,0,0,0,0,1,3,0,1,3,10,argentina,2014-09-04,greece,2014090452,Group Play,201452,fiba-world-cup
+3,Andres Nocioni,27,2,6,0,2,4,5,0,4,0,2,0,2,4,8,argentina,2014-09-04,greece,2014090452,Group Play,201452,fiba-world-cup
+4,Walter Herrmann,21,3,7,0,1,1,1,0,5,0,0,0,0,1,7,argentina,2014-09-04,greece,2014090452,Group Play,201452,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,argentina,2014-09-04,greece,2014090452,Group Play,201452,fiba-world-cup
+6,Marcos Mata,19,0,1,0,0,0,0,1,3,1,1,0,0,1,0,argentina,2014-09-04,greece,2014090452,Group Play,201452,fiba-world-cup
+7,Nicolas Laprovittola,15,3,5,1,1,0,0,1,3,1,0,0,1,2,7,argentina,2014-09-04,greece,2014090452,Group Play,201452,fiba-world-cup
+8,Leo Gutierrez,13,1,4,1,4,0,0,0,1,1,1,0,0,4,3,argentina,2014-09-04,greece,2014090452,Group Play,201452,fiba-world-cup
+9,Marcos Delia,9,1,1,0,0,2,2,0,0,0,0,0,0,1,4,argentina,2014-09-04,greece,2014090452,Group Play,201452,fiba-world-cup
+10,Selem Safar,7,1,2,1,1,2,2,0,0,1,0,0,0,1,5,argentina,2014-09-04,greece,2014090452,Group Play,201452,fiba-world-cup
+11,Totals,,24,63,7,20,16,19,3,22,13,10,0,6,21,71,argentina,2014-09-04,greece,2014090452,Group Play,201452,fiba-world-cup
+0,Nick Calathes,31,8,12,2,3,0,0,1,5,4,0,1,3,4,18,greece,2014-09-04,argentina,2014090452,Group Play,201452,fiba-world-cup
+1,Ioannis Bourousis,31,6,13,1,3,3,4,3,15,2,1,3,2,2,16,greece,2014-09-04,argentina,2014090452,Group Play,201452,fiba-world-cup
+2,Nikos Zisis,29,3,5,1,2,6,6,0,2,5,0,0,1,2,13,greece,2014-09-04,argentina,2014090452,Group Play,201452,fiba-world-cup
+3,Giorgos Printezis,28,6,8,1,2,2,2,1,4,0,0,0,2,2,15,greece,2014-09-04,argentina,2014090452,Group Play,201452,fiba-world-cup
+4,Kostas Papanikolaou,28,3,6,0,1,0,0,0,4,0,0,1,1,2,6,greece,2014-09-04,argentina,2014090452,Group Play,201452,fiba-world-cup
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,greece,2014-09-04,argentina,2014090452,Group Play,201452,fiba-world-cup
+6,Kostas Kaimakoglou,12,0,3,0,2,2,2,0,2,1,1,0,1,3,2,greece,2014-09-04,argentina,2014090452,Group Play,201452,fiba-world-cup
+7,Giannis Antetokounmpo,12,0,2,0,0,0,0,1,6,0,0,1,1,3,0,greece,2014-09-04,argentina,2014090452,Group Play,201452,fiba-world-cup
+8,Ian Vouyoukas,9,1,5,0,0,2,2,2,2,0,0,2,0,2,4,greece,2014-09-04,argentina,2014090452,Group Play,201452,fiba-world-cup
+9,Kostas Sloukas,9,1,2,1,2,0,0,0,0,1,1,0,1,1,3,greece,2014-09-04,argentina,2014090452,Group Play,201452,fiba-world-cup
+10,Kostas Vasileiadis,8,1,2,0,0,0,0,0,0,0,0,0,0,1,2,greece,2014-09-04,argentina,2014090452,Group Play,201452,fiba-world-cup
+11,Vangelis Mantzaris,4,0,0,0,0,0,0,0,1,0,0,0,1,0,0,greece,2014-09-04,argentina,2014090452,Group Play,201452,fiba-world-cup
+12,Totals,,29,58,6,15,15,16,8,41,13,3,8,13,22,79,greece,2014-09-04,argentina,2014090452,Group Play,201452,fiba-world-cup

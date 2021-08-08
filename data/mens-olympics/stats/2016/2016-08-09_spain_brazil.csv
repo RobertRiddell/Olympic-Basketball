@@ -1,25 +1,25 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Nikola Mirotic,33.0,2,8,0,4,2,2,3,8,2,0,1,0,2,6,spain,2016-08-09,brazil,201608099,Group B,20169
-1,Pau Gasol,32.0,4,11,0,2,5,12,1,10,1,1,4,3,3,13,spain,2016-08-09,brazil,201608099,Group B,20169
-2,Sergio Llull,31.0,3,7,2,3,3,4,0,3,0,1,0,3,3,11,spain,2016-08-09,brazil,201608099,Group B,20169
-3,Rudy Fernandez,29.0,2,6,1,4,3,4,1,1,2,3,0,1,3,8,spain,2016-08-09,brazil,201608099,Group B,20169
-4,Sergio Rodriguez,22.0,3,6,2,4,2,2,0,2,5,0,0,2,1,10,spain,2016-08-09,brazil,201608099,Group B,20169
-5,Ricky Rubio,17.0,1,3,0,0,1,2,2,4,0,0,0,2,5,3,spain,2016-08-09,brazil,201608099,Group B,20169
-6,Juan Carlos Navarro,13.0,2,5,0,2,1,1,0,1,0,0,0,1,1,5,spain,2016-08-09,brazil,201608099,Group B,20169
-7,Felipe Reyes,11.0,1,5,0,0,3,4,0,2,1,0,0,0,1,5,spain,2016-08-09,brazil,201608099,Group B,20169
-8,Victor Claver,10.0,1,1,0,0,2,2,1,4,1,1,0,1,3,4,spain,2016-08-09,brazil,201608099,Group B,20169
-9,Alex Abrines,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,spain,2016-08-09,brazil,201608099,Group B,20169
-10,Jose Calderon,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,spain,2016-08-09,brazil,201608099,Group B,20169
-11,Totals,,19,52,5,19,22,33,8,35,12,6,5,13,23,65,spain,2016-08-09,brazil,201608099,Group B,20169
-0,Marcelo Huertas,31.0,4,10,1,1,2,2,0,4,7,0,0,0,2,11,brazil,2016-08-09,spain,201608099,Group B,20169
-1,Augusto Lima,28.0,3,6,0,0,3,3,4,10,0,0,0,0,4,9,brazil,2016-08-09,spain,201608099,Group B,20169
-2,Leandro Barbosa,25.0,2,8,0,3,0,0,0,0,1,0,0,1,3,4,brazil,2016-08-09,spain,201608099,Group B,20169
-3,Nene Hilario,22.0,1,5,0,1,4,8,0,4,5,1,0,3,4,6,brazil,2016-08-09,spain,201608099,Group B,20169
-4,Marcus Vinicius,21.0,5,9,0,1,0,0,2,5,1,0,0,0,3,10,brazil,2016-08-09,spain,201608099,Group B,20169
-5,Alex Garcia,18.0,3,8,0,2,3,3,0,4,2,0,0,3,2,9,brazil,2016-08-09,spain,201608099,Group B,20169
-6,Vitor Benite,16.0,1,3,1,2,1,2,0,1,0,2,0,1,2,4,brazil,2016-08-09,spain,201608099,Group B,20169
-7,Cristiano Felicio,12.0,2,3,0,0,3,3,1,2,0,0,1,0,3,7,brazil,2016-08-09,spain,201608099,Group B,20169
-8,Raul Neto,9.0,1,4,1,3,0,0,0,1,2,0,0,1,3,3,brazil,2016-08-09,spain,201608099,Group B,20169
-9,Rafael Hettsheimeir,9.0,0,2,0,1,0,0,0,0,0,0,0,0,2,0,brazil,2016-08-09,spain,201608099,Group B,20169
-10,Guilherme Giovannoni,9.0,1,2,1,1,0,0,0,2,1,0,0,1,3,3,brazil,2016-08-09,spain,201608099,Group B,20169
-11,Totals,,23,60,4,15,16,21,7,33,19,3,1,10,31,66,brazil,2016-08-09,spain,201608099,Group B,20169
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Nikola Mirotic,33.0,2,8,0,4,2,2,3,8,2,0,1,0,2,6,spain,2016-08-09,brazil,201608099,Group B,20169,mens-olympics
+1,Pau Gasol,32.0,4,11,0,2,5,12,1,10,1,1,4,3,3,13,spain,2016-08-09,brazil,201608099,Group B,20169,mens-olympics
+2,Sergio Llull,31.0,3,7,2,3,3,4,0,3,0,1,0,3,3,11,spain,2016-08-09,brazil,201608099,Group B,20169,mens-olympics
+3,Rudy Fernandez,29.0,2,6,1,4,3,4,1,1,2,3,0,1,3,8,spain,2016-08-09,brazil,201608099,Group B,20169,mens-olympics
+4,Sergio Rodriguez,22.0,3,6,2,4,2,2,0,2,5,0,0,2,1,10,spain,2016-08-09,brazil,201608099,Group B,20169,mens-olympics
+5,Ricky Rubio,17.0,1,3,0,0,1,2,2,4,0,0,0,2,5,3,spain,2016-08-09,brazil,201608099,Group B,20169,mens-olympics
+6,Juan Carlos Navarro,13.0,2,5,0,2,1,1,0,1,0,0,0,1,1,5,spain,2016-08-09,brazil,201608099,Group B,20169,mens-olympics
+7,Felipe Reyes,11.0,1,5,0,0,3,4,0,2,1,0,0,0,1,5,spain,2016-08-09,brazil,201608099,Group B,20169,mens-olympics
+8,Victor Claver,10.0,1,1,0,0,2,2,1,4,1,1,0,1,3,4,spain,2016-08-09,brazil,201608099,Group B,20169,mens-olympics
+9,Alex Abrines,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,spain,2016-08-09,brazil,201608099,Group B,20169,mens-olympics
+10,Jose Calderon,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,spain,2016-08-09,brazil,201608099,Group B,20169,mens-olympics
+11,Totals,,19,52,5,19,22,33,8,35,12,6,5,13,23,65,spain,2016-08-09,brazil,201608099,Group B,20169,mens-olympics
+0,Marcelo Huertas,31.0,4,10,1,1,2,2,0,4,7,0,0,0,2,11,brazil,2016-08-09,spain,201608099,Group B,20169,mens-olympics
+1,Augusto Lima,28.0,3,6,0,0,3,3,4,10,0,0,0,0,4,9,brazil,2016-08-09,spain,201608099,Group B,20169,mens-olympics
+2,Leandro Barbosa,25.0,2,8,0,3,0,0,0,0,1,0,0,1,3,4,brazil,2016-08-09,spain,201608099,Group B,20169,mens-olympics
+3,Nene Hilario,22.0,1,5,0,1,4,8,0,4,5,1,0,3,4,6,brazil,2016-08-09,spain,201608099,Group B,20169,mens-olympics
+4,Marcus Vinicius,21.0,5,9,0,1,0,0,2,5,1,0,0,0,3,10,brazil,2016-08-09,spain,201608099,Group B,20169,mens-olympics
+5,Alex Garcia,18.0,3,8,0,2,3,3,0,4,2,0,0,3,2,9,brazil,2016-08-09,spain,201608099,Group B,20169,mens-olympics
+6,Vitor Benite,16.0,1,3,1,2,1,2,0,1,0,2,0,1,2,4,brazil,2016-08-09,spain,201608099,Group B,20169,mens-olympics
+7,Cristiano Felicio,12.0,2,3,0,0,3,3,1,2,0,0,1,0,3,7,brazil,2016-08-09,spain,201608099,Group B,20169,mens-olympics
+8,Raul Neto,9.0,1,4,1,3,0,0,0,1,2,0,0,1,3,3,brazil,2016-08-09,spain,201608099,Group B,20169,mens-olympics
+9,Rafael Hettsheimeir,9.0,0,2,0,1,0,0,0,0,0,0,0,0,2,0,brazil,2016-08-09,spain,201608099,Group B,20169,mens-olympics
+10,Guilherme Giovannoni,9.0,1,2,1,1,0,0,0,2,1,0,0,1,3,3,brazil,2016-08-09,spain,201608099,Group B,20169,mens-olympics
+11,Totals,,23,60,4,15,16,21,7,33,19,3,1,10,31,66,brazil,2016-08-09,spain,201608099,Group B,20169,mens-olympics

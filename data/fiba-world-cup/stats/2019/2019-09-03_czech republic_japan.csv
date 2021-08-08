@@ -1,20 +1,20 @@
-,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
-0,Tomas Satoransky,35.0,5,13,1,4,4,5,1,6,7,3,0,1,2,15,czech republic,2019-09-03,japan,2019090327,First Round,201927
-1,Jaromir Bohacik,31.0,8,19,4,10,2,2,3,4,4,0,0,1,4,22,czech republic,2019-09-03,japan,2019090327,First Round,201927
-2,Ondrej Balvin,26.0,3,6,0,0,1,2,1,8,3,0,3,2,3,7,czech republic,2019-09-03,japan,2019090327,First Round,201927
-3,Blake Schilb,26.0,8,11,6,7,0,0,0,3,1,1,0,0,1,22,czech republic,2019-09-03,japan,2019090327,First Round,201927
-4,Vojtech Hruban,26.0,3,10,0,4,0,0,0,0,2,1,1,1,3,6,czech republic,2019-09-03,japan,2019090327,First Round,201927
-5,Pavel Pumprla,19.0,2,3,0,0,3,5,0,2,3,3,1,0,1,7,czech republic,2019-09-03,japan,2019090327,First Round,201927
-6,Martin Kriz,17.0,2,5,0,0,0,0,3,3,0,0,0,0,2,4,czech republic,2019-09-03,japan,2019090327,First Round,201927
-7,Patrik Auda,14.0,3,5,0,0,0,0,2,2,1,0,0,0,3,6,czech republic,2019-09-03,japan,2019090327,First Round,201927
-8,Martin Peterka,5.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,czech republic,2019-09-03,japan,2019090327,First Round,201927
-9,Totals,,34,72,11,25,10,14,10,29,21,8,5,5,19,89,czech republic,2019-09-03,japan,2019090327,First Round,201927
-0,Rui Hachimura,34.0,8,12,0,1,5,8,3,6,4,1,0,2,3,21,japan,2019-09-03,czech republic,2019090327,First Round,201927
-1,Yuta Watanabe,33.0,7,12,0,1,1,2,0,5,1,0,0,1,1,15,japan,2019-09-03,czech republic,2019090327,First Round,201927
-2,Nick Fazekas,28.0,5,7,1,1,1,4,2,10,1,0,0,4,5,12,japan,2019-09-03,czech republic,2019090327,First Round,201927
-3,Ryusei Shinoyama,24.0,3,5,1,3,0,0,0,1,4,1,0,1,4,7,japan,2019-09-03,czech republic,2019090327,First Round,201927
-4,Daiki Tanaka,23.0,3,10,1,4,0,0,0,0,0,0,0,0,0,7,japan,2019-09-03,czech republic,2019090327,First Round,201927
-5,Yudai Baba,22.0,1,4,0,0,0,2,0,3,3,1,0,1,3,2,japan,2019-09-03,czech republic,2019090327,First Round,201927
-6,Makoto Hiejima,17.0,4,5,1,2,1,2,0,1,1,1,0,3,0,10,japan,2019-09-03,czech republic,2019090327,First Round,201927
-7,Joji Takeuchi,17.0,1,3,0,1,0,0,0,2,1,0,0,0,1,2,japan,2019-09-03,czech republic,2019090327,First Round,201927
-8,Totals,,32,58,4,13,8,18,5,28,15,4,0,12,17,76,japan,2019-09-03,czech republic,2019090327,First Round,201927
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number,competition
+0,Tomas Satoransky,35.0,5,13,1,4,4,5,1,6,7,3,0,1,2,15,czech republic,2019-09-03,japan,2019090327,First Round,201927,fiba-world-cup
+1,Jaromir Bohacik,31.0,8,19,4,10,2,2,3,4,4,0,0,1,4,22,czech republic,2019-09-03,japan,2019090327,First Round,201927,fiba-world-cup
+2,Ondrej Balvin,26.0,3,6,0,0,1,2,1,8,3,0,3,2,3,7,czech republic,2019-09-03,japan,2019090327,First Round,201927,fiba-world-cup
+3,Blake Schilb,26.0,8,11,6,7,0,0,0,3,1,1,0,0,1,22,czech republic,2019-09-03,japan,2019090327,First Round,201927,fiba-world-cup
+4,Vojtech Hruban,26.0,3,10,0,4,0,0,0,0,2,1,1,1,3,6,czech republic,2019-09-03,japan,2019090327,First Round,201927,fiba-world-cup
+5,Pavel Pumprla,19.0,2,3,0,0,3,5,0,2,3,3,1,0,1,7,czech republic,2019-09-03,japan,2019090327,First Round,201927,fiba-world-cup
+6,Martin Kriz,17.0,2,5,0,0,0,0,3,3,0,0,0,0,2,4,czech republic,2019-09-03,japan,2019090327,First Round,201927,fiba-world-cup
+7,Patrik Auda,14.0,3,5,0,0,0,0,2,2,1,0,0,0,3,6,czech republic,2019-09-03,japan,2019090327,First Round,201927,fiba-world-cup
+8,Martin Peterka,5.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,czech republic,2019-09-03,japan,2019090327,First Round,201927,fiba-world-cup
+9,Totals,,34,72,11,25,10,14,10,29,21,8,5,5,19,89,czech republic,2019-09-03,japan,2019090327,First Round,201927,fiba-world-cup
+0,Rui Hachimura,34.0,8,12,0,1,5,8,3,6,4,1,0,2,3,21,japan,2019-09-03,czech republic,2019090327,First Round,201927,fiba-world-cup
+1,Yuta Watanabe,33.0,7,12,0,1,1,2,0,5,1,0,0,1,1,15,japan,2019-09-03,czech republic,2019090327,First Round,201927,fiba-world-cup
+2,Nick Fazekas,28.0,5,7,1,1,1,4,2,10,1,0,0,4,5,12,japan,2019-09-03,czech republic,2019090327,First Round,201927,fiba-world-cup
+3,Ryusei Shinoyama,24.0,3,5,1,3,0,0,0,1,4,1,0,1,4,7,japan,2019-09-03,czech republic,2019090327,First Round,201927,fiba-world-cup
+4,Daiki Tanaka,23.0,3,10,1,4,0,0,0,0,0,0,0,0,0,7,japan,2019-09-03,czech republic,2019090327,First Round,201927,fiba-world-cup
+5,Yudai Baba,22.0,1,4,0,0,0,2,0,3,3,1,0,1,3,2,japan,2019-09-03,czech republic,2019090327,First Round,201927,fiba-world-cup
+6,Makoto Hiejima,17.0,4,5,1,2,1,2,0,1,1,1,0,3,0,10,japan,2019-09-03,czech republic,2019090327,First Round,201927,fiba-world-cup
+7,Joji Takeuchi,17.0,1,3,0,1,0,0,0,2,1,0,0,0,1,2,japan,2019-09-03,czech republic,2019090327,First Round,201927,fiba-world-cup
+8,Totals,,32,58,4,13,8,18,5,28,15,4,0,12,17,76,japan,2019-09-03,czech republic,2019090327,First Round,201927,fiba-world-cup
