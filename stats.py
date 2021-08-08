@@ -8,10 +8,9 @@ from bs4 import BeautifulSoup
 from bs4 import Comment
 import os
 
-def olympic_boxscores(year):
-    dat = pd.read_csv(f'data/olympics/fixtures/{year}-olympic-fixtures.csv')
+def olympic_boxscores(competition, year):
+    dat = pd.read_csv(f'data/{competition}/fixtures/{year}-{competition}-fixtures.csv')
     dat.rename(columns={list(dat)[4]:'tournament_stage'}, inplace=True)
-    game_number = 1
     for i in range(len(dat)):
         dt = parse(dat['Date'][i])
         opp = dat['Opp'][i]
@@ -51,33 +50,22 @@ def olympic_boxscores(year):
         away['id'] = id
         home['tournament_stage'] = dat['tournament_stage'][i]
         away['tournament_stage'] = dat['tournament_stage'][i]
-        home_points = int(home.loc[home['Player'] == 'Totals']['PTS'])
-        away_points = int(away.loc[away['Player'] == 'Totals']['PTS'])
-
-        if home_points > away_points:
-            home['Result'] = "W"
-            away['Result'] = "L"
-        elif home_points == away_points:
-            home['Result'] = "D"
-            away['Result'] = "D"
-        else:
-            home['Result'] = "L"
-            away['Result'] = "L"
-
         both = [home, away]
         
-        
         complete = pd.concat(both)
-        path = os.path.join('data/olympics/stats/',year)
+        complete['game_number'] = f'{year}{i}'
+        path = f'data/{competition}/stats/{year}'
         if os.path.isdir(path):
             complete.to_csv(f'{path}/{dt}_{home_team}_{opp}.csv')
         else:
             os.mkdir(path)
             complete.to_csv(f'{path}/{dt}_{home_team}_{opp}.csv')
 
-years = ['2000','2004','2008','2012','2016']
-
+#years = ['2000','2004','2008','2012','2016']
+years = ['2010','2014','2019']
+# fiba-world-cup
+# mens-olympics
 for y in years:
-    olympic_boxscores(y)
+    olympic_boxscores("fiba-world-cup",y)
 
 

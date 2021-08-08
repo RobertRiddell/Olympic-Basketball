@@ -1,0 +1,27 @@
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
+0,Nikita Kurbanov,27.0,2,6,0,1,4,6,2,7,9,0,0,2,1,8,russia,2019-09-02,korea,2019090218,First Round,201918
+1,Mikhail Kulagin,25.0,3,9,1,3,4,4,0,2,4,2,0,1,3,11,russia,2019-09-02,korea,2019090218,First Round,201918
+2,Andrey Zubkov,25.0,4,8,1,2,2,2,1,4,1,0,3,1,2,11,russia,2019-09-02,korea,2019090218,First Round,201918
+3,Andrey Vorontsevich,23.0,6,12,1,5,0,0,1,7,4,0,0,0,0,13,russia,2019-09-02,korea,2019090218,First Round,201918
+4,Vitaly Fridzon,20.0,5,7,2,3,1,2,0,1,3,3,0,0,2,13,russia,2019-09-02,korea,2019090218,First Round,201918
+5,Sergey Karasev,19.0,3,7,1,3,2,3,0,1,2,1,0,1,2,9,russia,2019-09-02,korea,2019090218,First Round,201918
+6,Grigory Motovilov,17.0,2,4,1,3,2,4,0,0,2,0,0,2,4,7,russia,2019-09-02,korea,2019090218,First Round,201918
+7,Semen Antonov,15.0,3,6,0,0,0,0,3,6,0,1,1,1,1,6,russia,2019-09-02,korea,2019090218,First Round,201918
+8,Vladimir Ivlev,13.0,3,4,0,0,1,2,2,4,0,0,0,0,3,7,russia,2019-09-02,korea,2019090218,First Round,201918
+9,Evegeny Valiev,13.0,1,4,0,0,0,0,3,4,0,1,0,0,1,2,russia,2019-09-02,korea,2019090218,First Round,201918
+10,Evgeny Baburin,5.0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,russia,2019-09-02,korea,2019090218,First Round,201918
+11,Andrei Sopin,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,russia,2019-09-02,korea,2019090218,First Round,201918
+12,Totals,,32,67,7,20,16,23,12,36,26,8,4,8,21,87,russia,2019-09-02,korea,2019090218,First Round,201918
+0,Seounghyun Lee,37.0,4,8,1,2,0,0,2,4,2,0,1,3,1,9,korea,2019-09-02,russia,2019090218,First Round,201918
+1,Guna Ra,34.0,7,14,0,0,5,8,5,10,1,1,0,4,2,19,korea,2019-09-02,russia,2019090218,First Round,201918
+2,Daesung Lee,22.0,5,11,4,9,3,3,0,2,2,2,0,1,5,17,korea,2019-09-02,russia,2019090218,First Round,201918
+3,Sunhyung Kim,22.0,2,8,0,3,2,3,0,1,4,0,0,0,3,6,korea,2019-09-02,russia,2019090218,First Round,201918
+4,Junghyun Lee,20.0,2,7,2,5,1,2,0,3,5,0,0,2,3,7,korea,2019-09-02,russia,2019090218,First Round,201918
+5,Junyong Choi,15.0,1,3,0,2,0,0,1,3,1,0,0,1,2,2,korea,2019-09-02,russia,2019090218,First Round,201918
+6,Chan Hee Park,15.0,1,2,0,1,1,2,1,4,3,2,0,2,2,3,korea,2019-09-02,russia,2019090218,First Round,201918
+7,Hyogeun Jeong,15.0,1,3,0,2,2,2,0,2,0,1,1,1,2,4,korea,2019-09-02,russia,2019090218,First Round,201918
+8,Heejong Yang,9.0,0,1,0,1,0,0,0,2,0,1,0,0,3,0,korea,2019-09-02,russia,2019090218,First Round,201918
+9,Hoon Heo,4.0,1,1,0,0,1,2,0,0,0,0,0,0,0,3,korea,2019-09-02,russia,2019090218,First Round,201918
+10,Sangjae Kang,4.0,1,1,1,1,0,0,0,1,0,0,0,1,0,3,korea,2019-09-02,russia,2019090218,First Round,201918
+11,Johnkyu Kim,2.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,korea,2019-09-02,russia,2019090218,First Round,201918
+12,Totals,,25,59,8,26,15,22,9,32,19,7,2,15,23,73,korea,2019-09-02,russia,2019090218,First Round,201918

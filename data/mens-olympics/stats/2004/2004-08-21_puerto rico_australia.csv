@@ -1,0 +1,20 @@
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
+0,Daniel Santiago,35.0,7,12,0,0,6,12,1,4,0,1,1,2,1,20,puerto rico,2004-08-21,australia,2004082120,Group B,200420
+1,Carlos Arroyo,35.0,7,15,1,6,1,1,0,2,7,2,0,0,3,16,puerto rico,2004-08-21,australia,2004082120,Group B,200420
+2,Larry Ayuso,34.0,6,14,3,9,3,4,1,4,0,3,0,1,4,18,puerto rico,2004-08-21,australia,2004082120,Group B,200420
+3,Eddie Casiano,27.0,4,9,0,5,2,2,1,3,0,0,0,1,4,10,puerto rico,2004-08-21,australia,2004082120,Group B,200420
+4,Piculin Ortiz,21.0,3,5,1,1,0,0,1,6,2,0,0,1,2,7,puerto rico,2004-08-21,australia,2004082120,Group B,200420
+5,Rolando Hourruitiner,21.0,1,2,0,1,0,0,0,3,0,0,0,0,3,2,puerto rico,2004-08-21,australia,2004082120,Group B,200420
+6,Sharif Fajardo,19.0,3,6,0,1,5,6,2,4,0,1,0,0,3,11,puerto rico,2004-08-21,australia,2004082120,Group B,200420
+7,Bobby Joe Hatton,8.0,1,3,0,1,1,1,0,0,2,0,0,0,3,3,puerto rico,2004-08-21,australia,2004082120,Group B,200420
+8,Totals,,32,66,5,24,18,26,6,26,11,7,1,5,23,87,puerto rico,2004-08-21,australia,2004082120,Group B,200420
+0,Shane Heal,35.0,4,14,2,9,2,3,0,1,6,0,0,2,3,12,australia,2004-08-21,puerto rico,2004082120,Group B,200420
+1,Jason Smith,35.0,4,6,3,5,0,0,0,6,1,0,0,1,4,11,australia,2004-08-21,puerto rico,2004082120,Group B,200420
+2,Matt Nielsen,32.0,8,16,1,1,3,6,2,7,2,0,1,3,5,20,australia,2004-08-21,puerto rico,2004082120,Group B,200420
+3,Andrew Bogut,32.0,7,12,0,1,1,3,2,11,2,2,2,3,2,15,australia,2004-08-21,puerto rico,2004082120,Group B,200420
+4,Glen Saville,23.0,3,5,1,3,0,0,2,8,2,0,0,1,1,7,australia,2004-08-21,puerto rico,2004082120,Group B,200420
+5,C.J. Bruton,16.0,2,3,2,3,4,4,0,0,1,0,0,1,2,10,australia,2004-08-21,puerto rico,2004082120,Group B,200420
+6,David Andersen,16.0,3,5,0,0,1,2,3,7,0,0,0,2,5,7,australia,2004-08-21,puerto rico,2004082120,Group B,200420
+7,Brett Maher,11.0,0,4,0,2,0,0,0,0,0,0,0,0,0,0,australia,2004-08-21,puerto rico,2004082120,Group B,200420
+8,Paul Rogers,1.0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,australia,2004-08-21,puerto rico,2004082120,Group B,200420
+9,Totals,,31,65,9,24,11,18,9,40,14,2,3,14,25,82,australia,2004-08-21,puerto rico,2004082120,Group B,200420

@@ -5,8 +5,8 @@ import os
 import lxml.html as lh
 import pandas as pd
 
-def olympic_fixtures(year):
-    URL = (f"https://www.basketball-reference.com/international/mens-olympics/{year}-schedule.html#games")
+def olympic_fixtures(competition, year):
+    URL = f"https://www.basketball-reference.com/international/{competition}/{year}-schedule.html#games"
     res = requests.get(URL)
     
     # code from https://towardsdatascience.com/web-scraping-html-tables-with-python-c9baba21059
@@ -52,9 +52,21 @@ def olympic_fixtures(year):
 
     Dict={title:column for (title,column) in col}
     df=pd.DataFrame(Dict)
-    df.to_csv(f"data/fixtures/{year}-olympic-fixtures.csv")
 
-years = ['2000','2004','2008','2012','2016']
+    path = (f'data/{competition}/fixtures')
+    
+    if os.path.isdir(path):
+        df.to_csv(f'{path}/{year}-{competition}-fixtures.csv')
+    else:
+        os.mkdir(path)
+        df.to_csv(f'{path}/{year}-{competition}-fixtures.csv')
+
+
+    
+#years = ['2000','2004','2008','2012','2016']
+years = ['2010','2014','2019']
+#fiba-world-cup
+#mens-olympics
 
 for i in(years):
-   olympic_fixtures(i)
+   olympic_fixtures("fiba-world-cup",i)

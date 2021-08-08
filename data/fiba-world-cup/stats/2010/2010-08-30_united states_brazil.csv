@@ -1,0 +1,24 @@
+,Starter,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
+0,Kevin Durant,39,9,18,4,6,5,6,1,10,1,3,1,7,2,27,united states,2010-08-30,brazil,2010083025,Group Play,201025
+1,Derrick Rose,32,4,7,0,1,3,5,0,5,2,4,0,4,1,11,united states,2010-08-30,brazil,2010083025,Group Play,201025
+2,Chauncey Billups,31,5,12,1,7,4,4,0,1,3,1,0,2,3,15,united states,2010-08-30,brazil,2010083025,Group Play,201025
+3,Lamar Odom,30,4,10,0,0,0,0,1,9,1,1,0,4,3,8,united states,2010-08-30,brazil,2010083025,Group Play,201025
+4,Andre Iguodala,29,0,1,0,0,3,4,3,5,1,5,0,3,2,3,united states,2010-08-30,brazil,2010083025,Group Play,201025
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,united states,2010-08-30,brazil,2010083025,Group Play,201025
+6,Russell Westbrook,13,0,3,0,0,2,2,0,0,0,1,0,1,1,2,united states,2010-08-30,brazil,2010083025,Group Play,201025
+7,Rudy Gay,11,0,0,0,0,1,2,1,3,0,0,2,0,1,1,united states,2010-08-30,brazil,2010083025,Group Play,201025
+8,Kevin Love,5,1,2,1,1,0,0,1,1,0,0,0,1,0,3,united states,2010-08-30,brazil,2010083025,Group Play,201025
+9,Eric Gordon,5,0,2,0,2,0,0,0,0,0,0,0,0,0,0,united states,2010-08-30,brazil,2010083025,Group Play,201025
+10,Tyson Chandler,5,0,0,0,0,0,0,0,1,0,0,0,0,1,0,united states,2010-08-30,brazil,2010083025,Group Play,201025
+11,Totals,,23,55,6,17,18,23,7,35,8,15,3,22,14,70,united states,2010-08-30,brazil,2010083025,Group Play,201025
+0,Leandro Barbosa,36,5,18,3,13,1,2,0,4,4,4,0,3,4,14,brazil,2010-08-30,united states,2010083025,Group Play,201025
+1,Marcelo Huertas,33,3,9,0,2,2,4,0,4,5,1,0,4,4,8,brazil,2010-08-30,united states,2010083025,Group Play,201025
+2,Alex Garcia,32,2,7,1,2,0,0,2,5,1,2,0,0,3,5,brazil,2010-08-30,united states,2010083025,Group Play,201025
+3,Tiago Splitter,30,6,12,0,0,1,2,4,10,3,2,1,5,4,13,brazil,2010-08-30,united states,2010083025,Group Play,201025
+4,Marcus Vinicius,28,6,8,4,5,0,0,0,3,0,0,1,2,2,16,brazil,2010-08-30,united states,2010083025,Group Play,201025
+5,Reserves,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,brazil,2010-08-30,united states,2010083025,Group Play,201025
+6,Guilherme Giovannoni,19,2,5,1,4,0,0,1,1,1,0,0,0,1,5,brazil,2010-08-30,united states,2010083025,Group Play,201025
+7,Marcelinho Machado,13,3,3,1,1,0,0,0,1,0,1,0,5,1,7,brazil,2010-08-30,united states,2010083025,Group Play,201025
+8,JP Batista,6,0,1,0,0,0,0,1,1,0,1,0,1,0,0,brazil,2010-08-30,united states,2010083025,Group Play,201025
+9,Murilo Becker,4,0,1,0,1,0,0,0,1,1,0,0,0,0,0,brazil,2010-08-30,united states,2010083025,Group Play,201025
+10,Totals,,27,64,10,28,4,8,8,30,15,11,2,20,19,68,brazil,2010-08-30,united states,2010083025,Group Play,201025

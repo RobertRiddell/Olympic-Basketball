@@ -1,0 +1,26 @@
+,Player,MP,FG,FGA,3P,3PA,FT,FTA,ORB,TRB,AST,STL,BLK,TOV,PF,PTS,Country,Date,Opposition,id,tournament_stage,game_number
+0,Samad Nik Bahrami,39.0,8,15,4,7,3,4,1,3,3,1,1,6,2,23,iran,2008-08-14,australia,2008081414,Group A,200814
+1,Hamed Haddadi,37.0,5,10,0,0,5,5,2,8,2,0,3,2,3,15,iran,2008-08-14,australia,2008081414,Group A,200814
+2,Hamed Afagh,33.0,6,11,2,6,1,2,2,4,1,1,0,3,0,15,iran,2008-08-14,australia,2008081414,Group A,200814
+3,Hamed Sohrabnejad,23.0,4,6,2,3,0,0,1,3,0,3,0,2,2,10,iran,2008-08-14,australia,2008081414,Group A,200814
+4,Javad Davari,20.0,0,2,0,0,0,0,0,1,4,1,0,5,0,0,iran,2008-08-14,australia,2008081414,Group A,200814
+5,Oshin Sahakian,13.0,1,1,0,0,0,0,2,4,0,0,0,1,4,2,iran,2008-08-14,australia,2008081414,Group A,200814
+6,Mahdi Kamrany,12.0,0,2,0,2,0,0,0,0,1,0,0,3,1,0,iran,2008-08-14,australia,2008081414,Group A,200814
+7,Iman Zandi,9.0,1,4,1,3,0,0,0,0,1,0,0,4,0,3,iran,2008-08-14,australia,2008081414,Group A,200814
+8,Amir Amini,9.0,0,1,0,0,0,0,0,2,2,1,0,1,1,0,iran,2008-08-14,australia,2008081414,Group A,200814
+9,Ali Doraghi,3.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,iran,2008-08-14,australia,2008081414,Group A,200814
+10,Saeid Davarpanah,2.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,iran,2008-08-14,australia,2008081414,Group A,200814
+11,Totals,,25,53,9,21,9,11,8,25,14,7,4,28,13,68,iran,2008-08-14,australia,2008081414,Group A,200814
+0,Patty Mills,25.0,5,10,4,6,1,2,0,4,5,1,0,2,1,15,australia,2008-08-14,iran,2008081414,Group A,200814
+1,Brad Newley,23.0,10,15,3,7,1,1,2,4,1,2,0,1,1,24,australia,2008-08-14,iran,2008081414,Group A,200814
+2,C.J. Bruton,22.0,1,2,1,2,2,2,0,2,5,3,0,2,1,5,australia,2008-08-14,iran,2008081414,Group A,200814
+3,Andrew Bogut,17.0,5,9,0,0,0,0,4,7,0,1,0,1,0,10,australia,2008-08-14,iran,2008081414,Group A,200814
+4,Matt Nielsen,17.0,2,3,0,0,4,4,1,4,1,2,0,0,0,8,australia,2008-08-14,iran,2008081414,Group A,200814
+5,Mark Worthington,17.0,2,3,2,3,0,0,3,4,5,0,0,2,0,6,australia,2008-08-14,iran,2008081414,Group A,200814
+6,David Andersen,16.0,3,8,2,3,2,2,2,5,0,2,0,2,0,10,australia,2008-08-14,iran,2008081414,Group A,200814
+7,Chris Anstey,15.0,6,8,1,2,0,2,2,3,1,2,0,1,3,13,australia,2008-08-14,iran,2008081414,Group A,200814
+8,David Barlow,15.0,1,5,0,1,0,0,1,1,0,1,1,1,3,2,australia,2008-08-14,iran,2008081414,Group A,200814
+9,Joe Ingles,14.0,1,3,0,2,0,0,1,1,1,3,0,1,4,2,australia,2008-08-14,iran,2008081414,Group A,200814
+10,Shawn Redhage,12.0,4,9,0,1,1,2,2,2,0,1,0,0,1,9,australia,2008-08-14,iran,2008081414,Group A,200814
+11,Glen Saville,8.0,1,2,0,0,0,0,1,2,1,1,0,0,0,2,australia,2008-08-14,iran,2008081414,Group A,200814
+12,Totals,,41,77,13,27,11,15,19,39,20,19,1,13,14,106,australia,2008-08-14,iran,2008081414,Group A,200814
