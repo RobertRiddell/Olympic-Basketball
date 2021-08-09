@@ -19,28 +19,6 @@ source("funs/data_cleaner.R")
 ```{r}
 all_data <- read_csv("out/all_data.csv")
 game_total <- read_csv("out/game_total.csv")
-
-game_total <- game_total %>% 
-  mutate(tournament_stage = if_else(tournament_stage == "Group A" | 
-                                      tournament_stage == "Group B", "Group",
-                            if_else(tournament_stage == "Semi-Finals" |
-                                      tournament_stage == "Final Round", "Semifinals",
-                            if_else(tournament_stage == "Classification"|
-                                      tournament_stage == "Consolation",
-                                    "Consolations/ Classification",
-                            if_else(tournament_stage == "Round of 16" |
-                                      tournament_stage == "Placement", "Knockout Stage",
-                            if_else(tournament_stage == "First Round" | 
-                                      tournament_stage == "Second Round" |
-                                      tournament_stage == "Group Play", "Group",
-                            if_else(tournament_stage == "Quarter-Finals" | 
-                                      tournament_stage =="Quarterfinals", "Knockout Stage",
-                                    tournament_stage)))))))
-
-
-game_total <- game_total %>% 
-  mutate(ft_p = if_else(is.nan(ft_p), 0, ft_p))
-
 ```
 
 ```{r}
@@ -83,7 +61,7 @@ for (i in cat_vars){
 
 ```{r}
 num_vars <- training %>% 
-  select(mp:tov_p, -results) %>% 
+  select(mp:mean_PER, -results) %>% 
   colnames(.)
 
 gg_point <- function(y){
@@ -117,7 +95,7 @@ training <- training %>%
 
 ```{r}
 ordered_colnames <- training %>% 
-  select(is.numeric) %>% 
+  select(where(is.numeric)) %>% 
   correlate() %>% 
   focus(pts) %>% 
   mutate(pts = abs(pts)) %>% 

@@ -1,0 +1,37 @@
+Varaibles:
+url: https://www.basketball-reference.com/about/glossary.html#team
+year - The year the game was played
+id - Unique id of game played
+country - Country of team
+date - Date game played
+tournament_stage - Stage of the tournament
+game_number - Unique id of game played
+competition - World Cup or Olympics
+mp - Minutes played
+fg - Field goals made             
+fga - Field goals attempted            
+x3p - 3 pointers made            
+x3pa - 3 pointers attempted
+ft - Free throw made
+fta - Free throw attempted
+orb - Offensive rebounds
+trb - Total Rebounds
+ast - Assists
+stl - Steals     
+blk - Blocks      
+tov - Turnovers     
+pf - Personal fouls   
+pts - Points
+results -Result of game
+mov - Margin of Victory
+fg_p - Field goals percentage
+x3P_p - 3 point percentage
+ft_p - Free throw percentage
+tsa - True Shooting Attempts; the formula is fga + 0.44 * fta
+ts_p - True Shooting Percentage  
+efg_p - Effective Field Goal Percentage; the formula is (fg + 0.5 * 3P) / fga.
+tov_p - Turnover Percentage an estimate of turnovers per 100 plays    
+drb - Total defensive rebounds    
+poss - Posseions
+pace - Pace  
+mean_PER - Player Effciency Rating
