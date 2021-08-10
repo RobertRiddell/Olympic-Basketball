@@ -188,8 +188,7 @@ game_total <- game_total %>%
 game_total <- game_total %>% 
   mutate(tournament_stage = if_else(tournament_stage == "Group A" | 
                               tournament_stage == "Group B", "Group",
-                            if_else(tournament_stage == "Semi-Finals" |
-                              tournament_stage == "Final Round", "Semifinals",
+                            if_else(tournament_stage == "Semi-Finals" , "Semifinals",
                             if_else(tournament_stage == "Classification"|
                               tournament_stage == "Consolation",
                                                     "Consolations/ Classification",
@@ -201,6 +200,25 @@ game_total <- game_total %>%
                             if_else(tournament_stage == "Quarter-Finals" | 
                               tournament_stage =="Quarterfinals", "Knockout Stage",
                               tournament_stage)))))))
+
+game_total$tournament_stage[game_total$id == 2000092630] <- "Consolations/ Classification"
+game_total$tournament_stage[game_total$id == 2000092631] <- "Consolations/ Classification"
+game_total$tournament_stage[game_total$id == 2004082430] <- "Consolations/ Classification"
+game_total$tournament_stage[game_total$id == 2004082431] <- "Consolations/ Classification"
+game_total$tournament_stage[game_total$id == 2000093038] <- "Consolations/ Classification"
+game_total$tournament_stage[game_total$id == 2000093039] <- "Consolations/ Classification"
+game_total$tournament_stage[game_total$id == 2004082838] <- "Consolations/ Classification"
+game_total$tournament_stage[game_total$id == 2004082839] <- "Consolations/ Classification"
+
+
+game_total$tournament_stage[game_total$id == 2010091279] <- "Final Round"
+game_total$tournament_stage[game_total$id == 2010091278] <- "Final Round"
+
+game_total$tournament_stage[game_total$id == 2014091475] <- "Final Round"
+game_total$tournament_stage[game_total$id == 2014091374] <- "Final Round"
+
+game_total$tournament_stage[game_total$id == 2019091591] <- "Final Round"
+game_total$tournament_stage[game_total$id == 2019091590] <- "Final Round"
 
 
 game_total <- game_total %>% 
