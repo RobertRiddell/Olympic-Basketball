@@ -27,13 +27,16 @@ all_data <- janitor::clean_names(all_data)
 
 all_data$country[all_data$country == "great-britain"] <- "great britain"
 all_data$country[all_data$country == "united-states"] <- "united states"
+all_data$country[all_data$country == "czech-republic"] <- "czech republic"
+all_data$country[all_data$country == "dominican-republic"] <- "dominican republic"
+all_data$country[all_data$country == "ivory-coast"] <- "ivory coast"
+all_data$country[all_data$country == "new-zealand"] <- "new zealand"
+all_data$country[all_data$country == "puerto-rico	"] <- "puerto rico"
+
 all_data <- all_data %>% 
   mutate(across(mp:pts, as.numeric))
 
 all_data[is.na(all_data)] <- 0
-
-all_data
-# PER
 
 game_total <- all_data %>% 
   group_by(year, id, country, date, tournament_stage,game_number, competition) %>% 
