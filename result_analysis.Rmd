@@ -13,6 +13,8 @@ library(caret)
 
 ```{r}
 game_total <- read_csv("out/game_total.csv")
+game_total <- game_total %>% 
+  select(!c(id, date, game_number))
 ```
 
 ```{r}
@@ -95,6 +97,9 @@ mdl_logreg
 confusionMatrix(data = mdl_logreg,
                 reference = training$shot_result,
                 positive = "W")
+
+plot(varImp(mdl_logreg), top = 20)
+
 ```
 
 ```{r}

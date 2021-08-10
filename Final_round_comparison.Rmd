@@ -68,6 +68,9 @@ game_total %>%
 ```
 
 ```{r}
-
+game_total %>% 
+  filter(top4 == "top 4") %>% 
+  select(mean_PER, drb, ft_p, fta, fg_p, tsa, x3p, stl) %>% 
+  summarise(across(is.numeric, mean))
 ```
 

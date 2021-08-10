@@ -10,6 +10,7 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 library(tidyverse)
 library(corrr)
 library(caret)
+library(vip)
 ```
 
 ```{r eval=FALSE, include=FALSE}
@@ -152,9 +153,16 @@ lm_mdl <- train(pts ~ . , data =  training,
                 trControl = control_obj,
                 trace = F)
 
-broom::tidy(lm_mdl$finalModel, confint=T)
+broom::tidy(lm_mdl$finalModel, confinT)
 lm_mdl
 detach("package:MASS")
+plot(varImp(lm_mdl), top = 20)
+install.packages('vip')
+linmod <- lm(pts ~ ., data = training)
+backward <- step(linmod, direction = "backward", trace = 0)
+vi(linmod)
+varImp(lm_mdl)
+
 ```
 
 ```{r}
