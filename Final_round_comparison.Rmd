@@ -37,7 +37,37 @@ game_total %>%
   ggplot(aes(factor(year), mean_wr, fill = top4)) +
   geom_bar(stat = "identity", position = "dodge")
 
+gg_point <- function(y){
+  ggplot(game_total, aes(pts, .data[[y]], colour = top4)) +
+  geom_point() +
+    geom_text(x = max(game_total$pts) *.90, 
+              y = max(game_total[[y]]) *.90, 
+              aes(label = paste("R:",round(cor(game_total$pts, .data[[y]]),2))))
+}
 
+num_vars <- game_total %>% 
+  select(mp:mean_PER, -results) %>% 
+  colnames(.)
+
+for (i in num_vars){
+  print(gg_point(i))
+}
+
+game_total %>% 
+  group_by(competition,country, top4) %>% 
+  count() %>% 
+  arrange(desc(top4), competition, -n)
+
+game_total %>% 
+  group_by(country) %>% 
+  unique() %>% 
+  count() %>%  
+  arrange(-n) 
+
+
+```
+
+```{r}
 
 ```
 
