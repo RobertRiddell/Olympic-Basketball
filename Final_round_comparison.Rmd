@@ -1,0 +1,43 @@
+---
+title: "Final_round_comparison"
+author: "Robert Riddell"
+date: "10/08/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+```{r}
+game_total <- read_csv("out/game_total.csv")
+```
+
+```{r}
+game_total <- game_total %>% 
+  mutate(top4 = if_else(tournament_stage == "Final Round", "top 4", "not top 4"))
+
+ggplot(game_total, aes(factor(year), pts, fill = top4)) +
+  geom_boxplot()
+
+wins_ratio <- game_total %>% 
+  mutate(win = if_else(results == "W", 1, 0)) %>% 
+  group_by(year, country) %>% 
+  summarise(games = n(),
+            wins = sum(win)) %>% 
+  mutate(win_ratio = round(wins/games,2)*100) %>% 
+  ungroup()
+
+game_total <- left_join(game_total, wins_ratio)      
+
+game_total %>% 
+  group_by(year, top4) %>% 
+  summarise(mean_wr = mean(win_ratio)) %>% 
+  ggplot(aes(factor(year), mean_wr, fill = top4)) +
+  geom_bar(stat = "identity", position = "dodge")
+
+
+
+```
+
