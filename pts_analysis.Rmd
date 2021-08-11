@@ -23,18 +23,16 @@ game_total <- read_csv("out/game_total.csv")
 ```
 
 ```{r}
-training <- game_total %>%  
-  select(!country) %>% 
-  filter(year != 2019)
+inTrain <- createDataPartition(y = game_total$results, p = 0.7, list = F)
+training <-  game_total %>% 
+  slice(inTrain)
 
-testing <- game_total %>% 
-  select(!country) %>% 
-  filter(year == 2019)
+testing <-  game_total %>% 
+  slice(-inTrain)
 
 testing_countries <- game_total %>% 
-  filter(year == 2019) %>% 
+  slice(-inTrain) %>% 
   select(country)
-
 ```
 
 ```{r}
@@ -153,15 +151,14 @@ lm_mdl <- train(pts ~ . , data =  training,
                 trControl = control_obj,
                 trace = F)
 
-broom::tidy(lm_mdl$finalModel, confinT)
+broom::tidy(lm_mdl$finalModel)
 lm_mdl
 detach("package:MASS")
 plot(varImp(lm_mdl), top = 20)
-install.packages('vip')
+
 linmod <- lm(pts ~ ., data = training)
 backward <- step(linmod, direction = "backward", trace = 0)
 vi(linmod)
-varImp(lm_mdl)
 
 ```
 
@@ -232,8 +229,6 @@ RMSE(pred = testing$predictions,
 R2(pred = testing$predictions,
    obs = testing$pts)
 
-## The linear model returned an RMSE of ~36 and an R sqaured of ~13%
-## which indicates a poor perceratge of the new data explained by the model 
 
 ## plotting the predictions against the actual score margin from the testing data
 testing <- cbind(testing, testing_countries)
