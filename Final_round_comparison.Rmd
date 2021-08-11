@@ -15,8 +15,6 @@ game_total <- read_csv("out/game_total.csv")
 ```
 
 ```{r}
-game_total <- game_total %>% 
-  mutate(top4 = if_else(tournament_stage == "Final Round", "top 4", "not top 4"))
 
 ggplot(game_total, aes(factor(year), pts, fill = top4)) +
   geom_boxplot()

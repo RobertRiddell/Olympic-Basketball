@@ -227,6 +227,9 @@ game_total$tournament_stage[game_total$id == 2019091590] <- "Final Round"
 game_total <- game_total %>% 
   mutate(ft_p = if_else(is.nan(ft_p), 0, ft_p))
 
+game_total <- game_total %>% 
+  mutate(top4 = if_else(tournament_stage == "Final Round", "Finished in Top 4", "Did not Finish in top 4"))
+
 
 
 
