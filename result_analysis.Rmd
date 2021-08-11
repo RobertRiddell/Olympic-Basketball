@@ -12,13 +12,14 @@ library(caret)
 ```
 
 ```{r}
+# read in data and remove some non predictive variables
 game_total <- read_csv("out/game_total.csv")
 game_total <- game_total %>% 
   select(!c(id, date, game_number))
 ```
 
 ```{r}
-
+# split the data into training and testing
 inTrain <- createDataPartition(y = game_total$results, p = 0.7, list = F)
 training <-  game_total %>% 
   slice(inTrain)
@@ -28,21 +29,25 @@ testing <-  game_total %>%
 ```
 
 ```{r}
+# Function to create boxplots using the training data and the results variable
 gg_boxplot <- function(feature){
   ggplot(training, aes(results,.data[[feature]], fill = results))+
     geom_boxplot()
 }
 
+# Obtaining the numeric variables
 numeric_vars <- training %>% 
   select(where(is.numeric), -results) %>% 
   names(.)
 
+# for loop to create boxplots
 for (i in seq_along(numeric_vars)) {
   print(gg_boxplot(numeric_vars[i]))
 }
 ```
 
 ```{r}
+# function to create barplots with the fill being results
 gg_barplot <- function(feature){
   ggplot(training, aes(.data[[feature]], fill = results))+
     geom_bar(position = 'stack')+
@@ -60,21 +65,29 @@ for (i in char_vars) {
 ```
 
 ```{r}
+# Testing any varibales for near zero variance
 nearZeroVar(training, names = T)
 ```
 
 ```{r}
+# Obtaining correlation matrix to assess to multi colinearity
 cor_mat <- training %>% 
   select(where(is.numeric)) %>% 
   cor(., method = 'spearman')
 
+# Display the correlation matric
 GGally::ggcorr(cor_mat)
+
+# find the features that display multi colineraity
 cor_features <- findCorrelation(cor_mat, cutoff = 0.8, names = T, exact = FALSE)
+
+# Remove the variables that display multicolinearity
 training <- training %>% 
   select(-cor_features)
 ```
 
 ```{r}
+# Create a control obj to to perform repeated cross validation on all models
 control_obj <- trainControl(
   method = "repeatedcv",
   number = 10,
@@ -87,6 +100,7 @@ control_obj <- trainControl(
 ```
 
 ```{r}
+# Fit a logitsic regression model with the results variable as the target
 set.seed(345)
 mdl_logreg <- train(results ~.,
                     data = training,
@@ -94,8 +108,9 @@ mdl_logreg <- train(results ~.,
                     family = 'binomial',
                     trControl = control_obj)
 mdl_logreg
+# confusion matrix
 confusionMatrix(data = mdl_logreg,
-                reference = training$shot_result,
+                reference = training$results,
                 positive = "W")
 
 plot(varImp(mdl_logreg), top = 20)
@@ -103,8 +118,8 @@ plot(varImp(mdl_logreg), top = 20)
 ```
 
 ```{r}
+# Fit a decsion tree model with the results variable as the target
 set.seed(345)
-
 tree_mdl  <- train(results ~. , data = training ,
                    method = 'rpart',
                    tuneGrid = expand.grid(cp = seq(0.001,0.004,0.0001)),
@@ -112,19 +127,23 @@ tree_mdl  <- train(results ~. , data = training ,
                    metric = "ROC")
 
 tree_mdl
+# visualisation of the decsion tree
 plot(tree_mdl)
 rattle::fancyRpartPlot(tree_mdl$finalModel, sub = "", palettes = 'RdBu')
+
+# Variable importance of the decsion tree
 plot(varImp(tree_mdl), top =20)
 
+# confusion matrix
 confusionMatrix(data = tree_mdl,
-                reference = training$shot_result,
+                reference = training$results,
                 positive = "W")
 
 ```
 
 ```{r}
+# Fit a random forest model with the results variable as the target
 set.seed(345)
-
 rf_mdl  <- train(results ~. , data = training ,
                  method = 'ranger',
                  trControl = control_obj,
@@ -133,13 +152,15 @@ rf_mdl  <- train(results ~. , data = training ,
 
 rf_mdl
 plot(rf_mdl)
+# confusion matrix
 confusionMatrix(data = rf_mdl,
-                reference = training$shot_result,
+                reference = training$results,
                 positive = "W")
 
 ```
 
 ```{r}
+# Comparison of the models
 resamps <- resamples(list(tree = tree_mdl,
                           rf = rf_mdl,
                           logreg = mdl_logreg))
@@ -149,10 +170,12 @@ summary(resamps)
 ```
 
 ```{r}
+# Create predictions for the logistic regression model on the testing data
 predictions_logreg <- predict(mdl_logreg, newdata = testing, type = "raw")
 
 prob_logreg <- predict(mdl_logreg, newdata = testing, type = "prob")
 
+# Confusion Matrix for the log reg on the testing data
 confusionMatrix(data = predictions_logreg,
                 reference = factor(testing$results),
                 positive = "W")
@@ -164,6 +187,7 @@ prob_logreg <- prob_logreg %>%
   unlist() %>% 
   unname()
 
+# Create a visualisation to assess the AUC
 pROC::roc(response = result_binary,
           predictor = prob_logreg,
           ci = T,
