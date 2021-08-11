@@ -1,0 +1,13 @@
+name: Basketball_Exploratory_Data_Analysis
+title: Basketball_Exploratory_Data_Analysis
+username:
+account: sport-data-insights
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4477999
+bundleId: 4909456
+url: https://sport-data-insights.shinyapps.io/Basketball_Exploratory_Data_Analysis/
+when: 1628636468.11319
+lastSyncTime: 1628636468.11319
+asMultiple: FALSE
+asStatic: FALSE

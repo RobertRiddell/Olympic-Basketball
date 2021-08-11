@@ -2,7 +2,12 @@ library(shiny)
 library(shinydashboard)
 library(corrr)
 library(shinydashboardPlus)
-#game_total <- read_csv("out/game_total.csv")
+library(tidyverse)
+library(RColorBrewer)
+game_total <- read_csv("game_total.csv")
+
+pal <- brewer.pal(8, "Set1")
+
 
 colnames(game_total) <- str_to_title(colnames(game_total))
 game_total <- game_total  %>% 
@@ -33,21 +38,24 @@ game_total <- game_total  %>%
            "Turnover Percent" = Tov_p, 
            "Defensive Rebounds" = Drb,
            "Possessions" = Poss,
-           "Mean PER" = Mean_per)
+           "Mean PER" = Mean_per,
+           "Top 4 Teams" = Top4)
 scatter_vars <- game_total %>% 
-    select(!c(Id, Date, Game_number, Year, `Tournament Stage`, Competition, Result, Country)) %>% 
+    select(!c(Id, Date, Game_number, Year, `Tournament Stage`, 
+              Competition, Result, Country, `Top 4 Teams`)) %>% 
     colnames(.)
 
 boxplot_vars_x <- game_total %>% 
-    select(Year, `Tournament Stage`, Competition, Result) %>% 
+    select(Year, `Tournament Stage`, Competition, Result, `Top 4 Teams`) %>% 
     colnames(.)
 
 boxplot_vars_y <- game_total %>% 
-    select(!c(Id, Date, Game_number, Year, `Tournament Stage`, Competition, Result, Country)) %>% 
+    select(!c(Id, Date, Game_number, Year, `Tournament Stage`, 
+              Competition, Result, Country, `Top 4 Teams`)) %>% 
     colnames(.)
 
 group_var <- game_total %>% 
-    select(Year, `Tournament Stage`, Competition, Result) %>% 
+    select(Year, `Tournament Stage`, Competition, Result, `Top 4 Teams`) %>% 
     colnames(.)
 
 # Define UI for application that draws a histogram
@@ -125,7 +133,7 @@ server <- function(input, output) {
     output$scatterplot <- renderPlot({
         ggplot(game_total, aes(.data[[input$Xaxis_sp]], .data[[input$Yaxis_sp]], 
                                colour = factor(.data[[input$Group_sp]]))) +
-            geom_point() +
+            geom_point(size = 3, alpha = 0.5) +
             theme_minimal() +
             labs(title = paste(input$Xaxis_sp, "and", input$Yaxis_sp),
                  x = input$Xaxis_sp,
@@ -133,23 +141,25 @@ server <- function(input, output) {
                  colour = input$Group_sp) +
             theme(plot.title = element_text(hjust = .5, size = 16),
                   axis.title = element_text(size = 12),
-                  text = element_text(size = 12)) 
+                  text = element_text(size = 12)) +
+            scale_color_manual(values = pal)
 
     })
 
     
     output$boxplot <- renderPlot({
         ggplot(game_total, aes(factor(.data[[input$Xaxis_bp]]), .data[[input$Yaxis_bp]], 
-                               colour = factor(.data[[input$Group_bp]]))) +
+                               fill = factor(.data[[input$Group_bp]]))) +
             geom_boxplot() +
             theme_minimal() +
             labs(title = paste(input$Xaxis_bp, "and", input$Yaxis_bp),
                  x = input$Xaxis_bp,
                  y = input$Yaxis_bp,
-                 colour = input$Group_bp) +
+                 fill = input$Group_bp) +
             theme(plot.title = element_text(hjust = .5, size = 16),
                   axis.title = element_text(size = 12),
-                  text = element_text(size = 12)) 
+                  text = element_text(size = 12)) +
+            scale_fill_manual(values = pal)
         
     })
     
