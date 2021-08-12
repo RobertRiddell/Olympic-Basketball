@@ -11,6 +11,8 @@ library(tidyverse)
 ```
 
 ```{r}
+# this script is to do some eda on the differnce between teams in the top 4 vs the rest
+# outputs and analsyse have been used in the presentation in the docs/ folder.
 game_total <- read_csv("out/game_total.csv")
 ```
 
@@ -66,9 +68,90 @@ game_total %>%
 ```
 
 ```{r}
-game_total %>% 
-  filter(top4 == "top 4") %>% 
-  select(mean_PER, drb, ft_p, fta, fg_p, tsa, x3p, stl) %>% 
+
+vars <- c("fg", "fta", "ft_p","drb", "x3p","x3pa", "pf","stl","blk",
+          "tov","orb","mean_PER")
+
+imp_vars_mean <- game_total %>% 
+  filter(top4 == "Finished in the Top 4") %>% 
+  select(vars) %>% 
   summarise(across(is.numeric, mean))
+```
+
+```{r}
+top4_nottop4_mean_sd <- game_total %>% 
+  group_by(top4) %>% 
+  summarise(across(is.numeric, .fns = list(mean,sd))) %>% 
+  arrange(desc(top4))
+
+game_total %>% 
+  group_by(results, top4) %>% 
+  summarise(ave_mov = mean(pts))
+
+game_total %>% 
+  group_by(results) %>% 
+  summarise(ave_mov = mean(pts))
+
+
+```
+
+```{r}
+two_col_pal <- c("#6B6570","#ACE894")
+size_axis <- 20
+size_title <- 28
+t4_points_over_years <- ggplot(game_total, aes(factor(year), pts, fill = top4)) +
+  geom_boxplot() +
+  scale_fill_manual(values = two_col_pal) +
+  theme_classic() +
+  theme(text = element_text(size= size_axis),
+        plot.title = element_text(size = size_title, hjust = 0.5)) +
+  labs(title = "Point Distribution Over the Years",
+       x = "Year",
+       y = "Points",
+       fill = "Final Classification")
+
+ggsave("figs/t4_points_over_years.jpeg",  t4_points_over_years, device = "jpeg", width = 17)
+```
+
+```{r}
+# FTA fg_p trb
+pts_fta <- ggplot(game_total, aes(pts, fta, colour = top4)) +
+  geom_point(size = 3) +
+  scale_color_manual(values = two_col_pal) +
+  theme_classic() +
+  theme(text = element_text(size= size_axis),
+        plot.title = element_text(size = size_title, hjust = 0.5)) +
+  labs(title = "Points and Free Throw Attempts",
+       x = "Points",
+       y = "Free Throw Attempts",
+       colour = "Final Classification")
+
+pts_fgp <- ggplot(game_total, aes(pts, fg_p, colour = top4)) +
+  geom_point(size = 3) +
+  scale_color_manual(values = two_col_pal) +
+  theme_classic() +
+  theme(text = element_text(size= size_axis),
+        plot.title = element_text(size = size_title, hjust = 0.5)) +
+  labs(title = "Points and Free Throw Attempts",
+       x = "Points",
+       y = "Field Goal Percent",
+       colour = "Final Classification")
+
+pts_trb <- ggplot(game_total, aes(pts, trb, colour = top4)) +
+  geom_point(size = 3) +
+  scale_color_manual(values = two_col_pal) +
+  theme_classic() +
+  theme(text = element_text(size= size_axis),
+        plot.title = element_text(size = size_title, hjust = 0.5)) +
+  labs(title = "Points and Free Throw Attempts",
+       x = "Points",
+       y = "Total Rebounds",
+       colour = "Final Classification")
+
+ggsave("figs/pts_fta.jpeg",  pts_fta, device = "jpeg", width = 17)
+ggsave("figs/pts_fgp.jpeg",  pts_fgp, device = "jpeg", width = 17)
+ggsave("figs/pts_trb.jpeg",  pts_trb, device = "jpeg", width = 17)
+
+
 ```
 
