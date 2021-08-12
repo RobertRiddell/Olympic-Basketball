@@ -113,7 +113,7 @@ confusionMatrix(data = mdl_logreg,
                 reference = training$results,
                 positive = "W")
 
-plot(varImp(mdl_logreg), top = 20)
+plot(varImp(mdl_logreg), top = 10)
 
 ```
 

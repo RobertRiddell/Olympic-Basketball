@@ -18,11 +18,13 @@ source("funs/data_cleaner.R")
 ```
 
 ```{r}
+# read in data
 all_data <- read_csv("out/all_data.csv")
 game_total <- read_csv("out/game_total.csv")
 ```
 
 ```{r}
+# splitting data into training and testing groups
 inTrain <- createDataPartition(y = game_total$results, p = 0.7, list = F)
 training <-  game_total %>% 
   slice(inTrain)
@@ -36,6 +38,7 @@ testing_countries <- game_total %>%
 ```
 
 ```{r}
+# analysing the distribution of the points variable
 ggplot(training, aes(x = pts, y =..density..)) +
   geom_histogram(colour = 'violet', fill = 'violet', alpha = 0.8, binwidth = 10) +
   geom_density(fill = 'black', alpha = 0.3) +
@@ -44,8 +47,10 @@ ggplot(training, aes(x = pts, y =..density..)) +
 
 
 ```{r}
+# estbalishing what categorical variables to assess via a box plot
 cat_vars <- c("year", "tournament_stage", "competition", "results")
 
+# function and for loop to view the boxplot
 gg_box <- function(x){
   ggplot(game_total, aes(factor(.data[[x]]), pts)) +
   geom_boxplot()
@@ -59,10 +64,12 @@ for (i in cat_vars){
 
 
 ```{r}
+# extracting the numeric variables for the scatter plot to view the relationship
 num_vars <- training %>% 
   select(mp:mean_PER, -results) %>% 
   colnames(.)
 
+# Function and for loop to visualise all the scatterplots
 gg_point <- function(y){
   ggplot(training, aes(pts, .data[[y]])) +
   geom_point() +
@@ -78,6 +85,7 @@ for (i in num_vars){
 ```
 
 ```{r}
+# establish a correlation matrix
 cor_mat <- training %>% 
   select(where(is.numeric),-pts) %>% 
   cor(., method = 'spearman')
@@ -93,6 +101,7 @@ training <- training %>%
 ```
 
 ```{r}
+# find the correlation of all the varibles
 ordered_colnames <- training %>% 
   select(where(is.numeric)) %>% 
   correlate() %>% 
@@ -100,25 +109,28 @@ ordered_colnames <- training %>%
   mutate(pts = abs(pts)) %>% 
   arrange(pts)
 
+# Remove those that have a correlation of under 0.2
 low_cor <- ordered_colnames %>% 
   filter(pts < .2) %>% 
   pull(term) 
-
 training <- training %>% 
   select(!low_cor)
 ```
 
 
 ```{r}
+# Remove multi colinear variables
 training <- training %>% 
   select(!c(x3pa, x3P_p))
 
+# assess the corrlation matrix visually
 GGally::ggcorr(training, method = c('pairwise','spearman'), 
                size = 2 )
 
+# test for near zero variance
 nearZeroVar(training, names = T)
+# Test for skewness
 e1071::skewness(training$pts)
-
 Skewness <- training %>%
   select(where(is.numeric)) %>% 
   summarise(across(c(x3p:tsa),e1071::skewness)) %>% 
@@ -127,6 +139,8 @@ Skewness <- training %>%
 ```
 
 ```{r}
+# create some dummy objetcs that can be used in modelling
+# these are used to comvert categorical factors in numeric factors
 dummy_obj <- dummyVars(pts ~ . , data = training)
 training_withDummies <- predict(dummy_obj, newdata = training)
 training_withDummies <- bind_cols(training_withDummies, pts = training$pts)
@@ -136,6 +150,7 @@ names(training_withDummies) <- str_replace_all(string = names(training_withDummi
 ```
 
 ```{r}
+# establish a cross validation object
 control_obj <- trainControl(
   method = "repeatedcv",
   number = 10,
@@ -144,6 +159,7 @@ control_obj <- trainControl(
 ```
 
 ```{r}
+# perform the linear multiple regression model
 library(MASS)
 set.seed(1)
 lm_mdl <- train(pts ~ . , data =  training, 
@@ -154,7 +170,6 @@ lm_mdl <- train(pts ~ . , data =  training,
 broom::tidy(lm_mdl$finalModel)
 lm_mdl
 detach("package:MASS")
-plot(varImp(lm_mdl), top = 20)
 
 linmod <- lm(pts ~ ., data = training)
 backward <- step(linmod, direction = "backward", trace = 0)
@@ -163,28 +178,23 @@ vi(linmod)
 ```
 
 ```{r}
+# apply a decsion tree model to the testing data
 set.seed(1)
 colnames(training_withDummies) <- make.names(colnames(training_withDummies))
-## running the random forest variable using the training with dummy variable
 tree_mdl <- train(pts ~ . , data = training_withDummies,
                   method = 'rpart',
                   trControl = control_obj,
                   tuneGrid = expand.grid(cp = seq(0.001,0.015,0.001)))
-## the regression tree had an average RMSE of ~40 and was able to explain ~16% of the variation in the model  
+
 tree_mdl
-## it seems the complxity of the model improves the RMSE until the model hits around 0.006 after which the 
-### model becomes too complex and decreses the RMSE
 plot(tree_mdl)
-## we can see in the decsion tree model the ladder position and inside_50 numbers were a huge factor in deciding the data
 rattle::fancyRpartPlot(tree_mdl$finalModel, sub = "")
-## looking at the variable importance it seems that the ladder position and inside_50 are very important
-## other scoring metrics from previous weeks being less important
-## as we saw with the complexity plot the decsion tree improved after some level of complexity but including too many variables decresaed the RMSE
 plot(varImp(tree_mdl), top = 20)
 
 ```
 
 ```{r}
+# Random forest model
 set.seed(1)
 rf_mdl <- train(pts ~ ., data = training_withDummies,
                 method = 'rf',
@@ -196,6 +206,7 @@ plot(varImp(rf_mdl), top = 20)
 ```
 
 ```{r}
+# K nearest neighbour model
 set.seed(1)
 knn_mdl <-  train(pts~ ., data = training, method = "knn",
                   preProc = c('center', 'scale'),
@@ -207,19 +218,20 @@ knn_mdl
 ```
 
 ```{r}
+# Compare the model output
 resampls <- resamples(list(LM = lm_mdl,
                            TREE = tree_mdl,
                            RF = rf_mdl,
                            KNN = knn_mdl))
 ## displaying the model perfomance in order to select the best model
 gridExtra::grid.arrange(bwplot(resampls, metric = 'RMSE'),
-                        bwplot(resampls, metric = 'Rsquared'),
+                        bwplot(resampls, metric = 'R Squared'),
                         ncol = 2)
 
 ```
 
 ```{r}
-## using the linear model to predcit the score_margin in the testing
+## using the linear model to predcit the points scored in the testing
 testing <-  testing %>%
   mutate(predictions = predict(lm_mdl, newdata = testing))
 
@@ -230,13 +242,31 @@ R2(pred = testing$predictions,
    obs = testing$pts)
 
 
-## plotting the predictions against the actual score margin from the testing data
-testing <- cbind(testing, testing_countries)
+## plotting the predictions against the actual points from the testing data
+testing <- testing %>% 
+  mutate(resids = predictions - pts,
+         resids = abs(resids),
+         assign_label = if_else(resids >= 5, 1,0),
+         label = paste("Country:", country,"\n",
+                       "Actual Points:", round(pts), "\n",
+                       "Predicted Points:", round(predictions)))
+  
 
-plot <- ggplot(testing, aes(predictions, pts, label = country)) +
-  geom_point(colour = '#1111FF', alpha=0.7) +
-  geom_abline(colour = "red", linetype = "dashed") 
 
-plotly::ggplotly(plot)
+pts_analysis_pred_act <- ggplot(testing, aes(predictions, pts, label = label)) +
+  geom_point(colour = '#ACE894', alpha=0.7) +
+  geom_abline(colour = "pink", linetype = "dashed") +
+  theme_classic() +
+  theme(text = element_text(size= size_axis),
+        plot.title = element_text(size = size_title, hjust = 0.5)) +
+  labs(title = "Predicted Points vs Actual Points",
+       x = "Predicted Points",
+       y = "Actual Points",
+       fill = "Final Classification") +
+  ggrepel::geom_label_repel(aes(label = if_else(assign_label == 1, label, "")), size = 2.5)
+
+
+ggsave("figs/pts_analysis_pred_act.jpeg",  pts_analysis_pred_act, device = "jpeg", width = 15)
+
 ```
 

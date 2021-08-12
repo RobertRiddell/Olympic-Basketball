@@ -253,8 +253,16 @@ game_total <- game_total %>%
   mutate(ft_p = if_else(is.nan(ft_p), 0, ft_p))
 
 # adding a new variable to represent if the team reached the final 4 teams of the tournament
-game_total <- game_total %>% 
-  mutate(top4 = if_else(tournament_stage == "Final Round", "Finished in Top 4", "Did not Finish in top 4"))
+top4_by_year <- game_total %>% 
+  group_by(country, tournament_stage) %>% 
+  filter(tournament_stage == "Final Round") %>% 
+  ungroup %>% 
+  select(year, country) %>% 
+  mutate(top4 = "Finished in the Top 4")
+
+game_total <- left_join(game_total, top4_by_year)
+
+game_total$top4[is.na(game_total$top4)] <- "Did not finish in the Top 4"
 
 # write the data to the out folder
 write_csv(all_data, "out/all_data.csv")
