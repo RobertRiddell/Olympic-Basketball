@@ -1,6 +1,6 @@
 # Olympic-Basketball
 ## Overview
-This repository conatins the information and data to apply predictive algorithms to Men's FIBA World Cup and Olympic games from 2000 onwards. 
+This repository contains the information and data to apply predictive algorithms to Men's FIBA World Cup and Olympic games from 2000 onwards. 
 
 ## File Conetents and Description
 Basketball_Exploratory_Data_Analysis
