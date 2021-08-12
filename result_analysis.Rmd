@@ -84,6 +84,9 @@ cor_features <- findCorrelation(cor_mat, cutoff = 0.8, names = T, exact = FALSE)
 # Remove the variables that display multicolinearity
 training <- training %>% 
   select(-cor_features)
+
+training <- training %>% 
+  select(!c(tournament_stage, competition, top4))
 ```
 
 ```{r}
@@ -196,6 +199,34 @@ pROC::roc(response = result_binary,
           print.auc = T,
           print.thres = 0.5,
           asp = NA)
+
+```
+
+```{r}
+# Retraining the model to predict the results of the 2020 olympics matches 
+
+olympic_2020 <- read_csv("docs/2020_olympic_final_4.csv")
+
+olympic_2020 <- olympic_2020 %>% 
+  mutate(year = 2016) %>% 
+  rename(country = Country) %>% 
+  select(!Match)
+
+training2 <- game_total %>% 
+  select(colnames(olympic_2020), results)
+
+# Fit a logitsic regression model with the results variable as the target
+set.seed(345)
+mdl_logreg <- train(results ~.,
+                    data = training2,
+                    method = "glm",
+                    family = 'binomial',
+                    trControl = control_obj)
+
+olympic_2020 <- olympic_2020 %>% 
+  mutate(mean_PER = mean(game_total$mean_PER))
+
+predictions_logreg <- predict(mdl_logreg, newdata = olympic_2020, type = "raw")
 
 ```
 

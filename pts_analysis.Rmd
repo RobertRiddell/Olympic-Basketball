@@ -133,7 +133,7 @@ nearZeroVar(training, names = T)
 e1071::skewness(training$pts)
 Skewness <- training %>%
   select(where(is.numeric)) %>% 
-  summarise(across(c(x3p:tsa),e1071::skewness)) %>% 
+  summarise(across(c(x3p:mean_PER),e1071::skewness)) %>% 
   gather(Variable, Skewness) %>% 
   arrange(-Skewness)
 ```
@@ -267,6 +267,36 @@ pts_analysis_pred_act <- ggplot(testing, aes(predictions, pts, label = label)) +
 
 
 ggsave("figs/pts_analysis_pred_act.jpeg",  pts_analysis_pred_act, device = "jpeg", width = 15)
+
+```
+
+```{r}
+# Retraining the model to predict the results of the 2020 olympics matches 
+olympic_2020 <- read_csv("docs/2020_olympic_final_4.csv")
+
+olympic_2020 <- olympic_2020 %>% 
+  mutate(year = 2016) %>% 
+  rename(country = Country) %>% 
+  select(!Match)
+
+training2 <- game_total %>% 
+  select(colnames(olympic_2020), pts)
+
+library(MASS)
+set.seed(1)
+lm_mdl <- train(pts ~ . , data =  training2, 
+                method = 'lmStepAIC',
+                trControl = control_obj,
+                trace = F)
+
+broom::tidy(lm_mdl$finalModel)
+lm_mdl
+detach("package:MASS")
+
+olympic_2020 <- olympic_2020 %>% 
+  mutate(mean_PER = mean(game_total$mean_PER))
+
+predict(lm_mdl, newdata = olympic_2020)
 
 ```
 
