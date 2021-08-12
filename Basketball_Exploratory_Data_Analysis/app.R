@@ -4,7 +4,7 @@ library(corrr)
 library(shinydashboardPlus)
 library(tidyverse)
 library(RColorBrewer)
-game_total <- read_csv("game_total.csv")
+#game_total <- read_csv("game_total.csv")
 
 pal <- brewer.pal(8, "Set1")
 
@@ -41,8 +41,7 @@ game_total <- game_total  %>%
            "Mean PER" = Mean_per,
            "Top 4 Teams" = Top4)
 scatter_vars <- game_total %>% 
-    select(!c(Id, Date, Game_number, Year, `Tournament Stage`, 
-              Competition, Result, Country, `Top 4 Teams`)) %>% 
+    select(!c(Id, Date, Game_number, Year, `Tournament Stage`, Competition, Result, Country, `Top 4 Teams`)) %>% 
     colnames(.)
 
 boxplot_vars_x <- game_total %>% 
