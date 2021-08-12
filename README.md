@@ -26,6 +26,7 @@ out
 * all_data.csv: The complete player by player data set
 * game_total.csv: The cleaned and summarised data including the original statistics and some additional stats.
 
+root dir
 * clean.Rproj: project that all R scripts have been opened in
 * Final_round_comparison.Rmd: rmarkdown that contains some ad hoc analysis and graphs included in the Olympics Basketball.pptx
 * fixtures.py: Python script to scrape the fixture page for the World Cup and Olympics
