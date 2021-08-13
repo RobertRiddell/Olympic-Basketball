@@ -183,6 +183,7 @@ confusionMatrix(data = predictions_logreg,
                 reference = factor(testing$results),
                 positive = "W")
 
+
 result_binary <- if_else(testing$results == "W",1,0)
 
 prob_logreg <- prob_logreg %>% 

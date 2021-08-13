@@ -4,7 +4,7 @@ library(corrr)
 library(shinydashboardPlus)
 library(tidyverse)
 library(RColorBrewer)
-#game_total <- read_csv("game_total.csv")
+game_total <- read_csv("game_total.csv")
 
 pal <- brewer.pal(8, "Set1")
 
